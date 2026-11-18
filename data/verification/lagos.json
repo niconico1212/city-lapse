@@ -1,0 +1,88 @@
+{
+  "slug": "lagos",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1472: Awori Yoruba settlement on Lagos Island (Oko/Eko), in place when Portuguese traders reached the lagoon c. 1472",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Lagos",
+      "found": "'The Awori arrived by the 15th century' (Mann 2007, p. 24); 'The Portuguese began trading in the lagoon circa 1472 but bypassed the small island communities' (Mann 2007, p. 26); 'Portuguese explorer Rui de Sequeira visited the area in 1472'.",
+      "result": "confirmed",
+      "detail": "Year and description match the cited page; the file already marks the start as estimated."
+    },
+    {
+      "kind": "population",
+      "item": "population 11,000 in 1815 (estimated)",
+      "source_opened": "https://aps.journals.ac.za/pub/article/view/997/746 (PDF)",
+      "found": "Table 1: 'Pre-colonial (Lagos) 1815 11.000'.",
+      "result": "confirmed",
+      "detail": "Matches Table 1."
+    },
+    {
+      "kind": "population",
+      "item": "population 20,000 in 1855 (estimated)",
+      "source_opened": "https://aps.journals.ac.za/pub/article/view/997/746 (PDF)",
+      "found": "Table 1: 'Pre-colonial (Lagos) 1855 20.000'.",
+      "result": "confirmed",
+      "detail": "Matches Table 1."
+    },
+    {
+      "kind": "population",
+      "item": "population 33,000 in 1891 (documented)",
+      "source_opened": "https://aps.journals.ac.za/pub/article/view/997/746 (PDF)",
+      "found": "Table 1: 'Colonial (Lagos) 1891 33.000' (1881 is 37.000, 1901 is 42.000).",
+      "result": "confirmed",
+      "detail": "Matches Table 1; the rounding is already disclosed in the note."
+    },
+    {
+      "kind": "population",
+      "item": "population 98,303 in 1921 (documented)",
+      "source_opened": "https://books.openedition.org/ifra/828 (read through WebFetch; direct curl is blocked by a bot challenge)",
+      "found": "Chapter 1, para. 9: 'the population of Lagos rose steadily, to 98,303 in 1921', with 73,766 in 1911, 126,474 in 1931 and 230,256 in 1950; footnote cites Sada (1969) and NAI Comcol 1 739.",
+      "result": "confirmed",
+      "detail": "Number and year match Olukoju; the text does not restate the boundary for 1921."
+    },
+    {
+      "kind": "landmark",
+      "item": "Independence House: completed 1961, height 103 m, at 6.4469, 3.3989 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Independence_House ; https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Nigeria ; https://souvenirofamonument.wordpress.com/",
+      "found": "Wikipedia article: completion 1961, roof 103 m, 25 floors, coordinates 6°26'48.9\"N 3°23'56\"E (6.4469, 3.3989). Wikipedia list (citing SkyscraperPage 38507): 103 m, 23 floors, 1960. Nkanga, cited by the article: construction 'began in 1959 but was completed in 1961', '25 storeys high', '300-feet from the ground'. SkyscraperPage itself returned 403 and the Wayback copy could not be reached.",
+      "result": "flagged",
+      "detail": "Year and coordinates hold, but the 103 m height rests on a database page I could not open and the other source says 300 ft (about 91 m). Lowered confidence from documented to estimated and added a note giving both figures; height_m left at 103."
+    },
+    {
+      "kind": "landmark",
+      "item": "National Theatre (Wole Soyinka Centre), Iganmu: completed 1976, height 31 m, at 6.4764, 3.3694 (documented)",
+      "source_opened": "https://www.icirnigeria.org/heres-what-to-know-about-national-theatre-renamed-wole-soyinka-centre/ ; https://en.wikipedia.org/wiki/National_Theatre,_Nigeria (coordinates)",
+      "found": "ICIR: 'Originally completed in 1976'; 'spans approximately 23,000 square metres and rises to a height of over 31 metres'. Wikipedia coordinates 6°28'35\"N 3°22'10\"E (6.4764, 3.3694).",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Eko Champagne Pearl Tower (Eko Atlantic): completed 2017, height 103 m, at 6.4098, 3.412 (estimated)",
+      "source_opened": "https://www.skyscrapercenter.com/building/eko-champagne-pearl-tower/40872 ; https://en.wikipedia.org/wiki/Eko_Pearl_Towers",
+      "found": "CTBUH: completion 2017, height 103 m / 338 ft, 'this height is estimated, based on a floor count of 30 floors'. Wikipedia: coordinates 6.4098, 3.4120; Champagne Pearl 134 m, 30 floors.",
+      "result": "confirmed",
+      "detail": "Year, CTBUH height and coordinates match; the file already marks the height estimated and notes the 134 m figure on Wikipedia."
+    },
+    {
+      "kind": "milestone",
+      "item": "1898: Electric lighting switched on (19 September 1898, 60 kW, Marina from Government House to the north side of the island)",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Lagos",
+      "found": "'Electrification was implemented in Lagos on 19 September 1898 ... The total generation at that time was 60 kilowatts (kW). The power line supplied the Lagos marina from the Government House to the north side of the island' (citing Olukoju).",
+      "result": "confirmed",
+      "detail": "Date and details match the cited page."
+    },
+    {
+      "kind": "milestone",
+      "item": "1924: Bubonic plague and clearance of the island (1924-1931, 1,947 cases; swamps drained, residents resettled on the mainland)",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Lagos ; https://books.openedition.org/ifra/828 (through WebFetch)",
+      "found": "Wikipedia (Faleye 2019): 'The epidemic, which began in 1924 and lasted until 1931, was the cause of a total of 1,947 cases and 1,813 deaths'. Olukoju ch. 1: 'In response to the bubonic plagues of 1924-30, entire neighbourhoods were evacuated', 'swamps (such as at Oko Awo) were drained and people re-settled on the mainland'.",
+      "result": "confirmed",
+      "detail": "Year, case count and the clearance and resettlement are all supported; Olukoju gives the end year as 1930, Faleye as 1931."
+    }
+  ],
+  "summary": "Nine of 10 items matched their sources. The 103 m height of Independence House could not be traced to a source I could open and another source gives about 91 m, so its confidence was lowered to estimated with a note."
+}

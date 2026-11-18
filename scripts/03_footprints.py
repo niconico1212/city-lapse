@@ -51,11 +51,15 @@ from common import (CELL, CLIPS, DATA, GHSL_BUILT_S_CITATION, GHSL_EPOCHS, MOLLW
 TAU = 500  # m2 of built surface in a 100 m cell (5 %) for the cell to count as built-up
 
 # Era-typical density. Angel, Parent, Civco & Blei (2010), "The Persistent Decline in Urban
-# Densities: Global and Historical Evidence of Sprawl" (Lincoln Institute of Land Policy working
-# paper WP10SA1), report that built-up area densities in a global sample of 30 cities declined at
-# a mean rate of about 1.5 % a year from a peak around 1890 to 2000. We apply that rate backward
-# from 1975 to 1890 and hold density constant before 1890.
-DENSITY_DECLINE_PER_YEAR = 0.015
+# Densities: Global and Historical Evidence of 'Sprawl'" (Lincoln Institute of Land Policy working
+# paper WP10SA1), studied 30 cities from 1800 to 2000. They find densities peaked around 1890
+# (+/- 15 years) and then declined at "1.0-1.5 percent" a year: 1.53 % measured from each city's
+# own peak, 1.0 % for the sample average over 1900-2000, 1.27 % over 1950-2000. We apply the
+# middle of that range, 1.25 % a year, backward from 1975 to 1890.
+# Before 1890 we hold density constant. That is our simplification, not the paper's finding: it
+# reports no net change across the nineteenth century on average (with density rising toward the
+# peak in two thirds of cities) and has no data before 1800.
+DENSITY_DECLINE_PER_YEAR = 0.0125
 DENSITY_PEAK_YEAR = 1890
 DENSITY_CAP_PER_HA = 500.0  # persons per hectare of built-up cells; ceiling for whole-city density
 
@@ -273,7 +277,7 @@ def process(slug, cities_by_slug, un):
     recon_years = sorted({start, *[y for y in RECON_YEARS if start < y < 1975]})
     epochs_out = []
     method = ("1975 GHSL footprint contracted toward the historic core by least-cost distance; area scaled by "
-              "population and era-typical density (Angel et al. 2010). See docs/DATA_LOG.md.")
+              "population and era-typical density (after Angel et al. 2010). See docs/DATA_LOG.md.")
     for y in recon_years + GHSL_EPOCHS:
         real = y >= 1975
         m = built[GHSL_EPOCHS.index(y)] if real else (entry <= y)

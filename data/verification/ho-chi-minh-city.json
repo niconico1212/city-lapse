@@ -1,0 +1,88 @@
+{
+  "slug": "ho-chi-minh-city",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1623: Vietnamese settlement and customs post at the Khmer port of Prey Nokor",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Names_of_Ho_Chi_Minh_City&action=raw",
+      "found": "'In 1623, Khmer King Chey Chettha II (1618-1628) allowed the Vietnamese to settle in the area ... and to set up a custom house at Prey Nôkôr', cited to Vo, Dang & Ho (2008), The Women of Vietnam.",
+      "result": "confirmed",
+      "detail": "Year and event match the cited page; the book itself was not opened."
+    },
+    {
+      "kind": "population",
+      "item": "population 50,000 in 1850 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, figshare article 2059494)",
+      "found": "Row 'Ho Chi Minh' (other name Saigon): AD_1850 = 50000, AD_1859 = 50000.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file, as does the note about 1859."
+    },
+    {
+      "kind": "population",
+      "item": "population 249,381 in 1911 (documented)",
+      "source_opened": "https://espace.inrs.ca/id/eprint/9406/1/Inedit01-02.pdf",
+      "found": "Table 1, note 3: 'Évolution de la population de Hô Chi Minh-Ville (source : Viet Nam, NIURP, 1994; Lê Thi Huong, 2000) Agglomération : 249 381 (1911), 346 716 (1926), 495 781 (1939) ...'.",
+      "result": "confirmed",
+      "detail": "Number, year and area (agglomeration) match."
+    },
+    {
+      "kind": "population",
+      "item": "population 254,581 in 1919 (documented)",
+      "source_opened": "https://en.wikisource.org/w/index.php?title=Page:Statesman%27s_Year-Book_1921.djvu/927&action=raw",
+      "found": "'Saigon had, in 1919, a population of 64,496, of whom 4,161 were Europeans, exclusive of 2,200 troops; the town of Cholon has about 190,085 inhabitants'. 64,496 + 190,085 = 254,581.",
+      "result": "confirmed",
+      "detail": "The sum and its two components match the cited page; the data's note already states that it is a sum."
+    },
+    {
+      "kind": "population",
+      "item": "population 495,781 in 1939 (documented)",
+      "source_opened": "https://espace.inrs.ca/id/eprint/9406/1/Inedit01-02.pdf",
+      "found": "Same note: 'Agglomération : ... 495 781 (1939)'.",
+      "result": "confirmed",
+      "detail": "Number, year and area match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Notre-Dame Cathedral Basilica of Saigon: completed 1895, height 60.5 m, at 10.7797, 106.6992 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Notre-Dame_Cathedral_Basilica_of_Saigon&action=raw",
+      "found": "'In 1895, two bell towers were added to the cathedral, each 57.6 m high ... The total height of the cathedral to the top of the Cross is 60.5 m.' (Infobox gives 1880 for the cathedral itself.) Article coordinates 10.7797, 106.6992.",
+      "result": "confirmed",
+      "detail": "Height and the 1895 date for the towers match, as the data's note explains; coordinates equal the article's. OpenStreetMap search returned no result, so the position rests on the Wikipedia coordinate."
+    },
+    {
+      "kind": "landmark",
+      "item": "Phú Mỹ Bridge: completed 2009, height 145 m, at 10.745, 106.7445 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Ph%C3%BA_M%E1%BB%B9_Bridge&action=raw",
+      "found": "Infobox 'height = 145 m', 'open = 9 September 2009'; 'The modified H-shaped main towers, which are 145m high'. OpenStreetMap places the bridge deck about 70 m from the stored point.",
+      "result": "confirmed",
+      "detail": "Year, tower height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Vincom Landmark 81: completed 2018, height 461.2 m, at 10.795, 106.7219 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/vincom-landmark-81/18192",
+      "found": "Height 461.2 m (469.5 m to tip); construction start 2015, completed 2018. OpenStreetMap has the 'Tòa nhà Landmark 81' stop about 120 m from the stored point; English Wikipedia gives 10.795, 106.7219.",
+      "result": "confirmed",
+      "detail": "Year, architectural height and position match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1698: Nguyễn Hữu Cảnh establishes Vietnamese rule ... detaching it from Cambodia. This is the date Vietnam treats as the city's founding.",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Ho_Chi_Minh_City&action=raw",
+      "found": "'In 1698, Nguyễn Hữu Cảnh, a Vietnamese noble, was sent by the Nguyễn rulers of Huế by sea to establish Vietnamese administrative structures in the area, thus detaching the area from Cambodia'; infobox 'Founded 1698', founder Nguyễn Hữu Cảnh.",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1975: Fall of Saigon. The city was captured on 30 April 1975, ending the Vietnam War.",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Ho_Chi_Minh_City&action=raw",
+      "found": "'on 30 April 1975, Saigon was captured, ending the Vietnam War'.",
+      "result": "confirmed",
+      "detail": "Date and description match."
+    }
+  ],
+  "summary": "All 10 sampled items matched their cited sources (Chandler's file, the Ledent paper, the Statesman's Year-Book 1921, Wikipedia and CTBUH). Nothing was changed."
+}

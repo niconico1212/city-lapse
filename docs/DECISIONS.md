@@ -145,8 +145,12 @@ lists them separately. The polygon is split by weighted distance to the two cent
 city's share of the area equals its share of the UN's published land areas (4,542 and 1,459 km2).
 The boundary is ours, not an administrative one.
 
-**D20. Pre-1975 reconstruction parameters.** Density is assumed to decline 1.5 % a year from 1890
-to 1975 and to be flat before 1890 (Angel et al. 2010), capped at 500 people per built-up hectare.
+**D20. Pre-1975 reconstruction parameters.** Density is assumed to decline 1.25 % a year from
+1890 to 1975 and to be flat before 1890, capped at 500 people per built-up hectare. Angel et al.
+(2010) report a peak around 1890 and a decline of "1.0-1.5 percent" a year; the first build used
+1.5 %, and the phase 7 cross-check of the paper showed that is the top of the range, so it was
+moved to the middle. Holding density flat before 1890 is our simplification (the paper has no
+data before 1800).
 Ranking is by least-cost distance from the historic core with satellite seeds; see
 `docs/DATA_LOG.md`. No historical maps were used as anchors: nothing machine-readable and dated
 exists across 50 cities, and hand-georeferencing maps was out of scope for this build. This is the
@@ -190,3 +194,29 @@ are gold. New construction glows briefly while playing.
 **D29. Present-day geography on the base map.** OpenStreetMap coastlines, rivers and main roads
 are shown for every year, faintly. Land reclamation and river engineering are therefore
 anachronistic for early years; the About panel says so.
+
+**D30. Reduced detail on slow devices.** If the first seconds of playback average under about 12
+frames a second, the app keeps every ground patch (so the footprint still spreads exactly as in
+full detail) but extrudes only the 15,000 tallest buildings plus all landmarks. A tag in the
+stats panel says so and restores full detail on click; `?detail=low` or `?detail=full` in the URL
+forces either mode.
+
+## Verification (phase 7)
+
+**D31. Five independent verifiers plus one method checker.** Checking 500 figures against their
+sources is too much for one agent in one run, so the 50 cities were split across five fresh
+agents, none of which had produced any data. The 10 figures per city were drawn by a seeded
+script (`scripts/07_pick_checks.py`), not chosen by the verifiers. A sixth agent checked the
+density citation against the paper, compared our footprints with the Atlas of Urban Expansion,
+and sourced start-site coordinates for four cities. Results: `data/verification/`.
+
+**D32. Follow-ups made from the verification findings.**
+- The density decline rate was moved from 1.5 % to 1.25 % a year (see D20).
+- Seoul, Beijing, Shenzhen and Delhi got a `start_site` (the earliest settlement stood away from
+  the later historic core); the reconstruction opens there.
+- A verifier found CTBUH floor-count estimates stored as `documented`. A scripted sweep of all
+  320 CTBUH pages cited in the project found 10 such heights; the two still marked `documented`
+  were changed to `estimated` (`data/verification/_ctbuh_sweep.json`).
+- The Atlas comparison shows our 1990-2014 footprints growing far more slowly than the Atlas's
+  (median x1.29 against x2.52). GHSL's early epochs probably overstate built-up area. Nothing was
+  changed for this; it is recorded as a caveat in `docs/DATA_LOG.md` and the About panel.

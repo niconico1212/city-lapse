@@ -1,0 +1,88 @@
+{
+  "slug": "wuhan",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 223: Sun Quan builds the walled town of Xiakou on Snake Hill (Wuchang)",
+      "source_opened": "https://zh.wikipedia.org/wiki/武汉历史 ; https://en.wikipedia.org/wiki/Wuhan",
+      "found": "zh: '东吴孙权于223年在今武昌蛇山所筑的\"夏口城\"'. en: 'In AD 223, the Yellow Crane Tower ... was constructed on the Wuchang side of the Yangtze River by order of Sun Quan'.",
+      "result": "confirmed",
+      "detail": "Year and description match the cited pages."
+    },
+    {
+      "kind": "population",
+      "item": "population 75,000 in 1600 (estimated)",
+      "source_opened": "https://figshare.com/articles/Chandler_Population_Data/2059494 (chandlerV2.csv downloaded from figshare)",
+      "found": "Row 'Wuhan / Wuchang, China': AD_1600 = 75000.",
+      "result": "confirmed",
+      "detail": "Value and year match; the row is for Wuchang, as the note says."
+    },
+    {
+      "kind": "population",
+      "item": "population 136,000 in 1750 (estimated)",
+      "source_opened": "https://figshare.com/articles/Chandler_Population_Data/2059494 (chandlerV2.csv downloaded from figshare)",
+      "found": "Row 'Wuhan / Wuchang, China': AD_1750 = 136000.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 185,000 in 1850 (estimated)",
+      "source_opened": "https://figshare.com/articles/Chandler_Population_Data/2059494 (chandlerV2.csv downloaded from figshare)",
+      "found": "Row 'Wuhan / Wuchang, China': AD_1850 = 185000.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 310,000 in 1940 (estimated)",
+      "source_opened": "https://zh.wikipedia.org/wiki/武汉历史",
+      "found": "'到1940年，武汉人口锐减至31万多人' (to 1940 Wuhan's population fell sharply to a little over 310,000), cited to 皮明庥、郑自来 2011, pp. 98-100, 102.",
+      "result": "confirmed",
+      "detail": "Number and year match the cited page; the book itself was not opened, as the note already says."
+    },
+    {
+      "kind": "landmark",
+      "item": "Jianghan Customs House (Hankow Customs House): completed 1924, height 45.85 m, at 30.5786, 114.2918 (documented)",
+      "source_opened": "https://zh.wikipedia.org/wiki/江汉关大楼 ; OpenStreetMap (Nominatim)",
+      "found": "'大楼于1924年1月21日落成'; '主楼四层，高45.85米，钟楼五层，高23.1米，为武汉当时最高建筑'. OpenStreetMap: 江汉关大楼 at 30.5786, 114.2918.",
+      "result": "confirmed",
+      "detail": "Completion date, height as stated on the page, and coordinates all match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Wuhan Tower (Wuhan Center): completed 2019, height 443.13 m, at 30.5969, 114.2397 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/wuhan-tower/8823 ; https://en.wikipedia.org/wiki/Wuhan_Center ; OpenStreetMap (Nominatim)",
+      "found": "CTBUH: completion 2019, 443.1 m / 1,454 ft, 88 floors. Wikipedia: architectural 443.1 m. OpenStreetMap: 武汉中心 at 30.5966, 114.2397.",
+      "result": "confirmed",
+      "detail": "Year and height match (CTBUH displays 443.1 m); coordinates about 30 m from the OpenStreetMap building."
+    },
+    {
+      "kind": "landmark",
+      "item": "1 Corporate Avenue (Riverview Plaza A1): completed 2021, height 376 m, at 30.6108, 114.3036 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/1-corporate-avenue/9591 ; https://en.wikipedia.org/wiki/Riverview_Plaza ; OpenStreetMap (Nominatim)",
+      "found": "CTBUH: completion 2021, 376 m, 73 floors, Jiefang Avenue. Wikipedia: Riverview Plaza, also '1 Corporate Avenue, Wuhan Tiandi Corporate Center A1', 376 m, completed 2021 (no coordinates). OpenStreetMap maps the Wuhan Tiandi corporate centre at 30.6118, 114.3060.",
+      "result": "confirmed",
+      "detail": "Year and height match CTBUH. No page gives the tower its own coordinates; the point is about 250 m from the mapped Wuhan Tiandi corporate centre, on the Jiefang Avenue side, inside the 300 m tolerance."
+    },
+    {
+      "kind": "milestone",
+      "item": "223: Sun Quan walls Xiakou on Snake Hill (watchtower became the Yellow Crane Tower; earlier Queyue fort in Hanyang)",
+      "source_opened": "https://zh.wikipedia.org/wiki/武汉历史",
+      "found": "'东汉末年...黄祖在今汉阳月湖附近所建的\"却月城\"和东吴孙权于223年在今武昌蛇山所筑的\"夏口城\"。却月城是武汉市区内已知的最早城址。孙权筑夏口城时，在蛇山附近的城墙上修筑了一座瞭望塔，这便是后来举世闻名的黄鹤楼'.",
+      "result": "confirmed",
+      "detail": "Year and every element of the description are on the cited page."
+    },
+    {
+      "kind": "milestone",
+      "item": "1957: First Yangtze River Bridge opens (1,670 m, 15 October 1957)",
+      "source_opened": "https://en.wikipedia.org/wiki/Wuhan_Yangtze_River_Bridge",
+      "found": "Infobox: length 1670 m, complete September 1957, open 15 October 1957; 'from Turtle Hill in Hanyang ... to Snake Hill in Wuchang'; lower deck carries the Beijing-Guangzhou railway; 'The Beijing-Wuhan railway line went into full service in 1906, followed in 1936 by the Wuhan-Guangzhou railway line'.",
+      "result": "confirmed",
+      "detail": "Length, date and description match the cited page."
+    }
+  ],
+  "summary": "All 10 sampled items matched the cited sources (Chandler file, CTBUH, Chinese and English Wikipedia). Nothing was changed."
+}

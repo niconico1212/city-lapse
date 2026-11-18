@@ -509,8 +509,8 @@
       "lon": 80.2452,
       "kind": "skyscraper",
       "source": "https://en.wikipedia.org/wiki/World_Trade_Center,_Chennai (citing the Chennai Metropolitan Development Authority approved plan)",
-      "confidence": "documented",
-      "note": "Not listed by the CTBUH Skyscraper Center."
+      "confidence": "estimated",
+      "note": "Not listed by the CTBUH Skyscraper Center. Flagged at verification: Wikipedia gives 122 m as the antenna/spire height of Tower 1 and 106 m to the roof, and the planning document it cites could not be opened, so the height is marked estimated. The same article says the centre was made operational in March 2020 but also that it became officially functional in September 2021."
     }
   ],
   "footprint_epochs": "footprints/chennai/",

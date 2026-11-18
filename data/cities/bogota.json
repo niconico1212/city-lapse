@@ -400,13 +400,14 @@
     },
     {
       "name": "Edificio Colseguros",
-      "year": 1971,
+      "year": 1974,
       "height_m": 140,
-      "lat": 4.6038,
-      "lon": -74.0723,
+      "lat": 4.6054,
+      "lon": -74.0742,
       "kind": "skyscraper",
-      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/edificio-colseguros/4333",
-      "confidence": "documented"
+      "source": "Height: CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/edificio-colseguros/4333 ; year and address: Instituto Distrital de Patrimonio Cultural, SISBIC heritage record 003109002002 'Edificio Colseguros', https://sisbic.idpc.gov.co/Fichas_606%5CFicha__003109002002.pdf ; position from OpenStreetMap ('Centro Colseguros', Carrera 10)",
+      "confidence": "documented",
+      "note": "Verification (2026-11-18): year changed from 1971 to 1974 and position moved about 270 m west. Bogotá's heritage inventory (IDPC) records the tower at Calle 17 No. 9-82, fronting Carrera 10 between Calles 17 and 18, built in 1974; Spanish Wikipedia also gives 1974. CTBUH lists completion as 1971 and the address as 'Cra. 7 #17', and the earlier coordinates fell on a different, lower Colseguros building on Carrera 7. Height is CTBUH's 140 m (36 floors); Spanish Wikipedia, citing Emporis, gives 145 m, and the heritage record counts 39 floors."
     },
     {
       "name": "Centro de Comercio Internacional",
@@ -426,7 +427,8 @@
       "lon": -74.0702,
       "kind": "skyscraper",
       "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-colpatria/1918",
-      "confidence": "documented"
+      "confidence": "documented",
+      "note": "Verification (2026-11-18): CTBUH gives completion as 1979 (used here). La FM (https://www.lafm.com.co/bogota/curiosidades-de-la-torre-colpatria-emblema-de-bogota-que-cumple-40-anos) says construction ran from 1973 to 1978, Spanish Wikipedia dates the inauguration to 24 October 1978, and English Wikipedia says built 1973-1978 and opened in 1979."
     },
     {
       "name": "Ciudadela San Martín Torre Norte",

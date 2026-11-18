@@ -1,0 +1,88 @@
+{
+  "slug": "buenos-aires",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1536: First founding of Buenos Aires by Pedro de Mendoza",
+      "source_opened": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires",
+      "found": "'realiza la primera fundación de lo que Mendoza llamó Puerto de Nuestra Señora Santa María del Buen Aire, lo cual ocurrió el 2 de febrero de 1536 (o 3 de febrero según otros historiadores)'.",
+      "result": "confirmed",
+      "detail": "Year and event match the cited page."
+    },
+    {
+      "kind": "population",
+      "item": "population 5,000 in 1700 (estimated)",
+      "source_opened": "https://scielo.org.mx/pdf/pp/v12n49/v12n49a9.pdf",
+      "found": "Cuesta (2006): 'desde aproximadamente 5 000 habitantes a principios del siglo XVIII (Besio, 1939), la ciudad alojaba a más de 40 000 almas un siglo después'; conclusion: 'la ciudad tenía cerca de 5 000 habitantes hacia 1700'.",
+      "result": "confirmed",
+      "detail": "Figure and date match the paper; the lower Chandler value is already disclosed in the note."
+    },
+    {
+      "kind": "population",
+      "item": "population 65,344 in 1838 (estimated)",
+      "source_opened": "https://doi.org/10.6084/m9.figshare.2059494 (chandlerV2.csv downloaded from figshare)",
+      "found": "Row 'Buenos Aires, Argentina': AD_1838 = 65344.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 92,709 in 1855 (documented)",
+      "source_opened": "https://www.estadisticaciudad.gob.ar/eyc/wp-content/uploads/2025/10/ir_2025_1984.pdf",
+      "found": "Cuadro C.1, Ciudad de Buenos Aires 1855-2022: 1855 = 92.709; footnote says the 1855, 1887, 1904, 1909 and 1936 censuses were city censuses.",
+      "result": "confirmed",
+      "detail": "Exact match for the city proper."
+    },
+    {
+      "kind": "population",
+      "item": "population 2,415,142 in 1936 (documented)",
+      "source_opened": "https://www.estadisticaciudad.gob.ar/eyc/wp-content/uploads/2025/10/ir_2025_1984.pdf",
+      "found": "Cuadro C.1: 1936 = 2.415.142 (city census).",
+      "result": "confirmed",
+      "detail": "Exact match for the city proper."
+    },
+    {
+      "kind": "landmark",
+      "item": "Obelisco de Buenos Aires: completed 1936, height 67.5 m, at -34.6036, -58.3817 (documented)",
+      "source_opened": "https://es.wikipedia.org/wiki/Obelisco_de_Buenos_Aires ; https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires (coordinates)",
+      "found": "es: 'Fue construido en 1936'; built 20 March to 23 May 1936; 'Su altura es de 67,5 m'. en: coordinates 34°36'13\"S 58°22'54\"W (-34.6036, -58.3817).",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match. (The English infobox shows 71.5 m while its own text says 67.5 m.)"
+    },
+    {
+      "kind": "landmark",
+      "item": "Torre Espacial: completed 1985, height 200 m, at -34.6725, -58.4497 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Torre_Espacial ; https://es.wikipedia.org/wiki/Torre_Espacial ; https://buenosaires.gob.ar/el-parque/mirador-de-la-torre-espacial",
+      "found": "en: 200 m 'not including antenna', completed May 1981, inaugurated 9 July 1985, coordinates 34°40'21\"S 58°26'59\"W. es: '208 m de estructura y 20 m de antena. 228 m totales', built 1980-1982, opened 9 July 1985. City government page: 'La Torre tiene 208 metros'; 'inaugurada el 9 de julio de 1985'.",
+      "result": "corrected",
+      "detail": "Changed height_m from 200 to 208 (city government page and Spanish Wikipedia agree on 208 m for the structure; 200 m is only on English Wikipedia), put the city page first in source, and added a note that 1985 is the opening year while the structure was erected in 1980-1982. Year and coordinates left as they were."
+    },
+    {
+      "kind": "landmark",
+      "item": "Torre Le Parc: completed 1996, height 157.9 m, at -34.5751, -58.4214 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/torre-le-parc/3449 ; https://en.wikipedia.org/wiki/Le_Parc_Tower ; https://es.wikipedia.org/wiki/Torre_Le_Parc",
+      "found": "CTBUH: completion 1996, 157.9 m, 51 floors. English Wikipedia: developed 1991-1995, 'completion in 1995', coordinates 34°34'30.6\"S 58°25'17.2\"W (-34.5752, -58.4214). Spanish Wikipedia: built 1989-1994, 'inaugurada en 1994', 158 m.",
+      "result": "flagged",
+      "detail": "Height and coordinates match, but the completion year is 1996 (CTBUH), 1995 (English Wikipedia) or 1994 (Spanish Wikipedia) and I could not settle it. Kept 1996 and confidence documented because the cited CTBUH record says so; added a note listing the three dates."
+    },
+    {
+      "kind": "milestone",
+      "item": "1857: First railway in Argentina (29 August 1857, Estación del Parque to La Floresta)",
+      "source_opened": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires",
+      "found": "'El 29 de agosto de 1857 partió el primer tren argentino desde la Estación del Parque, ubicada en las cercanías de la actual Plaza Lavalle, hasta la estación La Floresta'.",
+      "result": "confirmed",
+      "detail": "Date and description match the cited page."
+    },
+    {
+      "kind": "milestone",
+      "item": "1880: Federalisation of Buenos Aires",
+      "source_opened": "https://en.wikipedia.org/wiki/Buenos_Aires",
+      "found": "'In 1880, after the Argentine Civil War, Buenos Aires was federalized and split from Buenos Aires Province.'",
+      "result": "confirmed",
+      "detail": "Year and description match the cited page."
+    }
+  ],
+  "summary": "Eight of 10 items matched their sources, including the city statistics office table for 1855 and 1936. Torre Espacial was corrected from 200 m to 208 m, and the completion year of Torre Le Parc was flagged because CTBUH and the two Wikipedias give 1996, 1995 and 1994."
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "guangzhou",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year -214: Panyu founded as seat of the Qin empire's Nanhai Commandery",
+      "source_opened": "https://en.wikipedia.org/wiki/Guangzhou",
+      "found": "'Guangzhou, then known as Panyu, was founded on the eastern bank of the Pearl River in 214 BC' (EB 1878, p. 37); 'Panyu was the seat of Qin Empire's Nanhai Commandery'. Infobox: established 214 BC.",
+      "result": "confirmed",
+      "detail": "Year and description match the cited page."
+    },
+    {
+      "kind": "population",
+      "item": "population 200,000 in 800 (estimated)",
+      "source_opened": "https://doi.org/10.6084/m9.figshare.2059497 (modelskiAncientV2.csv downloaded from figshare)",
+      "found": "Row 'Guangzhou / Canton, China': AD_700 = 200000, AD_800 = 200000.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Modelski file."
+    },
+    {
+      "kind": "population",
+      "item": "population 40,000 in 1000 (estimated)",
+      "source_opened": "https://doi.org/10.6084/m9.figshare.2059494 (chandlerV2.csv, the Chandler file of Reba, Reitsma & Seto 2016, downloaded from figshare)",
+      "found": "Row 'Guangzhou / Canton, China': AD_1000 = 40000.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 110,000 in 1200 (estimated)",
+      "source_opened": "https://doi.org/10.6084/m9.figshare.2059494 (chandlerV2.csv, the Chandler file of Reba, Reitsma & Seto 2016, downloaded from figshare)",
+      "found": "Row 'Guangzhou / Canton, China': AD_1200 = 110000.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 150,000 in 1300 (estimated)",
+      "source_opened": "https://doi.org/10.6084/m9.figshare.2059494 (chandlerV2.csv, the Chandler file of Reba, Reitsma & Seto 2016, downloaded from figshare)",
+      "found": "Row 'Guangzhou / Canton, China': AD_1300 = 150000.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "landmark",
+      "item": "Huaisheng Mosque minaret (Guangta): completed 627, height 36 m, at 23.126, 113.2537 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/Huaisheng_Mosque",
+      "found": "Infobox: completed 'Disputed: c. 627 CE; or Tang or Song dynasties'; minaret height 36 m; coordinates 23°7'31\"N 113°15'13\"E (23.1253, 113.2536). Text: 'The minaret measures 36 metres in height'.",
+      "result": "confirmed",
+      "detail": "Height matches; the 627 date is the traditional one and the file already marks it estimated with a note on the dispute; coordinates are about 80 m from the Wikipedia position."
+    },
+    {
+      "kind": "landmark",
+      "item": "Guangzhou TV Tower: completed 1991, height 217 m, at 23.1472, 113.2631 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Guangzhou_TV_Tower",
+      "found": "Infobox: completion_date 1991; antenna spire 217 m (roof 160 m); coordinates 23.1472, 113.2630.",
+      "result": "confirmed",
+      "detail": "Year, height (to antenna tip) and coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "CITIC Plaza: completed 1996, height 390.2 m, at 23.1443, 113.3195 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/citic-plaza/242 ; https://en.wikipedia.org/wiki/CITIC_Plaza (coordinates)",
+      "found": "CTBUH: completion 1996, height 390.2 m, 80 floors, 233 Tianhe North Road. Wikipedia coordinates 23°08'40\"N 113°19'10\"E (23.1444, 113.3194).",
+      "result": "confirmed",
+      "detail": "Year and height match CTBUH; coordinates within about 20 m of the Wikipedia position."
+    },
+    {
+      "kind": "milestone",
+      "item": "758: Port sacked by Arab and Persian raiders (30 October 758, during the An Lushan Rebellion)",
+      "source_opened": "https://en.wikipedia.org/wiki/Guangzhou",
+      "found": "'while China was undergoing the An Lushan Rebellion, Arab and Persian pirates sacked the city on October 30, 758'.",
+      "result": "confirmed",
+      "detail": "Date and description match the cited page."
+    },
+    {
+      "kind": "milestone",
+      "item": "1949: People's Liberation Army enters Guangzhou (captured 14 October 1949; Haizhu Bridge blown up)",
+      "source_opened": "https://en.wikipedia.org/wiki/Guangzhou",
+      "found": "'Guangzhou briefly served as the capital of the Republican government. Guangzhou was captured on October 14, 1949 ... defeated Nationalist forces blew up the Haizhu Bridge across the Pearl River in retreat.'",
+      "result": "confirmed",
+      "detail": "Date and description match the cited page."
+    }
+  ],
+  "summary": "All 10 sampled items matched the cited sources (Chandler and Modelski files, CTBUH, and the cited Wikipedia pages). Nothing was changed."
+}

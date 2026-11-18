@@ -1,0 +1,88 @@
+{
+  "slug": "london",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 47: Roman Londinium founded (earliest securely dated structure: a timber drain of 47 CE)",
+      "source_opened": "https://en.wikipedia.org/wiki/Londinium",
+      "found": "'originally a settlement established shortly after the Claudian invasion ... around 47-50 AD' (Hingley 2018; Hill & Rowsome 2011; Wallace 2015); 'Its earliest securely dated structure is a timber drain of 47 AD' (Number 1 Poultry, MOLA, Archaeology Data Service); older view: 43 AD.",
+      "result": "confirmed",
+      "detail": "Year and description match the cited page."
+    },
+    {
+      "kind": "population",
+      "item": "population 1,011,157 in 1801 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Demographics_of_London (where 'Demography of London' now redirects). The Vision of Britain page itself could not be opened: TLS certificate error with curl, HTTP 503 with WebFetch, and web.archive.org was unreachable.",
+      "found": "Table 'London population over time' (citing Vision of Britain, GB Historical GIS), for 'the current area of Greater London': 1801 Inner 879,491, Outer 131,666, Greater London 1,011,157.",
+      "result": "confirmed",
+      "detail": "Number, year and area match the Wikipedia table that reproduces the cited source; the primary page was not reachable."
+    },
+    {
+      "kind": "population",
+      "item": "population 5,565,856 in 1891 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Demographics_of_London (where 'Demography of London' now redirects). The Vision of Britain page itself could not be opened: TLS certificate error with curl, HTTP 503 with WebFetch, and web.archive.org was unreachable.",
+      "found": "Same table: 1891 Inner 4,422,340, Outer 1,143,516, Greater London 5,565,856.",
+      "result": "confirmed",
+      "detail": "Matches the table reproducing the cited source. (Wikipedia's History of London table gives 5,572,012 for 1891 from a different compilation; the file follows the Vision of Britain series consistently.)"
+    },
+    {
+      "kind": "population",
+      "item": "population 7,553,526 in 1921 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Demographics_of_London (where 'Demography of London' now redirects). The Vision of Britain page itself could not be opened: TLS certificate error with curl, HTTP 503 with WebFetch, and web.archive.org was unreachable.",
+      "found": "Same table: 1921 Inner 4,936,803, Outer 2,616,723, Greater London 7,553,526.",
+      "result": "confirmed",
+      "detail": "Matches the table reproducing the cited source. (History of London's table has 7,386,848 for 1921 from a different compilation.)"
+    },
+    {
+      "kind": "population",
+      "item": "population 8,615,245 in 1939 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_London#Population ; GLA Intelligence, 'Population Growth in London, 1939-2015', https://data.london.gov.uk/download/population-change-1939-2015/0a026346-960e-49e6-b968-a386d2cfe55f/historical%2520population%25201939-2015.pdf",
+      "found": "History of London table: 1939 = 8,615,245. GLA briefing: population rose 'up to a peak in 1939 of 8.61 million'.",
+      "result": "confirmed",
+      "detail": "Exact figure is on the Wikipedia table the source names, and the GLA briefing confirms 8.61 million for 1939; marked estimated, which is right for a mid-year estimate."
+    },
+    {
+      "kind": "landmark",
+      "item": "Westminster Abbey: completed 1269, height 31 m, at 51.4994, -0.1275 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+      "found": "Infobox: present-day church built 1245-1269, consecrated 13 October 1269; height 101 ft (31 m), citing the Abbey's 'Dimensions of Westminster Abbey' PDF; coord 51°29'58\"N 0°07'39\"W (51.4994, -0.1275).",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Monument to the Great Fire of London: completed 1677, height 61.6 m, at 51.5101, -0.0859 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Monument_to_the_Great_Fire_of_London ; OpenStreetMap Nominatim",
+      "found": "'202 ft (61.6 m) in height ... Constructed between 1671 and 1677'. OSM 'The Monument to the Great Fire of London' at 51.51014, -0.08595.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Nelson's Column: completed 1843, height 51.6 m, at 51.5077, -0.128 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Nelson%27s_Column",
+      "found": "Infobox: begun 1840, complete 1843; height 169 ft 3 in (51.59 m) 'from the bottom of the pedestal to the top of Nelson's hat'; coord 51°30'27.8\"N 0°07'40.7\"W (51.5077, -0.1280).",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "milestone",
+      "item": "200: London Wall built (about 2 miles long, up to 6 m high, enclosing about 330 acres)",
+      "source_opened": "https://en.wikipedia.org/wiki/London_Wall",
+      "found": "'first built by the Romans ... in c. AD 200'; 'It was 2 mi long, enclosing an area of about 330 acres. It was 2.5 to 3 m wide and up to 6 m high.' (The infobox gives a contested length of 2.5 mi.)",
+      "result": "confirmed",
+      "detail": "Date and all three dimensions match the article text; already marked estimated."
+    },
+    {
+      "kind": "milestone",
+      "item": "1801: First census counts over a million (1,011,157 in the area of today's Greater London)",
+      "source_opened": "https://en.wikipedia.org/wiki/Demographics_of_London",
+      "found": "Table for the current area of Greater London: 1801 = 1,011,157.",
+      "result": "confirmed",
+      "detail": "Figure and area match; 1801 was the first national census."
+    }
+  ],
+  "summary": "All 10 sampled figures hold up. The three census figures match the Wikipedia table that reproduces the cited Vision of Britain series (the primary page could not be opened from here), the 1939 peak is supported by the GLA briefing, and the three monuments and both milestones match their pages. No edits made."
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "sao-paulo",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1554: Jesuit college of São Paulo dos Campos de Piratininga founded",
+      "source_opened": "https://en.wikipedia.org/wiki/P%C3%A1tio_do_Col%C3%A9gio ; https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+      "found": "Pátio do Colégio: groundbreaking 1554; 'The date that marks the beginning of São Paulo is January 25, 1554, when the priests celebrated the inaugural mass of the Jesuit school'. São Paulo: village 'marked by the founding of the Colégio de São Paulo de Piratininga on 25 January 1554'.",
+      "result": "confirmed",
+      "detail": "Year and event match both cited pages."
+    },
+    {
+      "kind": "population",
+      "item": "population 25,254 in 1854 (documented)",
+      "source_opened": "https://www.nepo.unicamp.br/publicacoes/censos/capital.pdf (PDF text extracted)",
+      "found": "1854, 'Tabela 1 - População total, Cidade de São Paulo': nine freguesias (Cotia, Guarulhos, Juqueri, Brás, Nossa Senhora do Ó, Penha, Santa Efigênia, São Bernardo, Sé); 'Total Doc. Original 25.253, Total Corrigido 25.254'. Source line: Quadro Estatístico da População da Província de São Paulo recenseada no anno de 1854.",
+      "result": "confirmed",
+      "detail": "Number, year and area (nine parishes including the rural ones) match, as does the note about the 25,253 original total."
+    },
+    {
+      "kind": "population",
+      "item": "population 47,697 in 1886 (documented)",
+      "source_opened": "https://www.nepo.unicamp.br/publicacoes/censos/capital.pdf (PDF text extracted)",
+      "found": "1886, 'Tabela 1 - População total, São Paulo - Capital': seven parishes (Sé 12,821; Santa Efigênia 11,909; Consolação 8,269; São Bernardo 3,667; Penha 2,283; Nossa Senhora do Ó 2,750; Brás 5,998), Capital total 47.697; Cotia and Guarulhos listed separately under 'Território'. Source line: Relatório ... Commissão Central de Estatística, 1888.",
+      "result": "confirmed",
+      "detail": "Number, year and the seven-parish area match."
+    },
+    {
+      "kind": "population",
+      "item": "population 64,934 in 1890 (documented)",
+      "source_opened": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/312_censo_br-rm-uf-msp_pop-abs_1872-2022_final_1715804954.htm",
+      "found": "Row 1890, Município de São Paulo: 64.934 (source note: Synopse do recenseamento de 31 de dezembro de 1890; população presente).",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 1,318,539 in 1940 (documented)",
+      "source_opened": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/312_censo_br-rm-uf-msp_pop-abs_1872-2022_final_1715804954.htm",
+      "found": "Row 1940, Município de São Paulo: 1.318.539 (source note: Sinopse preliminar do censo demográfico).",
+      "result": "confirmed",
+      "detail": "Exact match; the note that this is the preliminary-synopsis figure is accurate."
+    },
+    {
+      "kind": "landmark",
+      "item": "Obelisk of São Paulo (Ibirapuera): completed 1955, height 72 m, at -23.5847, -46.6547 (documented)",
+      "source_opened": "https://pt.wikipedia.org/wiki/Obelisco_de_S%C3%A3o_Paulo",
+      "found": "'possuindo um total de 72 metros de altura'; built 1947-1970, 'sua inauguração ocorreu no dia 9 de julho de 1955'; coord 23°35'05\"S 46°39'17\"W (-23.5847, -46.6547). A photo caption citing Condephaat adds that with the crypt the work measures 81 m.",
+      "result": "confirmed",
+      "detail": "Height, position and the 1955 inauguration match; the 1955-versus-1970 choice is already explained in the city file's notes."
+    },
+    {
+      "kind": "landmark",
+      "item": "Mirante do Vale (Palácio W. Zarzur): completed 1967, height 170 m, at -23.5422, -46.6354 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/palacio-w-zarzur/2726 ; Wikipedia coordinates API for 'Mirante do Vale'",
+      "found": "CTBUH 'Palácio W. Zarzur' (other name Mirante do Vale): Completion 1967; height 170 m; Avenida Prestes Maia 241. Wikipedia coord -23.54221, -46.63535.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Platina 220: completed 2022, height 171.74 m, at -23.5427, -46.5774 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/platina-220/30100 ; Wikipedia coordinates API for 'Platina 220'",
+      "found": "CTBUH: Completion 2022; architectural height 171.7 m (175.7 m to tip); Rua Bom Sucesso 220. Wikipedia coord -23.54267, -46.57736.",
+      "result": "confirmed",
+      "detail": "Year and position match; CTBUH's page shows 171.7 m, the stored 171.74 m is the same figure at one more decimal."
+    },
+    {
+      "kind": "milestone",
+      "item": "1560: Settlement raised to a vila (Mem de Sá moves the inhabitants of Santo André da Borda do Campo to the college)",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_S%C3%A3o_Paulo",
+      "found": "'In 1560 ... by order of Mem de Sá, general governor of the colony, the inhabitants of the village of Santo André da Borda do Campo were transferred to the vicinity of the college. The village of Santo André was extinguished, and the settlement was elevated to this category, with the name Vila de São Paulo de Piratininga ... in the same year, the town council ... was created.'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1924: Revolt and bombardment of the city (23 days in July; about a third of roughly 700,000 inhabitants fled)",
+      "source_opened": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+      "found": "'In 1924 the city was the stage of the São Paulo Revolt ... lasted 23 days, from 5 to 28 July ... the federal government launched an indiscriminate artillery bombardment against the city ... a third of São Paulo's 700,000 inhabitants fled the city.'",
+      "result": "confirmed",
+      "detail": "Year, duration and figures match the cited passage."
+    }
+  ],
+  "summary": "All 10 sampled figures match their sources: the 1854 and 1886 provincial counts are in the NEPO tables with the parish coverage described, the 1890 and 1940 census figures are exact against the Prefeitura table, and the landmarks and milestones check out. No edits made."
+}

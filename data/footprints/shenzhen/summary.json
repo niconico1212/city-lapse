@@ -32,7 +32,7 @@
   },
   {
    "year": 1000,
-   "area_km2": 0.18,
+   "area_km2": 0.19,
    "confidence": "reconstructed"
   },
   {
@@ -42,102 +42,102 @@
   },
   {
    "year": 1200,
-   "area_km2": 0.42,
+   "area_km2": 0.44,
    "confidence": "reconstructed"
   },
   {
    "year": 1300,
-   "area_km2": 0.65,
+   "area_km2": 0.67,
    "confidence": "reconstructed"
   },
   {
    "year": 1400,
-   "area_km2": 0.99,
+   "area_km2": 1.03,
    "confidence": "reconstructed"
   },
   {
    "year": 1500,
-   "area_km2": 1.52,
+   "area_km2": 1.59,
    "confidence": "reconstructed"
   },
   {
    "year": 1600,
-   "area_km2": 2.33,
+   "area_km2": 2.45,
    "confidence": "reconstructed"
   },
   {
    "year": 1650,
-   "area_km2": 2.89,
+   "area_km2": 3.04,
    "confidence": "reconstructed"
   },
   {
    "year": 1700,
-   "area_km2": 3.58,
+   "area_km2": 3.77,
    "confidence": "reconstructed"
   },
   {
    "year": 1750,
-   "area_km2": 4.43,
+   "area_km2": 4.68,
    "confidence": "reconstructed"
   },
   {
    "year": 1800,
-   "area_km2": 5.49,
+   "area_km2": 5.81,
    "confidence": "reconstructed"
   },
   {
    "year": 1825,
-   "area_km2": 6.11,
+   "area_km2": 6.48,
    "confidence": "reconstructed"
   },
   {
    "year": 1850,
-   "area_km2": 6.81,
+   "area_km2": 7.22,
    "confidence": "reconstructed"
   },
   {
    "year": 1875,
-   "area_km2": 7.58,
+   "area_km2": 8.04,
    "confidence": "reconstructed"
   },
   {
    "year": 1900,
-   "area_km2": 8.43,
+   "area_km2": 8.96,
    "confidence": "reconstructed"
   },
   {
    "year": 1910,
-   "area_km2": 8.8,
+   "area_km2": 9.36,
    "confidence": "reconstructed"
   },
   {
    "year": 1920,
-   "area_km2": 9.19,
+   "area_km2": 9.77,
    "confidence": "reconstructed"
   },
   {
    "year": 1930,
-   "area_km2": 9.59,
+   "area_km2": 10.2,
    "confidence": "reconstructed"
   },
   {
    "year": 1940,
-   "area_km2": 10.01,
+   "area_km2": 10.66,
    "confidence": "reconstructed"
   },
   {
    "year": 1950,
-   "area_km2": 10.45,
+   "area_km2": 11.13,
    "confidence": "reconstructed"
   },
   {
    "year": 1960,
-   "area_km2": 32.02,
+   "area_km2": 33.24,
    "confidence": "reconstructed"
   },
   {
    "year": 1970,
-   "area_km2": 98.08,
+   "area_km2": 99.32,
    "confidence": "reconstructed"
   },
   {
@@ -217,8 +217,14 @@
     "distance_km": 44.6
    }
   ],
-  "start_site": null,
-  "density_decline_per_year": 0.015,
+  "start_site": {
+   "name": "Nantou ancient city (Nantoucheng), Nanshan District",
+   "lat": 22.5463,
+   "lon": 113.9165,
+   "snapped_m": 0,
+   "cells": 27
+  },
+  "density_decline_per_year": 0.0125,
   "density_peak_year": 1890,
   "density_cap_per_ha": 500.0,
   "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",

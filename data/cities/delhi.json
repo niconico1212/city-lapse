@@ -12,6 +12,12 @@
     "lon": 77.2408,
     "source": "https://en.wikipedia.org/wiki/Red_Fort"
   },
+  "start_site": {
+    "name": "Purana Qila (Old Fort) mound",
+    "lat": 28.6094,
+    "lon": 77.2442,
+    "source": "Coordinate template of https://en.wikipedia.org/wiki/Purana_Qila (28.60944 N, 77.24417 E)"
+  },
   "population": [
     {
       "year": 1052,

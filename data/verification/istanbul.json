@@ -1,0 +1,88 @@
+{
+  "slug": "istanbul",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year -660: Byzantion founded by Greek colonists from Megara",
+      "source_opened": "https://en.wikipedia.org/wiki/Istanbul",
+      "found": "'The history of the city proper begins around 660 BC' (Britannica; Bloom & Blair 2009, p. 1: 'foundation of a Greek colony from Megara in the mid-7th century BCE'); footnote gives the alternatives 667 BC (Herodotus 4.144 via Chalcedon), 659 BC (Eusebius) and the 640s. The names section says 'around 657 BC'.",
+      "result": "confirmed",
+      "detail": "About 660 BCE and the Megarian foundation match the cited page; the date is approximate and already marked estimated with the alternatives in the notes."
+    },
+    {
+      "kind": "population",
+      "item": "population 400,000 in 500 (estimated)",
+      "source_opened": "chandlerV2.csv downloaded from https://doi.org/10.6084/m9.figshare.2059494.v3 (figshare file 5407640)",
+      "found": "Row 'Istanbul (Constantinople, Byzantium), Turkey': AD_500 = 400000.",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 98,000 in 1477 (estimated)",
+      "source_opened": "chandlerV2.csv downloaded from https://doi.org/10.6084/m9.figshare.2059494.v3 (figshare file 5407640)",
+      "found": "Row 'Istanbul (Constantinople, Byzantium), Turkey': AD_1477 = 98000.",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 700,000 in 1700 (estimated)",
+      "source_opened": "chandlerV2.csv downloaded from https://doi.org/10.6084/m9.figshare.2059494.v3 (figshare file 5407640)",
+      "found": "Row 'Istanbul (Constantinople, Byzantium), Turkey': AD_1700 = 700000.",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 900,000 in 1900 (estimated)",
+      "source_opened": "chandlerV2.csv downloaded from https://doi.org/10.6084/m9.figshare.2059494.v3 (figshare file 5407640)",
+      "found": "Row 'Istanbul (Constantinople, Byzantium), Turkey': AD_1900 = 900000.",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Column of Constantine: completed 330, height 34.8 m, at 41.0086, 28.9711 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/Column_of_Constantine",
+      "found": "'Its top is 34.8 m above the present-day ground level'; original monument 'nearly 50 m'; 'dedicated on May 11, 330 AD' (lead: completed c. 328 AD); coord 41°00'31\"N 28°58'16\"E (41.0086, 28.9711).",
+      "result": "confirmed",
+      "detail": "Height, position and the 330 dedication match; the page puts physical completion about 328, the stored year is the dedication, as the source string says."
+    },
+    {
+      "kind": "landmark",
+      "item": "Sultan Ahmed (Blue) Mosque: completed 1617, height 64 m, at 41.0054, 28.9768 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/Blue_Mosque,_Istanbul",
+      "found": "Infobox: completed 1617, minaret height 64 m, inner dome height 43 m; coord 41.0053851, 28.9768247. Text: built 1609-1617.",
+      "result": "confirmed",
+      "detail": "Year, minaret height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Metropol Tower Istanbul: completed 2017, height 280 m, at 40.9947, 29.1217 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/metropol-tower/13894 ; https://en.wikipedia.org/wiki/Metropol_Istanbul (coordinates)",
+      "found": "CTBUH 'Metropol Tower Istanbul': Completion 2017; architectural height 280 m (300 m to tip); Atesahir Boulevard. Wikipedia coord 40.9945, 29.1219 (and says the tower opened in 2018).",
+      "result": "confirmed",
+      "detail": "Year and height match CTBUH (the cited source); the point is about 30 m from the Wikipedia coordinate. Wikipedia's 2018 is the opening, not a conflict with CTBUH's completion year."
+    },
+    {
+      "kind": "milestone",
+      "item": "330: Constantinople dedicated as the Roman capital (rebuilt from 324, inaugurated as 'New Rome' on 11 May 330)",
+      "source_opened": "https://en.wikipedia.org/wiki/Istanbul",
+      "found": "'Constantine ... became the emperor of the whole of the Roman Empire in September 324. Two months later, he laid out the plans for a new, Christian city to replace Byzantium ... named Nova Roma ... On 11 May 330, Constantinople was proclaimed the capital of the Roman Empire' (Barnes 1981, pp. 212, 222).",
+      "result": "confirmed",
+      "detail": "Dates and description match."
+    },
+    {
+      "kind": "milestone",
+      "item": "537: Hagia Sophia consecrated (earlier cathedral burned in the Nika revolt of January 532; built 532-537)",
+      "source_opened": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+      "found": "'the second Hagia Sophia was burnt to the ground on 13-14 January 532' in the Nika Revolt; current structure built by Justinian I 'between 532-537'; 'inaugurated the new basilica on 27 December 537'.",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    }
+  ],
+  "summary": "All 10 sampled figures match their sources: the four Chandler estimates are exact against the figshare file, and the landmark heights, years, positions and the two milestones check out. No edits made."
+}

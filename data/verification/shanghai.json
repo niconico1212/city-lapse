@@ -1,0 +1,88 @@
+{
+  "slug": "shanghai",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1074: Shanghai raised from a village to a market town (Song dynasty)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Shanghai&action=raw",
+      "found": "History section: 'Its status was upgraded from a village to a market town in 1074', cited to Danielson, Shanghai and the Yangzi Delta, 2004, p. 9.",
+      "result": "confirmed",
+      "detail": "Year and wording match the cited passage; the book itself was not opened, only the Wikipedia page that cites it."
+    },
+    {
+      "kind": "population",
+      "item": "population 90,000 in 1800 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, figshare article 2059494)",
+      "found": "Row 'Shanghai', column AD_1800 = 90000.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 411,753 in 1895 (estimated)",
+      "source_opened": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shanghai",
+      "found": "'The total native population in the settlements by the census of 1895 was 286,753, and the estimated population of the native city was 125,000, making a total for all Shanghai of 411,753.'",
+      "result": "confirmed",
+      "detail": "Number, year and area (settlements plus native city) match; the note in the data describes the composition correctly."
+    },
+    {
+      "kind": "population",
+      "item": "population 2,000,000 in 1915 (estimated)",
+      "source_opened": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/shanghai",
+      "found": "'From half a million in 1852, the population of Shanghai jumped to 2 million in 1915, close to 4 million in 1937, and 5.5 million in 1948.'",
+      "result": "confirmed",
+      "detail": "Rounded figure and year match the cited article."
+    },
+    {
+      "kind": "population",
+      "item": "population 5,500,000 in 1948 (estimated)",
+      "source_opened": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/shanghai",
+      "found": "Same sentence: '5.5 million in 1948'.",
+      "result": "confirmed",
+      "detail": "Rounded figure and year match the cited article."
+    },
+    {
+      "kind": "landmark",
+      "item": "Plaza 66: completed 2001, height 288.16 m, at 31.2299, 121.4495 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/plaza-66/590",
+      "found": "Height 288.2 m / 945 ft; construction start 1994, completed 2001. OpenStreetMap (Nominatim) places 恒隆广场 at 31.2298, 121.4488, about 60 m from the stored point.",
+      "result": "confirmed",
+      "detail": "Year matches; 288.16 m rounds to the 288.2 m shown; coordinates are on the complex."
+    },
+    {
+      "kind": "landmark",
+      "item": "Tomorrow Square: completed 2003, height 284.6 m, at 31.2322, 121.4653 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/tomorrow-square/610",
+      "found": "Height 284.6 m; construction start 1997, completed 2003. OpenStreetMap places 明天广场 at 31.2323, 121.4650, about 30 m away.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Shanghai Tower: completed 2015, height 632 m, at 31.2356, 121.5012 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/shanghai-tower/56",
+      "found": "Height 632 m; construction start 2009, completed 2015. OpenStreetMap places 上海中心大厦 at 31.2356, 121.5013, under 10 m away.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1937: Battle of Shanghai. From 13 August to 26 November Chinese and Japanese forces fought for the city, which then fell under Japanese occupation.",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Timeline_of_Shanghai&action=raw",
+      "found": "'1937 ... 13 August - 26 November: Battle of Shanghai; Japanese occupation begins.'",
+      "result": "confirmed",
+      "detail": "Dates and description match the cited timeline."
+    },
+    {
+      "kind": "milestone",
+      "item": "1949: People's Liberation Army takes Shanghai. On 27 May 1949 the PLA took control of the city in the Shanghai Campaign.",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Shanghai&action=raw",
+      "found": "'On 27 May 1949, the People's Liberation Army took control of Shanghai through the Shanghai Campaign.'",
+      "result": "confirmed",
+      "detail": "Date and event match the cited section."
+    }
+  ],
+  "summary": "All 10 sampled items held up against the cited sources: the Chandler, Britannica 1911 and Henriot population figures, the three CTBUH towers and the 1937 and 1949 milestones. Nothing was changed."
+}

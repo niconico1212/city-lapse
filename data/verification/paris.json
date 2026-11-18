@@ -1,0 +1,88 @@
+{
+  "slug": "paris",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year -52: Roman Lutetia founded after Caesar's conquest of the Parisii (52 BCE); Parisii in the area since about 250 BCE",
+      "source_opened": "https://en.wikipedia.org/wiki/Lutetia ; https://en.wikipedia.org/wiki/Paris",
+      "found": "Lutetia infobox: 'built c. 3rd century BC as an oppidum, refounded as civitas in 52 BC'. Paris: 'The Parisii people inhabited the Paris area from around the middle of the 3rd century BC'; 'Julius Caesar conquered the Paris Basin for the Roman Republic in 52 BC and began the Roman settlement on Paris's Left Bank'.",
+      "result": "confirmed",
+      "detail": "Year and description match both cited pages."
+    },
+    {
+      "kind": "population",
+      "item": "population 25,000 in 800 (estimated)",
+      "source_opened": "https://doi.org/10.6084/m9.figshare.2059494 (chandlerV2.csv downloaded from figshare)",
+      "found": "Row 'Paris, France': AD_800 = 25000.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 785,862 in 1831 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Demographics_of_Paris",
+      "found": "Historical population table: 1831, city proper 785,862 (urban-area column blank).",
+      "result": "confirmed",
+      "detail": "Exact match, city proper."
+    },
+    {
+      "kind": "population",
+      "item": "population 4,500,000 in 1911 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/Demographics_of_Paris",
+      "found": "Table: 1911, city proper 2,888,110, urban area 4,500,000; footnote 'City proper figures before 1801 and urban area figures before 1954 are estimates from various sources'.",
+      "result": "confirmed",
+      "detail": "Matches the urban-area column, as the note says."
+    },
+    {
+      "kind": "population",
+      "item": "population 4,850,000 in 1921 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/Demographics_of_Paris",
+      "found": "Table: 1921, city proper 2,906,472, urban area 4,850,000.",
+      "result": "confirmed",
+      "detail": "Matches the urban-area column."
+    },
+    {
+      "kind": "landmark",
+      "item": "Dôme des Invalides: completed 1706, height 107 m, at 48.855, 2.3125 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/Les_Invalides ; https://fr.wikipedia.org/wiki/H%C3%B4tel_des_Invalides ; OpenStreetMap (Nominatim)",
+      "found": "en: completion_date 1706; caption 'The Dôme des Invalides, 107 m tall'. fr: 'hauteur 107 m au sommet du dôme'. OpenStreetMap places Napoleon's tomb, under the dome, at 48.8550, 2.3125.",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Tour First, La Défense: completed 2011, height 231 m, at 48.8888, 2.2518 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/tour-first/993 ; https://en.wikipedia.org/wiki/Tour_First",
+      "found": "CTBUH: completion 2011, 231 m, 56 floors. Wikipedia: originally completed 1974 as Tour UAP, renovation 2007-2011 added height; 231 m to spire, 225 m roof; coordinates 48.8889, 2.2517.",
+      "result": "confirmed",
+      "detail": "Year (of the rebuilt tower), height and coordinates match. The 1974 original was lower; the file shows only the 2011 form."
+    },
+    {
+      "kind": "landmark",
+      "item": "Tribunal de Paris: completed 2017, height 159.7 m, at 48.895, 2.31 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/tribunal-de-paris/15851 ; OpenStreetMap (Nominatim)",
+      "found": "CTBUH: completion 2017, 159.7 m, 38 floors, 29-45 Avenue de la Porte de Clichy. OpenStreetMap: Tribunal de Paris at 48.8948, 2.3105.",
+      "result": "confirmed",
+      "detail": "Year and height match CTBUH; coordinates about 40 m from the OpenStreetMap position."
+    },
+    {
+      "kind": "milestone",
+      "item": "1356: Wall of Charles V and the Bastille (built 1356-1383)",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Paris",
+      "found": "'Between 1356 and 1383, King Charles V built a new wall of fortifications around the city. He also built the Bastille, a large fortress guarding the Porte Saint-Antoine at the eastern end of Paris'.",
+      "result": "confirmed",
+      "detail": "Dates and description match the cited page."
+    },
+    {
+      "kind": "milestone",
+      "item": "2024: Summer Olympic Games (third time, after 1900 and 1924)",
+      "source_opened": "https://en.wikipedia.org/wiki/Paris",
+      "found": "'Paris has also hosted the Summer Olympics three times, in 1900, 1924 and 2024.'",
+      "result": "confirmed",
+      "detail": "Matches the cited page."
+    }
+  ],
+  "summary": "All 10 sampled items matched the cited sources (Chandler file, the Wikipedia census table, CTBUH and Wikipedia pages). Nothing was changed."
+}

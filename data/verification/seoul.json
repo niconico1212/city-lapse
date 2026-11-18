@@ -1,0 +1,88 @@
+{
+  "slug": "seoul",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year -18: Baekje founds its capital Wiryeseong on the Han River (traditional date)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Wiryeseong&action=raw",
+      "found": "'According to the Samguk sagi ... Onjo ... founded the nation of Sipje (later became Baekje) on Wiryeseong in 18 BC'; both Wiryeseong sites 'are believed to have been in the modern-day Seoul area'.",
+      "result": "confirmed",
+      "detail": "18 BC traditional date matches; stored as -18, the same BC convention used elsewhere in the data."
+    },
+    {
+      "kind": "population",
+      "item": "population 187,000 in 1750 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, figshare article 2059494)",
+      "found": "Row 'Seoul' (other name Hanyang), column AD_1750 = 187000.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 203,901 in 1835 (documented)",
+      "source_opened": "https://ko.wikipedia.org/wiki/서울특별시 (raw wikitext)",
+      "found": "'1835년에는 그 두 배쯤인 20만 3,901명이었다' (Hanseong-bu, cited to the Encyclopedia of Korean Culture).",
+      "result": "confirmed",
+      "detail": "Number, year and area (Hanseong-bu register) match."
+    },
+    {
+      "kind": "population",
+      "item": "population 444,000 in 1935 (documented)",
+      "source_opened": "https://ko.wikipedia.org/wiki/서울특별시 (raw wikitext)",
+      "found": "Footnote: '1935년 국세조사에서 확장 전 경성부의 인구는 44만 4천 명이었다', cited to Seoul Shinmun, 19 November 1992, headline '1935년 서울인구 44만4천명'.",
+      "result": "confirmed",
+      "detail": "Rounded figure, year and pre-extension Keijo boundary match."
+    },
+    {
+      "kind": "population",
+      "item": "population 636,000 in 1936 (documented)",
+      "source_opened": "https://ko.wikipedia.org/wiki/서울특별시의_역사 (raw wikitext)",
+      "found": "'1936년 확장으로 면적 136 km², 인구 63만 6,000명이 되었다' and the table row '1936년 | 63만 6,000 | 경성부(구역 확장 뒤)', cited to 서울 2천년사 vol. 26, pp. 36-37.",
+      "result": "confirmed",
+      "detail": "Number, year and area (Keijo after the 1936 extension) match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Wongaksa Pagoda: completed 1467, height 12 m, at 37.5717, 126.9883 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Wongaksa_Pagoda&action=raw",
+      "found": "'a 12-meter tall, ten story marble pagoda located in Tapgol Park'; 'constructed in 1467'. Timeline of Seoul: '1467 - Wongaksa Pagoda constructed'. OpenStreetMap places the pagoda at 37.5716, 126.9882, about 20 m away.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Myeongdong Cathedral: completed 1898, height 45 m, at 37.5633, 126.9873 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Myeongdong_Cathedral&action=raw",
+      "found": "Infobox 'completed = 1898'; 'the steeple, which contains a clock, rises to 45 m' (main building 23 m). OpenStreetMap places the cathedral within about 20 m of the stored point.",
+      "result": "confirmed",
+      "detail": "Year, steeple height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "FKI Tower: completed 2013, height 245.47 m, at 37.5222, 126.9203 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/fki-tower/8829",
+      "found": "Height 245.5 m; construction start 2010, completed 2013. English Wikipedia gives 37.5221, 126.9195 for the tower, about 70 m from the stored point (OpenStreetMap search returned nothing).",
+      "result": "confirmed",
+      "detail": "Year matches; 245.47 m rounds to the 245.5 m shown; coordinates are on the site."
+    },
+    {
+      "kind": "milestone",
+      "item": "1396: City wall and eight gates built. Work begins in 1395 and most of it, with the eight gates, is finished in 1396; about 18.6 km.",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Seoul_City_Wall&action=raw ; https://ko.wikipedia.org/wiki/서울특별시의_역사",
+      "found": "Seoul City Wall: 'Construction ... was launched in 1395, and significant part of the whole City Wall was completed in 1396, including the Eight Gates'; infobox 'built c. 1395-1396'. Korean history article: '둘레 약 18.6 km의 한양도성'.",
+      "result": "confirmed",
+      "detail": "Years, gates and length match the two cited pages. (The English Timeline of Seoul, not cited here, lists the wall under 1396 and the gates under 1398.)"
+    },
+    {
+      "kind": "milestone",
+      "item": "1988: Summer Olympics; ten million people. Seoul hosts the 1988 Summer Olympics. The city's population passes ten million the same year.",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Timeline_of_Seoul&action=raw ; https://ko.wikipedia.org/wiki/서울특별시",
+      "found": "Timeline: '1988 ... Summer Olympics held'. Korean article: '인구는 1988년 1000만 명을 넘어섰다', cited to Aju Business Daily, 23 June 2016.",
+      "result": "confirmed",
+      "detail": "Both halves of the claim match the cited pages."
+    }
+  ],
+  "summary": "All 10 sampled items matched the pages they cite (Chandler's file, the Korean and English Wikipedia articles and CTBUH). Nothing was changed. The 1396 wall milestone follows the Seoul City Wall article; the English Timeline of Seoul gives slightly different years (wall begun 1396, gates 1398), which does not contradict the cited source."
+}

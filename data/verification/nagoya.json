@@ -1,0 +1,88 @@
+{
+  "slug": "nagoya",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1610: Tokugawa Ieyasu begins Nagoya Castle and its castle town",
+      "source_opened": "https://en.wikipedia.org/wiki/Nagoya_Castle ; https://ja.wikipedia.org/wiki/清洲越し",
+      "found": "English: Ieyasu 'decided in November 1609 (Keicho 14) to rebuild the castle at Nagoya ... In January 1610 (Keicho 15), the site was roped off and work began.' Japanese: construction of Nagoya Castle began in Keicho 15 (1610).",
+      "result": "confirmed",
+      "detail": "Year and event match both cited pages."
+    },
+    {
+      "kind": "population",
+      "item": "population 65,000 in 1700 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, the data file of Reba, Reitsma & Seto 2016)",
+      "found": "Row Nagoya, column AD_1700: 65000.",
+      "result": "confirmed",
+      "detail": "Matches the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 244,145 in 1898 (documented)",
+      "source_opened": "https://ja.wikipedia.org/wiki/国勢調査以前の日本の人口統計",
+      "found": "Table '主要都市人口変遷 (明治22年～大正9年)', row 名古屋市, column 明治31年 (1898年) 12月31日 現住人口: 244,145 (1897: 252,699; 1903: 288,639).",
+      "result": "confirmed",
+      "detail": "Number, date and area (Nagoya City, resident population) match the table as cited."
+    },
+    {
+      "kind": "population",
+      "item": "population 1,082,816 in 1935 (documented)",
+      "source_opened": "https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位",
+      "found": "Row 名古屋市, 1935 census column: 3rd, 1,082,816, 149.95 km2.",
+      "result": "confirmed",
+      "detail": "Matches the table as cited."
+    },
+    {
+      "kind": "population",
+      "item": "population 1,328,084 in 1940 (documented)",
+      "source_opened": "https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位",
+      "found": "Row 名古屋市, 1940 census column: 3rd, 1,328,084, 158.79 km2.",
+      "result": "confirmed",
+      "detail": "Matches the table as cited, including the area in the data's note."
+    },
+    {
+      "kind": "landmark",
+      "item": "JR Central Office Tower: completed 2000, height 245 m, at 35.1711, 136.8826 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/city/nagoya (embedded building records) ; OpenStreetMap Nominatim search",
+      "found": "CTBUH record 930: completed 2000, architectural height 245.00 m, 51 floors, latitude 35.171070, longitude 136.882645. OSM 'JR Central Towers' 38 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Midland Square: completed 2007, height 247 m, at 35.1706, 136.8851 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/city/nagoya (embedded building records) ; OpenStreetMap Nominatim search",
+      "found": "CTBUH record 906: completed 2007, architectural height 247.00 m, 48 floors, latitude 35.170551, longitude 136.885147. OSM building 85 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Mode Gakuen Spiral Towers: completed 2008, height 170 m, at 35.1681, 136.8857 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/city/nagoya (embedded building records) ; OpenStreetMap Nominatim search",
+      "found": "CTBUH record 2761: completed 2008, architectural height 170.00 m, 38 floors, latitude 35.168098, longitude 136.885727. OSM building 4 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1660: Manji fire and the widening of Hirokoji",
+      "source_opened": "https://ja.wikipedia.org/wiki/名古屋市",
+      "found": "Chronology: '万治3年（1660年） - 万治の大火により3,000近い民家が焼失し、これを機に広小路を開く' (the Manji fire destroys nearly 3,000 houses, after which Hirokoji is opened).",
+      "result": "confirmed",
+      "detail": "Year and description match; the page says the street was opened after the fire and does not itself give its position on the grid."
+    },
+    {
+      "kind": "milestone",
+      "item": "1891: Nobi earthquake",
+      "source_opened": "https://ja.wikipedia.org/wiki/名古屋市 ; https://en.wikipedia.org/wiki/Nagoya_Castle",
+      "found": "Japanese: '1891年（明治24年）10月28日 - 濃尾地震により大きな被害を出す'. English: 'The 1891 Mino-Owari earthquake in October 1891 seriously damaged the southwest and Tamon turrets and other structures.'",
+      "result": "confirmed",
+      "detail": "Date and description match."
+    }
+  ],
+  "summary": "All ten sampled items match the cited sources; nothing was changed. Census figures were checked against the Japanese Wikipedia tables that the data cites."
+}

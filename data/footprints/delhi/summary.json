@@ -28,127 +28,127 @@
   },
   {
    "year": 250,
-   "area_km2": 0.05,
+   "area_km2": 0.06,
    "confidence": "reconstructed"
   },
   {
    "year": 500,
-   "area_km2": 0.1,
+   "area_km2": 0.11,
    "confidence": "reconstructed"
   },
   {
    "year": 750,
-   "area_km2": 0.2,
+   "area_km2": 0.24,
    "confidence": "reconstructed"
   },
   {
    "year": 1000,
-   "area_km2": 0.4,
+   "area_km2": 0.49,
    "confidence": "reconstructed"
   },
   {
    "year": 1100,
-   "area_km2": 0.82,
+   "area_km2": 1.02,
    "confidence": "reconstructed"
   },
   {
    "year": 1200,
-   "area_km2": 2.75,
+   "area_km2": 3.41,
    "confidence": "reconstructed"
   },
   {
    "year": 1300,
-   "area_km2": 4.59,
+   "area_km2": 5.67,
    "confidence": "reconstructed"
   },
   {
    "year": 1400,
-   "area_km2": 5.73,
+   "area_km2": 7.09,
    "confidence": "reconstructed"
   },
   {
    "year": 1500,
-   "area_km2": 5.73,
+   "area_km2": 7.09,
    "confidence": "reconstructed"
   },
   {
    "year": 1600,
-   "area_km2": 9.67,
+   "area_km2": 11.96,
    "confidence": "reconstructed"
   },
   {
    "year": 1650,
-   "area_km2": 15.7,
+   "area_km2": 19.42,
    "confidence": "reconstructed"
   },
   {
    "year": 1700,
-   "area_km2": 18.34,
+   "area_km2": 22.68,
    "confidence": "reconstructed"
   },
   {
    "year": 1750,
-   "area_km2": 18.34,
+   "area_km2": 22.68,
    "confidence": "reconstructed"
   },
   {
    "year": 1800,
-   "area_km2": 18.34,
+   "area_km2": 22.68,
    "confidence": "reconstructed"
   },
   {
    "year": 1825,
-   "area_km2": 18.34,
+   "area_km2": 22.68,
    "confidence": "reconstructed"
   },
   {
    "year": 1850,
-   "area_km2": 18.34,
+   "area_km2": 22.68,
    "confidence": "reconstructed"
   },
   {
    "year": 1875,
-   "area_km2": 18.34,
+   "area_km2": 22.68,
    "confidence": "reconstructed"
   },
   {
    "year": 1900,
-   "area_km2": 18.34,
+   "area_km2": 22.68,
    "confidence": "reconstructed"
   },
   {
    "year": 1910,
-   "area_km2": 18.34,
+   "area_km2": 22.68,
    "confidence": "reconstructed"
   },
   {
    "year": 1920,
-   "area_km2": 21.35,
+   "area_km2": 24.5,
    "confidence": "reconstructed"
   },
   {
    "year": 1930,
-   "area_km2": 35.96,
+   "area_km2": 40.24,
    "confidence": "reconstructed"
   },
   {
    "year": 1940,
-   "area_km2": 64.59,
+   "area_km2": 70.49,
    "confidence": "reconstructed"
   },
   {
    "year": 1950,
-   "area_km2": 154.36,
+   "area_km2": 164.32,
    "confidence": "reconstructed"
   },
   {
    "year": 1960,
-   "area_km2": 298.99,
+   "area_km2": 310.42,
    "confidence": "reconstructed"
   },
   {
    "year": 1970,
-   "area_km2": 537.23,
+   "area_km2": 543.99,
    "confidence": "reconstructed"
   },
   {
@@ -246,8 +246,14 @@
     "distance_km": 23.5
    }
   ],
-  "start_site": null,
-  "density_decline_per_year": 0.015,
+  "start_site": {
+   "name": "Purana Qila (Old Fort) mound",
+   "lat": 28.6094,
+   "lon": 77.2442,
+   "snapped_m": 141,
+   "cells": 8
+  },
+  "density_decline_per_year": 0.0125,
   "density_peak_year": 1890,
   "density_cap_per_ha": 500.0,
   "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",

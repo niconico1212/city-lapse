@@ -1,0 +1,88 @@
+{
+ "what": "Scripted sweep of every landmark whose source is a CTBUH Skyscraper Center page, looking for CTBUH's own notice that the height is estimated from the floor count.",
+ "date": "2026-11-18",
+ "pages_checked": 320,
+ "unreachable": 0,
+ "estimated_by_ctbuh": [
+  {
+   "slug": "bandung",
+   "name": "Bank Rakyat Indonesia Tower",
+   "url": "https://www.skyscrapercenter.com/building/bank-rakyat-indonesia-tower/23114",
+   "confidence_before": "estimated",
+   "confidence_now": "estimated",
+   "ctbuh_notice": "height is estimated, based on a floor count of 15 floors ."
+  },
+  {
+   "slug": "bandung",
+   "name": "Hegarmanah Residence Tower A",
+   "url": "https://www.skyscrapercenter.com/building/hegarmanah-residence-tower-a/26647",
+   "confidence_before": "estimated",
+   "confidence_now": "estimated",
+   "ctbuh_notice": "height is estimated, based on a floor count of 27 floors ."
+  },
+  {
+   "slug": "bengaluru",
+   "name": "Zenith Residence Tower 1",
+   "url": "https://www.skyscrapercenter.com/building/zenith-residence-tower-1/35755",
+   "confidence_before": "documented",
+   "confidence_now": "estimated",
+   "ctbuh_notice": "height is estimated, based on a floor count of 34 floors ."
+  },
+  {
+   "slug": "bengaluru",
+   "name": "Four Seasons Hotel Bengaluru",
+   "url": "https://www.skyscrapercenter.com/building/four-seasons-hotel-bengaluru/34867",
+   "confidence_before": "documented",
+   "confidence_now": "estimated",
+   "ctbuh_notice": "height is estimated, based on a floor count of 28 floors ."
+  },
+  {
+   "slug": "dar-es-salaam",
+   "name": "Uhuru Heights",
+   "url": "https://www.skyscrapercenter.com/building/uhuru-heights/15351",
+   "confidence_before": "estimated",
+   "confidence_now": "estimated",
+   "ctbuh_notice": "height is estimated, based on a floor count of 27 floors ."
+  },
+  {
+   "slug": "dar-es-salaam",
+   "name": "Rita Tower",
+   "url": "https://www.skyscrapercenter.com/building/rita-tower/14681",
+   "confidence_before": "estimated",
+   "confidence_now": "estimated",
+   "ctbuh_notice": "height is estimated, based on a floor count of 30 floors ."
+  },
+  {
+   "slug": "dhaka",
+   "name": "Pinnacle",
+   "url": "https://www.skyscrapercenter.com/building/pinnacle/36736",
+   "confidence_before": "estimated",
+   "confidence_now": "estimated",
+   "ctbuh_notice": "height is estimated, based on a floor count of 40 floors ."
+  },
+  {
+   "slug": "kuala-lumpur",
+   "name": "Parliament House (Bangunan Parlimen Malaysia)",
+   "url": "https://www.skyscrapercenter.com/building/bangunan-parlimen-malaysia/44639",
+   "confidence_before": "estimated",
+   "confidence_now": "estimated",
+   "ctbuh_notice": "height is estimated, based on a floor count of 17 floors ."
+  },
+  {
+   "slug": "lagos",
+   "name": "Eko Champagne Pearl Tower (Eko Atlantic)",
+   "url": "https://www.skyscrapercenter.com/building/eko-champagne-pearl-tower/40872",
+   "confidence_before": "estimated",
+   "confidence_now": "estimated",
+   "ctbuh_notice": "height is estimated, based on a floor count of 30 floors ."
+  },
+  {
+   "slug": "luanda",
+   "name": "Torre Ambiente",
+   "url": "https://www.skyscrapercenter.com/building/torre-ambiente/39612",
+   "confidence_before": "estimated",
+   "confidence_now": "estimated",
+   "ctbuh_notice": "height is estimated, based on a floor count of 30 floors ."
+  }
+ ]
+}

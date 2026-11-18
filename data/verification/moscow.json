@@ -1,0 +1,88 @@
+{
+  "slug": "moscow",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1147: First mention of Moscow in the chronicles",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Moscow ; https://en.wikipedia.org/wiki/Moscow",
+      "found": "History of Moscow quotes Meyendorff (1981), p. 147: 'A very minor city, first mentioned in the chronicles under the year 1147'. Moscow article: 'Moscow is first mentioned in chronicles in the year 1147'.",
+      "result": "confirmed",
+      "detail": "Year and event match; the book itself was seen only through the quotation on Wikipedia."
+    },
+    {
+      "kind": "population",
+      "item": "population 30,000 in 1400 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, from figshare article 2059494 cited by the data)",
+      "found": "Row Moscow, column AD_1400: 30000.",
+      "result": "confirmed",
+      "detail": "Matches the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 105,000 in 1650 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, from figshare article 2059494 cited by the data)",
+      "found": "Row Moscow, column AD_1650: 105000.",
+      "result": "confirmed",
+      "detail": "Matches the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 4,131,633 in 1939 (documented)",
+      "source_opened": "https://www.demoscope.ru/weekly/ssp/rus_pop_39_3.php",
+      "found": "1939 census, final results, 'г. Москва': both sexes 4131633 (1915204 men, 2216429 women), of which 104387 'special contingent' added centrally.",
+      "result": "confirmed",
+      "detail": "Number, year and area match, including the note on the special contingent."
+    },
+    {
+      "kind": "population",
+      "item": "population 3,361,000 in 1945 (estimated)",
+      "source_opened": "https://ru.wikipedia.org/wiki/Население_Москвы (rendered page)",
+      "found": "Population table: 1941: 4 345 400; 1942: 2 361 500; 1943: 2 743 600; 1945: 3 361 000, all footnoted to 'Население России 1939-1945 (Вестник РАН, 2020, т. 90, № 9, стр. 845-857)'.",
+      "result": "confirmed",
+      "detail": "Matches the table as cited; the journal article itself was not opened."
+    },
+    {
+      "kind": "landmark",
+      "item": "Ivan the Great Bell Tower: completed 1600, height 81 m, at 55.7508, 37.6181 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Ivan_the_Great_Bell_Tower ; https://ru.wikipedia.org/wiki/Колокольня_Ивана_Великого",
+      "found": "English article: total height 81 m, completed 1508 at 'around 60 meters', coordinates 55°45'3\"N 37°37'5\"E; it does not mention 1600. Russian article: in 1599-1600 under Boris Godunov the tower was built up and 'reached a height of 81 metres'; the inscription under the dome is dated 7108, i.e. 1600.",
+      "result": "corrected",
+      "detail": "Values are right but the cited page does not support the year 1600. Added the Russian Wikipedia article to the landmark's source and extended its note to say so; year, height and coordinates unchanged."
+    },
+    {
+      "kind": "landmark",
+      "item": "Kotelnicheskaya Embankment Building: completed 1952, height 176 m, at 55.7471, 37.643 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/kotelnicheskaya-naberezhnaya/2502 ; OpenStreetMap Nominatim and Wikipedia coordinates",
+      "found": "CTBUH: Kotelnicheskaya Naberezhnaya, completion 1952, 176 m, 1/15 Kotelnicheskaya Embankment. OSM building 1/15 korpus B is 12 m from the claimed point; Wikipedia coordinates 19 m away.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Radisson Royal Hotel (former Hotel Ukraina): completed 1955, height 206 m, at 55.7515, 37.5657 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/radisson-royal-hotel/1761 ; Wikipedia coordinates for 'Hotel Ukraina, Moscow'",
+      "found": "CTBUH: Radisson Royal Hotel, completion 1955, 206 m, 2/1 Kutuzovsky Prospect. Wikipedia coordinates 55.75164, 37.56615, 32 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1712: Capital moved to Saint Petersburg",
+      "source_opened": "https://en.wikipedia.org/wiki/Moscow",
+      "found": "'In 1712, Peter the Great moved his government to the newly built city of Saint Petersburg'; lead: '... moved to the newly founded city of Saint Petersburg in 1712, leading to a decline in Moscow's importance throughout the imperial period.'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1980: Summer Olympic Games",
+      "source_opened": "https://en.wikipedia.org/wiki/Moscow",
+      "found": "'In 1980, Moscow hosted the Summer Olympic Games, which were boycotted by the United States and other Western countries because the Soviet Union invaded Afghanistan in 1979.'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    }
+  ],
+  "summary": "Nine of ten items match their sources as cited. The Ivan the Great Bell Tower's 1600 date is correct but was not on the cited page, so a second source was added; no values changed."
+}

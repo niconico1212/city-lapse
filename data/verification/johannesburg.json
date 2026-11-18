@@ -1,0 +1,88 @@
+{
+  "slug": "johannesburg",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1886: Mining camp proclaimed and town founded after the Witwatersrand gold discovery (September 1886)",
+      "source_opened": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Johannesburg ; https://sahistory.org.za/dated-event/first-mines-are-proclaimed-johannesburg",
+      "found": "Britannica: 'Johannesburg owes its existence to the discovery of gold in the Witwatersrand reefs. The town ... was founded in September 1886'. SAHO: first mining activities proclaimed 'on 20 September 1886 on the farm Randjeslaagte'.",
+      "result": "confirmed",
+      "detail": "Year, month and event match both cited pages."
+    },
+    {
+      "kind": "population",
+      "item": "population 25,000 in 1890 (estimated)",
+      "source_opened": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Johannesburg",
+      "found": "'In 1887 the population was about 3000. By the beginning of 1890 it had increased to over 25,000.'",
+      "result": "confirmed",
+      "detail": "Figure and year match; the note already says it is a lower bound ('over 25,000')."
+    },
+    {
+      "kind": "population",
+      "item": "population 155,642 in 1904 (documented)",
+      "source_opened": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Johannesburg",
+      "found": "'At the census of April 1904 the inhabitants of the city proper numbered 99,022, the population within the municipal area being 155,642'; 'The city proper covers about 6 sq. m. The municipal boundary ... encloses about 82 sq. m.'",
+      "result": "confirmed",
+      "detail": "Number, year, area and every detail in the note match."
+    },
+    {
+      "kind": "population",
+      "item": "population 519,384 in 1936 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=1936_South_African_census&action=raw",
+      "found": "Table 'Largest urban areas: total population': Johannesburg | Transvaal | 519,384, cited to the Official Year Book.",
+      "result": "confirmed",
+      "detail": "Number, census year and area (urban area, total population) match the cited page; the Year Book itself was not opened."
+    },
+    {
+      "kind": "population",
+      "item": "population 603,470 in 1946 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Timeline_of_Johannesburg&action=raw",
+      "found": "'1946 - Population: 603,470 city; 762,910 urban agglomeration', cited to the UN Demographic Yearbook 1955.",
+      "result": "confirmed",
+      "detail": "Number, year, area (city proper) and the agglomeration figure in the note match the cited page; the UN yearbook itself was not opened."
+    },
+    {
+      "kind": "landmark",
+      "item": "Sentech Tower (Brixton Tower): completed 1962, height 237 m, at -26.1925, 28.0067 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Brixton_Tower&action=raw (Sentech_Tower redirects here)",
+      "found": "Infobox: construction start 1961, completion 1962, height 237 m; 'a 237 m-high concrete television tower in the Brixton suburb', citing Structurae 'Sentech Tower (Johannesburg, 1962)'. OpenStreetMap places the tower about 20 m from the stored point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Hillbrow Tower (Telkom Joburg Tower): completed 1971, height 269 m, at -26.1869, 28.0492 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Hillbrow_Tower&action=raw",
+      "found": "Infobox: completion 1971 (opened April 1971), antenna spire 269 m, top floor 204 m. OpenStreetMap places the tower about 15 m from the stored point.",
+      "result": "confirmed",
+      "detail": "Year, height (and the 204 m top floor in the note) and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Nelson Mandela Bridge (north pylon): completed 2003, height 42 m, at -26.1967, 28.0342 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Nelson_Mandela_Bridge&action=raw",
+      "found": "'is 284 metres long. There are two pylons, North and South, 42 and 27 metres high respectively'; opened 20 July 2003. (The infobox height field shows 27 m, the south pylon.) OpenStreetMap places the bridge about 6 m from the stored point.",
+      "result": "confirmed",
+      "detail": "Year, north pylon height, length and position match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1886: Goldfield proclaimed and town laid out. Gold found on the farm Langlaagte; President Kruger declared the area open for public diggings on 20 September 1886; town surveyed beside Ferreira's Camp and named Johannesburg.",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=History_of_Johannesburg&action=raw ; https://sahistory.org.za/dated-event/first-mines-are-proclaimed-johannesburg",
+      "found": "Wikipedia: 'discovery of an outcrop of a gold reef on the farm Langlaagte. September 20 1886 was when President Paul Kruger declared the area ... open for public diggings'; the town 'was laid out on ... Randjeslaagte'; Ferreira 'staked out his camp on Turffontein'. SAHO: mining commissioner Carl von Brandis 'proclaimed the first mining activities on 20 September 1886 on the farm Randjeslaagte'.",
+      "result": "confirmed",
+      "detail": "Date and event match. The two cited pages differ on who read the proclamation (Kruger's declaration in Wikipedia, read out by commissioner von Brandis in SAHO); the date is the same in both, so nothing was changed."
+    },
+    {
+      "kind": "milestone",
+      "item": "2010: World Cup final and Gautrain. Rebuilt Soccer City hosted the 2010 FIFA World Cup final; Gautrain, begun in 2006, completed in June 2012.",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=History_of_Johannesburg&action=raw ; https://en.wikipedia.org/w/index.php?title=Johannesburg&action=raw",
+      "found": "History: 'A completely refurbished Soccer City stadium in Johannesburg hosted the 2010 FIFA World Cup final.' Johannesburg: Gautrain links Johannesburg and Pretoria, and Sandton and OR Tambo airport; 'Construction of the Gautrain Rapid Rail started in October 2006 and was completed in June 2012.'",
+      "result": "confirmed",
+      "detail": "All parts of the description match the cited pages."
+    }
+  ],
+  "summary": "All 10 sampled items matched their cited sources (Britannica 1911, Wikipedia census and timeline pages, tower and bridge articles). Nothing was changed. As a side check after finding floor-count estimates among Bandung's CTBUH heights, the seven CTBUH pages cited for Johannesburg were opened: none is marked as an estimate and all heights and years agree with the file."
+}

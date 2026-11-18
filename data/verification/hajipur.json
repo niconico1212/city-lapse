@@ -1,0 +1,88 @@
+{
+  "slug": "hajipur",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1350: Hajipur founded as a fortified town by Haji Ilyas (Shamsuddin Ilyas Shah), king of Bengal",
+      "source_opened": "https://archive.org/details/in.ernet.dli.2015.206879 (full-text OCR of O'Malley, Bengal District Gazetteers: Muzaffarpur, 1907)",
+      "found": "p. 145: 'Hajipur was founded by Haji Ilyas alias Shams-ud-din Ilyas, king of Bengal between 1345 and 1358 A.D., who strengthened the town with a large fort, of which the ramparts are still visible.'",
+      "result": "confirmed",
+      "detail": "The source supports the founding in his reign; no year is given, so 1350 is a stand-in and is already marked estimated."
+    },
+    {
+      "kind": "population",
+      "item": "population 22,306 in 1872 (documented)",
+      "source_opened": "https://archive.org/details/in.ernet.dli.2015.206879 (full-text OCR of O'Malley, Bengal District Gazetteers: Muzaffarpur, 1907)",
+      "found": "pp. 144-145: 'The population rose from 22,306 in 1872 to 25,078 in 1881, but fell again to 21,487 in 1891 and to 21,398 in 1901'.",
+      "result": "confirmed",
+      "detail": "Number, year and area (Hajipur town) match."
+    },
+    {
+      "kind": "population",
+      "item": "population 25,078 in 1881 (documented)",
+      "source_opened": "https://archive.org/details/in.ernet.dli.2015.206879 (full-text OCR of O'Malley, Bengal District Gazetteers: Muzaffarpur, 1907)",
+      "found": "Same sentence: '... to 25,078 in 1881'.",
+      "result": "confirmed",
+      "detail": "Matches."
+    },
+    {
+      "kind": "population",
+      "item": "population 21,398 in 1901 (documented)",
+      "source_opened": "https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx (Table A-4, Class I, from the cited catalogue entry) ; https://archive.org/details/in.ernet.dli.2015.206879 (full-text OCR of O'Malley, Bengal District Gazetteers: Muzaffarpur, 1907)",
+      "found": "Table A-4: serial 317 'Hajipur' (Vaishali), 1901, persons: 21398. Gazetteer: '... and to 21,398 in 1901'.",
+      "result": "confirmed",
+      "detail": "Both cited sources give the same figure."
+    },
+    {
+      "kind": "population",
+      "item": "population 19,299 in 1931 (documented)",
+      "source_opened": "https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx (Table A-4, Class I, from the cited catalogue entry)",
+      "found": "Table A-4: serial 317 'Hajipur', 1931, persons: 19299.",
+      "result": "confirmed",
+      "detail": "Matches."
+    },
+    {
+      "kind": "population",
+      "item": "population 21,963 in 1941 (documented)",
+      "source_opened": "https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx (Table A-4, Class I, from the cited catalogue entry)",
+      "found": "Table A-4: serial 317 'Hajipur', 1941, persons: 21963.",
+      "result": "confirmed",
+      "detail": "Matches."
+    },
+    {
+      "kind": "milestone",
+      "item": "1574: Akbar's army storms Hajipur fort",
+      "source_opened": "https://archive.org/details/in.ernet.dli.2015.206879 (full-text OCR of O'Malley, Bengal District Gazetteers: Muzaffarpur, 1907)",
+      "found": "pp. 145-146: the town was 'besieged and captured by the imperial troops in 1572 and again in 1574; but after the transfer of the seat of government to Patna, it lost its former importance ... Akbar took possession of the Hajipur fort by a sudden move ... A force of 3,000 men was sent over ... The rebels were defeated; Fateh Khan Barha, the commander of the fort, was slain'.",
+      "result": "confirmed",
+      "detail": "Year, the 3,000 men and the loss of importance match; 'by storm' is the data's paraphrase of 'by a sudden move'."
+    },
+    {
+      "kind": "milestone",
+      "item": "1764: Passes under British rule",
+      "source_opened": "https://archive.org/details/in.ernet.dli.2015.206879 (full-text OCR of O'Malley, Bengal District Gazetteers: Muzaffarpur, 1907)",
+      "found": "p. 22: 'It passed with the rest of Bihar under British rule in 1764, when the decisive battle of Buxar finally made the British masters of the Lower Provinces of Bengal.'",
+      "result": "confirmed",
+      "detail": "Year, event and page match."
+    },
+    {
+      "kind": "milestone",
+      "item": "2017: Digha-Sonpur road bridge opens",
+      "source_opened": "https://en.wikipedia.org/wiki/Digha%E2%80%93Sonpur_Bridge",
+      "found": "Infobox: length 4556 m, opened 3 February 2016. Text: 'Rail service was inaugurated on this route on 3 February 2016'; 'The road bridge was inaugurated on 11 June 2017.'",
+      "result": "confirmed",
+      "detail": "Length and both dates match."
+    },
+    {
+      "kind": "milestone",
+      "item": "2025: UN counts a 9.9 million 'Hajipur' urban area",
+      "source_opened": "https://population.un.org/wup/assets/Download/Cities/WUP2025-F18-DEGURBA-100_Largest_Cities.xlsx (downloaded afresh from the UN site)",
+      "found": "Row for Hajipur, India, 2025: rank 34, population 9941.51 thousand, land area 3092 km2.",
+      "result": "confirmed",
+      "detail": "Population and area match the UN file."
+    }
+  ],
+  "summary": "All ten sampled items match the cited sources; nothing was changed."
+}

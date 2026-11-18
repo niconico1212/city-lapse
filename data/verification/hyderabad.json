@@ -1,0 +1,88 @@
+{
+  "slug": "hyderabad",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1591: Hyderabad founded by Muhammad Quli Qutb Shah around the Charminar",
+      "source_opened": "https://archive.org/download/imperialgazettee13grea/imperialgazettee13grea_djvu.txt ; https://en.wikipedia.org/wiki/Hyderabad",
+      "found": "Gazetteer: 'The city was founded in 1589 by Muhammad Kuli, the fifth Kutb Shahi king'; 'the Char Minar ... erected in 1591'. Wikipedia infobox: Founded 1591, founder Muhammad Quli Qutb Shah",
+      "result": "confirmed",
+      "detail": "As the source string itself says: the gazetteer gives 1589 for the founding and 1591 for the Charminar; Wikipedia gives 1591."
+    },
+    {
+      "kind": "population",
+      "item": "population 70,000 in 1591 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, figshare 2059494)",
+      "found": "Row Hyderabad, India: AD_1591 = 70000",
+      "result": "confirmed",
+      "detail": "Value in the Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 80,000 in 1600 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv)",
+      "found": "Row Hyderabad: AD_1600 = 80000",
+      "result": "confirmed",
+      "detail": "Value in the Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 367,417 in 1881 (documented)",
+      "source_opened": "https://archive.org/download/imperialgazettee13grea/imperialgazettee13grea_djvu.txt",
+      "found": "'The population (including the suburbs, Residency Bazars, and the adjoining cantonment) was: (1881) 367,417, (1891) 415,039, and (1901) 448,466'",
+      "result": "confirmed",
+      "detail": "Number, year and area match."
+    },
+    {
+      "kind": "population",
+      "item": "population 448,466 in 1901 (documented)",
+      "source_opened": "https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "found": "Hyderabad U.A.: 1901 = 448466 (gazetteer gives the same figure)",
+      "result": "confirmed",
+      "detail": "Matches Table A-4 and the gazetteer."
+    },
+    {
+      "kind": "landmark",
+      "item": "Buddha Statue of Hyderabad: completed 1992, height 17.7 m, at 17.4156, 78.475 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Buddha_Statue_of_Hyderabad",
+      "found": "Infobox: height 58 ft, dedicated 1 December 1992, coord 17d24m56s N 78d28m30s E (= 17.4156, 78.4750)",
+      "result": "confirmed",
+      "detail": "58 ft = 17.7 m; year and coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Lodha Bellezza 3: completed 2014, height 153.0 m, at 17.4749, 78.3926 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/lodha-bellezza-3/14687 ; https://www.skyscrapercenter.com/city/hyderabad",
+      "found": "Lodha Bellezza 3, Raintree Park Road, completion 2014, 45 floors; city record id 14687: height 153.00, lat 17.474920, lon 78.392639",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match CTBUH."
+    },
+    {
+      "kind": "landmark",
+      "item": "Dr. B. R. Ambedkar Telangana State Secretariat: completed 2023, height 80.8 m, at 17.41002, 78.46998 (documented)",
+      "source_opened": "https://www.freepressjournal.in/india/hyderabad-telanganas-grand-secretariat-a-brainchild-of-cm-kcr-thrown-open ; https://en.wikipedia.org/wiki/Telangana_Secretariat",
+      "found": "FPJ (30 April 2023): opened Sunday; 'planned height of 265 feet'. Wikipedia: height 265 ft, inaugurated 30 April 2023, coord 17d24m36.071s N 78d28m11.92s E (= 17.41002, 78.46998)",
+      "result": "confirmed",
+      "detail": "265 ft = 80.8 m; year and coordinates match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1724: Asaf Jah I establishes the Nizams' rule, defeating Mubariz Khan; the city wall begun by Mubariz Khan was completed under the first Nizam.",
+      "source_opened": "https://en.wikipedia.org/wiki/Hyderabad ; https://archive.org/download/imperialgazettee13grea/imperialgazettee13grea_djvu.txt",
+      "found": "Wikipedia: 'In 1724, Asaf Jah I defeated Mubariz Khan ... and started what came to be known as the Asaf Jahi dynasty'. Gazetteer: 'The wall was commenced by Mubariz Khan, the last Mughal Subahdar, and completed by the first of the Nizams'",
+      "result": "confirmed",
+      "detail": "Year and both details match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1769: Capital of the Nizams. Hyderabad city became the formal capital of the Asaf Jahi Nizams.",
+      "source_opened": "https://en.wikipedia.org/wiki/Hyderabad",
+      "found": "'In 1769 Hyderabad city became the formal capital of the Asaf Jahi Nizams'",
+      "result": "confirmed",
+      "detail": "Year and event match."
+    }
+  ],
+  "summary": "All ten sampled figures match the cited Imperial Gazetteer volume, Chandler file, Census A-4 table, CTBUH record, Wikipedia pages and the Free Press Journal article. Nothing changed."
+}

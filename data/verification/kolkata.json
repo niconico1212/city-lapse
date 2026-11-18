@@ -1,0 +1,88 @@
+{
+  "slug": "kolkata",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1690: East India Company settles at Sutanuti under Job Charnock",
+      "source_opened": "https://archive.org/details/in.ernet.dli.2015.460515 (full-text OCR of Imperial Gazetteer of India vol. 9)",
+      "found": "p. 263: 'on August 24, 1690, the English returned to Sutanuti under Charnock, at the invitation of the Nawab, and laid the foundation of modern Calcutta.'",
+      "result": "confirmed",
+      "detail": "Year and event match the cited page."
+    },
+    {
+      "kind": "population",
+      "item": "population 611,784 in 1876 (documented)",
+      "source_opened": "https://archive.org/details/in.ernet.dli.2015.460515 (full-text OCR of Imperial Gazetteer of India vol. 9)",
+      "found": "p. 267: 'it was not until 1876 that the first complete Census was taken. The population then enumerated for the whole area of modern Calcutta was 611,784'.",
+      "result": "confirmed",
+      "detail": "Number, year and area match."
+    },
+    {
+      "kind": "population",
+      "item": "population 682,305 in 1891 (documented)",
+      "source_opened": "https://archive.org/details/in.ernet.dli.2015.460515 (full-text OCR of Imperial Gazetteer of India vol. 9)",
+      "found": "p. 267: '... which grew to 612,307 in 1881, to 682,305 in 1891, and to 847,796 in 1901.'",
+      "result": "confirmed",
+      "detail": "Number and year match."
+    },
+    {
+      "kind": "population",
+      "item": "population 1,872,737 in 1921 (documented)",
+      "source_opened": "https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "found": "Table A-4, Class I, serial 3 'Kolkata U.A.', 1921, persons: 1872737.",
+      "result": "confirmed",
+      "detail": "Matches; urban agglomeration, as the data's note says."
+    },
+    {
+      "kind": "population",
+      "item": "population 2,123,128 in 1931 (documented)",
+      "source_opened": "https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "found": "Table A-4, Class I, serial 3 'Kolkata U.A.', 1931, persons: 2123128.",
+      "result": "confirmed",
+      "detail": "Matches."
+    },
+    {
+      "kind": "landmark",
+      "item": "St. John's Church: completed 1787, height 53 m, at 22.5699, 88.3459 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/St._John's_Church,_Kolkata ; OpenStreetMap Nominatim search",
+      "found": "Wikipedia: construction 'started in 1784 ... and was completed in 1787'; 'A stone spire 174 ft tall' (cited to The Telegraph, 3 January 2010); coordinates 22.5699, 88.3459. OSM church node 5 m away.",
+      "result": "confirmed",
+      "detail": "174 ft is 53.0 m; year and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Victoria Memorial: completed 1921, height 56.1 m, at 22.5449, 88.3425 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata ; OpenStreetMap Nominatim search",
+      "found": "Wikipedia: built between 1906 and 1921, opened December 1921; 'rises to a height of 184 ft'. OSM museum node 8 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "184 ft is 56.1 m; year and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Urbana Tower 2: completed 2015, height 165 m, at 22.5123, 88.4125 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/urbana-tower-2/10724 ; OpenStreetMap Nominatim search",
+      "found": "CTBUH: Urbana Tower 2, status Completed, completion 2015, height 165 m / 541 ft, Nazirabad Road, Anandapur. OSM building 'Urbana Tower 2' at 22.51230, 88.41268, 18 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1742: Maratha Ditch dug",
+      "source_opened": "https://archive.org/details/in.ernet.dli.2015.460515 (full-text OCR of Imperial Gazetteer of India vol. 9)",
+      "found": "p. 263: 'In 1742 the inhabitants commenced to dig an entrenchment round their settlement as a defence against the Marathas ... known as the Maratha Ditch, followed the course of the modern Circular Road, but it was never completed along the southern boundary.'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1773: New Fort William; seat of British India",
+      "source_opened": "https://archive.org/details/in.ernet.dli.2015.460515 (full-text OCR of Imperial Gazetteer of India vol. 9)",
+      "found": "p. 264: the present fort 'was not finished till 1773 ... The clearing of the jungle round the fort led to the formation of the Maidan ... In 1773, by an Act of Parliament, the Governor and Council of Bengal were invested with control over the other Indian possessions of the Company'.",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    }
+  ],
+  "summary": "All ten sampled items match the cited sources; nothing was changed."
+}

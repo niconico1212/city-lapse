@@ -1,0 +1,88 @@
+{
+  "slug": "lahore",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 982: Lahore first named in a written source, the Hudud al-'Alam",
+      "source_opened": "https://en.wikipedia.org/wiki/Lahore#Origins",
+      "found": "'The first document that mentions Lahore by name is the Hudud al-'Alam (\"The Regions of the World\"), written in 982 CE' (citing Minorsky's translation at kroraina.com/hudud)",
+      "result": "confirmed",
+      "detail": "Year and description match the cited page."
+    },
+    {
+      "kind": "population",
+      "item": "population 500,000 in 1622 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, figshare 2059494)",
+      "found": "Row Lahore, Pakistan: AD_1622 = 500000",
+      "result": "confirmed",
+      "detail": "Value in the Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 94,143 in 1855 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv)",
+      "found": "Row Lahore: AD_1855 = 94143",
+      "result": "confirmed",
+      "detail": "Value in the Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 149,369 in 1881 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Lahore#Religion",
+      "found": "Religious-groups table, 1881 column, total population 149,369 (citing the 1881 Panjab census report)",
+      "result": "confirmed",
+      "detail": "Matches the table the source cites; not checked against the JSTOR scan itself."
+    },
+    {
+      "kind": "population",
+      "item": "population 429,747 in 1931 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Lahore#Religion",
+      "found": "Same table, 1931 column, total population 429,747",
+      "result": "confirmed",
+      "detail": "Matches the table the source cites."
+    },
+    {
+      "kind": "landmark",
+      "item": "Badshahi Mosque: completed 1673, height 59.7 m, at 31.5881, 74.3094 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Badshahi_Mosque",
+      "found": "Infobox: completed 1673, minaret height 196 ft, coord 31d35m17s N 74d18m34s E (= 31.5881, 74.3094); text: 'Each minaret is 196 ft tall'",
+      "result": "confirmed",
+      "detail": "196 ft = 59.7 m; year and coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Minar-e-Pakistan: completed 1968, height 70 m, at 31.5925, 74.3095 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Minar-e-Pakistan",
+      "found": "Infobox: complete 22 March 1968, height 70 m, coord 31.5925, 74.3095; text: base 8 m, tower 62 m on the base, 'total height ... around 70 m'",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Grand Jamia Mosque, Bahria Town: completed 2014, height 50.3 m, at 31.3681, 74.1858 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Grand_Jamia_Mosque,_Lahore",
+      "found": "Infobox: minaret height 165 feet, coord 31.368100, 74.185787; 'inaugurated on Eid al-Adha on 6 October 2014'; 'four minarets, each 165 ft tall'",
+      "result": "confirmed",
+      "detail": "165 ft = 50.3 m; year and coordinates match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1152: Lahore becomes a Ghaznavid capital under Khusrau Shah, and the sole capital after Ghazni fell in 1163.",
+      "source_opened": "https://en.wikipedia.org/wiki/Lahore#Ghaznavid",
+      "found": "'Lahore was formally made the eastern capital of Ghaznavid Empire during the reign of Khusrau Shah in 1152. After the fall of Ghazni in 1163, it became the sole capital.'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1849: Punjab annexed by the British; Company in control of Lahore since 1846; Civil Station and The Mall south of the Walled City, cantonment at Mian Mir.",
+      "source_opened": "https://en.wikipedia.org/wiki/Lahore#British_colonial_period",
+      "found": "'The British East India Company seized control of Lahore in February 1846'; 'annexed by the East India Company in 1849'; capital laid out 'south of the Walled City ... Civil Station'; 'Lahore Cantonment to the southeast of the Walled City at the former village of Mian Mir'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    }
+  ],
+  "summary": "All ten sampled figures match the Chandler file and the Wikipedia pages cited as intermediaries. Nothing changed."
+}

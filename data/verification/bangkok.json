@@ -1,0 +1,88 @@
+{
+  "slug": "bangkok",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1448: Thonburi (Bangkok) customs post recorded under King Chao Sam Phraya of Ayutthaya (r. 1424-1448)",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Bangkok",
+      "found": "'The town had become an important customs outpost by as early as the 15th century; the title of its customs official is given as Nai Phra Khanon Thonburi in a document from the reign of Ayutthayan king Chao Sam Phraya (1424-1448).'",
+      "result": "confirmed",
+      "detail": "The source supports the event; it dates the document only to the reign, so 1448 is the last year of that reign and the start is already marked estimated."
+    },
+    {
+      "kind": "population",
+      "item": "population 437,294 in 1919 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Bangkok#Demography",
+      "found": "Historical populations table sourced to the National Statistical Office (2010 Thailand Statistical Yearbook, special edition): 1919: 437294.",
+      "result": "confirmed",
+      "detail": "Matches the table as cited."
+    },
+    {
+      "kind": "population",
+      "item": "population 713,384 in 1929 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Bangkok#Demography",
+      "found": "Historical populations table sourced to the National Statistical Office (2010 Thailand Statistical Yearbook, special edition): 1929: 713384.",
+      "result": "confirmed",
+      "detail": "Matches the table as cited."
+    },
+    {
+      "kind": "population",
+      "item": "population 890,453 in 1937 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Bangkok#Demography",
+      "found": "Historical populations table sourced to the National Statistical Office (2010 Thailand Statistical Yearbook, special edition): 1937: 890453.",
+      "result": "confirmed",
+      "detail": "Matches the table as cited."
+    },
+    {
+      "kind": "population",
+      "item": "population 1,178,881 in 1947 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Bangkok#Demography",
+      "found": "Historical populations table sourced to the National Statistical Office (2010 Thailand Statistical Yearbook, special edition): 1947: 1178881.",
+      "result": "confirmed",
+      "detail": "Matches the table as cited."
+    },
+    {
+      "kind": "landmark",
+      "item": "Ananta Samakhom Throne Hall: completed 1915, height 49.5 m, at 13.7716, 100.5133 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Ananta_Samakhom_Throne_Hall ; OpenStreetMap Nominatim search",
+      "found": "Completion date 1915; 'a large dome (49.5 m high) in the centre'; coordinates 13.771649, 100.513251. OSM object 29 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "Year, dome height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Democracy Monument: completed 1940, height 24 m, at 13.7567, 100.5017 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Democracy_Monument ; OpenStreetMap Nominatim search",
+      "found": "Opening ceremony 24 June 1940; 'The wings are 24 m high'; coordinates 13°45'24\"N 100°30'6\"E. OSM monument 16 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "Year, wing height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Victory Monument: completed 1942, height 50 m, at 13.7647, 100.5386 (estimated)",
+      "source_opened": "https://th.wikipedia.org/wiki/อนุสาวรีย์ชัยสมรภูมิ ; https://en.wikipedia.org/wiki/Victory_Monument_(Bangkok) ; OpenStreetMap Nominatim search",
+      "found": "Thai article: infobox height 50 m, text 'about 50 metres' high, opened 24 June B.E. 2485 (1942). English infobox: completion date 24 June 1942; coordinates 13°45'53\"N 100°32'19\"E. OSM monument 43 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "Year, approximate height (already marked estimated) and position match. The English lead says 'erected in June 1941', which is the foundation-stone date in the Thai article; 1942 is the opening."
+    },
+    {
+      "kind": "milestone",
+      "item": "1820: Cholera epidemic kills about 30,000",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Bangkok",
+      "found": "Timeline: '1820: Cholera pandemic kills 30,000'; '1849: Cholera again devastates population'.",
+      "result": "confirmed",
+      "detail": "Year and figure match the cited page."
+    },
+    {
+      "kind": "milestone",
+      "item": "1999: BTS Skytrain opens",
+      "source_opened": "https://en.wikipedia.org/wiki/BTS_Skytrain",
+      "found": "'The Skytrain system was opened on 5 December 1999'; opening sections: Sukhumvit Line Mo Chit - On Nut, Silom Line National Stadium - Saphan Taksin.",
+      "result": "confirmed",
+      "detail": "Date and lines match."
+    }
+  ],
+  "summary": "All ten sampled items match the cited pages; nothing was changed."
+}

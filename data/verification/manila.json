@@ -1,0 +1,88 @@
+{
+  "slug": "manila",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 900: Tondo named in the Laguna Copperplate Inscription",
+      "source_opened": "https://en.wikipedia.org/wiki/Laguna_Copperplate_Inscription",
+      "found": "Inscription dated Shaka year 822 = Monday 21 April 900 (Julian); 'documents the existence and names of several surrounding states as of A.D. 900, such as the Tagalog city-state of Tondo' (citing Postma 1992); the translated text names the 'Chief and Commander of Tundun'.",
+      "result": "confirmed",
+      "detail": "Year and event match. The Tundun = Tondo identification is Postma's reading, which the city file's notes already disclose."
+    },
+    {
+      "kind": "population",
+      "item": "population 28,000 in 1591 (estimated)",
+      "source_opened": "chandlerV2.csv downloaded from https://doi.org/10.6084/m9.figshare.2059494 (figshare file 5407640)",
+      "found": "Row 'Manila, Philippines': AD_1591 = 28000.",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 77,000 in 1800 (estimated)",
+      "source_opened": "chandlerV2.csv downloaded from https://doi.org/10.6084/m9.figshare.2059494 (figshare file 5407640)",
+      "found": "Row 'Manila, Philippines': AD_1800 = 77000.",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 90,000 in 1825 (estimated)",
+      "source_opened": "chandlerV2.csv downloaded from https://doi.org/10.6084/m9.figshare.2059494 (figshare file 5407640)",
+      "found": "Row 'Manila, Philippines': AD_1825 = 90000.",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 983,906 in 1948 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Timeline_of_Manila ; https://en.wikipedia.org/wiki/Manila",
+      "found": "Timeline, under 1948: 'Population: 983,906 city; 1,569,148 metro' (Stinner 1981; UN Demographic Yearbook 1955). The census table in the Manila article shows 1948: 983,906.",
+      "result": "confirmed",
+      "detail": "Number, year and area (City of Manila) match; the metro figure in the note also matches."
+    },
+    {
+      "kind": "landmark",
+      "item": "San Sebastian Church: completed 1891, height 32 m, at 14.5997, 120.9889 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/San_Sebastian_Church_(Manila)",
+      "found": "Completed and consecrated 16 August 1891; 'the basilica's nave rises 12 m to the dome and 32 m to the tips of the twin spires'; article coordinates 14.5997, 120.9889.",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Manila City Hall clock tower: completed 1941, height 30.5 m, at 14.5898, 120.9816 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/Manila_City_Hall",
+      "found": "Infobox: construction started 1939, completion 19 August 1941; clock tower 'reaching close to 100 feet (30 m) in elevation'; coordinates 14.589793, 120.981617. The same article also says the tower 'was completed during the 1930s', which is at odds with its own infobox.",
+      "result": "confirmed",
+      "detail": "Height (100 ft = 30.5 m) and position match, and 1941 is the building's completion date in the infobox. The page is loose on the tower's own date; the point is already marked estimated, so left as is."
+    },
+    {
+      "kind": "landmark",
+      "item": "Robinsons Equitable Tower: completed 1997, height 175 m, at 14.5895, 121.06 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/robinsons-equitable-tower/9144 ; https://en.wikipedia.org/wiki/Robinsons_Equitable_Tower (coordinates)",
+      "found": "CTBUH: Completion 1997; architectural height 175 m (201 m to tip); ADB Avenue. Wikipedia coord 14°35'21.82\"N 121°3'35.74\"E (14.5894, 121.0599).",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1863: Earthquake of 3 June 1863 destroyed the cathedral built in 1854-1858 and Quiapo Church",
+      "source_opened": "https://en.wikipedia.org/wiki/Manila_Cathedral ; https://en.wikipedia.org/wiki/Quiapo_Church",
+      "found": "Cathedral: years built '1854-1858 (destroyed 1863)'; 'On June 3, 1863, the sixth cathedral was damaged by a very strong earthquake', the ruins were later demolished. Quiapo: 'An earthquake in 1863 destroyed the church'.",
+      "result": "confirmed",
+      "detail": "Date and both buildings match. (The cathedral's body text says 'damaged', its infobox 'destroyed'; the ruins were pulled down afterwards.)"
+    },
+    {
+      "kind": "milestone",
+      "item": "1905: Burnham Plan of Manila (diagonal arteries from a new civic district, waterfront improvements, parks and parkways)",
+      "source_opened": "https://en.wikipedia.org/wiki/Manila",
+      "found": "'The 1905 Burnham Plan of Manila recommended ... creating diagonal arteries radiating from the new central civic district ... beautification of Manila with waterfront improvements and construction of parks, parkways, and buildings' (Moore 1921, pp. 162, 180).",
+      "result": "confirmed",
+      "detail": "Year and description match the cited passage."
+    }
+  ],
+  "summary": "All 10 sampled figures match their sources: three Chandler estimates are exact against the figshare file, the 1948 census figure is on both cited pages, and the three landmarks and two milestones check out. No edits made."
+}

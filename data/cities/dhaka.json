@@ -467,11 +467,12 @@
       "name": "Gulshan Tower",
       "year": 2016,
       "height_m": 125.0,
-      "lat": 23.7861,
-      "lon": 90.4167,
+      "lat": 23.7953,
+      "lon": 90.4134,
       "kind": "skyscraper",
-      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/gulshan-tower/17164",
-      "confidence": "documented"
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/gulshan-tower/17164; position: OpenStreetMap way 371772673, https://www.openstreetmap.org/way/371772673",
+      "confidence": "estimated",
+      "note": "Verification (2026-11-18): CTBUH lists a 30-floor, 125 m residential Gulshan Tower at 31 Gulshan Avenue completed in 2016, but no other source was found for it. The only building of that name and address in OpenStreetMap is a 12-level commercial block at Gulshan-2, and the building is absent from the Wikipedia list of Dhaka buildings over 100 m. Height is therefore doubtful and confidence was lowered to estimated. Coordinates moved from 23.7861, 90.4167 (about 1 km south, unsourced) to the OpenStreetMap position of Gulshan Tower, 31 Gulshan Avenue."
     },
     {
       "name": "Pinnacle",

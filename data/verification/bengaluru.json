@@ -1,0 +1,104 @@
+{
+ "slug": "bengaluru",
+ "verified_by": "independent verification agent (phase 7)",
+ "date": "2026-11-18",
+ "checks": [
+  {
+   "kind": "start",
+   "item": "start_year 1537: Kempe Gowda founds Bangalore and builds its mud fort",
+   "source_opened": "https://archive.org/details/in.ernet.dli.2015.120384 (full-text OCR of Imperial Gazetteer of India vol. 6) ; https://en.wikipedia.org/wiki/Bengaluru",
+   "found": "Gazetteer: 'Bangalore was founded in 1537 by Kempe Gauda, the chief of Yelahanka, and a watch-tower at each of the cardinal points marks the limits ...'. Wikipedia: 'In 1537 CE, Kempe Gowda I ... established a mud fort which is considered the foundation of the modern city'.",
+   "result": "confirmed",
+   "detail": "Year and event match both cited sources."
+  },
+  {
+   "kind": "population",
+   "item": "population 50,000 in 1800 (estimated)",
+   "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, from figshare article 2059494 cited by the data)",
+   "found": "Row Bangalore, column AD_1800: 50000.",
+   "result": "confirmed",
+   "detail": "Matches the digitised Chandler file."
+  },
+  {
+   "kind": "population",
+   "item": "population 142,513 in 1871 (documented)",
+   "source_opened": "https://archive.org/details/in.ernet.dli.2015.120384 (full-text OCR of Imperial Gazetteer of India vol. 6)",
+   "found": "Bangalore city: '(1871) 60,703, (1881) 62,317, (1891) 80,285, and (1901) 69,447'. Civil and Military Station: '(1871) 81,810 ... (1891) 100,081, and (1901) 89,599' (OCR slightly garbled but legible).",
+   "result": "confirmed",
+   "detail": "60,703 + 81,810 = 142,513, as the data's note explains; year and area match."
+  },
+  {
+   "kind": "population",
+   "item": "population 309,785 in 1931 (documented)",
+   "source_opened": "https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+   "found": "Table A-4, Class I, serial 5 'Bruhat Bangalore U.A.', 1931, persons: 309785.",
+   "result": "confirmed",
+   "detail": "Matches."
+  },
+  {
+   "kind": "population",
+   "item": "population 410,967 in 1941 (documented)",
+   "source_opened": "https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+   "found": "Table A-4, Class I, serial 5 'Bruhat Bangalore U.A.', 1941, persons: 410967.",
+   "result": "confirmed",
+   "detail": "Matches."
+  },
+  {
+   "kind": "landmark",
+   "item": "Shivoham Shiva statue: completed 1995, height 19.8 m, at 12.9578, 77.6564 (documented)",
+   "source_opened": "https://en.wikipedia.org/wiki/Shivoham_Shiva_Temple ; OpenStreetMap Nominatim search",
+   "found": "'Built in 1995, it features a 65 ft statue of Shiva'; infobox completed 1995, coordinates 12.958, 77.654 (three decimals). OSM 'Shivoham Shiva Temple' at 12.95784, 77.65637, 6 m from the claimed point.",
+   "result": "confirmed",
+   "detail": "65 ft is 19.8 m; year matches; the position follows OpenStreetMap, as the data's note says, and is about 260 m east of Wikipedia's rounded coordinates."
+  },
+  {
+   "kind": "landmark",
+   "item": "Mantri Pinnacle: completed 2016, height 153 m, at 12.8759, 77.598 (documented)",
+   "source_opened": "https://www.skyscrapercenter.com/building/mantri-pinnacle/14522 ; OpenStreetMap Nominatim search",
+   "found": "CTBUH: Mantri Pinnacle, completion 2016, 153 m, 46 floors, Cave Temple Road. OSM 'Mantri Pinnacle' site 31 m from the claimed point.",
+   "result": "confirmed",
+   "detail": "Year, height and position match."
+  },
+  {
+   "kind": "landmark",
+   "item": "Four Seasons Hotel Bengaluru: completed 2019, height 105 m, at 13.0194, 77.5852 (documented)",
+   "source_opened": "https://www.skyscrapercenter.com/building/four-seasons-hotel-bengaluru/34867 ; OpenStreetMap Nominatim search",
+   "found": "CTBUH: Four Seasons Hotel Bengaluru, completion 2019, 105 m, 28 floors. OSM 'Four Seasons Hotel', Bellary Road, 32 m from the claimed point.",
+   "result": "confirmed",
+   "detail": "Year, height and position match."
+  },
+  {
+   "kind": "milestone",
+   "item": "1638: Conquered by Bijapur",
+   "source_opened": "https://en.wikipedia.org/wiki/Bengaluru",
+   "found": "'In 1638 CE, an Adil Shahi army defeated Kempe Gowda III, and the city became a jagir (feudal estate) of Shahaji.'",
+   "result": "confirmed",
+   "detail": "Year and description match."
+  },
+  {
+   "kind": "milestone",
+   "item": "1791: Captured by Cornwallis",
+   "source_opened": "https://en.wikipedia.org/wiki/Bengaluru",
+   "found": "'The Bengaluru fort was captured by British forces under Charles Cornwallis on 21 March 1791 during the Third Anglo-Mysore War'.",
+   "result": "confirmed",
+   "detail": "Date and description match."
+  },
+  {
+   "kind": "landmark",
+   "item": "Zenith Residence Tower 1: height confidence (extra check, CTBUH sweep)",
+   "source_opened": "https://www.skyscrapercenter.com/building/zenith-residence-tower-1/35755",
+   "found": "height is estimated, based on a floor count of 34 floors .",
+   "result": "flagged",
+   "detail": "Not in the random sample. Found by a scripted sweep of every CTBUH page cited in the project, run after a verifier noticed floor-count estimates stored as documented. Confidence lowered to estimated and a note added; height unchanged."
+  },
+  {
+   "kind": "landmark",
+   "item": "Four Seasons Hotel Bengaluru: height confidence (extra check, CTBUH sweep)",
+   "source_opened": "https://www.skyscrapercenter.com/building/four-seasons-hotel-bengaluru/34867",
+   "found": "height is estimated, based on a floor count of 28 floors .",
+   "result": "flagged",
+   "detail": "Not in the random sample. Found by a scripted sweep of every CTBUH page cited in the project, run after a verifier noticed floor-count estimates stored as documented. Confidence lowered to estimated and a note added; height unchanged."
+  }
+ ],
+ "summary": "All ten sampled items match the cited sources; nothing was changed."
+}

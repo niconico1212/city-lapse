@@ -1,0 +1,88 @@
+{
+  "slug": "ahmedabad",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1411: Ahmad Shah I founds Ahmedabad as capital of the Gujarat Sultanate",
+      "source_opened": "https://archive.org/details/imperialgazettee05grea (full-text OCR of Imperial Gazetteer of India vol. 5) ; https://en.wikipedia.org/wiki/Ahmedabad",
+      "found": "Gazetteer, 'Ahmadabad City': the name 'is derived from its founder, Ahmad Shah, Sultan of Gujarat (1411-43)'. Wikipedia: 'Ahmed Shah I laid the foundation of the city on 26 February 1411' and moved the capital there in 1411.",
+      "result": "confirmed",
+      "detail": "Year and event match; the Gazetteer gives the reign rather than a founding date, and the day comes from Wikipedia as the citation says."
+    },
+    {
+      "kind": "population",
+      "item": "population 190,000 in 1600 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, from figshare article 2059494 cited by the data)",
+      "found": "Row Ahmedabad, column AD_1600: 190000.",
+      "result": "confirmed",
+      "detail": "Matches the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 87,000 in 1824 (documented)",
+      "source_opened": "https://archive.org/details/dli.csl.3354 (full-text OCR of Gazetteer of the Bombay Presidency vol. IV, 1879)",
+      "found": "p. 293: population 'slowly increased to 87,000 in 1824; 90,000 in 1832; 94,390 in ...'. p. 261: 'The population rose from 80,000 in 1817 to about 88,000 in 1824.'",
+      "result": "confirmed",
+      "detail": "Number, year and page match, including the note about 88,000 on p. 261."
+    },
+    {
+      "kind": "population",
+      "item": "population 148,412 in 1891 (documented)",
+      "source_opened": "https://archive.org/details/imperialgazettee05grea (full-text OCR of Imperial Gazetteer of India vol. 5)",
+      "found": "'In 1851 it contained a population of 97,048, in 1872 of 119,672, in 1881 of 127,621, and in 1891 of 148,412.'",
+      "result": "confirmed",
+      "detail": "Matches."
+    },
+    {
+      "kind": "population",
+      "item": "population 627,009 in 1941 (documented)",
+      "source_opened": "https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx (Table A-4, Class I, from the cited catalogue entry)",
+      "found": "Table A-4: serial 7 'Ahmadabad U.A.', 1941, persons: 627009.",
+      "result": "confirmed",
+      "detail": "Matches; urban agglomeration, as the data's note says."
+    },
+    {
+      "kind": "landmark",
+      "item": "Teen Darwaza: completed 1415, height 7.6 m, at 23.0242, 72.5846 (documented)",
+      "source_opened": "https://archive.org/details/dli.csl.3354 (full-text OCR of Gazetteer of the Bombay Presidency vol. IV, 1879) ; https://en.wikipedia.org/wiki/Teen_Darwaza ; OpenStreetMap Nominatim search",
+      "found": "Gazetteer: the Tin Darwaza or Three Gateways, built by Sultan Ahmad I; 'The height of the arches is twenty-five feet.' Wikipedia: completed in 1415; coordinates 23.0242, 72.5846. OSM city gate 17 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "25 ft is 7.6 m; year and position match. The height is of the arches only, as the note already says."
+    },
+    {
+      "kind": "landmark",
+      "item": "Queen's Mosque, Mirzapur (Rani Rupamati's Mosque): completed 1440, height 9.8 m, at 23.03202, 72.58398 (estimated)",
+      "source_opened": "https://archive.org/details/dli.csl.3354 (full-text OCR of Gazetteer of the Bombay Presidency vol. IV, 1879) ; https://en.wikipedia.org/wiki/Rani_Rupamati's_Mosque (coordinates)",
+      "found": "Gazetteer: 'the Queen's mosque in Mirzapur, built probably in the latter years (1430-1440) of Sultan Ahmad I.'s reign. This mosque, 105 feet long, forty-six broad, and thirty-two high ... broken short in the 1819 earthquake'. Wikipedia coordinates 23.0320233, 72.5839783.",
+      "result": "confirmed",
+      "detail": "32 ft is 9.8 m; 1440 is the end of the source's date range and the entry is already marked estimated; position matches."
+    },
+    {
+      "kind": "landmark",
+      "item": "Patang Hotel (revolving restaurant tower): completed 1984, height 67.4 m, at 23.0264, 72.5722 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Patang_Hotel",
+      "found": "'Built in 1980-1984, 221 ft above the ground'; 'According the 2018 Limca book of Records, it was the first revolving restaurant at 221 ft above the ground level in India'; coordinates 23°01'35.0\"N 72°34'19.8\"E (23.0264, 72.5722).",
+      "result": "confirmed",
+      "detail": "221 ft is 67.4 m; year and position match. OpenStreetMap search found no object by this name, so the position rests on Wikipedia's coordinates."
+    },
+    {
+      "kind": "milestone",
+      "item": "1819: Earthquake",
+      "source_opened": "https://archive.org/details/dli.csl.3354 (full-text OCR of Gazetteer of the Bombay Presidency vol. IV, 1879)",
+      "found": "p. 261: 'Soon after the transfer (June, 1819) the city suffered from a severe shock of earthquake. The shaking minarets of the Jama mosque fell and many houses were destroyed'. A footnote dates it 16 June 1819.",
+      "result": "confirmed",
+      "detail": "Year, month, description and page match."
+    },
+    {
+      "kind": "milestone",
+      "item": "2019: Ahmedabad Metro opens",
+      "source_opened": "https://en.wikipedia.org/wiki/Ahmedabad_Metro",
+      "found": "'A 6.5 km section of the East-West corridor was inaugurated on 4 March 2019.'",
+      "result": "confirmed",
+      "detail": "Date and length match."
+    }
+  ],
+  "summary": "All ten sampled items match the cited sources; nothing was changed."
+}

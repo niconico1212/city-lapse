@@ -18,62 +18,62 @@
   },
   {
    "year": 1800,
-   "area_km2": 0.05,
+   "area_km2": 0.06,
    "confidence": "reconstructed"
   },
   {
    "year": 1825,
-   "area_km2": 0.11,
+   "area_km2": 0.13,
    "confidence": "reconstructed"
   },
   {
    "year": 1850,
-   "area_km2": 0.28,
+   "area_km2": 0.34,
    "confidence": "reconstructed"
   },
   {
    "year": 1875,
-   "area_km2": 0.87,
+   "area_km2": 1.08,
    "confidence": "reconstructed"
   },
   {
    "year": 1900,
-   "area_km2": 12.93,
+   "area_km2": 15.6,
    "confidence": "reconstructed"
   },
   {
    "year": 1910,
-   "area_km2": 46.79,
+   "area_km2": 55.04,
    "confidence": "reconstructed"
   },
   {
    "year": 1920,
-   "area_km2": 98.2,
+   "area_km2": 112.68,
    "confidence": "reconstructed"
   },
   {
    "year": 1930,
-   "area_km2": 244.94,
+   "area_km2": 274.11,
    "confidence": "reconstructed"
   },
   {
    "year": 1940,
-   "area_km2": 345.78,
+   "area_km2": 377.4,
    "confidence": "reconstructed"
   },
   {
    "year": 1950,
-   "area_km2": 1080.39,
+   "area_km2": 1150.07,
    "confidence": "reconstructed"
   },
   {
    "year": 1960,
-   "area_km2": 2026.01,
+   "area_km2": 2103.42,
    "confidence": "reconstructed"
   },
   {
    "year": 1970,
-   "area_km2": 3020.09,
+   "area_km2": 3058.08,
    "confidence": "reconstructed"
   },
   {
@@ -172,7 +172,7 @@
    }
   ],
   "start_site": null,
-  "density_decline_per_year": 0.015,
+  "density_decline_per_year": 0.0125,
   "density_peak_year": 1890,
   "density_cap_per_ha": 500.0,
   "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",

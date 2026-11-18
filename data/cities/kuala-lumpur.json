@@ -360,7 +360,8 @@
       "lon": 101.6793,
       "kind": "skyscraper",
       "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/bangunan-parlimen-malaysia/44639",
-      "confidence": "documented"
+      "confidence": "estimated",
+      "note": "Verification (2026-11-18): confidence lowered from documented to estimated. CTBUH states that its 75 m is estimated from the floor count (17 floors), not measured. Wikipedia (https://en.wikipedia.org/wiki/Malaysian_Houses_of_Parliament), citing Emporis, describes the tower block as 17 storeys and 77 m tall. The building opened on 2 November 1963."
     },
     {
       "name": "National Mosque (Masjid Negara) minaret",

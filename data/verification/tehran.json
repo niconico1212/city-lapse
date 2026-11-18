@@ -1,0 +1,88 @@
+{
+  "slug": "tehran",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 874: Village of Tehran near Rayy attested through a native scholar",
+      "source_opened": "https://bahai-library.com/pdf/e/encyclopedia_islam_tihran.pdf (Encyclopaedia of Islam, 2nd ed., 'Tihran'; PDF text extracted)",
+      "found": "'The earliest reference to Tihran is provisionally that of Ibn al-Balkhi's Fars-nama (written before 510/1116) ... the village of Tihran must have existed before the time of Istakhri (340/951-2), for al-Sam'ani mentions his ancestor Abu Abd Allah Muhammad b. Hammad al-Tihrani al-Razi, who died at Askalan in Palestine in 261/874.'",
+      "result": "confirmed",
+      "detail": "Year and reasoning match the source; 874 is the scholar's death date, so the village is somewhat older, and the point is already marked estimated."
+    },
+    {
+      "kind": "population",
+      "item": "population 80,000 in 1861 (estimated)",
+      "source_opened": "https://bahai-library.com/pdf/e/encyclopedia_islam_tihran.pdf (Encyclopaedia of Islam, 2nd ed., 'Tihran'; PDF text extracted)",
+      "found": "'In 1861 the town was still within the old square; the population was 80,000 in summer and 120,000 in winter (Brugsch).'",
+      "result": "confirmed",
+      "detail": "Number, year and the summer/winter note match."
+    },
+    {
+      "kind": "population",
+      "item": "population 160,000 in 1891 (estimated)",
+      "source_opened": "https://bahai-library.com/pdf/e/encyclopedia_islam_tihran.pdf (Encyclopaedia of Islam, 2nd ed., 'Tihran'; PDF text extracted)",
+      "found": "'A recent study has supplied more reliable numbers: 106,482 in 1883; 160,000 in 1891; 210,000 in 1922; and 310,000 in 1932' (H. Zandjani, pp. 251-2).",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 310,000 in 1932 (estimated)",
+      "source_opened": "https://bahai-library.com/pdf/e/encyclopedia_islam_tihran.pdf (Encyclopaedia of Islam, 2nd ed., 'Tihran'; PDF text extracted)",
+      "found": "Same passage: '310,000 in 1932' (Zandjani).",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 540,000 in 1940 (estimated)",
+      "source_opened": "https://bahai-library.com/pdf/e/encyclopedia_islam_tihran.pdf (Encyclopaedia of Islam, 2nd ed., 'Tihran'; PDF text extracted)",
+      "found": "'The population of the city nevertheless increased rapidly, from 210,000 in 1922 to 540,000 in 1940' (Hourcade's section).",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Azadi Grand Hotel: completed 1978, height 90 m, at 35.7899, 51.39 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/azadi-grand-hotel/5138 ; https://en.wikipedia.org/wiki/Parsian_Azadi_Hotel (coordinates)",
+      "found": "CTBUH: Completion 1978; height 90 m; Azadi Hotel Road. Wikipedia coord 35.7896, 51.3900.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Sepehr Tower: completed 1998, height 115 m, at 35.7062, 51.4273 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/sepher-tower/4859 ; https://en.wikipedia.org/wiki/Sepehr_Tower (coordinates)",
+      "found": "CTBUH 'Sepher Tower': Completion 1998; height 115 m. Wikipedia coord 35°42'22\"N 51°25'38\"E (35.7061, 51.4272).",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Tehran International Tower: completed 2007, height 162 m, at 35.7426, 51.399 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/tehran-international-tower/3180 ; https://en.wikipedia.org/wiki/Tehran_International_Tower (coordinates)",
+      "found": "CTBUH: Completion 2007; architectural height 162 m; Hakim Highway. Wikipedia coord 35.7426808, 51.3991446.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1969: First comprehensive plan (Gruen and Farmanfarmaian; city limits for 25 years; growth towards Karaj)",
+      "source_opened": "https://bahai-library.com/pdf/e/encyclopedia_islam_tihran.pdf (Encyclopaedia of Islam, 2nd ed., 'Tihran'; PDF text extracted)",
+      "found": "'The first urbanisation plan, realised in 1969 by the Victor Gruen and Farmanfarmayan partnership, set the limits of the city for a period of 25 years (Hourcade). To block the development of the capital towards the south, several urban clusters were envisaged in the direction of Karadj'.",
+      "result": "confirmed",
+      "detail": "Year, authors, the 25-year limit and the westward direction match."
+    },
+    {
+      "kind": "milestone",
+      "item": "2007: Milad Tower completed (435 m, begun 1997, tallest structure in Iran)",
+      "source_opened": "https://en.wikipedia.org/wiki/Milad_Tower",
+      "found": "Infobox: construction start 1997, completion 2007, opening 7 October 2008; 435 m to the tip of the antenna; 'the tallest tower in Iran'. The text also says construction 'lasted for 11 years' up to the 2008 inauguration.",
+      "result": "confirmed",
+      "detail": "Year, height and start date match the cited page's infobox; the public inauguration was on 7 October 2008."
+    }
+  ],
+  "summary": "All 10 sampled figures match their sources: the start date, four population estimates and the 1969 plan are stated in the Encyclopaedia of Islam article as cited, and the three CTBUH towers and Milad Tower check out. No edits made."
+}

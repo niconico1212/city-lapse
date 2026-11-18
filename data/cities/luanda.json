@@ -450,7 +450,7 @@
       "kind": "skyscraper",
       "source": "https://www.skyscrapercenter.com/building/imob-business-tower/14831",
       "confidence": "documented",
-      "note": "Tallest building in Angola. The building could not be found on OpenStreetMap; the coordinates are a point on its street, Rua Major Kanhangulo, and may be off by a few hundred metres."
+      "note": "Tallest building in Angola. The building could not be found on OpenStreetMap; the coordinates are a point on its street, Rua Major Kanhangulo, and may be off by a few hundred metres. Verification (phase 7): year and height confirmed on CTBUH, but the position is flagged: no building-level coordinate was found (OpenStreetMap, Wikidata Q17630251 and the engineer's project page give only the street name), so the pin is not confirmed to within 300 m."
     }
   ],
   "footprint_epochs": "footprints/luanda/",

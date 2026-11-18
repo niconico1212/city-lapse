@@ -12,6 +12,12 @@
     "lon": 116.3972,
     "source": "https://en.wikipedia.org/wiki/Forbidden_City ; https://en.wikipedia.org/wiki/Beijing_city_fortifications"
   },
+  "start_site": {
+    "name": "Ji city site (Jicheng), Guang'anmen area, Xicheng",
+    "lat": 39.8894,
+    "lon": 116.35,
+    "source": "Point: coordinate template of https://en.wikipedia.org/wiki/Guang%27anmen (39.889423 N, 116.349978 E). Location of the site: https://en.wikipedia.org/wiki/Jicheng_(Beijing) , which says Ji 'is believed to be located ... just south of Guang'anmen in Xicheng and Fengtai Districts'; no city walls have been found, so the point marks the area, not a surveyed site. That article's own coordinate template gives 39.894262 N, 116.382425 E, about 2.8 km further east."
+  },
   "population": [
     {
       "year": 938,

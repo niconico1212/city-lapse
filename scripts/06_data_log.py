@@ -42,7 +42,10 @@ log-linearly and labels the result; before the first sourced point it shows no n
 **Footprint 1975-2025 (GHSL).** GHS-BUILT-S R2023A, 100 m grid, epochs every five years. A cell is
 built-up when at least 5 % of it (500 m2) is built surface. 1975-2020 are satellite-derived
 (`documented`); 2025 is a GHSL projection (`estimated`). No tile download failed and no resolution
-fallback was needed for any city.
+fallback was needed for any city. The early GHSL epochs are themselves back-cast from later imagery:
+in the Atlas of Urban Expansion cross-check below, our 1990-2014 footprints grow by a median factor
+of 1.29 where the Atlas's urban extents grow by 2.52, so GHSL probably overstates how much was
+built in 1975-1990, most of all in cities that grew fast afterwards.
 
 **Footprint before 1975 (reconstructed).** There is no global built-up map before 1975. Following the
 spec, the 1975 footprint is contracted backward toward the historic core:
@@ -54,8 +57,11 @@ spec, the 1975 footprint is contracted backward toward the historic core:
    grow once the main front is half-way to them.
 2. The target area for year Y is `A(1975) x P(Y)/P(1975) / m(Y)`, where P is the population series
    (researched points, then UN WUP 2018 to 1975) and m(Y) is how much denser cities were than in 1975:
-   density is assumed to fall 1.5 % a year from 1890 to 1975 and to be constant before 1890, after
-   Angel, Parent, Civco & Blei (2010), capped at 500 people per built-up hectare.
+   density is assumed to fall 1.25 % a year from 1890 to 1975, the middle of the 1.0-1.5 % range that
+   Angel, Parent, Civco & Blei (2010) report for 30 cities after a peak around 1890, and to be constant
+   before 1890 (our simplification; the paper has no data before 1800). Whole-city density is capped
+   at 500 people per built-up hectare. Using 1.0 % or 1.5 % instead would make footprints for 1890
+   and earlier about 24 % larger or 19 % smaller.
 3. The footprint at year Y is the A(Y) lowest-ranked cells. It never shrinks: population losses show in
    the counter, not as demolition. Before the first sourced population point the area ramps up from a
    single cell at the start year.

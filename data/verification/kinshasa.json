@@ -1,0 +1,96 @@
+{
+  "slug": "kinshasa",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1881: Léopoldville station founded by Henry Morton Stanley beside the Teke villages of Ntamo (Kintambo) and Nshasa",
+      "source_opened": "https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf",
+      "found": "p. 2 (French text): Léopoldville 'est née suite à la troisième expédition de Henry Morton Stanley au Congo (1879-1884) ... Lumenga Neso qui situe la création du poste de Léopoldville en 1881, considère aussi bien le poste que l'année comme étant les points de départ de l'histoire de la ville de Kinshasa'; the preceding paragraph mentions the older village of Insasa.",
+      "result": "confirmed",
+      "detail": "Year, founder and page match. The paper names only Insasa (Nshasa); Ntamo comes from the other sources given in the file's notes."
+    },
+    {
+      "kind": "population",
+      "item": "population 24,058 in 1925 (documented)",
+      "source_opened": "https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf",
+      "found": "Tableau 1: 1925 | Hommes 18676 | Femmes 5382 | Total 24058.",
+      "result": "confirmed",
+      "detail": "Total, year and the men/women split in the note match."
+    },
+    {
+      "kind": "population",
+      "item": "population 21,518 in 1935 (documented)",
+      "source_opened": "https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf",
+      "found": "Tableau 1: 1935 | 13442 | 8076 | 21518 (1930: 32594).",
+      "result": "confirmed",
+      "detail": "Total and year match, including the fall from 1930 that the note describes."
+    },
+    {
+      "kind": "population",
+      "item": "population 34,976 in 1940 (documented)",
+      "source_opened": "https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf",
+      "found": "Tableau 1: 1940 | 22193 | 12783 | 34976.",
+      "result": "confirmed",
+      "detail": "Total and year match."
+    },
+    {
+      "kind": "population",
+      "item": "population 70,780 in 1945 (documented)",
+      "source_opened": "https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf",
+      "found": "Tableau 1: 1945 | 46858 | 23922 | 70780.",
+      "result": "confirmed",
+      "detail": "Total, year and the men/women split in the note match."
+    },
+    {
+      "kind": "landmark",
+      "item": "RTNC Congo Building (Cité de la Voix du Peuple): completed 1975, height 103 m, at -4.3297, 15.2986 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/rtnc-congo-building/9659",
+      "found": "Height 103 m / 338 ft, 22 floors, completion 1975. OpenStreetMap places 'Cité de la Voix du Peuple' (Lingwala) about 4 m from the stored point.",
+      "result": "confirmed",
+      "detail": "Year, height, floors and position match the cited CTBUH page."
+    },
+    {
+      "kind": "landmark",
+      "item": "Kinshasa Financial Center, Ministry of Finance tower: completed 2023, height 107 m, at -4.3092, 15.2803 (documented)",
+      "source_opened": "https://zoom-eco.net/a-la-une/rdc-felix-tshisekedi-inspecte-les-travaux-de-construction-du-centre-financier-de-kinshasa/ (via WebFetch; direct curl got a bot-check page) ; https://en.wikipedia.org/w/index.php?title=Kinshasa_Financial_Center&action=raw ; https://afrique.le360.ma/societe/kinshasa-par-lelegance-de-son-architecture-le-centre-financier-embellit-la-ville-et-diversifie-son_ZN6RIMUJIJGKPGJHHOF4CLEJUQ/ ; https://infos.cd/economie/infrastructures-les-travaux-du-nouveau-centre-financier-de-kinshasa-deja-realises-a-plus-de-70/31031",
+      "found": "Zoom Eco, 9 November 2022 (work 30% complete): 'Une tour du ministère des Finances de 20 étages sur une hauteur de 107 mètres'. Wikipedia: completed and inaugurated 19 December 2023, coordinates 4°18'34\"S 15°16'49\"E (-4.3094, 15.2803). Later reports differ on the towers: infos.cd, 15 September 2023, 'longues de 20 et 18 niveaux'; Le360, 26 December 2023, 'quatre tours de 21 niveaux chacune'. No as-built height found.",
+      "result": "flagged",
+      "detail": "The cited article does state 107 m, but as a design figure a year before completion, and later reports give different floor counts. Kept the value, lowered confidence from documented to estimated and extended the note to say why and where the 2023 completion date comes from."
+    },
+    {
+      "kind": "landmark",
+      "item": "Kinshasa Financial Center, Finance Centre building: completed 2023, height 78 m, at -4.309, 15.28 (documented)",
+      "source_opened": "https://zoom-eco.net/a-la-une/rdc-felix-tshisekedi-inspecte-les-travaux-de-construction-du-centre-financier-de-kinshasa/ (via WebFetch) ; https://en.wikipedia.org/w/index.php?title=Kinshasa_Financial_Center&action=raw",
+      "found": "Zoom Eco, 9 November 2022: 'Un Centre des Finances de 16 étages de 78 mètres de hauteur'. Wikipedia: inaugurated 19 December 2023; complex coordinates -4.3094, 15.2803, about 50 m from the stored point. No as-built height found.",
+      "result": "flagged",
+      "detail": "Same situation as the Finance tower: a design-stage figure with no as-built confirmation. Kept the value, lowered confidence from documented to estimated and extended the note."
+    },
+    {
+      "kind": "landmark",
+      "item": "EXTRA (not in sample): Kinshasa Financial Center, Ministry of Budget tower: completed 2023, height 90 m (documented)",
+      "source_opened": "https://zoom-eco.net/a-la-une/rdc-felix-tshisekedi-inspecte-les-travaux-de-construction-du-centre-financier-de-kinshasa/ (via WebFetch) ; https://infos.cd/economie/infrastructures-les-travaux-du-nouveau-centre-financier-de-kinshasa-deja-realises-a-plus-de-70/31031",
+      "found": "Zoom Eco, 9 November 2022: 'Une autre tour abritera le ministère de Budget avec 16 étages sur une hauteur de 90 mètres'. infos.cd, 15 September 2023, describes the two tall buildings as 20 and 18 levels.",
+      "result": "flagged",
+      "detail": "Same source and same weakness as the two sampled buildings, so treated the same way for consistency: value kept, confidence lowered from documented to estimated, note extended."
+    },
+    {
+      "kind": "milestone",
+      "item": "1923: Named capital of the Belgian Congo. A royal decree of 1 July 1923 moved the colonial capital from Boma to Léopoldville; Kalina (now Gombe) built between Léopoldville-West and Kinshasa.",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Kinshasa&action=raw",
+      "found": "'By 1923, the city was elevated to capital of the Belgian Congo, replacing the town of Boma ... pursuant to the Royal Decree of 1 July 1923'; a new administrative district 'between Kinshasa ... and Léopoldville-West. The site, named Kalina (now Gombe), became the colonial administrative center', cited to Piette (2011). The same passage says the services finished moving to Kalina in the first half of 1930.",
+      "result": "confirmed",
+      "detail": "Decree date and description match the cited page."
+    },
+    {
+      "kind": "milestone",
+      "item": "1994: Stade des Martyrs opens. The 80,000-seat national stadium, built with Chinese aid from 1988 and first called Stade Kamanyola, opened on 14 September 1994.",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Martyrs_Stadium&action=raw",
+      "found": "Infobox: groundbreaking 14 October 1988, opened 14 September 1994, capacity 80,000, former name Kamanyola Stadium (1994-1997); 'constructed by a Chinese consortium' under a 1987 memorandum between Zaire and China. OpenStreetMap places the stadium at -4.3302, 15.3104.",
+      "result": "confirmed",
+      "detail": "Dates, capacity, former name and Chinese construction match."
+    }
+  ],
+  "summary": "The start year, the four colonial population counts, the RTNC tower and both milestones matched their sources. The two sampled Kinshasa Financial Center buildings (and, as an extra check, the third) carry design-stage heights from a November 2022 press report, with later reports describing the towers differently; their values were kept but confidence was lowered from documented to estimated with an explanatory note."
+}

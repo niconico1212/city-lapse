@@ -1,0 +1,88 @@
+{
+  "slug": "dhaka",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1610: Islam Khan Chishti makes Dhaka the capital of Mughal Bengal (Jahangirnagar)",
+      "source_opened": "https://en.banglapedia.org/index.php/Dhaka",
+      "found": "'Islam Khan Chishti transferred the capital of Subah Bangalah from Rajmahal to Dhaka in 1610 and renamed it Jahangirnagar'",
+      "result": "confirmed",
+      "detail": "Year and event as stated by Banglapedia."
+    },
+    {
+      "kind": "population",
+      "item": "population 69,212 in 1872 (documented)",
+      "source_opened": "https://archive.org/download/in.ernet.dli.2015.32851/2015.32851.Dacca-District-Gazetteers_djvu.txt ; https://en.banglapedia.org/index.php/Dhaka",
+      "found": "Allen: 'at the census of 1872 it was found to be 69,212'. Banglapedia: 'In 1872, at the time of the first census, Dhaka had a population of 69,212'",
+      "result": "confirmed",
+      "detail": "Both cited sources give 69,212 for the town in 1872."
+    },
+    {
+      "kind": "population",
+      "item": "population 79,076 in 1881 (documented)",
+      "source_opened": "https://en.banglapedia.org/index.php/Dhaka",
+      "found": "'in 1881, 79,076'",
+      "result": "confirmed",
+      "detail": "Banglapedia states the figure."
+    },
+    {
+      "kind": "population",
+      "item": "population 108,551 in 1911 (documented)",
+      "source_opened": "https://archive.org/download/in.ernet.dli.2015.32851/2015.32851.Dacca-District-Gazetteers_djvu.txt",
+      "found": "Allen: 'in 1911 the population had risen to 108,551' and 'population residing within municipal limits in 1911 was 108,551'",
+      "result": "confirmed",
+      "detail": "Matches the cited gazetteer (municipal limits). Banglapedia rounds 1911 to 125,000, a different and looser figure; the gazetteer census figure is the better one."
+    },
+    {
+      "kind": "population",
+      "item": "population 239,000 in 1941 (documented)",
+      "source_opened": "https://en.banglapedia.org/index.php/Dhaka",
+      "found": "'in 1941, 2,39,000'",
+      "result": "confirmed",
+      "detail": "Banglapedia states 239,000 (rounded), as the data point's note already says."
+    },
+    {
+      "kind": "landmark",
+      "item": "Baitul Mukarram National Mosque: completed 1968, height 30.18 m, at 23.7294, 90.4128 (documented)",
+      "source_opened": "https://en.banglapedia.org/index.php/Baitul_Mukarram_Mosque ; https://en.wikipedia.org/wiki/Baitul_Mukarram",
+      "found": "Banglapedia: 'The main building is eight storied and 30.18 metre high from the ground level'. Wikipedia infobox: completed 1968, coord 23.7294 N 90.4128 E",
+      "result": "confirmed",
+      "detail": "Height, year and coordinates all match the cited pages."
+    },
+    {
+      "kind": "landmark",
+      "item": "Jatiya Sangsad Bhaban (National Parliament House): completed 1982, height 49.68 m, at 23.7622, 90.3786 (documented)",
+      "source_opened": "https://en.banglapedia.org/index.php/Jatiya_Sangsad_Bhaban ; https://en.wikipedia.org/wiki/Jatiya_Sangsad_Bhaban",
+      "found": "Banglapedia: 'The height of the structure is 49.68m (163 ft) above the ground'; completed early 1982, inaugurated 28 January 1982. Wikipedia coord 23d45m44s N 90d22m43s E (= 23.7622, 90.3786)",
+      "result": "confirmed",
+      "detail": "Height, year and coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Gulshan Tower: completed 2016, height 125.0 m, at 23.7861, 90.4167 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/gulshan-tower/17164 ; https://www.openstreetmap.org/way/371772673 ; https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Dhaka",
+      "found": "CTBUH: Height 125 m / 410 ft, 30 floors, completed 2016, address 31 Gulshan Avenue, residential. OpenStreetMap: 'Gulshan Tower', 31 Gulshan Avenue, Gulshan-2, building=commercial, 12 levels, at 23.7953, 90.4134 (about 1.07 km north of the stored point). Wikipedia's list of Dhaka buildings over 100 m has no Gulshan Tower.",
+      "result": "flagged",
+      "detail": "CTBUH supports year and height but nothing else does, and the mapped building at that address is 12 levels. Lowered confidence documented -> estimated, added a note, and moved lat/lon from 23.7861, 90.4167 to 23.7953, 90.4134 (OSM position of Gulshan Tower, 31 Gulshan Avenue), adding OSM to the source."
+    },
+    {
+      "kind": "milestone",
+      "item": "1678: Lalbagh Fort begun. Prince Muhammad Azam began the Lalbagh (Aurangabad) fort during his 15 months as viceroy; Shaista Khan left it unfinished.",
+      "source_opened": "https://en.banglapedia.org/index.php/Lalbagh_Fort",
+      "found": "'The construction of the fort was commenced in 1678 AD by prince Muhammad Azam during his 15 month long vice-royalty of Bengal ... His successor, Shaista Khan did not continue the work'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1947: Capital of East Bengal in Pakistan; migration roughly doubled its population and the urban area grew from 6 to 25 square miles by 1962.",
+      "source_opened": "https://en.banglapedia.org/index.php/Dhaka",
+      "found": "'in 1947 ... a new province of independent Pakistan, namely East Bengal/East Pakistan, of which it became the capital'; 'led to a 103% increase of population'; 'urban area increased from 6 square miles in 1947 to 25 square miles ... in 1962'",
+      "result": "confirmed",
+      "detail": "Year and all three details are in Banglapedia."
+    }
+  ],
+  "summary": "Nine of ten sampled figures match the cited Banglapedia, Allen gazetteer and CTBUH pages. Gulshan Tower was flagged: CTBUH is the only source for a 125 m tower, the mapped building at that address is a 12-level block, and the coordinates were about 1 km off."
+}

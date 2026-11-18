@@ -408,7 +408,8 @@
       "lon": 77.6162,
       "kind": "skyscraper",
       "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/zenith-residence-tower-1/35755",
-      "confidence": "documented"
+      "confidence": "estimated",
+      "note": "CTBUH marks this height as estimated from the floor count (\"height is estimated, based on a floor count of 34 floors .\"), so it is not a surveyed figure."
     },
     {
       "name": "Mantri Pinnacle",
@@ -428,7 +429,8 @@
       "lon": 77.5852,
       "kind": "skyscraper",
       "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/four-seasons-hotel-bengaluru/34867",
-      "confidence": "documented"
+      "confidence": "estimated",
+      "note": "CTBUH marks this height as estimated from the floor count (\"height is estimated, based on a floor count of 28 floors .\"), so it is not a surveyed figure."
     }
   ],
   "footprint_epochs": "footprints/bengaluru/",

@@ -1,0 +1,88 @@
+{
+  "slug": "jakarta",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1513: Port of Sunda Kalapa first described by Portuguese visitors",
+      "source_opened": "https://en.wikipedia.org/wiki/Jakarta ; https://en.wikipedia.org/wiki/Sunda_Kelapa",
+      "found": "Jakarta article: 'In March 1513, the Portuguese captain at Malacca sent four ships to Java' (Pires 1990, p. xxv). Sunda Kelapa article: the Suma Oriental, written 1512-1515, reports the importance of the port of Calapa (Pires 1990, p. 166).",
+      "result": "confirmed",
+      "detail": "Year and description match both cited Wikipedia pages and the Pires page numbers they give."
+    },
+    {
+      "kind": "population",
+      "item": "population 44,000 in 1750 (estimated)",
+      "source_opened": "https://doi.org/10.6084/m9.figshare.2059494 (chandlerV2.csv downloaded from figshare)",
+      "found": "Row 'Jakarta / Batavia, Indonesia': AD_1750 = 44000.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 96,957 in 1880 (documented)",
+      "source_opened": "https://en.wikisource.org/wiki/Page:EB1911_-_Volume_03.djvu/524",
+      "found": "'BATAVIA ... The population in 1880 was 96,957; in 1898, 115,567'.",
+      "result": "confirmed",
+      "detail": "Exact match in the 1911 Britannica (the Chandler file carries the same 1880 figure)."
+    },
+    {
+      "kind": "population",
+      "item": "population 306,000 in 1920 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies",
+      "found": "'the 1920 census indicated a population of 306,000, compared to 192,000 for Surabaya ...', cited to Kano, p. 5. The infobox gives 253,800 for 1920, as the data note already says.",
+      "result": "confirmed",
+      "detail": "Number and year match the cited page; the boundary discrepancy with the infobox is already disclosed in the note. Kano itself was not opened."
+    },
+    {
+      "kind": "population",
+      "item": "population 533,000 in 1930 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Timeline_of_Jakarta",
+      "found": "'1930 - Population: 533,000.' cited to Forbes 2004.",
+      "result": "confirmed",
+      "detail": "Matches the cited timeline entry; Forbes (2004) itself was not opened."
+    },
+    {
+      "kind": "landmark",
+      "item": "Menara Syahbandar: completed 1839, height 12 m, at -6.1272, 106.809 (documented)",
+      "source_opened": "https://id.wikipedia.org/wiki/Menara_Syahbandar",
+      "found": "Infobox: start_date 1839, height 12 meter, coordinates -6.127199, 106.809024. Text: 'dibangun sekitar tahun 1839' and 'bangunan setinggi 12 meter'.",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates all match (the page says built around 1839)."
+    },
+    {
+      "kind": "landmark",
+      "item": "Gama Tower: completed 2016, height 285.5 m, at -6.224, 106.8336 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/gama-tower/17562 ; https://en.wikipedia.org/wiki/Gama_Tower (coordinates)",
+      "found": "CTBUH: completion 2016, architectural height 285.5 m (297 m to tip), 64 floors. Wikipedia coordinates -6.224153, 106.833731.",
+      "result": "confirmed",
+      "detail": "Year and height match CTBUH; coordinates are within about 20 m of the Wikipedia position."
+    },
+    {
+      "kind": "landmark",
+      "item": "Autograph Tower: completed 2022, height 382.9 m, at -6.199, 106.8212 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/autograph-tower/39449 ; https://en.wikipedia.org/wiki/Thamrin_Nine (coordinates)",
+      "found": "CTBUH: completion 2022, height 382.9 m, 75 floors. Wikipedia gives the Thamrin Nine complex at -6.19914, 106.82263.",
+      "result": "confirmed",
+      "detail": "Year and height match CTBUH; coordinates are about 160 m from the complex position on Wikipedia, inside the 300 m tolerance."
+    },
+    {
+      "kind": "milestone",
+      "item": "1522: Sunda-Portuguese treaty at Kalapa (21 August 1522; padrão in the National Museum)",
+      "source_opened": "https://en.wikipedia.org/wiki/Jakarta ; https://en.wikipedia.org/wiki/Luso-Sundanese_padr%C3%A3o",
+      "found": "Jakarta: 'The Sunda Kingdom concluded a treaty with Portugal on 21 August 1522 ... allowed the Portuguese to build a fortress at Kalapa' (Pires 1990, p. 172). Padrão article: the stone is kept in the National Museum of Indonesia.",
+      "result": "confirmed",
+      "detail": "Date, terms and the surviving padrão are all stated on the pages opened."
+    },
+    {
+      "kind": "milestone",
+      "item": "1962: Jakarta hosts the Fourth Asian Games (Senayan complex, Hotel Indonesia, Thamrin-Sudirman avenue)",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Jakarta ; https://en.wikipedia.org/wiki/1962_Asian_Games",
+      "found": "'[Sukarno awarded] the 1962 Asian Games to Indonesia, with Jakarta as the host city. The event was used as a trigger to complete new landmarks in Jakarta, i.e. Gelora Bung Karno Sports Complex' (Merrillees 2015, p. 97); Hotel Indonesia (1959-1962) and the Thamrin-Sudirman avenue are listed among the same early-1960s projects.",
+      "result": "confirmed",
+      "detail": "Year and event correct. The page ties only the sports complex directly to the Games; the hotel and avenue are described as part of the same programme, so the wording is a fair summary."
+    }
+  ],
+  "summary": "All 10 sampled items matched the cited sources (Chandler file, 1911 Britannica, CTBUH and the cited Wikipedia pages). Nothing was changed."
+}

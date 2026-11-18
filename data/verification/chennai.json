@@ -1,0 +1,88 @@
+{
+  "slug": "chennai",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1639: Grant of Madraspatam to the East India Company; Fort St. George begun",
+      "source_opened": "https://archive.org/details/in.ernet.dli.2015.117105 (full-text OCR of Imperial Gazetteer of India vol. 16)",
+      "found": "p. 368: 'Madras was founded in 1639 ... In August, 1639, Francis Day ... obtained ... a grant of half the revenues of Madraspatam and permission to build a fort there. This fort was begun ... in March, 16[40], and was named Fort St. George'.",
+      "result": "confirmed",
+      "detail": "Year and event match the cited page; the fort itself was begun the following March, as the milestone says."
+    },
+    {
+      "kind": "population",
+      "item": "population 160,000 in 1823 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, from figshare article 2059494 cited by the data)",
+      "found": "Row Madras, column AD_1823: 160000.",
+      "result": "confirmed",
+      "detail": "Matches the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 367,552 in 1871 (documented)",
+      "source_opened": "https://archive.org/details/in.ernet.dli.2015.117105 (full-text OCR of Imperial Gazetteer of India vol. 16)",
+      "found": "'The population of Madras in 1871 was 367,552; in 1881, 405,848; in 1891, 452,518; and in 1901, 509,346.'",
+      "result": "confirmed",
+      "detail": "Number, year and area (Madras city) match."
+    },
+    {
+      "kind": "population",
+      "item": "population 627,824 in 1921 (documented)",
+      "source_opened": "https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "found": "Table A-4, Class I, serial 4 'Chennai U.A.', 1921, persons: 627824.",
+      "result": "confirmed",
+      "detail": "Matches."
+    },
+    {
+      "kind": "population",
+      "item": "population 930,356 in 1941 (documented)",
+      "source_opened": "https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "found": "Table A-4, Class I, serial 4 'Chennai U.A.', 1941, persons: 930356.",
+      "result": "confirmed",
+      "detail": "Matches."
+    },
+    {
+      "kind": "landmark",
+      "item": "Valluvar Kottam: completed 1976, height 39 m, at 13.0544, 80.2418 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Valluvar_Kottam ; OpenStreetMap Nominatim search",
+      "found": "Infobox: completion 1976, height 39 m, coordinates 13°3'15.88\"N 80°14'30.3\"E (13.0544, 80.2418); 'the 39-meter-high stone car'; inaugurated April 1976. OSM attraction 36 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Chennai Lighthouse: completed 1977, height 45.72 m, at 13.0397, 80.2794 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Chennai_Lighthouse ; OpenStreetMap Nominatim search",
+      "found": "'built ... in 1976, and opened in January 1977'; 'The total height of the tower is 45.72 m'. OSM building 'Chennai Lighthouse' 2 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "World Trade Center Chennai, Tower 1: completed 2020, height 122 m, at 12.9616, 80.2452 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/World_Trade_Center_Chennai (target of the cited redirect) ; OpenStreetMap Nominatim search ; tried https://www.cmdachennai.gov.in/.../APPROVED%20PLAN.pdf and its Wayback copy (both unreachable)",
+      "found": "Infobox: completion date 2020; 'antenna_spire 122 m (Tower 1)', 'roof 106 m (Tower 1)', both cited to the CMDA approved plan; coordinates 12.9616, 80.2452. Lead: 'made operational in March 2020'; body: 'became functional officially in September 2021'. OSM 'World Trade Center Tower A' 77 m from the claimed point.",
+      "result": "flagged",
+      "detail": "122 m is given by the source only as the antenna/spire height, with 106 m to the roof, and the planning document behind both could not be opened. Lowered confidence from documented to estimated and extended the note to explain this and the 2020/2021 discrepancy; values unchanged."
+    },
+    {
+      "kind": "milestone",
+      "item": "1639: Madras founded",
+      "source_opened": "https://archive.org/details/in.ernet.dli.2015.117105 (full-text OCR of Imperial Gazetteer of India vol. 16)",
+      "found": "p. 368, as quoted for the start year: grant obtained by Francis Day in August 1639 from a local Naik, with permission to build a fort; fort begun in March of the following year (the last two digits are garbled in the OCR).",
+      "result": "confirmed",
+      "detail": "Year and description match the cited page; the '1640' could only be read as 'March, 16..' in the OCR text but follows from the sequence."
+    },
+    {
+      "kind": "milestone",
+      "item": "2004: Indian Ocean tsunami",
+      "source_opened": "https://en.wikipedia.org/wiki/Chennai",
+      "found": "'On 26 December 2004, a tsunami lashed the shores of Chennai, killing 206 people and permanently altering the city's coastline.'",
+      "result": "confirmed",
+      "detail": "Date and figure match."
+    }
+  ],
+  "summary": "Nine of ten items match their sources. The World Trade Center tower's 122 m is a spire/antenna figure on Wikipedia (106 m to the roof) with an unreachable primary document, so it was flagged and its confidence lowered to estimated."
+}

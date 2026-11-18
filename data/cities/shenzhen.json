@@ -12,6 +12,12 @@
     "lon": 114.1159,
     "source": "https://en.wikipedia.org/wiki/Shenzhen#History ; point on Dongmen Old Street from OpenStreetMap (WGS-84), https://www.openstreetmap.org/"
   },
+  "start_site": {
+    "name": "Nantou ancient city (Nantoucheng), Nanshan District",
+    "lat": 22.5463,
+    "lon": 113.9165,
+    "source": "Coordinate template of https://en.wikipedia.org/wiki/Nantou_Ancient_City (article title 'Nantou (historic town)'; 22.546307 N, 113.916456 E)"
+  },
   "population": [
     {
       "year": 1950,

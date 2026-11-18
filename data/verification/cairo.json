@@ -1,0 +1,88 @@
+{
+  "slug": "cairo",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 641: Fustat founded by Amr ibn al-As beside the Babylon Fortress",
+      "source_opened": "https://en.wikipedia.org/wiki/Cairo#Fustat_and_other_early_Islamic_settlements",
+      "found": "'Babylon Fortress ... fell in April 641. In 641 or early 642 ... he founded a new settlement next to Babylon Fortress' (cites Raymond 1993 pp. 16-18, Kennedy 2007 p. 161); infobox: established 641-642 AD (Fustat)",
+      "result": "confirmed",
+      "detail": "Year and event match; the source allows 641 or early 642."
+    },
+    {
+      "kind": "population",
+      "item": "population 300,000 in 1250 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, figshare 2059494)",
+      "found": "Row Cairo (Fostat, Fustat), Egypt: AD_1250 = 300000",
+      "result": "confirmed",
+      "detail": "Value in the Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 500,000 in 1348 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv)",
+      "found": "Row Cairo: AD_1348 = 500000",
+      "result": "confirmed",
+      "detail": "Value in the Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 360,000 in 1400 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv)",
+      "found": "Row Cairo: AD_1400 = 360000",
+      "result": "confirmed",
+      "detail": "Value in the Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 654,476 in 1907 (documented)",
+      "source_opened": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cairo_(Egypt)",
+      "found": "'in 1907, including Helwan and Mataria, the total population was 654,476'",
+      "result": "confirmed",
+      "detail": "Number and year match; the figure includes Helwan and Mataria."
+    },
+    {
+      "kind": "landmark",
+      "item": "Mosque of al-Zahir Baybars: completed 1268, height 12 m, at 30.0623, 31.2634 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/Mosque_of_al-Zahir_Baybars",
+      "found": "Infobox: completed 1268 (original), height_max 12 m, coord 30.0623 N 31.2634 E; lead: 'completed in 1268 CE'",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match the cited page."
+    },
+    {
+      "kind": "landmark",
+      "item": "Mosque-Madrasa of Sultan Hasan: completed 1363, height 84 m, at 30.0319, 31.2567 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/Mosque-Madrasa_of_Sultan_Hasan",
+      "found": "Infobox: completed 1363 CE, coord 30.0319 N 31.2567 E; text: southern minaret 'summit being 84 meters above the street level at the time' (Behrens-Abouseif)",
+      "result": "confirmed",
+      "detail": "Year, height (minaret summit) and coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Ministry of Foreign Affairs: completed 1994, height 143 m, at 30.0555, 31.2298 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/city/cairo",
+      "found": "Building id 4226 'Ministry of Foreign Affairs': height_architecture 143.00, completed 1994, latitude 30.055510, longitude 31.229839",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match CTBUH."
+    },
+    {
+      "kind": "milestone",
+      "item": "870: Ibn Tulun founds al-Qata'i; great mosque 876-879; Abbasids razed the city in 905, sparing the mosque.",
+      "source_opened": "https://en.wikipedia.org/wiki/Cairo#Fustat_and_other_early_Islamic_settlements",
+      "found": "'In 870 ... found a new administrative capital, al-Qata'i, to the northeast of Fustat and of al-Askar'; palace, parade ground, bimaristan, aqueduct; 'Between 876 and 879 Ibn Tulun built a great mosque'; 'In 905 ... al-Qatta'i was razed to the ground, except for the mosque' (Swelim 2015 pp. 32-37)",
+      "result": "confirmed",
+      "detail": "Year and every detail are in the cited section."
+    },
+    {
+      "kind": "milestone",
+      "item": "969: Fatimids found al-Qahira; Jawhar laid out a fortified city north-east of Fustat with al-Azhar; al-Mu'izz arrived in 973 and named it.",
+      "source_opened": "https://en.wikipedia.org/wiki/Cairo#Foundation_and_expansion_of_Cairo_under_the_Fatimids",
+      "found": "'In 969 ... Jawhar al-Saqili to establish a new fortified city northeast of Fustat'; al-Azhar Mosque commissioned; 'When Caliph al-Mu'izz arrived ... in 973, he gave the city its present name' (Glasse & Smith 2003 p. 96)",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    }
+  ],
+  "summary": "All ten sampled figures match the sources cited (Chandler CSV, EB1911, Wikipedia passages citing the named books, CTBUH). Nothing changed."
+}

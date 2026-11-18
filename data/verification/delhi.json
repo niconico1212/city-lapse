@@ -1,0 +1,88 @@
+{
+  "slug": "delhi",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year -300: Mauryan-period settlement on the Purana Qila mound",
+      "source_opened": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1934128 ; https://en.wikipedia.org/wiki/Purana_Qila",
+      "found": "PIB release of 21 June 2023: excavations 'revealed nine cultural levels ... Pre-Mauryan, Mauryan, Sunga, Kushana, Gupta, Post Gupta, Rajput, Sultanate, and Mughal' and 'continuous existence of human habitation ... spanning 2500 years'. Wikipedia: 'continuous habitation from Mauryan to ... Mughal periods'.",
+      "result": "confirmed",
+      "detail": "The sources support Mauryan-period habitation; -300 is a round figure for that period and is already marked estimated."
+    },
+    {
+      "kind": "population",
+      "item": "population 60,000 in 1200 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, from figshare article 2059494 cited by the data)",
+      "found": "Row Delhi, column AD_1200: 60000.",
+      "result": "confirmed",
+      "detail": "Matches the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 80,000 in 1500 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, from figshare article 2059494 cited by the data)",
+      "found": "Row Delhi, column AD_1500: 80000.",
+      "result": "confirmed",
+      "detail": "Matches the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 150,000 in 1750 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, from figshare article 2059494 cited by the data)",
+      "found": "Row Delhi, column AD_1750: 150000.",
+      "result": "confirmed",
+      "detail": "Matches the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 695,686 in 1941 (documented)",
+      "source_opened": "https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "found": "Table A-4, Class I, serial 2 'Delhi U.A.', census year 1941, persons: 695686.",
+      "result": "confirmed",
+      "detail": "Matches; the area is the Delhi urban agglomeration as the note in the data says."
+    },
+    {
+      "kind": "landmark",
+      "item": "Tughlaqabad Fort: completed 1321, height 15 m, at 28.5119, 77.2608 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Tughlaqabad_Fort ; OpenStreetMap Nominatim search",
+      "found": "Wikipedia: built 1321; city walls 'between 10 and 15 m high'; coordinates 28°30'43\"N 77°15'39\"E (28.5119, 77.2608). OSM places the path to the fort about 165 m away.",
+      "result": "confirmed",
+      "detail": "Year and position match; 15 m is the top of the 10-15 m wall-height range the article gives."
+    },
+    {
+      "kind": "landmark",
+      "item": "Jama Masjid: completed 1656, height 41 m, at 28.6507, 77.2334 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Jama_Masjid,_Delhi ; OpenStreetMap Nominatim search",
+      "found": "Wikipedia: completed 1656; minaret height 41 m; coordinates 28.6507, 77.2334. OSM mosque node about 40 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "Year, minaret height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Swaminarayan Akshardham: completed 2005, height 43 m, at 28.6125, 77.2772 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Delhi) ; OpenStreetMap Nominatim search",
+      "found": "Wikipedia: opened 6 November 2005; mandir 141 ft (43 m) high; coordinates 28°36'45\"N 77°16'38\"E. OSM temple node 12 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1648: Red Fort finished; Shahjahanabad is the capital",
+      "source_opened": "https://en.wikipedia.org/wiki/Red_Fort",
+      "found": "Infobox: built 1639 - 6 April 1648. Lead: commissioned 12 May 1639; body text gives 12-13 May 1638 for the start and completion on 6 April 1648.",
+      "result": "confirmed",
+      "detail": "Completion year 1648 matches. The article is internally inconsistent on the start (1639 in the lead and infobox, 1638 in the body); the data's 'begun in 1639' follows the lead and was left as is."
+    },
+    {
+      "kind": "milestone",
+      "item": "1739: Nader Shah sacks Delhi",
+      "source_opened": "https://en.wikipedia.org/wiki/Delhi",
+      "found": "'In 1739, the Mughal Empire lost the huge Battle of Karnal ... against ... Nader Shah of Persia. After his invasion, he completely sacked and looted Delhi, carrying away immense wealth including the Peacock Throne'.",
+      "result": "confirmed",
+      "detail": "Year and event match."
+    }
+  ],
+  "summary": "All ten sampled items hold up against the cited sources; nothing was changed."
+}

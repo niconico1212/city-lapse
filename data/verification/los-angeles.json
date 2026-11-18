@@ -1,0 +1,88 @@
+{
+  "slug": "los-angeles",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1781: El Pueblo de Nuestra Senora la Reina de los Angeles founded by 44 settlers under Governor Felipe de Neve",
+      "source_opened": "https://en.wikipedia.org/wiki/Los_Angeles",
+      "found": "'The city was founded on September 4, 1781, under Spanish governor Felipe de Neve'; 'On September 4, 1781, a group of 44 settlers known as Los Pobladores founded the pueblo'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    },
+    {
+      "kind": "population",
+      "item": "population 650 in 1820 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/Los_Angeles",
+      "found": "'by 1820, the population had increased to about 650 residents' (citing Guinn 1902)",
+      "result": "confirmed",
+      "detail": "Matches the cited page."
+    },
+    {
+      "kind": "population",
+      "item": "population 5,728 in 1870 (documented)",
+      "source_opened": "https://www.laalmanac.com/population/po02.php ; https://en.wikipedia.org/wiki/Los_Angeles",
+      "found": "LA Almanac table: 1870 city 5,728; Wikipedia US Census table: 1870 = 5728",
+      "result": "confirmed",
+      "detail": "Both pages give 5,728 for the city."
+    },
+    {
+      "kind": "population",
+      "item": "population 50,395 in 1890 (documented)",
+      "source_opened": "https://www.laalmanac.com/population/po02.php ; https://en.wikipedia.org/wiki/Los_Angeles",
+      "found": "LA Almanac: 1890 city 50,395; Wikipedia: 1890 = 50395",
+      "result": "confirmed",
+      "detail": "Both pages agree."
+    },
+    {
+      "kind": "population",
+      "item": "population 1,238,048 in 1930 (documented)",
+      "source_opened": "https://www.laalmanac.com/population/po02.php ; https://en.wikipedia.org/wiki/Los_Angeles",
+      "found": "LA Almanac: 1930 city 1,238,048; Wikipedia: 1930 = 1238048",
+      "result": "confirmed",
+      "detail": "Both pages agree."
+    },
+    {
+      "kind": "landmark",
+      "item": "Eastern Columbia Building: completed 1930, height 80.5 m, at 34.0429, -118.2563 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/eastern-columbia-lofts/48292 ; https://www.skyscrapercenter.com/city/los-angeles",
+      "found": "Eastern Columbia Lofts, 849 S Broadway, completion 1930, 14 floors; city record id 48292: height_architecture 80.47, lat 34.042873, lon -118.256256",
+      "result": "confirmed",
+      "detail": "80.47 m rounds to 80.5; year and coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Aon Center (707 Wilshire Tower): completed 1974, height 261.5 m, at 34.0492, -118.2569 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/707-wilshire-tower/744 ; https://www.skyscrapercenter.com/city/los-angeles",
+      "found": "707 Wilshire Tower, completion 1974, 62 floors; record id 744: height 261.52, lat 34.049229, lon -118.256866",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match CTBUH."
+    },
+    {
+      "kind": "landmark",
+      "item": "Gas Company Tower: completed 1991, height 228.3 m, at 34.0501, -118.2532 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/gas-company-tower/1131 ; https://www.skyscrapercenter.com/city/los-angeles",
+      "found": "Gas Company Tower, 555 West Fifth Street, completion 1991, 52 floors; record id 1131: height 228.30, lat 34.050079, lon -118.253189",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match CTBUH."
+    },
+    {
+      "kind": "milestone",
+      "item": "1910: Hollywood merges into Los Angeles; ten film companies already operate there; by 1921 more than 80 percent of the world's film industry.",
+      "source_opened": "https://en.wikipedia.org/wiki/Los_Angeles",
+      "found": "'In 1910, Hollywood merged into Los Angeles, with 10 movie companies already operating in the city at the time. By 1921, more than 80 percent of the world's film industry was concentrated in L.A.'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1913: Los Angeles Aqueduct opens, built under William Mulholland, delivering Owens River water from November 1913.",
+      "source_opened": "https://en.wikipedia.org/wiki/Los_Angeles_Aqueduct",
+      "found": "Infobox: First Aqueduct begun October 1908, open November 1913; 'built ... under the supervision of the department's Chief Engineer, William Mulholland'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    }
+  ],
+  "summary": "All ten sampled figures match the cited Wikipedia text, the Los Angeles Almanac census table and CTBUH records. Nothing changed."
+}

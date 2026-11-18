@@ -1,0 +1,88 @@
+{
+  "slug": "alexandria",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year -331: Alexandria founded by Alexander the Great",
+      "source_opened": "https://en.wikipedia.org/wiki/Alexandria ; https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Alexandria_(Egypt)",
+      "found": "Wikipedia: 'Alexandria was founded by Alexander the Great in April 331 BC'; infobox established 331 BC. EB1911: 'Founded in 332 B.C. by Alexander the Great'.",
+      "result": "confirmed",
+      "detail": "Year and event match the cited page; the 332 alternative is disclosed in the source string and notes."
+    },
+    {
+      "kind": "population",
+      "item": "population 300,000 in -300 (estimated)",
+      "source_opened": "modelskiAncientV2.csv downloaded from https://doi.org/10.6084/m9.figshare.2059497.v2 (figshare file 5356132)",
+      "found": "Row 'Alexandria, Egypt': BC_300 = 300000.",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 400,000 in 1 (estimated)",
+      "source_opened": "modelskiAncientV2.csv downloaded from https://doi.org/10.6084/m9.figshare.2059497.v2 (figshare file 5356132)",
+      "found": "Row 'Alexandria, Egypt': AD_1 = 400000. EB1911: 'In the Augustan age the population of Alexandria was estimated at 300,000 free folk, in addition to an immense number of slaves.'",
+      "result": "confirmed",
+      "detail": "Exact match; the note's Britannica figure also checks out."
+    },
+    {
+      "kind": "population",
+      "item": "population 200,000 in 400 (estimated)",
+      "source_opened": "modelskiAncientV2.csv downloaded from https://doi.org/10.6084/m9.figshare.2059497.v2 (figshare file 5356132)",
+      "found": "Row 'Alexandria, Egypt': AD_400 = 200000.",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 315,844 in 1897 (documented)",
+      "source_opened": "https://marsadomran.info/?p=4051 (redirects to https://marsadomran.info/en/2025/11/4051/)",
+      "found": "Text: 'In 1897, the city had 315,844 inhabitants'. Appendix 1, 'Population of Alexandria by qism between 1897 - 1947': Total Alexandria 1897 = 315,844 (source: CAPMAS population censuses).",
+      "result": "confirmed",
+      "detail": "Number, year and area (city total of qisms) match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Pharos (Lighthouse of Alexandria): completed -280, height 103 m, at 31.2148, 29.886 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria",
+      "found": "Infobox height 103 to 118 m (McKenzie 2011, p. 42); 'Arab descriptions ... Given heights vary only fifteen percent from 103 to 118 m'; built 'during the reign of Ptolemy II Philadelphus (280-247 BC)'; deactivated 1303; last stones reused in 1480 for the Citadel of Qaitbay; coord 31.2148, 29.886.",
+      "result": "confirmed",
+      "detail": "Height range, position, the 1303 ruin and the approximate date match; the point is already marked estimated with a note that the year is approximate and the height is the low end of the range."
+    },
+    {
+      "kind": "landmark",
+      "item": "Pompey's Pillar: completed 298, height 26.85 m, at 31.1825, 29.8964 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Pompey%27s_Pillar",
+      "found": "'set up in honour of the Roman emperor Diocletian between 298-302 AD'; infobox 'built AD 298-303 (dedicated)', height '26.85 m (present total)', about 33.85 m with the 7 m statue; 'stands some 26.85 m high, including its base and capital' (Delbrück 2007, pp. 100-101); coord 31°10'57\"N 29°53'47.1\"E (31.1825, 29.8964).",
+      "result": "flagged",
+      "detail": "Height and position confirmed. The year is flagged: the page gives only a range (298 to 302, or 303 in the infobox), so 298 is the earliest possible date, not a completion date, and the page does not settle a single year. Added a sentence to the point's note in alexandria.json; value and confidence left unchanged."
+    },
+    {
+      "kind": "landmark",
+      "item": "Citadel of Qaitbay: completed 1477, height 17 m, at 31.213, 29.8852 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/Citadel_of_Qaitbay",
+      "found": "Infobox: built 1477, height 17 m (cited to a blog); text: 'built from 1477 to 1479 AD'; coord 31.2130, 29.8852.",
+      "result": "confirmed",
+      "detail": "Height and position match and 1477 is the page's stated build year (construction ran to 1479); already marked estimated, which suits the weak height citation."
+    },
+    {
+      "kind": "milestone",
+      "item": "-47: Caesar's siege of Alexandria (Library damaged; Octavian later placed the city under a Roman prefect)",
+      "source_opened": "https://en.wikipedia.org/wiki/Alexandria ; https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Alexandria_(Egypt)",
+      "found": "Wikipedia: 'Library of Alexandria, which faced destruction during Caesar's siege of Alexandria in 47 BC'. EB1911: 'Julius Caesar dallied with Cleopatra in 47 B.C. and was mobbed by the rabble ... Octavian, who placed over it a prefect from the imperial household'.",
+      "result": "confirmed",
+      "detail": "Year and each element of the description are supported by the two cited pages."
+    },
+    {
+      "kind": "milestone",
+      "item": "2002: Bibliotheca Alexandrina inaugurated (seafront near the harbour, design by Snøhetta, opened October 2002)",
+      "source_opened": "https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina",
+      "found": "'The complex was officially inaugurated in 2002'; 'built during the 1990s on the Mediterranean Sea coastline near the harbor of Alexandria ... opened in October 2002'; the 1988 UNESCO design competition 'was won by Snøhetta'.",
+      "result": "confirmed",
+      "detail": "Year, month, location and architect match."
+    }
+  ],
+  "summary": "Nine of 10 sampled figures match their sources, including the three Modelski estimates and the 1897 census total. One flag: Pompey's Pillar is dated by its source only to 298-302/303, so the stored year 298 is the start of a range rather than a completion date; a note was added and nothing else changed."
+}

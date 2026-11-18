@@ -1,0 +1,88 @@
+{
+  "slug": "rio-de-janeiro",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1565: São Sebastião do Rio de Janeiro founded by Estácio de Sá",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Rio_de_Janeiro&action=raw ; https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/rio-de-janeiro-city",
+      "found": "Wikipedia: 'The city of Rio de Janeiro proper was founded on 1 March 1565 by the Portuguese, led by Estácio de Sá ... It was named São Sebastião do Rio de Janeiro'; infobox 'Founded 1565-03-01'. Encyclopedia.com: 'Founded in 1565, Rio de Janeiro first served as a port'.",
+      "result": "confirmed",
+      "detail": "Year, founder and name match both cited pages."
+    },
+    {
+      "kind": "population",
+      "item": "population 3,000 in 1654 (estimated)",
+      "source_opened": "https://www.tota.world/article/2709/",
+      "found": "'In 1654 Rio de Janeiro had a population of about 3,000, with a garrison of 600 men.' (excerpt from Bell, The Beautiful Rio de Janeiro).",
+      "result": "confirmed",
+      "detail": "Number, year and the quoted wording in the note match."
+    },
+    {
+      "kind": "population",
+      "item": "population 43,376 in 1799 (documented)",
+      "source_opened": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv49678.pdf",
+      "found": "Summary table row 'Cidade ... 43.376' in the first (1799) column; text: enumeration of 1799 'por determinação do Vice-Rei Conde de Rezende' and 'dos 43.376 habitantes arrolados'.",
+      "result": "confirmed",
+      "detail": "Number, year, area (the city, not the suburbs) and the viceroy named in the note match. The parish-table sum of 42,168 mentioned in the note was not re-added."
+    },
+    {
+      "kind": "population",
+      "item": "population 60,000 in 1808 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, figshare article 2059494)",
+      "found": "Row 'Rio de Janeiro', column AD_1808 = 60000.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 1,157,873 in 1920 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Rio_de_Janeiro&action=raw",
+      "found": "Historical populations table: 1900 | 811443, 1920 | 1157873, 1940 | 1764141, sourced to the IBGE census series.",
+      "result": "confirmed",
+      "detail": "Number and census year match the cited 'via' page; the IBGE table itself was not opened."
+    },
+    {
+      "kind": "landmark",
+      "item": "Candelária Church: completed 1877, height 62.24 m, at -22.9009, -43.1778 (documented)",
+      "source_opened": "https://pt.wikipedia.org/wiki/Igreja_de_Nossa_Senhora_da_Candel%C3%A1ria (raw wikitext)",
+      "found": "Infobox 'construção_fim = 1877', 'altura = 62,24'; 'a cúpula foi finalmente concluída em 1877 ... 62,24 metros de altura do chão até o zimbório'. OpenStreetMap places the church about 6 m from the stored point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Edifício Santos Dumont: completed 1975, height 140.8 m, at -22.9107, -43.1734 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/edificio-santos-dumont/4290",
+      "found": "Height 140.8 m; status completed, completion 1975. OpenStreetMap places the building at Rua Santa Luzia 651 (Edifício Clube da Aeronáutica) about 15 m from the stored point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Centro Candido Mendes: completed 1982, height 140 m, at -22.9041, -43.1754 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/centro-candido-mendes/4382",
+      "found": "Height 140 m; status completed, completion 1982. OpenStreetMap places the building (Rua da Assembléia 10) about 15 m from the stored point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1931: Christ the Redeemer dedicated. The 30 m statue (38 m with pedestal) on the summit of Corcovado was dedicated on 12 October 1931.",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Christ_the_Redeemer_(statue)&action=raw",
+      "found": "Infobox: height 30 m, 38 m with its pedestal; 'Dedicated October 12, 1931'. Text: 'the statue is 30 m high, excluding its 8 m pedestal'.",
+      "result": "confirmed",
+      "detail": "Date and dimensions match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1960: Capital moves to Brasília. Rio ceased to be the national capital and Federal District and became the city-state of Guanabara; in the same year's census São Paulo overtook it.",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Rio_de_Janeiro&action=raw",
+      "found": "'On 21 April of that year [1960], the capital of Brazil was officially moved to Brasília. The territory of the former Federal District became its own state, Guanabara ... encompassing just the city of Rio de Janeiro'; 'Since 1960, when it was surpassed by São Paulo, the city of Rio de Janeiro has been the second-most populous city in Brazil.'",
+      "result": "confirmed",
+      "detail": "Year and all three parts of the description match."
+    }
+  ],
+  "summary": "All 10 sampled items matched their cited sources, including the 1799 enumeration in the 1906 census volume and the Chandler and IBGE figures. Nothing was changed."
+}

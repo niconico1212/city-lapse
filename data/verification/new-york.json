@@ -1,0 +1,88 @@
+{
+  "slug": "new-york",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1624: Dutch West India Company settlement founded (New Amsterdam); Fort Amsterdam sited on Manhattan in 1625",
+      "source_opened": "https://en.wikipedia.org/wiki/New_Amsterdam",
+      "found": "Infobox: Settled 1624; 'On May 20, 1624, the first settlers in New Netherland arrived on ... Governors Island'; fort site 'By the end of 1625 ... had been staked out directly south of Bowling Green'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    },
+    {
+      "kind": "population",
+      "item": "population 7,248 in 1723 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Demographics_of_New_York_City",
+      "found": "Historical population table: 1723 = 7248 (sources: Greene and Harrington 1932 as cited in Rosenwaike 1972, p. 8)",
+      "result": "confirmed",
+      "detail": "Matches the table on the cited page; the book scan itself was not opened."
+    },
+    {
+      "kind": "population",
+      "item": "population 11,717 in 1746 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Demographics_of_New_York_City",
+      "found": "Historical population table: 1746 = 11717",
+      "result": "confirmed",
+      "detail": "Matches the table on the cited page."
+    },
+    {
+      "kind": "population",
+      "item": "population 515,547 in 1850 (documented)",
+      "source_opened": "https://www2.census.gov/library/working-papers/1998/demographics/pop-twps0027/tab08.txt ; https://en.wikipedia.org/wiki/Demographics_of_New_York_City",
+      "found": "Census Bureau Table 8 (1850): '1 New York city, NY 515,547'; Wikipedia table: 1850 = 515547",
+      "result": "confirmed",
+      "detail": "Matches the Census Bureau table. The URL in the source (census.gov/population/www/documentation/twps0027/twps0027.html) now returns 404; the tables live under www2.census.gov/library/working-papers/1998/demographics/pop-twps0027/. Source string left as is."
+    },
+    {
+      "kind": "population",
+      "item": "population 6,930,446 in 1930 (documented)",
+      "source_opened": "https://www2.census.gov/library/working-papers/1998/demographics/pop-twps0027/tab16.txt ; https://en.wikipedia.org/wiki/Demographics_of_New_York_City",
+      "found": "Census Bureau Table 16 (1930): '1 New York city, NY 6,930,446, 299.0 sq mi'; Wikipedia table: 1930 = 6930446",
+      "result": "confirmed",
+      "detail": "Matches the Census Bureau table."
+    },
+    {
+      "kind": "landmark",
+      "item": "New York World Building: completed 1890, height 94.2 m, at 40.712, -74.0053 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/world-building/8929 ; https://en.wikipedia.org/wiki/New_York_World_Building",
+      "found": "CTBUH: World Building, 99 Park Row, completion 1890, height 94.2 m / 309 ft, 20 floors. Wikipedia coord 40.7120, -74.0053",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "One World Trade Center (original North Tower): completed 1972, height 417 m, at 40.7121, -74.0131 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/one-world-trade-center/200 ; https://en.wikipedia.org/wiki/World_Trade_Center_(1973-2001)",
+      "found": "CTBUH id 200: One World Trade Center, completion 1972, height 417 m / 1,368 ft, 110 floors. Wikipedia coord for the complex 40d42m42s N 74d00m45s W (40.7117, -74.0125), about 65 m from the stored point",
+      "result": "confirmed",
+      "detail": "Year and height match; coordinates are on the original site."
+    },
+    {
+      "kind": "landmark",
+      "item": "432 Park Avenue: completed 2015, height 425.7 m, at 40.7616, -73.9719 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/432-park-avenue/13227 ; https://www.skyscrapercenter.com/city/new-york-city",
+      "found": "Completion 2015, height 425.7 m / 1,397 ft, 85 floors; city record: lat 40.761559, lon -73.971863",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match CTBUH."
+    },
+    {
+      "kind": "milestone",
+      "item": "1858: Central Park opens. Olmsted and Vaux win the design competition in 1858; first areas open late that year; completed in 1876.",
+      "source_opened": "https://en.wikipedia.org/wiki/Central_Park",
+      "found": "'In 1858, landscape architects Frederick Law Olmsted and Calvert Vaux won a design competition ... [first areas] opened to the public in late 1858 ... the park was completed in 1876'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1892: Ellis Island immigration station opens. From 1892 to 1954 about 12 million immigrants are processed.",
+      "source_opened": "https://en.wikipedia.org/wiki/Ellis_Island",
+      "found": "'From 1892 to 1954, about 12 million immigrants arriving at the Port of New York and New Jersey were processed there'; 'The first inspection station opened in 1892'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    }
+  ],
+  "summary": "All ten sampled figures match the cited Wikipedia pages and CTBUH records; the 1850 and 1930 census counts were also checked against the Census Bureau's own tables. Nothing changed."
+}

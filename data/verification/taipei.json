@@ -1,0 +1,88 @@
+{
+  "slug": "taipei",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1709: Chen Lai-chang land patent: Han settlers begin clearing the Taipei Basin around Bangka",
+      "source_opened": "https://zh.wikipedia.org/wiki/臺北市歷史 ; https://en.wikipedia.org/wiki/History_of_Taipei",
+      "found": "Chinese article: development 'can be traced to 1709, when the 陳賴章 (Chen Lai-chang) land company reclaimed 大加蚋 (Dajiala)'. English article: 'Han Chinese began to settle in the Taipei Basin in 1709.'",
+      "result": "confirmed",
+      "detail": "Year and event match both cited pages."
+    },
+    {
+      "kind": "population",
+      "item": "population 162,782 in 1920 (documented)",
+      "source_opened": "https://zh.wikipedia.org/wiki/臺北市人口",
+      "found": "Historical population table: 1920: 162782; the note attributes 1905-1935 to 章英華 (1997), '臺灣的都市體系——從清到日治'.",
+      "result": "confirmed",
+      "detail": "Matches the table as cited; the book was not opened."
+    },
+    {
+      "kind": "population",
+      "item": "population 274,157 in 1935 (documented)",
+      "source_opened": "https://zh.wikipedia.org/wiki/臺北市人口",
+      "found": "Historical population table: 1935: 274157 (same attribution).",
+      "result": "confirmed",
+      "detail": "Matches the table as cited."
+    },
+    {
+      "kind": "population",
+      "item": "population 353,744 in 1940 (documented)",
+      "source_opened": "https://zh.wikipedia.org/wiki/臺北市人口",
+      "found": "Historical population table: 1940: 353744, attributed to 臺北市政府主計處 (1951), 臺北市統計要覽, '臺北市歷年人口數 (1905-1950)', p. 8.",
+      "result": "confirmed",
+      "detail": "Matches the table as cited; the yearbook itself was not opened."
+    },
+    {
+      "kind": "population",
+      "item": "population 335,397 in 1945 (documented)",
+      "source_opened": "https://zh.wikipedia.org/wiki/臺北市人口",
+      "found": "Historical population table: 1945: 335397 (same attribution).",
+      "result": "confirmed",
+      "detail": "Matches the table as cited."
+    },
+    {
+      "kind": "landmark",
+      "item": "Sun Yat-sen Memorial Hall: completed 1972, height 29.6 m, at 25.04, 121.56 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Sun_Yat-sen_Memorial_Hall_(Taipei) ; OpenStreetMap Nominatim search",
+      "found": "Infobox: height 29.6 m, complete 16 May 1972; coordinates 25°2'24\"N 121°33'36\"E (25.04, 121.56). OSM 國父紀念館 29 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Shin Kong Life Tower: completed 1993, height 244.76 m, at 25.0459, 121.5154 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/city/taipei (embedded building records) ; https://www.skyscrapercenter.com/building/shin-kong-life-tower/937 ; OpenStreetMap Nominatim search",
+      "found": "CTBUH record 937: status completed, completion 1993, architectural height 244.76 m (shown as 244.8 m on the building page), latitude 25.045940, longitude 121.515350. OSM building 12 m from the claimed point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "The Sky Taipei: completed 2025, height 280 m, at 25.0363, 121.5661 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/city/taipei (embedded building records) ; https://www.skyscrapercenter.com/building/the-sky-taipei/29218 ; OpenStreetMap Nominatim search",
+      "found": "CTBUH record 29218: status completed, completion 2025, architectural height 280.00 m, 56 floors, latitude 25.036301, longitude 121.566063. OSM 台北天空塔 about 20 m from the claimed point (still tagged as under construction there).",
+      "result": "confirmed",
+      "detail": "Year, height and position match CTBUH, which lists the tower as completed in 2025."
+    },
+    {
+      "kind": "milestone",
+      "item": "1709: Chen Lai-chang patent opens the Taipei Basin",
+      "source_opened": "https://zh.wikipedia.org/wiki/臺北市歷史 ; https://en.wikipedia.org/wiki/History_of_Taipei",
+      "found": "Chinese article: Chen Lai-chang was a partnership formed in 1709 by men from Quanzhou (陳天章, 陳逢春, 賴永和, 陳憲伯, 戴天樞) to reclaim Dajiala, an area including 艋舺 (Bangka), 錫口, 大龍峒 and 大稻埕 (Dadaocheng), 'the central area of today's Taipei'. English article: the basin 'was home to Ketagalan tribes before the 18th century'.",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1949: Provisional capital of the Republic of China",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Taipei ; https://zh.wikipedia.org/wiki/臺北市歷史",
+      "found": "English: 'On December 7, 1949, the Kuomintang (KMT) government under Chiang Kai-shek established Taipei as the provisional capital of the ROC'. Chinese: in December 1949 the government moved from the mainland to Taipei.",
+      "result": "confirmed",
+      "detail": "Date and description match."
+    }
+  ],
+  "summary": "All ten sampled items match the cited sources; nothing was changed. The four population figures were checked against the Wikipedia table that the data cites, not against the underlying book and yearbook."
+}

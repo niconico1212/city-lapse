@@ -1,0 +1,96 @@
+{
+  "slug": "bandung",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1810: Bandung regency seat moved to the Great Post Road at the Cikapundung",
+      "source_opened": "https://javapost.nl/2011/10/26/bandoeng-een-stad-met-toekomst/ ; https://en.wikipedia.org/w/index.php?title=Bandung&action=raw",
+      "found": "Java Post (Reitsma 1933): 'De 25e Mei 1810 verlegde Gouverneur-Generaal Daendels de hoofdnegorij Bandoeng naar de tegenwoordige plaats, namelijk waar de Grote Postweg de Tjikapoendoeng snijdt', citing Van der Chijs's Plakaatboek. Wikipedia infobox: 'Founded 25 September 1810'.",
+      "result": "confirmed",
+      "detail": "Year and event match. The two pages give different days in 1810 (25 May for the decree, 25 September as the city's anniversary), which does not affect the year."
+    },
+    {
+      "kind": "population",
+      "item": "population 18,000 in 1889 (documented)",
+      "source_opened": "https://dbnl.org/tekst/_nee003192101_01/_nee003192101_01_0185.php",
+      "found": "'Toeneming bevolking. In 1889: 18.000; in 1896: 29.000; in 1920: 102.000 (met bedienden en garnizoen 115.000)', from Mayor S.A. Reitsma's text.",
+      "result": "confirmed",
+      "detail": "Rounded figure and year match."
+    },
+    {
+      "kind": "population",
+      "item": "population 48,000 in 1905 (documented)",
+      "source_opened": "https://javapost.nl/2011/10/26/bandoeng-een-stad-met-toekomst/",
+      "found": "'de resultaten van de volkstelling van 1905. Deze wijzen erop dat hier ... nog geen 48.000 mensen woonden, waarvan slechts 2.000 Europeanen.'",
+      "result": "confirmed",
+      "detail": "Year and census match; the source says 'not yet 48,000', which the data's note already records as a rounded upper bound."
+    },
+    {
+      "kind": "population",
+      "item": "population 58,649 in 1918 (documented)",
+      "source_opened": "https://en.wikisource.org/w/index.php?title=Page:Statesman%27s_Year-Book_1921.djvu/1166&action=raw",
+      "found": "Printed p. 1114, 'The population of the six principal towns of Java was in 1918': Bandoeng | 8,245 | 43,453 | 6,951 | 58,649.",
+      "result": "confirmed",
+      "detail": "Total, year and the three components in the note match."
+    },
+    {
+      "kind": "population",
+      "item": "population 102,000 in 1920 (documented)",
+      "source_opened": "https://dbnl.org/tekst/_nee003192101_01/_nee003192101_01_0185.php",
+      "found": "'in 1920: 102.000 (met bedienden en garnizoen 115.000)'.",
+      "result": "confirmed",
+      "detail": "Rounded figure, year and the 115,000 in the note match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Grand Mosque of Bandung (twin minarets): completed 2003, height 81 m, at -6.9217, 107.6063 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Grand_Mosque_of_Bandung&action=raw",
+      "found": "Infobox: groundbreaking 25 February 2001, completed 4 June 2003, minaret height 81 m; 'two twin minarets, each 81 meters high'; first built 1812. OpenStreetMap places Masjid Raya Bandung about 20 m from the stored point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Hegarmanah Residence Tower A: completed 2018, height 92 m, at -6.8821, 107.6027 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/hegarmanah-residence-tower-a/26647",
+      "found": "'Height 92 m / 302 ft. Please note that this height is estimated, based on a floor count of 27 floors.' Status completed, completion 2018. OpenStreetMap (Nominatim) has no object named Hegarmanah Residence; the stored point is about 240 m from Jalan Hegarmanah. A web search found only property listings, with no height or exact address.",
+      "result": "flagged",
+      "detail": "The cited page gives 92 m only as CTBUH's estimate from the floor count. Kept the value, lowered confidence from documented to estimated and added a note saying so and that the position could not be confirmed independently."
+    },
+    {
+      "kind": "landmark",
+      "item": "Al-Jabbar Grand Mosque (minarets): completed 2022, height 99 m, at -6.9481, 107.7036 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Al-Jabbar_Grand_Mosque&action=raw",
+      "found": "Infobox: completed 30 December 2022, 4 minarets, minaret height 99 m; 'four 99-meter-tall minarets, one in each of its four corners'. OpenStreetMap places Masjid Raya Al-Jabbar about 10 m from the stored point.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1920: Technical college opens; Gedung Sate begun (27 July 1920; completed September 1924).",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Gedung_Sate&action=raw ; https://en.wikisource.org/w/index.php?title=Page:Statesman%27s_Year-Book_1921.djvu/1166&action=raw ; https://en.wikipedia.org/w/index.php?title=Bandung&action=raw",
+      "found": "Gedung Sate infobox: construction start 27 July 1920, completion September 1924; built as the seat of the Department of Government Industries. Year-Book: 'Higher education is given at the Technical High School at Bandoeng, erected in 1920.' Bandung article: plans from the early 1920s to move the capital from Batavia to Bandung.",
+      "result": "confirmed",
+      "detail": "All dates and the description match the cited pages."
+    },
+    {
+      "kind": "milestone",
+      "item": "2005: Cipularang toll road and Pasupati Bridge open (May 2005; 25 June 2005).",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Bandung&action=raw ; https://en.wikipedia.org/w/index.php?title=Pasupati_Bridge&action=raw",
+      "found": "Bandung: 'Cipularang Toll Road ... was completed in May 2005'. Pasupati Bridge infobox: cable-stayed, crosses Cikapundung Valley, complete 25 June 2005; text: 'initial trials were carried out on June 26, 2005'.",
+      "result": "confirmed",
+      "detail": "Dates and description match (the bridge article's infobox says 25 June, its text mentions trials on 26 June)."
+    },
+    {
+      "kind": "landmark",
+      "item": "EXTRA (not in sample): Bank Rakyat Indonesia Tower: completed 1988, height 66 m (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/bank-rakyat-indonesia-tower/23114",
+      "found": "'Height 66 m / 217 ft. Please note that this height is estimated, based on a floor count of 15 floors.' Construction start 1987, completed 1988.",
+      "result": "flagged",
+      "detail": "Same issue as Hegarmanah Residence: the height is CTBUH's floor-count estimate. Kept the value, lowered confidence from documented to estimated and added a note. The other Bandung CTBUH pages (Ibis Hotel 111 m, The Trans Luxury Hotel 78.2 m, Crowne Plaza 109 m) carry no such notice and were left alone."
+    }
+  ],
+  "summary": "Nine of the 10 sampled items matched their sources. The exception is Hegarmanah Residence Tower A: CTBUH's 92 m is its own estimate from the floor count, not a measured height, so confidence was lowered to estimated. While checking that, the same was found for the Bank Rakyat Indonesia Tower (66 m, estimated from 15 floors) and handled the same way; the other three CTBUH entries for Bandung show no such notice."
+}

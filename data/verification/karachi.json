@@ -1,0 +1,88 @@
+{
+  "slug": "karachi",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1729: Kolachi-jo-Goth founded as a fortified trading settlement on Karachi harbour",
+      "source_opened": "https://archive.org/details/imperialgazettee15grea (full text, Karachi City article, pp. 11-17) ; https://en.wikipedia.org/wiki/Karachi",
+      "found": "Gazetteer: 'Before 1725 no town whatever appears to have existed on the site ... a migration was made to a spot near the present head of Karachi harbour, and at that time (1729) called Kalachi Kun ... Cannon brought from Muscat protected the little fort'. Wikipedia: 'formally founded as the fortified village of Kolachi only in 1729'; 'A new settlement was built in 1729 ... known as Kolachi-jo-Goth'.",
+      "result": "confirmed",
+      "detail": "Year and description supported by both cited sources."
+    },
+    {
+      "kind": "population",
+      "item": "population 57,000 in 1856 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/Karachi ; archive.org full-text search of https://archive.org/details/cityinsouthasia0000heit",
+      "found": "Wikipedia: 'The population in 1856 is estimated to have been 57,000' (Heitzman 2008, p. 129). Search hit inside Heitzman: 'increased to about 57,000 by 1856'. The Wikipedia population table on the same page lists 22,227 for 1856 and 56,859 for 1861 from another source.",
+      "result": "confirmed",
+      "detail": "Heitzman states the figure. The differing table entry on Wikipedia comes from a different source and area, and the point is already marked estimated."
+    },
+    {
+      "kind": "population",
+      "item": "population 73,560 in 1881 (documented)",
+      "source_opened": "https://archive.org/details/imperialgazettee15grea (full text, Karachi City article, pp. 11-17) ; https://en.wikipedia.org/wiki/Timeline_of_Karachi",
+      "found": "Gazetteer: population '(1872) 56,753, (1881) 73,560, (1891) 105,199, and (1901) 116,663, of whom 8,019 resided in the cantonment' (OCR reads '73>56o'). The Wikipedia timeline gives 1881 as 68,332 town + 5,228 cantonment, which sums to 73,560.",
+      "result": "confirmed",
+      "detail": "Exact match; figure includes the cantonment."
+    },
+    {
+      "kind": "population",
+      "item": "population 151,903 in 1911 (documented)",
+      "source_opened": "https://archive.org/details/dli.csl.3395 (full text of Smyth 1919)",
+      "found": "'a very heterogeneous population of 151,903, as enumerated at the census of 1911. The municipal limits ... enclose an area of about seventy square miles.'",
+      "result": "confirmed",
+      "detail": "Number, year and area match the gazetteer."
+    },
+    {
+      "kind": "population",
+      "item": "population 216,000 in 1921 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Timeline_of_Karachi",
+      "found": "'1921 - Population: 216,000.' cited to Newcombe 1960.",
+      "result": "confirmed",
+      "detail": "Matches the cited timeline entry; Newcombe (1960) itself was not opened."
+    },
+    {
+      "kind": "landmark",
+      "item": "Manora Point Lighthouse: completed 1889, height 38 m, at 24.7939, 66.9775 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Manora_Point_Lighthouse",
+      "found": "Infobox: year built 1851, current tower lit 1889, tower height 125 ft; coordinates 24°47'38\"N 66°58'39\"E (24.7939, 66.9775). Text: 'Completed by 1889 ... a tower standing 38 m high'.",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Empress Market: completed 1889, height 42.7 m, at 24.8625, 67.0294 (documented)",
+      "source_opened": "https://archive.org/details/dli.csl.3395 (full text of Smyth 1919) ; https://en.wikipedia.org/wiki/Empress_Market",
+      "found": "Smyth: 'Empress Market ... opened in March 1891 ... In the front rises a massive tower 140 feet high'. Wikipedia: 'constructed between 1884 and 1889'; coordinates 24°51'45\"N 67°1'46\"E (24.8625, 67.0294).",
+      "result": "confirmed",
+      "detail": "140 ft is 42.7 m; 1889 is the construction end date on Wikipedia and the 1891 opening date is already given in the note; coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Merewether Clock Tower: completed 1892, height 31.1 m, at 24.8489, 66.9974 (documented)",
+      "source_opened": "https://archive.org/details/dli.csl.3395 (full text of Smyth 1919) ; https://en.wikipedia.org/wiki/Merewether_Clock_Tower (coordinates)",
+      "found": "Smyth: '[height] of 102 feet and carries, at an elevation of 70 feet, a clock with four faces ... foundation stone was laid ... in 1884, and the completed structure was opened ... in 1892'. Wikipedia: opened 1892, 31 m, coordinates 24°50.936'N 66°59.845'E (24.8489, 66.9974).",
+      "result": "confirmed",
+      "detail": "102 ft is 31.1 m; year and coordinates match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1873: Manora breakwater completed (1,503 ft, begun 1869)",
+      "source_opened": "https://archive.org/details/imperialgazettee15grea (full text, Karachi City article, pp. 11-17)",
+      "found": "'the Manora breakwater, 1,503 feet in length - was commenced in 1869, and completed in 1873 at a cost of 7 lakhs. It affords complete shelter to the entrance channel (eastern) over the bar ... has already led to the deepening at the entrance'.",
+      "result": "confirmed",
+      "detail": "Length, dates and purpose match the gazetteer."
+    },
+    {
+      "kind": "milestone",
+      "item": "1878: Linked to the Indian railway network; by 1899 the largest wheat-exporting port in the East",
+      "source_opened": "https://en.wikipedia.org/wiki/Karachi ; archive.org full-text search of https://archive.org/details/cityinsouthasia0000heit",
+      "found": "Wikipedia: 'In 1878, the British Raj connected Karachi with the network of British India's vast railway system' (Heitzman) and 'By 1899, Karachi had become the largest wheat-exporting port in the East' (cited there to Feldman 1970). Heitzman search hit: '[railways] linked to Karachi in 1878'.",
+      "result": "confirmed",
+      "detail": "Both statements are on the cited Wikipedia page; note the wheat sentence is referenced there to Feldman (1970), not Heitzman. Data left unchanged."
+    }
+  ],
+  "summary": "All 10 sampled items matched the cited sources; the two gazetteers were read in full text on archive.org and Heitzman was checked through archive.org text search. Nothing was changed."
+}

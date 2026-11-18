@@ -1,0 +1,88 @@
+{
+  "slug": "hangzhou",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year -222: Qin dynasty establishes Qiantang County",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Hangzhou&action=raw",
+      "found": "History section: 'In 222 BC, the First Emperor of the Qin established Qiantang as a county under the direction of Kuaiji Commandery'. (The article's lead says 'Established as a county seat in 221 BC'.)",
+      "result": "confirmed",
+      "detail": "Year and event match the cited History section; the lead of the same article gives 221 BC, a one-year inconsistency inside the source that was left alone."
+    },
+    {
+      "kind": "population",
+      "item": "population 70,000 in 800 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, figshare article 2059494)",
+      "found": "Row 'Hangzhou' (other name Hangchow), column AD_800 = 70000.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 145,000 in 1150 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, figshare article 2059494)",
+      "found": "Row 'Hangzhou', column AD_1150 = 145000.",
+      "result": "confirmed",
+      "detail": "Value and year match."
+    },
+    {
+      "kind": "population",
+      "item": "population 320,489 in 1250 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, figshare article 2059494)",
+      "found": "Row 'Hangzhou', column AD_1250 = 320489.",
+      "result": "confirmed",
+      "detail": "Value and year match."
+    },
+    {
+      "kind": "population",
+      "item": "population 387,000 in 1800 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, figshare article 2059494)",
+      "found": "Row 'Hangzhou', column AD_1800 = 387000.",
+      "result": "confirmed",
+      "detail": "Value and year match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Liuhe Pagoda (Six Harmonies Pagoda): completed 1165, height 59.89 m, at 30.1982, 120.1266 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Liuhe_Pagoda&action=raw",
+      "found": "'originally constructed in 970 by the Wuyue Kingdom, destroyed in 1121, and reconstructed fully by 1165'; 'octagonal in shape and some 59.89 m in height'. OpenStreetMap places 六和塔 about 10 m from the stored point.",
+      "result": "confirmed",
+      "detail": "Year, height, position and the note's dates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Gongchen Bridge: completed 1885, height 9.2 m, at 30.3205, 120.1347 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Gongchen_Bridge&action=raw",
+      "found": "Infobox: height 9.2 m, complete 1631, rebuilt 1885; 'originally built in 1631 ... and was rebuilt in 1885'. OpenStreetMap places 拱宸桥 about 25 m from the stored point.",
+      "result": "confirmed",
+      "detail": "Year (of the rebuilding), height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Baochu Pagoda: completed 1933, height 45.3 m, at 30.2633, 120.1436 (documented)",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Baochu_Pagoda&action=raw ; https://zh.wikipedia.org/wiki/保俶塔 (raw wikitext) ; https://hznews.hangzhou.com.cn/chengshi/content/2014-05/14/content_5281016.htm",
+      "found": "English Wikipedia: built 963 with nine storeys; 'most recent reconstruction, in 1933', seven storeys (45 m). Chinese Wikipedia (citing the Zhejiang cultural heritage bureau): '民国十三年（1924年）塔倾斜，重修，为八面七级，高45.3米'. Hangzhou News, 14 May 2014: '现在市民看到的塔是1933年民国期间重新修建的，塔有八面七层 ... 通高共45.3米'. OpenStreetMap places 保俶塔 about 20 m from the stored point.",
+      "result": "confirmed",
+      "detail": "Height 45.3 m and position match. The rebuilding year differs between the two cited pages (1933 vs 1924), as the data's note already says; a third source, Hangzhou News, supports 1933, so the stored year was kept."
+    },
+    {
+      "kind": "milestone",
+      "item": "-222: Qin establishes Qiantang County ... under Kuaiji Commandery, near the Wulin hills west of the later city. It is the first recorded settlement at Hangzhou.",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Hangzhou&action=raw",
+      "found": "'The first of Hangzhou's present neighborhoods to appear in written records was Yuhang ... In 222 BC, the First Emperor of the Qin established Qiantang as a county under the direction of Kuaiji Commandery ... It was located in the area of the Wulin Mountains and the Wulin Lakes.'",
+      "result": "corrected",
+      "detail": "Year and event are right, but the cited article says Yuhang, not Qiantang, is the first to appear in written records. Replaced the last sentence of the detail, 'It is the first recorded settlement at Hangzhou.', with 'It is the conventional documented beginning of the city; Yuhang, now one of Hangzhou's districts, appears in written records earlier.' Milestones have no note field, so the change is recorded here only."
+    },
+    {
+      "kind": "milestone",
+      "item": "1129: Song court arrives; Lin'an becomes the capital (Gaozong reached Hangzhou in 1129; chosen as capital in 1132; capital until 1276).",
+      "source_opened": "https://en.wikipedia.org/w/index.php?title=Hangzhou&action=raw",
+      "found": "'Emperor Gaozong moved to Nanjing, then to modern Shangqiu, then to Yangzhou in 1128, and finally to Hangzhou in 1129'; 'Hangzhou was chosen as the new capital of the Southern Song dynasty in 1132'; 'From 1132 until the Mongol invasion of 1276, Hangzhou remained the capital of the Southern Song dynasty and was known as Lin'an'.",
+      "result": "confirmed",
+      "detail": "All three dates and the name match the cited section."
+    }
+  ],
+  "summary": "The start year, all four Chandler population points, the three landmarks and the 1129 milestone matched their sources. One wording fix: the -222 milestone called Qiantang 'the first recorded settlement at Hangzhou', but its own cited article says Yuhang appears in written records first, so that sentence was reworded; the year and event are unchanged. As a side check after finding floor-count estimates among Bandung's CTBUH heights, the six CTBUH pages cited for Hangzhou were opened: none is marked as an estimate and all heights and years agree with the file."
+}

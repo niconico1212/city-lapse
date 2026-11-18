@@ -381,7 +381,8 @@
       "lon": 3.3989,
       "kind": "skyscraper",
       "source": "SkyscraperPage building 38507, via https://en.wikipedia.org/wiki/Independence_House (CTBUH does not list a completion year)",
-      "confidence": "documented"
+      "confidence": "estimated",
+      "note": "Verification (2026-11-18): confidence lowered from documented to estimated for the height. Wikipedia gives 103 m (its list of tallest buildings in Nigeria cites SkyscraperPage, which could not be opened), while Peter Nkanga's 'Souvenir of a Monument' (https://souvenirofamonument.wordpress.com/), the source Wikipedia cites for the building's history, describes it as 25 storeys and '300 feet' (about 91 m). No measured height was found. Completion in 1961 is supported by both (construction 1959-1961); the Wikipedia list shows 1960."
     },
     {
       "name": "National Theatre (Wole Soyinka Centre), Iganmu",

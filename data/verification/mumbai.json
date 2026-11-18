@@ -1,0 +1,88 @@
+{
+  "slug": "mumbai",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1294: Raja Bhima founds Mahikavati (Mahim) on Bombay island",
+      "source_opened": "https://archive.org/download/in.ernet.dli.2015.207361/2015.207361.The-Imperial_djvu.txt",
+      "found": "'no town sprang up until Raja Bhima ... founded Mahikavati (Mahim) as a direct result of Ala-ud-din Khilji's raid into the Deccan in 1294'",
+      "result": "confirmed",
+      "detail": "Event as described; the gazetteer ties the founding to the 1294 raid rather than giving a separate founding date."
+    },
+    {
+      "kind": "population",
+      "item": "population 113,726 in 1780 (documented)",
+      "source_opened": "https://archive.org/download/in.ernet.dli.2015.207361/2015.207361.The-Imperial_djvu.txt",
+      "found": "'In 1780 a special committee, appointed to inquire into the price of food-grains, was furnished with a rough census of all residents, which totalled 113,726'",
+      "result": "confirmed",
+      "detail": "Number, year and description match."
+    },
+    {
+      "kind": "population",
+      "item": "population 644,405 in 1872 (documented)",
+      "source_opened": "https://archive.org/download/in.ernet.dli.2015.207361/2015.207361.The-Imperial_djvu.txt",
+      "found": "'[the 1864 figure] decreased in 1872 to 644,405'",
+      "result": "confirmed",
+      "detail": "Number and year match."
+    },
+    {
+      "kind": "population",
+      "item": "population 839,672 in 1901 (documented)",
+      "source_opened": "https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "found": "Greater Mumbai U.A.: 1901 = 839672 (and (a) Greater Mumbai: 812912, as the note says)",
+      "result": "confirmed",
+      "detail": "Matches Table A-4 for the urban agglomeration."
+    },
+    {
+      "kind": "population",
+      "item": "population 1,316,413 in 1931 (documented)",
+      "source_opened": "https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "found": "Greater Mumbai U.A.: 1931 = 1316413 (M.Corp. area 1268306)",
+      "result": "confirmed",
+      "detail": "Matches Table A-4."
+    },
+    {
+      "kind": "landmark",
+      "item": "World Trade Centre (MVRDC): completed 1970, height 155.91 m, at 18.9146, 72.8173 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/mvrdc/3623 ; https://www.skyscrapercenter.com/city/mumbai",
+      "found": "MVRDC, Cuffe Parade: completion 1970, 35 floors; city record id 3623: height_architecture 155.91, lat 18.914591, lon 72.817299",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match CTBUH."
+    },
+    {
+      "kind": "landmark",
+      "item": "Phiroze Jeejeebhoy Towers: completed 1980, height 117.96 m, at 18.9297, 72.833 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/phiroze-jeejeebhoy-towers/4809 ; https://www.skyscrapercenter.com/city/mumbai",
+      "found": "Height 118 m / 387 ft, 29 floors, completion 1980, Dalal Street; record: 117.96 m, lat 18.929661, lon 72.833031",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match CTBUH."
+    },
+    {
+      "kind": "landmark",
+      "item": "Lokhandwala Minerva: completed 2023, height 300.55 m, at 18.9871, 72.8275 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/lokhandwala-minerva/10431 ; https://www.skyscrapercenter.com/city/mumbai",
+      "found": "Completion 2023, Minerva Road, Mahalakshmi; record id 10431: height_architecture 300.55, lat 18.987089, lon 72.827499",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match CTBUH."
+    },
+    {
+      "kind": "milestone",
+      "item": "1687: Company headquarters moved from Surat. The East India Company transferred its headquarters from Surat to Bombay.",
+      "source_opened": "https://en.wikipedia.org/wiki/Mumbai",
+      "found": "'In 1687, the East India Company transferred its headquarters from Surat to Bombay'",
+      "result": "confirmed",
+      "detail": "Year and event match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1960: Capital of the new state of Maharashtra. Bombay State was divided on linguistic lines on 1 May 1960 and Bombay became the capital of Maharashtra.",
+      "source_opened": "https://en.wikipedia.org/wiki/Mumbai",
+      "found": "'[reorganised on] linguistic lines on 1 May 1960, creating the separate states of Maharashtra and Gujarat ... with Bombay as its capital'",
+      "result": "confirmed",
+      "detail": "Year and event match."
+    }
+  ],
+  "summary": "All ten sampled figures match the cited Imperial Gazetteer volume, Census of India A-4 table, CTBUH records and Wikipedia text. Nothing changed."
+}

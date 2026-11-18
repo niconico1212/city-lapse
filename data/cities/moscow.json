@@ -492,9 +492,9 @@
       "lat": 55.7508,
       "lon": 37.6181,
       "kind": "tower",
-      "source": "https://en.wikipedia.org/wiki/Ivan_the_Great_Bell_Tower",
+      "source": "https://en.wikipedia.org/wiki/Ivan_the_Great_Bell_Tower (height 81 m; first built 1505-1508); https://ru.wikipedia.org/wiki/Колокольня_Ивана_Великого (raised to 81 m in 1599-1600)",
       "confidence": "documented",
-      "note": "Built 1505-1508 at about 60 m and raised to its present height in 1600."
+      "note": "Built 1505-1508 at about 60 m and raised to its present height in 1600 under Boris Godunov. Source added at verification: the English article gives only the 1508 completion and the 81 m height; the Russian article describes the 1599-1600 superstructure and its inscription dated 7108 (1600). Values unchanged."
     },
     {
       "name": "Spasskaya Tower (Kremlin)",

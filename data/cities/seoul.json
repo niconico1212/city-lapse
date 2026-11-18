@@ -12,6 +12,12 @@
     "lon": 126.977,
     "source": "OpenStreetMap Nominatim, '근정전, 사직로, 종로구' (https://nominatim.openstreetmap.org/); https://en.wikipedia.org/wiki/Geunjeongjeon"
   },
+  "start_site": {
+    "name": "Wiryeseong (Pungnap Toseong earthen fortress, Songpa District)",
+    "lat": 37.5306,
+    "lon": 127.1168,
+    "source": "Coordinate template of https://en.wikipedia.org/wiki/Wiryeseong (37.530625 N, 127.116839 E), whose text identifies Pungnap Toseong and Mongchon Toseong in Songpa District as the believed remains of Hanam Wiryeseong; https://en.wikipedia.org/wiki/Pungnaptoseong gives 37.5303 N, 127.1162 E and https://en.wikipedia.org/wiki/Mongchontoseong gives 37.5217 N, 127.1228 E"
+  },
   "population": [
     {
       "year": 1428,

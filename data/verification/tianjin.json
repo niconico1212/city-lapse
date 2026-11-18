@@ -1,0 +1,88 @@
+{
+  "slug": "tianjin",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1214: Zhigu fort (Zhiguzhai) set up by the Jin dynasty at the Sanchakou river junction",
+      "source_opened": "https://zh.wikipedia.org/wiki/天津历史 ; https://zh.wikipedia.org/wiki/天津市",
+      "found": "天津历史: '金朝贞佑二年（1214年），在三岔口设直沽寨'. 天津市: '金贞祐二年（1214年），金朝在三岔河口一带设置直沽寨'",
+      "result": "confirmed",
+      "detail": "Year and event match both cited pages."
+    },
+    {
+      "kind": "population",
+      "item": "population 80,000 in 1750 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv, figshare 2059494)",
+      "found": "Row Tianjin (Tientsin), China: AD_1750 = 80000",
+      "result": "confirmed",
+      "detail": "Value in the Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 130,000 in 1800 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv)",
+      "found": "Row Tianjin: AD_1800 = 130000",
+      "result": "confirmed",
+      "detail": "Value in the Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 155,000 in 1825 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv)",
+      "found": "Row Tianjin: AD_1825 = 155000",
+      "result": "confirmed",
+      "detail": "Value in the Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 785,000 in 1914 (estimated)",
+      "source_opened": "https://ndownloader.figshare.com/files/5407640 (chandlerV2.csv)",
+      "found": "Row Tianjin: AD_1914 = 785000",
+      "result": "confirmed",
+      "detail": "Value in the Chandler file."
+    },
+    {
+      "kind": "landmark",
+      "item": "Bohai Building: completed 1936, height 47.47 m, at 39.1254, 117.1974 (documented)",
+      "source_opened": "https://zh.wikipedia.org/wiki/渤海大楼 ; https://nominatim.openstreetmap.org/search?q=渤海大楼+天津",
+      "found": "zh.wikipedia: '1936年，渤海大楼竣工'; '渤海大楼的总建筑高为47.47米'. OpenStreetMap building 渤海大楼, 和平路: 39.12538, 117.19738",
+      "result": "confirmed",
+      "detail": "Year and height match; coordinates match the OSM building. The coord on the zh.wikipedia page (39.126365, 117.203698) is about 550 m east, consistent with the usual GCJ-02 offset, so the OSM position is the right one to use."
+    },
+    {
+      "kind": "landmark",
+      "item": "Tianjin Radio and Television Tower: completed 1991, height 415.2 m, at 39.0919, 117.1753 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Tianjin_Radio_and_Television_Tower ; https://zh.wikipedia.org/wiki/天津广播电视塔",
+      "found": "en: '415.2 m tall', 'built in 1991', coord 39d5m31s N 117d10m30s E (39.0919, 117.1750). zh: 竣工 1991年10月1日, 塔尖高415.2米",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Post and Communications Network Center: completed 1997, height 182.58 m, at 39.1176, 117.1754 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/post-and-communications-network-center/2230 ; https://www.skyscrapercenter.com/city/tianjin",
+      "found": "Post and Communications Network Center, Xinxing Road, Heping District, completion 1997, 26 floors; city record id 2230: height 182.58, lat 39.117580, lon 117.175400 (reverse-geocodes to 新兴路, 和平区)",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match CTBUH, and the point lies on the street CTBUH gives as the address."
+    },
+    {
+      "kind": "milestone",
+      "item": "1900: Boxer War: Eight-Nation Alliance takes the city; concessions besieged in June; captured in July; provisional government until August 1902.",
+      "source_opened": "https://en.wikipedia.org/wiki/Tianjin#History",
+      "found": "'In June 1900, the Boxers were able to seize control of parts of Tianjin ... The foreign concessions were also under siege for several weeks. In July 1900, the Eight-Nation Alliance recaptured Tianjin ... established the Tianjin Provisional Government ... governed by this council until August 15, 1902'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1937: Falls to Japan on 30 July 1937; the foreign concessions were not occupied until 1941.",
+      "source_opened": "https://en.wikipedia.org/wiki/Tianjin#History",
+      "found": "'On July 30, 1937, during the Second Sino-Japanese War, Tianjin fell to Japan, but was not entirely occupied, as the Japanese generally respected foreign concessions until 1941, when American and British concessions were occupied'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    }
+  ],
+  "summary": "All ten sampled figures match the Chandler file, the Chinese and English Wikipedia pages cited, and CTBUH; the two OpenStreetMap-sourced positions were re-checked against OSM. Nothing changed."
+}

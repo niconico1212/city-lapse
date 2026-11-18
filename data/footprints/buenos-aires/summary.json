@@ -18,82 +18,82 @@
   },
   {
    "year": 1600,
-   "area_km2": 0.02,
+   "area_km2": 0.03,
    "confidence": "reconstructed"
   },
   {
    "year": 1650,
-   "area_km2": 0.07,
+   "area_km2": 0.09,
    "confidence": "reconstructed"
   },
   {
    "year": 1700,
-   "area_km2": 0.23,
+   "area_km2": 0.28,
    "confidence": "reconstructed"
   },
   {
    "year": 1750,
-   "area_km2": 0.6,
+   "area_km2": 0.74,
    "confidence": "reconstructed"
   },
   {
    "year": 1800,
-   "area_km2": 1.61,
+   "area_km2": 1.99,
    "confidence": "reconstructed"
   },
   {
    "year": 1825,
-   "area_km2": 2.41,
+   "area_km2": 2.97,
    "confidence": "reconstructed"
   },
   {
    "year": 1850,
-   "area_km2": 3.74,
+   "area_km2": 4.63,
    "confidence": "reconstructed"
   },
   {
    "year": 1875,
-   "area_km2": 11.07,
+   "area_km2": 13.69,
    "confidence": "reconstructed"
   },
   {
    "year": 1900,
-   "area_km2": 42.08,
+   "area_km2": 50.76,
    "confidence": "reconstructed"
   },
   {
    "year": 1910,
-   "area_km2": 78.05,
+   "area_km2": 91.83,
    "confidence": "reconstructed"
   },
   {
    "year": 1920,
-   "area_km2": 124.11,
+   "area_km2": 142.41,
    "confidence": "reconstructed"
   },
   {
    "year": 1930,
-   "area_km2": 175.05,
+   "area_km2": 195.89,
    "confidence": "reconstructed"
   },
   {
    "year": 1940,
-   "area_km2": 246.68,
+   "area_km2": 269.24,
    "confidence": "reconstructed"
   },
   {
    "year": 1950,
-   "area_km2": 567.77,
+   "area_km2": 604.38,
    "confidence": "reconstructed"
   },
   {
    "year": 1960,
-   "area_km2": 863.4,
+   "area_km2": 896.39,
    "confidence": "reconstructed"
   },
   {
    "year": 1970,
-   "area_km2": 1248.55,
+   "area_km2": 1264.25,
    "confidence": "reconstructed"
   },
   {
@@ -192,7 +192,7 @@
    }
   ],
   "start_site": null,
-  "density_decline_per_year": 0.015,
+  "density_decline_per_year": 0.0125,
   "density_peak_year": 1890,
   "density_cap_per_ha": 500.0,
   "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",

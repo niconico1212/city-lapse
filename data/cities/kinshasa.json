@@ -363,8 +363,8 @@
       "lon": 15.2803,
       "kind": "skyscraper",
       "source": "https://zoom-eco.net/a-la-une/rdc-felix-tshisekedi-inspecte-les-travaux-de-construction-du-centre-financier-de-kinshasa/",
-      "confidence": "documented",
-      "note": "20 floors. Height as announced during construction; CTBUH does not list the building. Coordinates are for the complex."
+      "confidence": "estimated",
+      "note": "20 floors. Height as announced during construction; CTBUH does not list the building. Coordinates are for the complex. Verification (2026-11-18): confidence lowered from documented to estimated. The 107 m is the design figure in the cited report of 9 November 2022, when the work was about 30% complete; no as-built height was found, and later press reports describe the towers differently (20 and 18 levels in September 2023; four towers of 21 levels each in December 2023). Completion year from the inauguration on 19 December 2023 (https://en.wikipedia.org/wiki/Kinshasa_Financial_Center)."
     },
     {
       "name": "Kinshasa Financial Center, Ministry of Budget tower",
@@ -374,8 +374,8 @@
       "lon": 15.2806,
       "kind": "skyscraper",
       "source": "https://zoom-eco.net/a-la-une/rdc-felix-tshisekedi-inspecte-les-travaux-de-construction-du-centre-financier-de-kinshasa/",
-      "confidence": "documented",
-      "note": "16 floors. Height as announced during construction. Coordinates are approximate, within the complex."
+      "confidence": "estimated",
+      "note": "16 floors. Height as announced during construction. Coordinates are approximate, within the complex. Verification (2026-11-18): confidence lowered from documented to estimated. The 90 m is the design figure in the cited report of 9 November 2022, when the work was about 30% complete; no as-built height was found, and later press reports describe the towers differently (20 and 18 levels in September 2023; four towers of 21 levels each in December 2023)."
     },
     {
       "name": "Kinshasa Financial Center, Finance Centre building",
@@ -385,8 +385,8 @@
       "lon": 15.28,
       "kind": "skyscraper",
       "source": "https://zoom-eco.net/a-la-une/rdc-felix-tshisekedi-inspecte-les-travaux-de-construction-du-centre-financier-de-kinshasa/",
-      "confidence": "documented",
-      "note": "16 floors. Height as announced during construction. Coordinates are approximate, within the complex."
+      "confidence": "estimated",
+      "note": "16 floors. Height as announced during construction. Coordinates are approximate, within the complex. Verification (2026-11-18): confidence lowered from documented to estimated. The 78 m is the design figure in the cited report of 9 November 2022, when the work was about 30% complete; no as-built height was found. Completion year from the inauguration on 19 December 2023 (https://en.wikipedia.org/wiki/Kinshasa_Financial_Center)."
     }
   ],
   "footprint_epochs": "footprints/kinshasa/",

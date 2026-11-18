@@ -28,107 +28,107 @@
   },
   {
    "year": 1100,
-   "area_km2": 0.11,
+   "area_km2": 0.12,
    "confidence": "reconstructed"
   },
   {
    "year": 1200,
-   "area_km2": 0.18,
+   "area_km2": 0.2,
    "confidence": "reconstructed"
   },
   {
    "year": 1300,
-   "area_km2": 0.3,
+   "area_km2": 0.34,
    "confidence": "reconstructed"
   },
   {
    "year": 1400,
-   "area_km2": 0.49,
+   "area_km2": 0.58,
    "confidence": "reconstructed"
   },
   {
    "year": 1500,
-   "area_km2": 0.82,
+   "area_km2": 0.99,
    "confidence": "reconstructed"
   },
   {
    "year": 1600,
-   "area_km2": 3.45,
+   "area_km2": 4.26,
    "confidence": "reconstructed"
   },
   {
    "year": 1650,
-   "area_km2": 6.79,
+   "area_km2": 8.4,
    "confidence": "reconstructed"
   },
   {
    "year": 1700,
-   "area_km2": 9.98,
+   "area_km2": 12.34,
    "confidence": "reconstructed"
   },
   {
    "year": 1750,
-   "area_km2": 11.12,
+   "area_km2": 13.75,
    "confidence": "reconstructed"
   },
   {
    "year": 1800,
-   "area_km2": 11.48,
+   "area_km2": 14.2,
    "confidence": "reconstructed"
   },
   {
    "year": 1825,
-   "area_km2": 11.48,
+   "area_km2": 14.2,
    "confidence": "reconstructed"
   },
   {
    "year": 1850,
-   "area_km2": 11.48,
+   "area_km2": 14.2,
    "confidence": "reconstructed"
   },
   {
    "year": 1875,
-   "area_km2": 11.48,
+   "area_km2": 14.2,
    "confidence": "reconstructed"
   },
   {
    "year": 1900,
-   "area_km2": 27.09,
+   "area_km2": 32.68,
    "confidence": "reconstructed"
   },
   {
    "year": 1910,
-   "area_km2": 37.54,
+   "area_km2": 44.16,
    "confidence": "reconstructed"
   },
   {
    "year": 1920,
-   "area_km2": 53.72,
+   "area_km2": 61.63,
    "confidence": "reconstructed"
   },
   {
    "year": 1930,
-   "area_km2": 122.2,
+   "area_km2": 136.75,
    "confidence": "reconstructed"
   },
   {
    "year": 1940,
-   "area_km2": 188.2,
+   "area_km2": 205.41,
    "confidence": "reconstructed"
   },
   {
    "year": 1950,
-   "area_km2": 470.97,
+   "area_km2": 501.34,
    "confidence": "reconstructed"
   },
   {
    "year": 1960,
-   "area_km2": 829.12,
+   "area_km2": 860.8,
    "confidence": "reconstructed"
   },
   {
    "year": 1970,
-   "area_km2": 1385.89,
+   "area_km2": 1403.33,
    "confidence": "reconstructed"
   },
   {
@@ -227,7 +227,7 @@
    }
   ],
   "start_site": null,
-  "density_decline_per_year": 0.015,
+  "density_decline_per_year": 0.0125,
   "density_peak_year": 1890,
   "density_cap_per_ha": 500.0,
   "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",

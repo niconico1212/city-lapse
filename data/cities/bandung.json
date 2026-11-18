@@ -328,7 +328,8 @@
       "lon": 107.6075,
       "kind": "skyscraper",
       "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/bank-rakyat-indonesia-tower/23114",
-      "confidence": "documented"
+      "confidence": "estimated",
+      "note": "Verification (2026-11-18): confidence lowered from documented to estimated. The CTBUH page says the 66 m height 'is estimated, based on a floor count of 15 floors'; no measured height was found. Completion in 1988 is as CTBUH lists it."
     },
     {
       "name": "Grand Mosque of Bandung (twin minarets)",
@@ -379,7 +380,8 @@
       "lon": 107.6027,
       "kind": "skyscraper",
       "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/hegarmanah-residence-tower-a/26647",
-      "confidence": "documented"
+      "confidence": "estimated",
+      "note": "Verification (2026-11-18): confidence lowered from documented to estimated. The CTBUH page says the 92 m height 'is estimated, based on a floor count of 27 floors'; no measured height was found. Completion in 2018 is as CTBUH lists it. The position could not be confirmed independently: OpenStreetMap has no object with this name, and the point is about 240 m from Jalan Hegarmanah."
     },
     {
       "name": "Al-Jabbar Grand Mosque (minarets)",

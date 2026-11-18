@@ -1,0 +1,88 @@
+{
+  "slug": "shenzhen",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 331: Bao'an County founded with its seat at Nantou (Eastern Jin)",
+      "source_opened": "https://en.wikipedia.org/wiki/Shenzhen ; https://en.wikipedia.org/wiki/Bao%27an_County ; https://en.wikipedia.org/wiki/Nantou_(historic_town)",
+      "found": "Shenzhen: 'In 331 AD, the Eastern Jin administration split up Nanhai and established a new Dongguan Commandery. The seat of both the commandery and Bao'an County, one of its six counties, was located around the modern town of Nantou' (citing the Shenzhen Government 'Brief History'). Bao'an County: 'In 331, the Eastern Jin dynasty established Bao'an County'.",
+      "result": "confirmed",
+      "detail": "Year, county and seat match the cited pages."
+    },
+    {
+      "kind": "landmark",
+      "item": "Nantou Ancient City, South Gate: completed 1394, height 4.5 m, at 22.5449, 113.9157 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Nantou_(historic_town)",
+      "found": "'The current walled city was built in 1394'; 'The south gate measures 10 metres wide and 4.5 metres tall. A gate tower built atop was destroyed.' Article coordinate for the town 22.546307, 113.916456.",
+      "result": "confirmed",
+      "detail": "Year and height match; the point is about 170 m south of the town's coordinate, consistent with the south gate of a town 500 m north to south."
+    },
+    {
+      "kind": "landmark",
+      "item": "Shun Hing Square (Diwang Building): completed 1996, height 384 m, at 22.5454, 114.1055 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/shun-hing-square/258 ; https://en.wikipedia.org/wiki/Shun_Hing_Square (coordinates)",
+      "found": "CTBUH: Completion 1996; architectural height 384 m (298 m occupied); 5002 Shennan Road East. Wikipedia coord 22°32'43\"N 114°06'21\"E (22.5453, 114.1058).",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "KK100: completed 2011, height 441.8 m, at 22.5457, 114.1015 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/kk100/173 ; Wikipedia coordinates API for 'KK100'",
+      "found": "CTBUH: Completion 2011; architectural height 441.8 m; 5016 Shennan East Road. Wikipedia coord 22.54583, 114.10156.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Shenzhen Stock Exchange: completed 2013, height 245.8 m, at 22.5445, 114.0487 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/shenzhen-stock-exchange/1144 ; https://en.wikipedia.org/wiki/Shenzhen_Stock_Exchange (coordinates)",
+      "found": "CTBUH: Completion 2013; architectural height 245.8 m; Fu Zhong 3 Road, Futian. Wikipedia coord 22.54426, 114.04883.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Ping An Finance Center: completed 2017, height 599.05 m, at 22.5366, 114.0504 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/ping-an-finance-center/54 ; Wikipedia coordinates API for 'Ping An Finance Centre'",
+      "found": "CTBUH: Completion 2017; architectural height 599.1 m (page shows one decimal); 5033 Yitian Road. Wikipedia coord 22.5367, 114.0503.",
+      "result": "confirmed",
+      "detail": "Year and position match; 599.05 m and CTBUH's displayed 599.1 m are the same figure at different rounding."
+    },
+    {
+      "kind": "landmark",
+      "item": "China Merchants Bank Global Headquarters Main Tower: completed 2025, height 393 m, at 22.5255, 113.9652 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/china-merchants-bank-global-headquarters-main-tower/42765 ; OpenStreetMap Nominatim for 白石四道 and 深湾二路",
+      "found": "CTBUH: status Completed, Completion 2025 (construction start 2021); height 393 m; address 'Baishi 4th Road & Shenwan 2nd Road, Shenzhen Bay'. OSM places Baishi 4th Road at about 22.5259 N and Shenwan 2nd Road at about 113.9659 E.",
+      "result": "confirmed",
+      "detail": "Year and height match CTBUH; the point is about 80 m from the street junction CTBUH gives as the address. No building-level coordinate was found, so position is confirmed to the block only."
+    },
+    {
+      "kind": "milestone",
+      "item": "1990: Shenzhen Stock Exchange founded (established December 1990)",
+      "source_opened": "https://en.wikipedia.org/wiki/Shenzhen ; https://en.wikipedia.org/wiki/Shenzhen_Stock_Exchange",
+      "found": "Shenzhen: 'In December 1990 ... the Shenzhen Stock Exchange was established'. Exchange article: 'On 1 December 1990, Shenzhen Stock Exchange was founded' (citing szse.cn).",
+      "result": "confirmed",
+      "detail": "Year and month match."
+    },
+    {
+      "kind": "milestone",
+      "item": "2004: Shenzhen Metro opens (first lines began operating on 28 December 2004)",
+      "source_opened": "https://en.wikipedia.org/wiki/Shenzhen_Metro",
+      "found": "Lines 1 and 4 both list first opening 'December 28, 2004'; timeline: 'December 28, 2004: Luohu - Window of the World'.",
+      "result": "confirmed",
+      "detail": "Date matches."
+    },
+    {
+      "kind": "milestone",
+      "item": "2011: Summer Universiade (12 to 23 August)",
+      "source_opened": "https://en.wikipedia.org/wiki/2011_Summer_Universiade",
+      "found": "Infobox: host city Shenzhen; opening 12 August 2011; closing 23 August 2011.",
+      "result": "confirmed",
+      "detail": "Dates match."
+    }
+  ],
+  "summary": "All 10 sampled figures match their sources: the five CTBUH towers agree on year and height, positions are within about 200 m of independent coordinates, and the start date and three milestones are as the cited pages state. No edits made."
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "bogota",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1538: Santa Fe founded by Gonzalo Jiménez de Quesada",
+      "source_opened": "https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/historia-de-bogota-recorrido-por-la-historia-de-la-ciudad-de-bogota ; https://es.wikipedia.org/wiki/Historia_de_Bogot%C3%A1",
+      "found": "Alcaldía: 'Aunque no existe acta de fundación de la ciudad, se ha aceptado como fecha de fundación el 6 de agosto de 1538.' es-wiki: 'se realizó la \"fundación jurídica\" de Bogotá el 27 de abril de 1539'.",
+      "result": "confirmed",
+      "detail": "Year and founder match both cited pages."
+    },
+    {
+      "kind": "population",
+      "item": "population 12,000 in 1569 (estimated)",
+      "source_opened": "https://doi.org/10.6084/m9.figshare.2059494 (chandlerV2.csv downloaded from figshare)",
+      "found": "Row 'Bogota / Bacata, Funza, Bogotá': AD_1569 = 12000 (AD_1538 = 20000, AD_1680 = 15000).",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 84,723 in 1881 (documented)",
+      "source_opened": "https://revistas.urosario.edu.co/index.php/territorios/article/download/1400/1276/5198 (PDF) ; https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/historia-de-bogota-recorrido-por-la-historia-de-la-ciudad-de-bogota",
+      "found": "Rey Hernández: '... a 84.723 en 1881', noting Mejía's view that the 1881 census, 'tomado de una guía de la ciudad', may be inflated. Alcaldía: 'en 1881, 84.723 habitantes'.",
+      "result": "confirmed",
+      "detail": "Exact match in both cited sources; the caveat is already in the note."
+    },
+    {
+      "kind": "population",
+      "item": "population 121,257 in 1912 (documented)",
+      "source_opened": "https://revistas.urosario.edu.co/index.php/territorios/article/download/1400/1276/5198 (PDF)",
+      "found": "Table: '1912 121.257*' with footnote '* Mejía difiere y asigna a este año unos 116.951 habitantes'; source Ministerio de Gobierno 1912.",
+      "result": "confirmed",
+      "detail": "Exact match; the alternative 116,951 is already in the note."
+    },
+    {
+      "kind": "population",
+      "item": "population 143,994 in 1918 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+      "found": "Historical population table: '1918 | 143994'; footnote cites Villamarin & Villamarin 1975 and a DANE municipal profile.",
+      "result": "confirmed",
+      "detail": "Matches the cited table; DANE itself was not opened."
+    },
+    {
+      "kind": "landmark",
+      "item": "Edificio Seguros Tequendama: completed 1970, height 121.92 m, at 4.6125, -74.0695 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/edificio-seguros-tequendama/11187 ; https://es.wikipedia.org/wiki/Edificio_Seguros_Tequendama",
+      "found": "CTBUH: completion 1970, 121.9 m / 400 ft, 38 floors, Carrera 7 # 26-20. es-wiki: 121.92 m, inaugurated 1970, east side of Carrera 7 in San Diego beside the Planetario (OpenStreetMap puts the Planetario at 4.6121, -74.0688).",
+      "result": "confirmed",
+      "detail": "Year and height match. No page gives coordinates for the tower itself; the point is at the stated address, about 90 m from the neighbouring Planetario."
+    },
+    {
+      "kind": "landmark",
+      "item": "Edificio Colseguros: completed 1971, height 140 m, at 4.6038, -74.0723 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/edificio-colseguros/4333 ; https://sisbic.idpc.gov.co/Fichas_606%5CFicha__003109002002.pdf ; https://es.wikipedia.org/wiki/Edificio_Colseguros ; OpenStreetMap (Nominatim)",
+      "found": "CTBUH: completion 1971, 140 m, 36 floors, 'Cra. 7 #17'. IDPC heritage record 'Edificio Colseguros': Calle 17 No. 9-82, fronting Carrera 10 between Calles 17 and 18, 'Inmueble construido en 1974', tower of 39 floors. es-wiki: 145 m, 1974, Calle 18 # 9-79. OpenStreetMap: 'Centro Colseguros, Carrera 10' at 4.6054, -74.0742; a separate 'Colseguros Carrera Septima' building at 4.6039, -74.0727.",
+      "result": "corrected",
+      "detail": "Changed year from 1971 to 1974 (city heritage record, Spanish Wikipedia) and moved lat/lon from 4.6038, -74.0723 to 4.6054, -74.0742: the old point sat on a different, lower Colseguros building on Carrera 7, about 270 m from the tower. Height kept at CTBUH 140 m; source and note updated to record the 1971 and 145 m alternatives."
+    },
+    {
+      "kind": "landmark",
+      "item": "Torre Colpatria: completed 1979, height 196 m, at 4.611, -74.0702 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/torre-colpatria/1918 ; https://en.wikipedia.org/wiki/Torre_Colpatria ; https://es.wikipedia.org/wiki/Torre_Colpatria ; https://www.lafm.com.co/bogota/curiosidades-de-la-torre-colpatria-emblema-de-bogota-que-cumple-40-anos",
+      "found": "CTBUH: completion 1979, 196 m, 50 floors. en-wiki: 'Constructed between 1973 and 1978 and opened in 1979', infobox completion 1978, coordinates 4.611040, -74.070288. es-wiki: inaugurated 24 October 1978. La FM: 'La construcción de la torre inició en el año de 1973 y finalizó en 1978'.",
+      "result": "flagged",
+      "detail": "Height and coordinates match. Completion is 1979 in CTBUH but construction ended in 1978 according to three other sources, which also disagree on whether it opened in 1978 or 1979. Kept 1979 and confidence documented; added a note listing the dates."
+    },
+    {
+      "kind": "milestone",
+      "item": "1538: Quesada founds Santa Fe (6 August 1538; first mass in a thatched church beside Teusaquillo)",
+      "source_opened": "https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/historia-de-bogota-recorrido-por-la-historia-de-la-ciudad-de-bogota",
+      "found": "'hallaron un poblado de indios llamado Teusaquillo ... se ha aceptado como fecha de fundación el 6 de agosto de 1538. Según la tradición, aquel día el sacerdote fray Domingo de las Casas ofició la primera misa en una iglesia pajiza'.",
+      "result": "confirmed",
+      "detail": "Date and description match the cited page."
+    },
+    {
+      "kind": "milestone",
+      "item": "1889: Sabana railway begins operating (San Victorino to Facatativá)",
+      "source_opened": "https://en.wikipedia.org/wiki/Timeline_of_Bogot%C3%A1 ; https://es.wikipedia.org/wiki/Historia_de_Bogot%C3%A1",
+      "found": "Timeline: '1889 - Bogotá Savannah Railway begins operating.' es-wiki: 'En 1888 ... Un año más tarde, se fundó la empresa Ferrocarril de la Sabana de Bogotá y se estrenó su primera línea desde San Victorino hasta Facatativá'.",
+      "result": "confirmed",
+      "detail": "Year and route match both cited pages."
+    }
+  ],
+  "summary": "Eight of 10 items matched their sources. Edificio Colseguros was corrected (1974, not 1971, and the pin moved to the actual tower on Carrera 10); Torre Colpatria was flagged because sources split between 1978 and 1979."
+}

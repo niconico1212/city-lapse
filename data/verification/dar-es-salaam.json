@@ -1,0 +1,88 @@
+{
+  "slug": "dar-es-salaam",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1862: Sultan Majid of Zanzibar decides to build a new town beside the fishing village of Mzizima",
+      "source_opened": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dar-es-Salaam",
+      "found": "'Until the German occupation nothing but an insignificant village existed at Dar-es-Salaam. In 1862 Said Majid, sultan of Zanzibar, decided to build a town on the shores of the bay'",
+      "result": "confirmed",
+      "detail": "Year and event match; EB1911 does not name the village (Mzizima)."
+    },
+    {
+      "kind": "population",
+      "item": "population 3,500 in 1867 (estimated)",
+      "source_opened": "https://de.wikipedia.org/wiki/Daressalam",
+      "found": "Table 'Entwicklung der Einwohnerzahlen': 1867 = 3500 (ref: Dar es Salaam city profile, Kinondoni Municipal Council, archived 2007)",
+      "result": "confirmed",
+      "detail": "Matches the cited table."
+    },
+    {
+      "kind": "population",
+      "item": "population 20,000 in 1900 (estimated)",
+      "source_opened": "https://de.wikipedia.org/wiki/Daressalam",
+      "found": "Same table: 1900 = 20.000 (ref: Speitkamp 2005, p. 110)",
+      "result": "confirmed",
+      "detail": "Matches the cited table."
+    },
+    {
+      "kind": "population",
+      "item": "population 34,300 in 1931 (estimated)",
+      "source_opened": "https://de.wikipedia.org/wiki/Daressalam",
+      "found": "Same table: 1931 = 33.147 (34.300) (refs: Knaurs Lexikon 1937; Hecklau 1989, p. 564)",
+      "result": "confirmed",
+      "detail": "Matches; the table gives both figures, as the data point's note says."
+    },
+    {
+      "kind": "population",
+      "item": "population 45,100 in 1943 (estimated)",
+      "source_opened": "https://de.wikipedia.org/wiki/Daressalam",
+      "found": "Same table: 1943 = 45.100 (ref: Hecklau 1989, p. 564)",
+      "result": "confirmed",
+      "detail": "Matches the cited table."
+    },
+    {
+      "kind": "landmark",
+      "item": "PSPF Commercial Tower A: completed 2014, height 152.7 m, at -6.8208, 39.2859 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/pspf-commercial-tower-a/14679 ; https://www.skyscrapercenter.com/city/dar-es-salaam",
+      "found": "PSPF Commercial Tower A, Sokoine Drive & Mission Street, completion 2014, 35 floors; city record id 14679: height 152.70, lat -6.821150, lon 39.286041 (Tower B: -6.820820, 39.285648)",
+      "result": "confirmed",
+      "detail": "Year and height match. Stored point is about 40 m from CTBUH's Tower A position (between the twin towers), well within tolerance."
+    },
+    {
+      "kind": "landmark",
+      "item": "Rita Tower: completed 2014, height 133 m, at -6.8167, 39.288 (estimated)",
+      "source_opened": "https://www.skyscrapercenter.com/building/rita-tower/14681 ; https://nominatim.openstreetmap.org/search?q=RITA+Tower+Dar+es+Salaam",
+      "found": "CTBUH id 14681: Rita Tower, 30 floors, completion 2014, height_architecture 133.00, no coordinates. OpenStreetMap: RITA Tower, 3 Makunganya Street, at -6.81672, 39.28797",
+      "result": "confirmed",
+      "detail": "Year and height match CTBUH; coordinates match the OSM building."
+    },
+    {
+      "kind": "landmark",
+      "item": "Tanzania Ports Authority Headquarters: completed 2016, height 157 m, at -6.8221, 39.2857 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/tanzania-ports-authority-headquarters/18275 ; https://www.skyscrapercenter.com/city/dar-es-salaam",
+      "found": "Tanzania Ports Authority Headquarters, Sokoine Drive, completion 2016, 40 floors; record id 18275: height 157.00, lat -6.821870, lon 39.286461",
+      "result": "confirmed",
+      "detail": "Year and height match; stored point is about 90 m from CTBUH's."
+    },
+    {
+      "kind": "milestone",
+      "item": "1907: Railway reaches Morogoro. The first section of the Central Railway, from Dar es Salaam to Morogoro, was built by 1907.",
+      "source_opened": "https://en.wikipedia.org/wiki/Timeline_of_Dar_es_Salaam",
+      "found": "'1907 - Morogoro-Dar es Salaam railway built' (citing Fitzner, Deutsches Kolonial-Handbuch, 1908)",
+      "result": "confirmed",
+      "detail": "Year and event match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1916: Captured by British forces after naval bombardment in July and August; surrendered 3 September 1916; capital of British Tanganyika Territory.",
+      "source_opened": "https://en.wikipedia.org/wiki/Dar_es_Salaam",
+      "found": "'The Royal Navy bombarded the city with the monitor HMS Mersey on 21 July 1916 and battleship HMS Vengeance on 21 August. The German colonial authorities surrendered the city on 3 September. German East Africa became the British Tanganyika Territory. Dar es Salaam remained the administrative and commercial centre.'",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    }
+  ],
+  "summary": "All ten sampled figures match EB1911, the German and English Wikipedia pages cited as intermediaries, and CTBUH; Rita Tower's position, which CTBUH does not give, was checked against OpenStreetMap. Nothing changed."
+}

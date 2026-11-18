@@ -1,0 +1,88 @@
+{
+  "slug": "beijing",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year -1045: City of Ji (Jicheng) established as seat of the Zhou vassal state of Ji",
+      "source_opened": "https://en.wikipedia.org/wiki/Ji_(Beijing) (target of the Jicheng_(Beijing) redirect)",
+      "found": "'Historical mention of Ji dates to the founding of the Zhou dynasty in about 1045 BC ... According to the Book of Rites, King Wu of Zhou ... named the descendants of the Yellow Emperor to the State of Ji. The 11th year of the reign of King Wu approximates to 1046 BC. The Beijing Municipal Government designates 1045 BC as the first year of the city's history.'",
+      "result": "confirmed",
+      "detail": "Year and description match the cited page; the file already marks the start as estimated. The visitbeijing.com.cn page it cites was not opened."
+    },
+    {
+      "kind": "population",
+      "item": "population 82,000 in 1125 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "found": "'The city's population grew from 82,000 in 1125 to 400,000 in 1207 (and from 340,000 in the surrounding region to 1.6 million)' (Han 1996, p. 137).",
+      "result": "confirmed",
+      "detail": "Number, year and area (city, not surrounding region) match; Han (1996) itself was not opened."
+    },
+    {
+      "kind": "population",
+      "item": "population 91,000 in 1216 (estimated)",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "found": "'Zhongdu was renamed Yanjing and its population shrank to 91,000 in 1216 (with 285,000 in the surrounding region)' (Han 1996, p. 137).",
+      "result": "confirmed",
+      "detail": "Number, year and area match; Han (1996) itself was not opened."
+    },
+    {
+      "kind": "population",
+      "item": "population 672,000 in 1500 (estimated)",
+      "source_opened": "https://doi.org/10.6084/m9.figshare.2059494 (chandlerV2.csv, the Chandler file of Reba, Reitsma & Seto 2016, downloaded from figshare)",
+      "found": "Row 'Beijing / Peking, China': AD_1500 = 672000.",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "population",
+      "item": "population 706,000 in 1600 (estimated)",
+      "source_opened": "https://doi.org/10.6084/m9.figshare.2059494 (chandlerV2.csv, the Chandler file of Reba, Reitsma & Seto 2016, downloaded from figshare)",
+      "found": "Row 'Beijing / Peking, China': AD_1600 = 706000 (AD_1575 = 706000, AD_1579 = 706861).",
+      "result": "confirmed",
+      "detail": "Value and year match the digitised Chandler file."
+    },
+    {
+      "kind": "landmark",
+      "item": "Monument to the People's Heroes: completed 1958, height 37.94 m, at 39.9032, 116.3914 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Monument_to_the_People%27s_Heroes",
+      "found": "'The monument is 37.94 meters high'; 'officially completed in April 1958 and unveiled on May 1 of the same year'; coordinates 39°54'11\"N 116°23'30\"E (39.9031, 116.3917).",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates (about 25 m off) match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Great Hall of the People: completed 1959, height 46.5 m, at 39.9035, 116.3871 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Great_Hall_of_the_People",
+      "found": "'opened in September 1959'; 'The centre's highest point reaches 46.5 m'; coordinates 39°54'12\"N 116°23'15\"E (39.9033, 116.3875).",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates (about 40 m off) match."
+    },
+    {
+      "kind": "landmark",
+      "item": "CITIC Tower (China Zun): completed 2018, height 527.7 m, at 39.9116, 116.4604 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/citic-tower/11116 ; https://en.wikipedia.org/wiki/China_Zun (coordinates)",
+      "found": "CTBUH: completion 2018, height 527.7 m, 109 floors, 10 Guanghua Road, Chaoyang. Wikipedia coordinates 39°54'41\"N 116°27'37\"E (39.9114, 116.4603).",
+      "result": "confirmed",
+      "detail": "Year and height match CTBUH; coordinates within about 25 m of the Wikipedia position."
+    },
+    {
+      "kind": "milestone",
+      "item": "1928: Capital moves to Nanjing; city renamed Beiping",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "found": "'until 1928 when Chinese Nationalists reunified the country through the Northern Expedition and moved the capital to Nanjing. Beijing was renamed Beiping.'",
+      "result": "confirmed",
+      "detail": "Year and description match the cited page."
+    },
+    {
+      "kind": "milestone",
+      "item": "1949: Capital of the People's Republic",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "found": "'the city was peacefully transferred to Communist control in 1949 and renamed Beijing to become the capital of the People's Republic of China'; the PLA entered on 3 February 1949 and the PRC was proclaimed on 1 October 1949.",
+      "result": "confirmed",
+      "detail": "Year and description match the cited page."
+    }
+  ],
+  "summary": "All 10 sampled items matched the cited sources (Chandler file, CTBUH and the cited Wikipedia pages, which give Han 1996 for the medieval figures). Nothing was changed."
+}

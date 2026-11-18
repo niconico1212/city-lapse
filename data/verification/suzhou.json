@@ -1,0 +1,88 @@
+{
+  "slug": "suzhou",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year -514: King Helü of Wu founds his walled capital (Helü City)",
+      "source_opened": "https://en.wikipedia.org/wiki/Suzhou",
+      "found": "Infobox: established 514 BC. 'In 514 BC, King Helü of Wu relocated his court nearby and called the settlement Helü City after himself. His minister Wu Zixu was closely involved with its planning and it was this site that grew into present-day Suzhou.'",
+      "result": "confirmed",
+      "detail": "Year and event match the cited page; the traditional nature of the date is already reflected in the 'estimated' confidence and the notes."
+    },
+    {
+      "kind": "population",
+      "item": "population 129,000 in 1400 (estimated)",
+      "source_opened": "chandlerV2.csv downloaded from the cited figshare record (https://figshare.com/articles/Chandler_Population_Data/2059494, file 5407640)",
+      "found": "Row 'Suzhou (Soochow), China': AD_1400 = 129000.",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 122,000 in 1500 (estimated)",
+      "source_opened": "chandlerV2.csv downloaded from the cited figshare record (https://figshare.com/articles/Chandler_Population_Data/2059494, file 5407640)",
+      "found": "Row 'Suzhou (Soochow), China': AD_1500 = 122000.",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 243,000 in 1800 (estimated)",
+      "source_opened": "chandlerV2.csv downloaded from the cited figshare record (https://figshare.com/articles/Chandler_Population_Data/2059494, file 5407640)",
+      "found": "Row 'Suzhou (Soochow), China': AD_1800 = 243000.",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 330,000 in 1850 (estimated)",
+      "source_opened": "chandlerV2.csv downloaded from the cited figshare record (https://figshare.com/articles/Chandler_Population_Data/2059494, file 5407640)",
+      "found": "Row 'Suzhou (Soochow), China': AD_1850 = 330000; AD_1863 = 330000.",
+      "result": "confirmed",
+      "detail": "Exact match, including the note that Chandler repeats the figure for 1863."
+    },
+    {
+      "kind": "landmark",
+      "item": "Tiger Hill Pagoda (Yunyan Temple Pagoda): completed 961, height 47 m, at 31.3381, 120.5764 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Tiger_Hill_Pagoda",
+      "found": "'Construction was completed in 961'; 'rises to a height of 47 m (154 ft)'; uppermost storeys added under the Chongzhen Emperor (1628-1644); inscribed casket found in 1957; coord 31°20'17\"N 120°34'35\"E (31.3381, 120.5764).",
+      "result": "confirmed",
+      "detail": "Year, height, position and the note all match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Twin Pagodas (Luohanyuan Shuangta): completed 982, height 33.3 m, at 31.3089, 120.6297 (documented)",
+      "source_opened": "https://zh.wikipedia.org/wiki/罗汉院双塔 ; http://www.china.org.cn/english/TR-e/43398.htm",
+      "found": "zh.wikipedia: built in Taiping Xingguo 7 (982) by the Wang brothers; 'total height of the pagoda body 33.3 m', seven storeys; coord 31.30880, 120.62963. china.org.cn: 'built in 982 during the Song Dynasty by the Wang brothers ... more than thirty meters high'.",
+      "result": "confirmed",
+      "detail": "Year, height and position match both cited pages."
+    },
+    {
+      "kind": "landmark",
+      "item": "Beisi Pagoda (North Temple Pagoda, Bao'en Temple): completed 1153, height 76 m, at 31.3244, 120.6153 (documented)",
+      "source_opened": "http://www.china.org.cn/english/TR-e/43399.htm ; https://zh.wikipedia.org/wiki/报恩寺塔_(苏州市)",
+      "found": "china.org.cn: 'The extant pagoda was constructed between 1131 and 1162 during the Southern Song Dynasty. The octagonal, nine-storey pagoda, 76 meters high'. zh.wikipedia: rebuilt in Shaoxing 23 (1153) as an eight-sided nine-storey pagoda, 76 m high; coord 31°19'28\"N 120°36'55\"E (31.3244, 120.6153).",
+      "result": "confirmed",
+      "detail": "Year, height and position match the cited pages; the existing note already records that the surviving structure may be a later rebuilding."
+    },
+    {
+      "kind": "milestone",
+      "item": "-514: King Helü of Wu founds his capital (minister Wu Zixu lays out Helü City; tradition identifies it with old Suzhou)",
+      "source_opened": "https://en.wikipedia.org/wiki/Suzhou",
+      "found": "Same passage as the start date: 514 BC, Helü City, Wu Zixu 'closely involved with its planning', 'this site that grew into present-day Suzhou'.",
+      "result": "confirmed",
+      "detail": "Year and description match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1958: Most of the city wall demolished (15.2 km circuit; about 2 km survives, including the Pan Gate)",
+      "source_opened": "https://en.wikipedia.org/wiki/Suzhou_City_Wall",
+      "found": "'Most of the wall was demolished in 1958. Before its demolition, the city wall was 15,204 m long. Today, only 2,072 m remain.' Pan Gate listed as 'the oldest surviving component of the wall'.",
+      "result": "confirmed",
+      "detail": "Year and both lengths match."
+    }
+  ],
+  "summary": "All 10 sampled figures match their sources: the four Chandler estimates are exact against the figshare file, the three pagodas agree with the cited pages on year, height and position, and the founding date and wall demolition are as stated. No edits made."
+}

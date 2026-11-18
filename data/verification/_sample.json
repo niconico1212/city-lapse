@@ -1,0 +1,3052 @@
+{
+ "jakarta": [
+  {
+   "kind": "start",
+   "claim": "start_year 1513: Port of Sunda Kalapa first described by Portuguese visitors",
+   "source": "Tomé Pires, Suma Oriental (written 1512-1515; Asian Educational Services reprint 1990), pp. xxv, 166, 172, https://books.google.com/books?id=h82D-Y0E3TwC&pg=PA166 , via https://en.wikipedia.org/wiki/Sunda_Kelapa and https://en.wikipedia.org/wiki/Jakarta"
+  },
+  {
+   "kind": "population",
+   "year": 1750,
+   "claim": "population 44,000 in 1750 (estimated)",
+   "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1880,
+   "claim": "population 96,957 in 1880 (documented)",
+   "source": "Encyclopaedia Britannica, 11th ed. (1911), 'Batavia (city)', vol. 3 pp. 507-508, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Batavia_(city)"
+  },
+  {
+   "kind": "population",
+   "year": 1920,
+   "claim": "population 306,000 in 1920 (documented)",
+   "source": "1920 Dutch East Indies census as cited by Hiroyoshi Kano, Growing Metropolitan Suburbia: A Comparative Sociological Study on Tokyo and Jakarta, p. 5, https://books.google.com/books?id=w1lRf5kNH4QC&pg=PA5 , via https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies"
+  },
+  {
+   "kind": "population",
+   "year": 1930,
+   "claim": "population 533,000 in 1930 (documented)",
+   "source": "1930 census figure as given by Dean Forbes, 'Jakarta', in J. Gugler (ed.), World Cities beyond the West (Cambridge UP, 2004), https://books.google.com/books?id=lw3iPzyfpdQC&pg=PA268 , via https://en.wikipedia.org/wiki/Timeline_of_Jakarta"
+  },
+  {
+   "kind": "landmark",
+   "name": "Menara Syahbandar (harbourmaster's lookout tower)",
+   "claim": "Menara Syahbandar (harbourmaster's lookout tower): completed 1839, height 12 m, at -6.1272, 106.809 (documented)",
+   "source": "https://id.wikipedia.org/wiki/Menara_Syahbandar"
+  },
+  {
+   "kind": "landmark",
+   "name": "Gama Tower",
+   "claim": "Gama Tower: completed 2016, height 285.5 m, at -6.224, 106.8336 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/gama-tower/17562"
+  },
+  {
+   "kind": "landmark",
+   "name": "Autograph Tower",
+   "claim": "Autograph Tower: completed 2022, height 382.9 m, at -6.199, 106.8212 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/autograph-tower/39449"
+  },
+  {
+   "kind": "milestone",
+   "year": 1522,
+   "claim": "1522: Sunda-Portuguese treaty at Kalapa. On 21 August 1522 the Sunda Kingdom concluded a treaty with Portugal that allowed the Portuguese to build a fortress at Kalapa. A stone padrão marking the treaty survives in the National Museum.",
+   "source": "Pires, Suma Oriental (1990 reprint), p. 172, via https://en.wikipedia.org/wiki/Jakarta"
+  },
+  {
+   "kind": "milestone",
+   "year": 1962,
+   "claim": "1962: Jakarta hosts the Fourth Asian Games. The 1962 Asian Games were used to complete new landmarks, including the Senayan sports complex, Hotel Indonesia and the Thamrin-Sudirman avenue.",
+   "source": "Merrillees (2015), p. 97, via https://en.wikipedia.org/wiki/History_of_Jakarta"
+  }
+ ],
+ "dhaka": [
+  {
+   "kind": "start",
+   "claim": "start_year 1610: Islam Khan Chishti makes Dhaka the capital of Mughal Bengal (Jahangirnagar)",
+   "source": "Banglapedia: National Encyclopedia of Bangladesh, 'Dhaka', https://en.banglapedia.org/index.php/Dhaka; the 1908 Imperial Gazetteer dates the transfer to about 1608"
+  },
+  {
+   "kind": "population",
+   "year": 1872,
+   "claim": "population 69,212 in 1872 (documented)",
+   "source": "Allen, Eastern Bengal District Gazetteers: Dacca (1912), https://archive.org/details/in.ernet.dli.2015.32851; also Banglapedia: National Encyclopedia of Bangladesh, 'Dhaka', https://en.banglapedia.org/index.php/Dhaka"
+  },
+  {
+   "kind": "population",
+   "year": 1881,
+   "claim": "population 79,076 in 1881 (documented)",
+   "source": "Banglapedia: National Encyclopedia of Bangladesh, 'Dhaka', https://en.banglapedia.org/index.php/Dhaka"
+  },
+  {
+   "kind": "population",
+   "year": 1911,
+   "claim": "population 108,551 in 1911 (documented)",
+   "source": "Allen, Eastern Bengal District Gazetteers: Dacca (1912), https://archive.org/details/in.ernet.dli.2015.32851"
+  },
+  {
+   "kind": "population",
+   "year": 1941,
+   "claim": "population 239,000 in 1941 (documented)",
+   "source": "Banglapedia: National Encyclopedia of Bangladesh, 'Dhaka', https://en.banglapedia.org/index.php/Dhaka"
+  },
+  {
+   "kind": "landmark",
+   "name": "Baitul Mukarram National Mosque",
+   "claim": "Baitul Mukarram National Mosque: completed 1968, height 30.18 m, at 23.7294, 90.4128 (documented)",
+   "source": "Banglapedia, 'Baitul Mukarram Mosque', https://en.banglapedia.org/index.php/Baitul_Mukarram_Mosque; completion year: https://en.wikipedia.org/wiki/Baitul_Mukarram"
+  },
+  {
+   "kind": "landmark",
+   "name": "Jatiya Sangsad Bhaban (National Parliament House)",
+   "claim": "Jatiya Sangsad Bhaban (National Parliament House): completed 1982, height 49.68 m, at 23.7622, 90.3786 (documented)",
+   "source": "Banglapedia, 'Jatiya Sangsad Bhaban', https://en.banglapedia.org/index.php/Jatiya_Sangsad_Bhaban; opening date: https://en.wikipedia.org/wiki/Jatiya_Sangsad_Bhaban"
+  },
+  {
+   "kind": "landmark",
+   "name": "Gulshan Tower",
+   "claim": "Gulshan Tower: completed 2016, height 125.0 m, at 23.7861, 90.4167 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/gulshan-tower/17164"
+  },
+  {
+   "kind": "milestone",
+   "year": 1678,
+   "claim": "1678: Lalbagh Fort begun. Prince Muhammad Azam began the Lalbagh (Aurangabad) fort during his 15 months as viceroy; his successor Shaista Khan left it unfinished.",
+   "source": "Banglapedia, 'Lalbagh Fort', https://en.banglapedia.org/index.php/Lalbagh_Fort"
+  },
+  {
+   "kind": "milestone",
+   "year": 1947,
+   "claim": "1947: Capital of East Bengal in Pakistan. With the end of British rule Dhaka became the capital of the province of East Bengal (later East Pakistan). Migration roughly doubled its population and the urban area grew from 6 to 25 square miles by 1962.",
+   "source": "Banglapedia: National Encyclopedia of Bangladesh, 'Dhaka', https://en.banglapedia.org/index.php/Dhaka"
+  }
+ ],
+ "tokyo": [
+  {
+   "kind": "start",
+   "claim": "start_year 1457: Edo Castle built by Ōta Dōkan",
+   "source": "https://en.wikipedia.org/wiki/Edo_Castle (built 1457 by Ōta Dōkan; cites World Digital Library, 'Map of Bushū Toshima District, Edo', http://www.wdl.org/en/item/9931)"
+  },
+  {
+   "kind": "population",
+   "year": 1609,
+   "claim": "population 150,000 in 1609 (estimated)",
+   "source": "Rodrigo de Vivero's report of his 1609 visit, as given in https://ja.wikipedia.org/wiki/江戸の人口 ; the same figure is used by Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), https://doi.org/10.1038/sdata.2016.34"
+  },
+  {
+   "kind": "population",
+   "year": 1910,
+   "claim": "population 2,706,800 in 1910 (documented)",
+   "source": "Tokyo Metropolitan Government, Tokyo Statistical Yearbook 2023, table 2-1 'Population trend', https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm"
+  },
+  {
+   "kind": "population",
+   "year": 1920,
+   "claim": "population 3,699,428 in 1920 (documented)",
+   "source": "Tokyo Metropolitan Government, Tokyo Statistical Yearbook 2023, table 2-1 'Population trend', https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm"
+  },
+  {
+   "kind": "population",
+   "year": 1930,
+   "claim": "population 5,408,678 in 1930 (documented)",
+   "source": "Tokyo Metropolitan Government, Tokyo Statistical Yearbook 2023, table 2-1 'Population trend', https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm"
+  },
+  {
+   "kind": "landmark",
+   "name": "Tokyo Skytree",
+   "claim": "Tokyo Skytree: completed 2012, height 634 m, at 35.7101, 139.8107 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Tokyo_Skytree (completed 29 February 2012; height 634.0 m)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Toranomon Hills Mori Tower",
+   "claim": "Toranomon Hills Mori Tower: completed 2014, height 255.5 m, at 35.6663, 139.7497 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/toranomon-hills-mori-tower/12388"
+  },
+  {
+   "kind": "landmark",
+   "name": "Azabudai Hills Mori JP Tower",
+   "claim": "Azabudai Hills Mori JP Tower: completed 2023, height 327.2 m, at 35.6608, 139.7404 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/mori-jp-tower/35022"
+  },
+  {
+   "kind": "milestone",
+   "year": 1590,
+   "claim": "1590: Tokugawa Ieyasu enters Edo. After the siege of Odawara, Ieyasu is given the Kantō region and makes the small, run-down castle his base. He begins laying out a castle town and filling in the tidal inlets.",
+   "source": "https://en.wikipedia.org/wiki/Edo ; https://ja.wikipedia.org/wiki/江戸の人口"
+  },
+  {
+   "kind": "milestone",
+   "year": 1932,
+   "claim": "1932: Greater Tokyo: 82 towns and villages absorbed. Tokyo City annexes 82 surrounding municipalities on 1 October 1932, growing from 15 to 35 wards and reaching roughly the extent of today's 23 special wards.",
+   "source": "https://ja.wikipedia.org/wiki/東京市 ; https://en.wikipedia.org/wiki/Tokyo_City"
+  }
+ ],
+ "delhi": [
+  {
+   "kind": "start",
+   "claim": "start_year -300: Mauryan-period settlement on the Purana Qila mound",
+   "source": "Press Information Bureau, Government of India (Ministry of Culture), release of 21 June 2023 on the Purana Qila excavation, https://www.pib.gov.in/PressReleasePage.aspx?PRID=1934128; see also https://en.wikipedia.org/wiki/Purana_Qila (citing the Archaeological Survey of India museum at Purana Qila)"
+  },
+  {
+   "kind": "population",
+   "year": 1200,
+   "claim": "population 60,000 in 1200 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1500,
+   "claim": "population 80,000 in 1500 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1750,
+   "claim": "population 150,000 in 1750 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1941,
+   "claim": "population 695,686 in 1941 (documented)",
+   "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx"
+  },
+  {
+   "kind": "landmark",
+   "name": "Tughlaqabad Fort",
+   "claim": "Tughlaqabad Fort: completed 1321, height 15 m, at 28.5119, 77.2608 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Tughlaqabad_Fort"
+  },
+  {
+   "kind": "landmark",
+   "name": "Jama Masjid",
+   "claim": "Jama Masjid: completed 1656, height 41 m, at 28.6507, 77.2334 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Jama_Masjid,_Delhi"
+  },
+  {
+   "kind": "landmark",
+   "name": "Swaminarayan Akshardham",
+   "claim": "Swaminarayan Akshardham: completed 2005, height 43 m, at 28.6125, 77.2772 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Delhi)"
+  },
+  {
+   "kind": "milestone",
+   "year": 1648,
+   "claim": "1648: Red Fort finished; Shahjahanabad is the capital. Shah Jahan's Red Fort, begun in 1639, was completed in 1648 as the palace-fort of his new walled city of Shahjahanabad, today's Old Delhi.",
+   "source": "https://en.wikipedia.org/wiki/Red_Fort"
+  },
+  {
+   "kind": "milestone",
+   "year": 1739,
+   "claim": "1739: Nader Shah sacks Delhi. After defeating the Mughal army at Karnal, Nader Shah of Persia sacked and looted Delhi and carried off the Peacock Throne.",
+   "source": "https://en.wikipedia.org/wiki/Delhi"
+  }
+ ],
+ "shanghai": [
+  {
+   "kind": "start",
+   "claim": "start_year 1074: Shanghai raised from a village to a market town (Song dynasty)",
+   "source": "Danielson, Eric N. (2004), Shanghai and the Yangzi Delta, p. 9, via https://en.wikipedia.org/wiki/Shanghai#History"
+  },
+  {
+   "kind": "population",
+   "year": 1800,
+   "claim": "population 90,000 in 1800 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)"
+  },
+  {
+   "kind": "population",
+   "year": 1895,
+   "claim": "population 411,753 in 1895 (estimated)",
+   "source": "Encyclopaedia Britannica, 11th ed. (1911), 'Shanghai', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shanghai"
+  },
+  {
+   "kind": "population",
+   "year": 1915,
+   "claim": "population 2,000,000 in 1915 (estimated)",
+   "source": "Christian Henriot, 'Shanghai', Encyclopedia of Modern China (2009), https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/shanghai"
+  },
+  {
+   "kind": "population",
+   "year": 1948,
+   "claim": "population 5,500,000 in 1948 (estimated)",
+   "source": "Christian Henriot, 'Shanghai', Encyclopedia of Modern China (2009), https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/shanghai"
+  },
+  {
+   "kind": "landmark",
+   "name": "Plaza 66",
+   "claim": "Plaza 66: completed 2001, height 288.16 m, at 31.2299, 121.4495 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/plaza-66/590"
+  },
+  {
+   "kind": "landmark",
+   "name": "Tomorrow Square",
+   "claim": "Tomorrow Square: completed 2003, height 284.6 m, at 31.2322, 121.4653 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/tomorrow-square/610"
+  },
+  {
+   "kind": "landmark",
+   "name": "Shanghai Tower",
+   "claim": "Shanghai Tower: completed 2015, height 632 m, at 31.2356, 121.5012 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/shanghai-tower/56"
+  },
+  {
+   "kind": "milestone",
+   "year": 1937,
+   "claim": "1937: Battle of Shanghai. From 13 August to 26 November Chinese and Japanese forces fought for the city, which then fell under Japanese occupation.",
+   "source": "https://en.wikipedia.org/wiki/Timeline_of_Shanghai"
+  },
+  {
+   "kind": "milestone",
+   "year": 1949,
+   "claim": "1949: People's Liberation Army takes Shanghai. On 27 May 1949 the PLA took control of the city in the Shanghai Campaign.",
+   "source": "https://en.wikipedia.org/wiki/Shanghai#History"
+  }
+ ],
+ "guangzhou": [
+  {
+   "kind": "start",
+   "claim": "start_year -214: Panyu founded as seat of the Qin empire's Nanhai Commandery",
+   "source": "https://en.wikipedia.org/wiki/Guangzhou#History ; Taylor, Keith Weller (1983), The Birth of Vietnam (cited there for the Qin-Nanyue period)"
+  },
+  {
+   "kind": "population",
+   "year": 800,
+   "claim": "population 200,000 in 800 (estimated)",
+   "source": "Modelski (2003), World Cities: -3000 to 2000, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (modelskiAncientV2.csv)"
+  },
+  {
+   "kind": "population",
+   "year": 1000,
+   "claim": "population 40,000 in 1000 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)"
+  },
+  {
+   "kind": "population",
+   "year": 1200,
+   "claim": "population 110,000 in 1200 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)"
+  },
+  {
+   "kind": "population",
+   "year": 1300,
+   "claim": "population 150,000 in 1300 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Huaisheng Mosque minaret (Guangta)",
+   "claim": "Huaisheng Mosque minaret (Guangta): completed 627, height 36 m, at 23.126, 113.2537 (estimated)",
+   "source": "https://en.wikipedia.org/wiki/Huaisheng_Mosque ; position from OpenStreetMap (WGS-84)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Guangzhou TV Tower",
+   "claim": "Guangzhou TV Tower: completed 1991, height 217 m, at 23.1472, 113.2631 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Guangzhou_TV_Tower ; position from OpenStreetMap (WGS-84)"
+  },
+  {
+   "kind": "landmark",
+   "name": "CITIC Plaza",
+   "claim": "CITIC Plaza: completed 1996, height 390.2 m, at 23.1443, 113.3195 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/citic-plaza/242"
+  },
+  {
+   "kind": "milestone",
+   "year": 758,
+   "claim": "758: Port sacked by Arab and Persian raiders. With China distracted by the An Lushan Rebellion, Arab and Persian pirates sacked the city on 30 October 758.",
+   "source": "https://en.wikipedia.org/wiki/Guangzhou#History"
+  },
+  {
+   "kind": "milestone",
+   "year": 1949,
+   "claim": "1949: People's Liberation Army enters Guangzhou. The city, briefly the seat of the Nationalist government, was captured on 14 October 1949; retreating forces blew up the Haizhu Bridge.",
+   "source": "https://en.wikipedia.org/wiki/Guangzhou#History"
+  }
+ ],
+ "cairo": [
+  {
+   "kind": "start",
+   "claim": "start_year 641: Fustat founded by Amr ibn al-As beside the Babylon Fortress",
+   "source": "Raymond (1993), Le Caire, pp. 13-18; Kennedy (2007), The Great Arab Conquests, p. 161; Abu-Lughod (1971), Cairo: 1001 Years of the City Victorious, p. 7, via https://en.wikipedia.org/wiki/Cairo#Fustat_and_other_early_Islamic_settlements"
+  },
+  {
+   "kind": "population",
+   "year": 1250,
+   "claim": "population 300,000 in 1250 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3"
+  },
+  {
+   "kind": "population",
+   "year": 1348,
+   "claim": "population 500,000 in 1348 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3"
+  },
+  {
+   "kind": "population",
+   "year": 1400,
+   "claim": "population 360,000 in 1400 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3"
+  },
+  {
+   "kind": "population",
+   "year": 1907,
+   "claim": "population 654,476 in 1907 (documented)",
+   "source": "Census of Egypt 1907, as reported in Encyclopaedia Britannica (1911), 'Cairo', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cairo_(Egypt)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Mosque of al-Zahir Baybars",
+   "claim": "Mosque of al-Zahir Baybars: completed 1268, height 12 m, at 30.0623, 31.2634 (estimated)",
+   "source": "Behrens-Abouseif, p. 123, as cited at https://en.wikipedia.org/wiki/Mosque_of_al-Zahir_Baybars (12 m tall; completed 1268)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Mosque-Madrasa of Sultan Hasan",
+   "claim": "Mosque-Madrasa of Sultan Hasan: completed 1363, height 84 m, at 30.0319, 31.2567 (estimated)",
+   "source": "Behrens-Abouseif, as cited at https://en.wikipedia.org/wiki/Mosque-Madrasa_of_Sultan_Hasan (southern minaret summit 84 m above street level; completed 1363)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Ministry of Foreign Affairs",
+   "claim": "Ministry of Foreign Affairs: completed 1994, height 143 m, at 30.0555, 31.2298 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/cairo (building id 4226: 143 m, completed 1994)"
+  },
+  {
+   "kind": "milestone",
+   "year": 870,
+   "claim": "870: Ibn Tulun founds al-Qata'i. Ahmad ibn Tulun built a new capital north-east of al-Askar with a palace, parade ground, hospital and aqueduct; his great mosque was built in 876-879. The Abbasids razed the city in 905, sparing the mosque.",
+   "source": "Swelim (2015), Ibn Tulun: His Lost City and Great Mosque, pp. 32-37, via https://en.wikipedia.org/wiki/Cairo#Fustat_and_other_early_Islamic_settlements"
+  },
+  {
+   "kind": "milestone",
+   "year": 969,
+   "claim": "969: Fatimids found al-Qahira. The general Jawhar laid out a fortified palace-city north-east of Fustat, with the al-Azhar Mosque. The caliph al-Mu'izz arrived in 973 and gave the city the name from which 'Cairo' derives.",
+   "source": "Glasse & Smith (2003), The New Encyclopedia of Islam, p. 96, via https://en.wikipedia.org/wiki/Cairo#Foundation_and_expansion_of_Cairo_under_the_Fatimids"
+  }
+ ],
+ "manila": [
+  {
+   "kind": "start",
+   "claim": "start_year 900: Tondo named in the Laguna Copperplate Inscription",
+   "source": "Postma, A. (1992), 'The Laguna Copper-Plate Inscription: Text and Commentary', Philippine Studies 40(2): 182-203, http://www.philippinestudies.net/ojs/index.php/ps/article/download/1033/1018 , via https://en.wikipedia.org/wiki/Laguna_Copperplate_Inscription and https://en.wikipedia.org/wiki/Tondo_(historical_polity)"
+  },
+  {
+   "kind": "population",
+   "year": 1591,
+   "claim": "population 28,000 in 1591 (estimated)",
+   "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1800,
+   "claim": "population 77,000 in 1800 (estimated)",
+   "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1825,
+   "claim": "population 90,000 in 1825 (estimated)",
+   "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1948,
+   "claim": "population 983,906 in 1948 (documented)",
+   "source": "Philippine census figure as tabulated by Stinner & Bacol-Montilla (1981), 'Population Deconcentration in Metropolitan Manila in the Twentieth Century', Journal of Developing Areas 16(1): 3-16, https://www.jstor.org/stable/4190969 , via https://en.wikipedia.org/wiki/Timeline_of_Manila ; same figure in the Philippine Statistics Authority census table at https://en.wikipedia.org/wiki/Manila"
+  },
+  {
+   "kind": "landmark",
+   "name": "San Sebastian Church",
+   "claim": "San Sebastian Church: completed 1891, height 32 m, at 14.5997, 120.9889 (documented)",
+   "source": "https://en.wikipedia.org/wiki/San_Sebastian_Church_(Manila)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Manila City Hall clock tower",
+   "claim": "Manila City Hall clock tower: completed 1941, height 30.5 m, at 14.5898, 120.9816 (estimated)",
+   "source": "https://en.wikipedia.org/wiki/Manila_City_Hall"
+  },
+  {
+   "kind": "landmark",
+   "name": "Robinsons Equitable Tower",
+   "claim": "Robinsons Equitable Tower: completed 1997, height 175 m, at 14.5895, 121.06 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/robinsons-equitable-tower/9144"
+  },
+  {
+   "kind": "milestone",
+   "year": 1863,
+   "claim": "1863: Earthquake of 3 June 1863. The earthquake destroyed the cathedral built in 1854-1858 and Quiapo Church.",
+   "source": "https://en.wikipedia.org/wiki/Manila_Cathedral ; https://en.wikipedia.org/wiki/Quiapo_Church"
+  },
+  {
+   "kind": "milestone",
+   "year": 1905,
+   "claim": "1905: Burnham Plan of Manila. Daniel Burnham's plan proposed diagonal arteries radiating from a new civic district, waterfront improvements, parks and parkways.",
+   "source": "Moore (1921), p. 162, via https://en.wikipedia.org/wiki/Manila"
+  }
+ ],
+ "kolkata": [
+  {
+   "kind": "start",
+   "claim": "start_year 1690: East India Company settles at Sutanuti under Job Charnock",
+   "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 263 (Calcutta, History), https://archive.org/details/in.ernet.dli.2015.460515"
+  },
+  {
+   "kind": "population",
+   "year": 1876,
+   "claim": "population 611,784 in 1876 (documented)",
+   "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 267 (Calcutta, Population), https://archive.org/details/in.ernet.dli.2015.460515"
+  },
+  {
+   "kind": "population",
+   "year": 1891,
+   "claim": "population 682,305 in 1891 (documented)",
+   "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 267, https://archive.org/details/in.ernet.dli.2015.460515"
+  },
+  {
+   "kind": "population",
+   "year": 1921,
+   "claim": "population 1,872,737 in 1921 (documented)",
+   "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx"
+  },
+  {
+   "kind": "population",
+   "year": 1931,
+   "claim": "population 2,123,128 in 1931 (documented)",
+   "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx"
+  },
+  {
+   "kind": "landmark",
+   "name": "St. John's Church",
+   "claim": "St. John's Church: completed 1787, height 53 m, at 22.5699, 88.3459 (documented)",
+   "source": "https://en.wikipedia.org/wiki/St._John's_Church,_Kolkata (citing The Telegraph, 3 January 2010)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Victoria Memorial",
+   "claim": "Victoria Memorial: completed 1921, height 56.1 m, at 22.5449, 88.3425 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata"
+  },
+  {
+   "kind": "landmark",
+   "name": "Urbana Tower 2",
+   "claim": "Urbana Tower 2: completed 2015, height 165 m, at 22.5123, 88.4125 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/urbana-tower-2/10724"
+  },
+  {
+   "kind": "milestone",
+   "year": 1742,
+   "claim": "1742: Maratha Ditch dug. The inhabitants began an entrenchment round the settlement against Maratha raids; it followed the line of the later Circular Road and was never finished on the south.",
+   "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 263, https://archive.org/details/in.ernet.dli.2015.460515"
+  },
+  {
+   "kind": "milestone",
+   "year": 1773,
+   "claim": "1773: New Fort William; seat of British India. The present Fort William was finished in 1773, and the clearing round it formed the Maidan. In the same year an Act of Parliament gave the Governor and Council of Bengal control over the Company's other Indian possessions.",
+   "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 264, https://archive.org/details/in.ernet.dli.2015.460515"
+  }
+ ],
+ "seoul": [
+  {
+   "kind": "start",
+   "claim": "start_year -18: Baekje founds its capital Wiryeseong on the Han River (traditional date)",
+   "source": "Samguk Sagi (12th century) as summarised at https://en.wikipedia.org/wiki/Wiryeseong ; Seoul Historiography Institute, Seoul: A 2,000-Year History, vol. 3 (2015), cited at https://en.wikipedia.org/wiki/Seoul#History"
+  },
+  {
+   "kind": "population",
+   "year": 1750,
+   "claim": "population 187,000 in 1750 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), https://doi.org/10.1038/sdata.2016.34"
+  },
+  {
+   "kind": "population",
+   "year": 1835,
+   "claim": "population 203,901 in 1835 (documented)",
+   "source": "Hanseong-bu register figure for 1835 given in the Encyclopedia of Korean Culture, via https://ko.wikipedia.org/wiki/서울특별시"
+  },
+  {
+   "kind": "population",
+   "year": 1935,
+   "claim": "population 444,000 in 1935 (documented)",
+   "source": "1935 census of Korea, as reported in Seoul Shinmun, 19 November 1992, https://www.seoul.co.kr/news/1992/11/19/19921119008004 , via https://ko.wikipedia.org/wiki/서울특별시"
+  },
+  {
+   "kind": "population",
+   "year": 1936,
+   "claim": "population 636,000 in 1936 (documented)",
+   "source": "Seoul Historiography Institute, 서울 2천년사 vol. 26 (2015), pp. 36-37, via https://ko.wikipedia.org/wiki/서울특별시의_역사"
+  },
+  {
+   "kind": "landmark",
+   "name": "Wongaksa Pagoda",
+   "claim": "Wongaksa Pagoda: completed 1467, height 12 m, at 37.5717, 126.9883 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Wongaksa_Pagoda (12-metre ten-storey marble pagoda in Tapgol Park; cites the Encyclopedia of Korean Culture); year from https://en.wikipedia.org/wiki/Timeline_of_Seoul"
+  },
+  {
+   "kind": "landmark",
+   "name": "Myeongdong Cathedral",
+   "claim": "Myeongdong Cathedral: completed 1898, height 45 m, at 37.5633, 126.9873 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Myeongdong_Cathedral (completed 1898; steeple 45 m)"
+  },
+  {
+   "kind": "landmark",
+   "name": "FKI Tower",
+   "claim": "FKI Tower: completed 2013, height 245.47 m, at 37.5222, 126.9203 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/seoul (FKI Tower, building id 8829)"
+  },
+  {
+   "kind": "milestone",
+   "year": 1396,
+   "claim": "1396: City wall and eight gates built. Work on the Seoul City Wall begins in 1395 and most of it, with the eight gates, is finished in 1396. The wall runs about 18.6 km along the ridges of the four inner mountains.",
+   "source": "https://en.wikipedia.org/wiki/Seoul_City_Wall ; https://ko.wikipedia.org/wiki/서울특별시의_역사"
+  },
+  {
+   "kind": "milestone",
+   "year": 1988,
+   "claim": "1988: Summer Olympics; ten million people. Seoul hosts the 1988 Summer Olympics. The city's population passes ten million the same year.",
+   "source": "https://en.wikipedia.org/wiki/Timeline_of_Seoul ; https://ko.wikipedia.org/wiki/서울특별시"
+  }
+ ],
+ "karachi": [
+  {
+   "kind": "start",
+   "claim": "start_year 1729: Kolachi-jo-Goth founded as a fortified trading settlement on Karachi harbour",
+   "source": "Imperial Gazetteer of India (1908), vol. 15, 'Karachi City', pp. 11-17, https://archive.org/details/imperialgazettee15grea; https://en.wikipedia.org/wiki/Karachi"
+  },
+  {
+   "kind": "population",
+   "year": 1856,
+   "claim": "population 57,000 in 1856 (estimated)",
+   "source": "Heitzman (2008), The City in South Asia, https://archive.org/details/cityinsouthasia0000heit, via https://en.wikipedia.org/wiki/Karachi"
+  },
+  {
+   "kind": "population",
+   "year": 1881,
+   "claim": "population 73,560 in 1881 (documented)",
+   "source": "Imperial Gazetteer of India (1908), vol. 15, 'Karachi City', pp. 11-17, https://archive.org/details/imperialgazettee15grea"
+  },
+  {
+   "kind": "population",
+   "year": 1911,
+   "claim": "population 151,903 in 1911 (documented)",
+   "source": "Smyth, Gazetteer of the Province of Sind, B vol. I: Karachi District (1919), https://archive.org/details/dli.csl.3395"
+  },
+  {
+   "kind": "population",
+   "year": 1921,
+   "claim": "population 216,000 in 1921 (documented)",
+   "source": "Newcombe (1960), 'A Town Extension Scheme: At Karachi', Town Planning Review 31(3), via https://en.wikipedia.org/wiki/Timeline_of_Karachi"
+  },
+  {
+   "kind": "landmark",
+   "name": "Manora Point Lighthouse",
+   "claim": "Manora Point Lighthouse: completed 1889, height 38 m, at 24.7939, 66.9775 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Manora_Point_Lighthouse"
+  },
+  {
+   "kind": "landmark",
+   "name": "Empress Market",
+   "claim": "Empress Market: completed 1889, height 42.7 m, at 24.8625, 67.0294 (documented)",
+   "source": "Height (tower 140 ft): Smyth, Gazetteer of the Province of Sind, B vol. I: Karachi District (1919), https://archive.org/details/dli.csl.3395; dates: https://en.wikipedia.org/wiki/Empress_Market"
+  },
+  {
+   "kind": "landmark",
+   "name": "Merewether Clock Tower",
+   "claim": "Merewether Clock Tower: completed 1892, height 31.1 m, at 24.8489, 66.9974 (documented)",
+   "source": "Smyth, Gazetteer of the Province of Sind, B vol. I: Karachi District (1919), https://archive.org/details/dli.csl.3395"
+  },
+  {
+   "kind": "milestone",
+   "year": 1873,
+   "claim": "1873: Manora breakwater completed. The 1,503 ft breakwater, begun in 1869, sheltered the entrance channel and allowed the bar to be deepened.",
+   "source": "Imperial Gazetteer of India (1908), vol. 15, 'Karachi City', pp. 11-17, https://archive.org/details/imperialgazettee15grea"
+  },
+  {
+   "kind": "milestone",
+   "year": 1878,
+   "claim": "1878: Linked to the Indian railway network. Karachi was connected with the rest of British India's railway system; by 1899 it was the largest wheat-exporting port in the East.",
+   "source": "Heitzman (2008), The City in South Asia, https://archive.org/details/cityinsouthasia0000heit, via https://en.wikipedia.org/wiki/Karachi"
+  }
+ ],
+ "mumbai": [
+  {
+   "kind": "start",
+   "claim": "start_year 1294: Raja Bhima founds Mahikavati (Mahim) on Bombay island",
+   "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 8, p. 403 (Bombay City, History), https://archive.org/details/in.ernet.dli.2015.207361"
+  },
+  {
+   "kind": "population",
+   "year": 1780,
+   "claim": "population 113,726 in 1780 (documented)",
+   "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 8, p. 410, https://archive.org/details/in.ernet.dli.2015.207361"
+  },
+  {
+   "kind": "population",
+   "year": 1872,
+   "claim": "population 644,405 in 1872 (documented)",
+   "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 8, pp. 410-411, https://archive.org/details/in.ernet.dli.2015.207361"
+  },
+  {
+   "kind": "population",
+   "year": 1901,
+   "claim": "population 839,672 in 1901 (documented)",
+   "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx"
+  },
+  {
+   "kind": "population",
+   "year": 1931,
+   "claim": "population 1,316,413 in 1931 (documented)",
+   "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx"
+  },
+  {
+   "kind": "landmark",
+   "name": "World Trade Centre (MVRDC)",
+   "claim": "World Trade Centre (MVRDC): completed 1970, height 155.91 m, at 18.9146, 72.8173 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/mvrdc/3623"
+  },
+  {
+   "kind": "landmark",
+   "name": "Phiroze Jeejeebhoy Towers",
+   "claim": "Phiroze Jeejeebhoy Towers: completed 1980, height 117.96 m, at 18.9297, 72.833 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/phiroze-jeejeebhoy-towers/4809"
+  },
+  {
+   "kind": "landmark",
+   "name": "Lokhandwala Minerva",
+   "claim": "Lokhandwala Minerva: completed 2023, height 300.55 m, at 18.9871, 72.8275 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/lokhandwala-minerva/10431"
+  },
+  {
+   "kind": "milestone",
+   "year": 1687,
+   "claim": "1687: Company headquarters moved from Surat. The East India Company transferred its headquarters from Surat to Bombay.",
+   "source": "https://en.wikipedia.org/wiki/Mumbai"
+  },
+  {
+   "kind": "milestone",
+   "year": 1960,
+   "claim": "1960: Capital of the new state of Maharashtra. Bombay State was divided on linguistic lines on 1 May 1960 and Bombay became the capital of Maharashtra.",
+   "source": "https://en.wikipedia.org/wiki/Mumbai"
+  }
+ ],
+ "sao-paulo": [
+  {
+   "kind": "start",
+   "claim": "start_year 1554: Jesuit college of São Paulo dos Campos de Piratininga founded",
+   "source": "https://en.wikipedia.org/wiki/P%C3%A1tio_do_Col%C3%A9gio (Jesuit college and church, groundbreaking 1554); https://en.wikipedia.org/wiki/S%C3%A3o_Paulo (founded 25 January 1554 by Jesuit priests)"
+  },
+  {
+   "kind": "population",
+   "year": 1854,
+   "claim": "population 25,254 in 1854 (documented)",
+   "source": "Quadro Estatístico da População da Província de São Paulo recenseada no anno de 1854, as tabulated in Bassanezi (org.), São Paulo do Passado: Dados Demográficos - Capital, NEPO/Unicamp, https://www.nepo.unicamp.br/publicacoes/censos/capital.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1886,
+   "claim": "population 47,697 in 1886 (documented)",
+   "source": "Relatório da Commissão Central de Estatística (São Paulo, 1888), provincial census of 1886, as tabulated in Bassanezi (org.), São Paulo do Passado: Dados Demográficos - Capital, NEPO/Unicamp, https://www.nepo.unicamp.br/publicacoes/censos/capital.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1890,
+   "claim": "population 64,934 in 1890 (documented)",
+   "source": "Prefeitura de São Paulo, SMUL/GEOINFO, 'População: Brasil, Estado de São Paulo, RM de São Paulo e Município de São Paulo, 1872-2022' (IBGE censuses), https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/312_censo_br-rm-uf-msp_pop-abs_1872-2022_final_1715804954.htm"
+  },
+  {
+   "kind": "population",
+   "year": 1940,
+   "claim": "population 1,318,539 in 1940 (documented)",
+   "source": "Prefeitura de São Paulo, SMUL/GEOINFO, 'População: Brasil, Estado de São Paulo, RM de São Paulo e Município de São Paulo, 1872-2022' (IBGE censuses), https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/312_censo_br-rm-uf-msp_pop-abs_1872-2022_final_1715804954.htm"
+  },
+  {
+   "kind": "landmark",
+   "name": "Obelisk of São Paulo (Ibirapuera)",
+   "claim": "Obelisk of São Paulo (Ibirapuera): completed 1955, height 72 m, at -23.5847, -46.6547 (documented)",
+   "source": "Condephaat, Mausoléu do Soldado Constitucionalista, http://condephaat.sp.gov.br/benstombados/mausoleu-do-soldado-constitucionalista-2/ via https://pt.wikipedia.org/wiki/Obelisco_de_S%C3%A3o_Paulo"
+  },
+  {
+   "kind": "landmark",
+   "name": "Mirante do Vale (Palácio W. Zarzur)",
+   "claim": "Mirante do Vale (Palácio W. Zarzur): completed 1967, height 170 m, at -23.5422, -46.6354 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/palacio-w-zarzur/2726"
+  },
+  {
+   "kind": "landmark",
+   "name": "Platina 220",
+   "claim": "Platina 220: completed 2022, height 171.74 m, at -23.5427, -46.5774 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/platina-220/30100"
+  },
+  {
+   "kind": "milestone",
+   "year": 1560,
+   "claim": "1560: Settlement raised to a vila. By order of governor-general Mem de Sá the inhabitants of Santo André da Borda do Campo were moved to the college, and the settlement became the Vila de São Paulo with its own municipal chamber.",
+   "source": "https://en.wikipedia.org/wiki/History_of_S%C3%A3o_Paulo"
+  },
+  {
+   "kind": "milestone",
+   "year": 1924,
+   "claim": "1924: Revolt and bombardment of the city. During the 23-day São Paulo Revolt of July 1924 federal forces shelled the city; about a third of its roughly 700,000 inhabitants fled.",
+   "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo"
+  }
+ ],
+ "bangkok": [
+  {
+   "kind": "start",
+   "claim": "start_year 1448: Thonburi (Bangkok) customs post recorded under King Chao Sam Phraya of Ayutthaya (r. 1424-1448)",
+   "source": "https://en.wikipedia.org/wiki/History_of_Bangkok#Under_Ayutthaya"
+  },
+  {
+   "kind": "population",
+   "year": 1919,
+   "claim": "population 437,294 in 1919 (documented)",
+   "source": "National Statistical Office of Thailand, 2010 Thailand Statistical Yearbook (special edition), census series as tabulated at https://en.wikipedia.org/wiki/Bangkok#Demography"
+  },
+  {
+   "kind": "population",
+   "year": 1929,
+   "claim": "population 713,384 in 1929 (documented)",
+   "source": "National Statistical Office of Thailand, 2010 Thailand Statistical Yearbook (special edition), census series as tabulated at https://en.wikipedia.org/wiki/Bangkok#Demography"
+  },
+  {
+   "kind": "population",
+   "year": 1937,
+   "claim": "population 890,453 in 1937 (documented)",
+   "source": "National Statistical Office of Thailand, 2010 Thailand Statistical Yearbook (special edition), census series as tabulated at https://en.wikipedia.org/wiki/Bangkok#Demography"
+  },
+  {
+   "kind": "population",
+   "year": 1947,
+   "claim": "population 1,178,881 in 1947 (documented)",
+   "source": "National Statistical Office of Thailand, 2010 Thailand Statistical Yearbook (special edition), census series as tabulated at https://en.wikipedia.org/wiki/Bangkok#Demography"
+  },
+  {
+   "kind": "landmark",
+   "name": "Ananta Samakhom Throne Hall",
+   "claim": "Ananta Samakhom Throne Hall: completed 1915, height 49.5 m, at 13.7716, 100.5133 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Ananta_Samakhom_Throne_Hall"
+  },
+  {
+   "kind": "landmark",
+   "name": "Democracy Monument",
+   "claim": "Democracy Monument: completed 1940, height 24 m, at 13.7567, 100.5017 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Democracy_Monument"
+  },
+  {
+   "kind": "landmark",
+   "name": "Victory Monument",
+   "claim": "Victory Monument: completed 1942, height 50 m, at 13.7647, 100.5386 (estimated)",
+   "source": "https://th.wikipedia.org/wiki/อนุสาวรีย์ชัยสมรภูมิ ; https://en.wikipedia.org/wiki/Victory_Monument_(Bangkok)"
+  },
+  {
+   "kind": "milestone",
+   "year": 1820,
+   "claim": "1820: Cholera epidemic kills about 30,000. A cholera pandemic reached the city in 1820, with a reported 30,000 deaths; it struck again in 1849.",
+   "source": "https://en.wikipedia.org/wiki/History_of_Bangkok"
+  },
+  {
+   "kind": "milestone",
+   "year": 1999,
+   "claim": "1999: BTS Skytrain opens. The city's first rapid-transit lines, the elevated Sukhumvit and Silom lines, opened on 5 December 1999.",
+   "source": "https://en.wikipedia.org/wiki/BTS_Skytrain"
+  }
+ ],
+ "mexico-city": [
+  {
+   "kind": "start",
+   "claim": "start_year 1325: Tenochtitlan founded by the Mexica on an island in Lake Texcoco (traditional date)",
+   "source": "Castillo Ledón, Luis (1925), La Fundación de la Ciudad de México 1325-1925, Editorial Cvltura, via https://en.wikipedia.org/wiki/Tenochtitlan"
+  },
+  {
+   "kind": "population",
+   "year": 1753,
+   "claim": "population 70,000 in 1753 (estimated)",
+   "source": "Báez Macías, Eduardo (1966), 'Planos y censos de la ciudad de México, 1753', Boletín del Archivo General de la Nación 2nd series 7, p. 424, via https://en.wikipedia.org/wiki/History_of_Mexico_City"
+  },
+  {
+   "kind": "population",
+   "year": 1813,
+   "claim": "population 123,907 in 1813 (documented)",
+   "source": "Valdés, Dennis N. (1978), The Decline of the Sociedad de Castas in Mexico City (PhD dissertation, University of Michigan), Table 2.1, via https://en.wikipedia.org/wiki/History_of_Mexico_City"
+  },
+  {
+   "kind": "population",
+   "year": 1850,
+   "claim": "population 170,000 in 1850 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv), https://doi.org/10.1038/sdata.2016.34"
+  },
+  {
+   "kind": "population",
+   "year": 1895,
+   "claim": "population 476,413 in 1895 (documented)",
+   "source": "INEGI, Censos Generales de Población (entidad Distrito Federal), as tabulated at https://es.wikipedia.org/wiki/Demograf%C3%ADa_de_la_Ciudad_de_M%C3%A9xico"
+  },
+  {
+   "kind": "landmark",
+   "name": "Angel of Independence",
+   "claim": "Angel of Independence: completed 1910, height 45 m, at 19.427, -99.1677 (estimated)",
+   "source": "https://es.wikipedia.org/wiki/Monumento_a_la_Independencia"
+  },
+  {
+   "kind": "landmark",
+   "name": "Palacio de Bellas Artes",
+   "claim": "Palacio de Bellas Artes: completed 1934, height 53 m, at 19.4353, -99.1414 (estimated)",
+   "source": "https://es.wikipedia.org/wiki/Palacio_de_Bellas_Artes_(Ciudad_de_M%C3%A9xico)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Torre Reforma",
+   "claim": "Torre Reforma: completed 2016, height 246 m, at 19.4245, -99.1744 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-reforma/942"
+  },
+  {
+   "kind": "milestone",
+   "year": 1821,
+   "claim": "1821: Independence: the Trigarante Army enters. The Army of the Three Guarantees enters Mexico City on 27 September 1821, ending Spanish rule; the city becomes the capital of independent Mexico.",
+   "source": "https://en.wikipedia.org/wiki/History_of_Mexico_City"
+  },
+  {
+   "kind": "milestone",
+   "year": 2016,
+   "claim": "2016: Federal District renamed Ciudad de México. On 29 January 2016 the Federal District officially becomes Ciudad de México (CDMX), with greater autonomy.",
+   "source": "https://en.wikipedia.org/wiki/Mexico_City"
+  }
+ ],
+ "beijing": [
+  {
+   "kind": "start",
+   "claim": "start_year -1045: City of Ji (Jicheng) established as seat of the Zhou vassal state of Ji",
+   "source": "Liji (Book of Rites), 'Yueji', and Beijing Municipal Government's designation of 1045 BC as the city's first year (http://www.visitbeijing.com.cn/jdjq/jdjqtj/msgj/128760.html), via https://en.wikipedia.org/wiki/Jicheng_(Beijing)"
+  },
+  {
+   "kind": "population",
+   "year": 1125,
+   "claim": "population 82,000 in 1125 (estimated)",
+   "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing"
+  },
+  {
+   "kind": "population",
+   "year": 1216,
+   "claim": "population 91,000 in 1216 (estimated)",
+   "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing"
+  },
+  {
+   "kind": "population",
+   "year": 1500,
+   "claim": "population 672,000 in 1500 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)"
+  },
+  {
+   "kind": "population",
+   "year": 1600,
+   "claim": "population 706,000 in 1600 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Monument to the People's Heroes",
+   "claim": "Monument to the People's Heroes: completed 1958, height 37.94 m, at 39.9032, 116.3914 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Monument_to_the_People%27s_Heroes ; position from OpenStreetMap (WGS-84)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Great Hall of the People",
+   "claim": "Great Hall of the People: completed 1959, height 46.5 m, at 39.9035, 116.3871 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Great_Hall_of_the_People ; position from OpenStreetMap (WGS-84)"
+  },
+  {
+   "kind": "landmark",
+   "name": "CITIC Tower (China Zun)",
+   "claim": "CITIC Tower (China Zun): completed 2018, height 527.7 m, at 39.9116, 116.4604 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/citic-tower/11116"
+  },
+  {
+   "kind": "milestone",
+   "year": 1928,
+   "claim": "1928: Capital moves to Nanjing; city renamed Beiping. After the Northern Expedition the Nationalists moved the capital to Nanjing and renamed Beijing 'Beiping'.",
+   "source": "https://en.wikipedia.org/wiki/History_of_Beijing"
+  },
+  {
+   "kind": "milestone",
+   "year": 1949,
+   "claim": "1949: Capital of the People's Republic. The city passed peacefully to Communist control in 1949, was renamed Beijing and became the national capital.",
+   "source": "https://en.wikipedia.org/wiki/History_of_Beijing"
+  }
+ ],
+ "lahore": [
+  {
+   "kind": "start",
+   "claim": "start_year 982: Lahore first named in a written source, the Hudud al-'Alam",
+   "source": "Hudud al-'Alam (982 CE), trans. V. Minorsky, http://www.kroraina.com/hudud/ ; identified as the first document naming Lahore at https://en.wikipedia.org/wiki/Lahore#Origins"
+  },
+  {
+   "kind": "population",
+   "year": 1622,
+   "claim": "population 500,000 in 1622 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3"
+  },
+  {
+   "kind": "population",
+   "year": 1855,
+   "claim": "population 94,143 in 1855 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3"
+  },
+  {
+   "kind": "population",
+   "year": 1881,
+   "claim": "population 149,369 in 1881 (documented)",
+   "source": "Census of India 1881 (Report on the Census of the Panjab, vol. II, p. 520, https://www.jstor.org/stable/saoa.crl.25057657), town of Lahore = Lahore Municipality plus Cantonment, as tabulated at https://en.wikipedia.org/wiki/Lahore#Religion"
+  },
+  {
+   "kind": "population",
+   "year": 1931,
+   "claim": "population 429,747 in 1931 (documented)",
+   "source": "Census of India 1931 (vol. XVII Punjab, part II Tables, p. 26), town of Lahore = Lahore Municipality plus Cantonment, as tabulated at https://en.wikipedia.org/wiki/Lahore#Religion"
+  },
+  {
+   "kind": "landmark",
+   "name": "Badshahi Mosque",
+   "claim": "Badshahi Mosque: completed 1673, height 59.7 m, at 31.5881, 74.3094 (documented)",
+   "source": "UNESCO World Heritage Centre tentative-list entry 'Badshahi Mosque, Lahore', via https://en.wikipedia.org/wiki/Badshahi_Mosque (each corner minaret 196 ft tall; opened 1673)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Minar-e-Pakistan",
+   "claim": "Minar-e-Pakistan: completed 1968, height 70 m, at 31.5925, 74.3095 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Minar-e-Pakistan (62 m tower on an 8 m base, about 70 m in total; completed 22 March 1968), citing Pakistan Today, https://www.pakistantoday.com.pk/2022/03/17/revisiting-minar-i-pakistan/"
+  },
+  {
+   "kind": "landmark",
+   "name": "Grand Jamia Mosque, Bahria Town",
+   "claim": "Grand Jamia Mosque, Bahria Town: completed 2014, height 50.3 m, at 31.3681, 74.1858 (documented)",
+   "source": "The Express Tribune, https://tribune.com.pk/story/775536/unparalleled-achievement-zardari-inaugurates-pakistans-largest-mosque/ , via https://en.wikipedia.org/wiki/Grand_Jamia_Mosque,_Lahore (four minarets each 165 ft; inaugurated 6 October 2014)"
+  },
+  {
+   "kind": "milestone",
+   "year": 1152,
+   "claim": "1152: Lahore becomes a Ghaznavid capital. Lahore was made the eastern capital of the Ghaznavid Empire under Khusrau Shah, and the sole capital after Ghazni fell in 1163.",
+   "source": "Glover (2008), Making Lahore Modern, University of Minnesota Press, via https://en.wikipedia.org/wiki/Lahore#Ghaznavid"
+  },
+  {
+   "kind": "milestone",
+   "year": 1849,
+   "claim": "1849: Punjab annexed by the British. The East India Company, in control of Lahore since 1846, annexed the Punjab in 1849. The British laid out the Civil Station and The Mall south of the Walled City and a cantonment at Mian Mir.",
+   "source": "Glover (2008), Making Lahore Modern, via https://en.wikipedia.org/wiki/Lahore#British_colonial_period"
+  }
+ ],
+ "istanbul": [
+  {
+   "kind": "start",
+   "claim": "start_year -660: Byzantion founded by Greek colonists from Megara",
+   "source": "Bloom & Blair (2009), The Grove Encyclopedia of Islamic Art and Architecture, p. 1, and Herodotus, Histories 4.144, via https://en.wikipedia.org/wiki/Istanbul#History"
+  },
+  {
+   "kind": "population",
+   "year": 500,
+   "claim": "population 400,000 in 500 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3"
+  },
+  {
+   "kind": "population",
+   "year": 1477,
+   "claim": "population 98,000 in 1477 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3"
+  },
+  {
+   "kind": "population",
+   "year": 1700,
+   "claim": "population 700,000 in 1700 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3"
+  },
+  {
+   "kind": "population",
+   "year": 1900,
+   "claim": "population 900,000 in 1900 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3"
+  },
+  {
+   "kind": "landmark",
+   "name": "Column of Constantine",
+   "claim": "Column of Constantine: completed 330, height 34.8 m, at 41.0086, 28.9711 (estimated)",
+   "source": "https://en.wikipedia.org/wiki/Column_of_Constantine (top is 34.8 m above present ground level; dedicated 11 May 330)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Sultan Ahmed (Blue) Mosque",
+   "claim": "Sultan Ahmed (Blue) Mosque: completed 1617, height 64 m, at 41.0054, 28.9768 (estimated)",
+   "source": "https://en.wikipedia.org/wiki/Blue_Mosque,_Istanbul (minarets 64 m, dome 43 m; completed 1617)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Metropol Tower Istanbul",
+   "claim": "Metropol Tower Istanbul: completed 2017, height 280 m, at 40.9947, 29.1217 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/istanbul (building id 13894: 280 m, completed 2017)"
+  },
+  {
+   "kind": "milestone",
+   "year": 330,
+   "claim": "330: Constantinople dedicated as the Roman capital. Constantine rebuilt and enlarged the city from 324 and inaugurated it as 'New Rome' on 11 May 330.",
+   "source": "Barnes (1981), Constantine and Eusebius, pp. 212, 222, via https://en.wikipedia.org/wiki/Istanbul#Byzantine_era"
+  },
+  {
+   "kind": "milestone",
+   "year": 537,
+   "claim": "537: Hagia Sophia consecrated. The earlier cathedral burned down in the Nika revolt of January 532; Justinian I built the present domed basilica between 532 and 537.",
+   "source": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+  }
+ ],
+ "moscow": [
+  {
+   "kind": "start",
+   "claim": "start_year 1147: First mention of Moscow in the chronicles",
+   "source": "Meyendorff, J. (1981), Byzantium and the Rise of Russia, Cambridge University Press, p. 147, https://archive.org/details/byzantiumriseofr0000meye , via https://en.wikipedia.org/wiki/History_of_Moscow and https://en.wikipedia.org/wiki/Moscow"
+  },
+  {
+   "kind": "population",
+   "year": 1400,
+   "claim": "population 30,000 in 1400 (estimated)",
+   "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1650,
+   "claim": "population 105,000 in 1650 (estimated)",
+   "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1939,
+   "claim": "population 4,131,633 in 1939 (documented)",
+   "source": "All-Union Census of 1939, final results, city of Moscow, Demoscope Weekly, https://www.demoscope.ru/weekly/ssp/rus_pop_39_3.php"
+  },
+  {
+   "kind": "population",
+   "year": 1945,
+   "claim": "population 3,361,000 in 1945 (estimated)",
+   "source": "Zhiromskaya, 'Население России 1939-1945', Vestnik RAN 90(9), 2020, via https://ru.wikipedia.org/wiki/Население_Москвы"
+  },
+  {
+   "kind": "landmark",
+   "name": "Ivan the Great Bell Tower",
+   "claim": "Ivan the Great Bell Tower: completed 1600, height 81 m, at 55.7508, 37.6181 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Ivan_the_Great_Bell_Tower"
+  },
+  {
+   "kind": "landmark",
+   "name": "Kotelnicheskaya Embankment Building",
+   "claim": "Kotelnicheskaya Embankment Building: completed 1952, height 176 m, at 55.7471, 37.643 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/kotelnicheskaya-naberezhnaya/2502"
+  },
+  {
+   "kind": "landmark",
+   "name": "Radisson Royal Hotel (former Hotel Ukraina)",
+   "claim": "Radisson Royal Hotel (former Hotel Ukraina): completed 1955, height 206 m, at 55.7515, 37.5657 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/radisson-royal-hotel/1761"
+  },
+  {
+   "kind": "milestone",
+   "year": 1712,
+   "claim": "1712: Capital moved to Saint Petersburg. Peter the Great moved his government to the newly built Saint Petersburg in 1712, and Moscow's importance declined through the imperial period.",
+   "source": "https://en.wikipedia.org/wiki/Moscow"
+  },
+  {
+   "kind": "milestone",
+   "year": 1980,
+   "claim": "1980: Summer Olympic Games. Moscow hosted the 1980 Summer Olympics, which the United States and other Western countries boycotted.",
+   "source": "https://en.wikipedia.org/wiki/Moscow"
+  }
+ ],
+ "ho-chi-minh-city": [
+  {
+   "kind": "start",
+   "claim": "start_year 1623: Vietnamese settlement and customs post at the Khmer port of Prey Nokor",
+   "source": "Vo, Dang & Ho (2008), The Women of Vietnam, via https://en.wikipedia.org/wiki/Names_of_Ho_Chi_Minh_City"
+  },
+  {
+   "kind": "population",
+   "year": 1850,
+   "claim": "population 50,000 in 1850 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Ho Chi Minh / Saigon'), https://figshare.com/articles/Chandler_Population_Data/2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1911,
+   "claim": "population 249,381 in 1911 (documented)",
+   "source": "Viet Nam NIURP (1994) and Lê Thi Huong (2000), as quoted in Ledent (2002), 'La population de Hanoi: évolution passée et développement futur', INRS Urbanisation, Culture et Société, Table 1 note 3, https://espace.inrs.ca/id/eprint/9406/1/Inedit01-02.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1919,
+   "claim": "population 254,581 in 1919 (documented)",
+   "source": "The Statesman's Year-Book 1921, p. 927 (French Indo-China: Cochin-China), https://en.wikisource.org/wiki/Page:Statesman's_Year-Book_1921.djvu/927"
+  },
+  {
+   "kind": "population",
+   "year": 1939,
+   "claim": "population 495,781 in 1939 (documented)",
+   "source": "Viet Nam NIURP (1994) and Lê Thi Huong (2000), as quoted in Ledent (2002), 'La population de Hanoi: évolution passée et développement futur', INRS Urbanisation, Culture et Société, Table 1 note 3, https://espace.inrs.ca/id/eprint/9406/1/Inedit01-02.pdf"
+  },
+  {
+   "kind": "landmark",
+   "name": "Notre-Dame Cathedral Basilica of Saigon",
+   "claim": "Notre-Dame Cathedral Basilica of Saigon: completed 1895, height 60.5 m, at 10.7797, 106.6992 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Notre-Dame_Cathedral_Basilica_of_Saigon"
+  },
+  {
+   "kind": "landmark",
+   "name": "Phú Mỹ Bridge",
+   "claim": "Phú Mỹ Bridge: completed 2009, height 145 m, at 10.745, 106.7445 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Phú_Mỹ_Bridge"
+  },
+  {
+   "kind": "landmark",
+   "name": "Vincom Landmark 81",
+   "claim": "Vincom Landmark 81: completed 2018, height 461.2 m, at 10.795, 106.7219 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/vincom-landmark-81/18192"
+  },
+  {
+   "kind": "milestone",
+   "year": 1698,
+   "claim": "1698: Nguyễn Hữu Cảnh establishes Vietnamese rule. Sent south by the Nguyễn lords, Nguyễn Hữu Cảnh set up Vietnamese administration in the area, detaching it from Cambodia. This is the date Vietnam treats as the city's founding.",
+   "source": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City#History"
+  },
+  {
+   "kind": "milestone",
+   "year": 1975,
+   "claim": "1975: Fall of Saigon. The city was captured on 30 April 1975, ending the Vietnam War.",
+   "source": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City#History"
+  }
+ ],
+ "buenos-aires": [
+  {
+   "kind": "start",
+   "claim": "start_year 1536: First founding of Buenos Aires by Pedro de Mendoza",
+   "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires (first founding 2 February 1536, abandoned 1541; refounded by Juan de Garay 11 June 1580); https://en.wikipedia.org/wiki/Buenos_Aires"
+  },
+  {
+   "kind": "population",
+   "year": 1700,
+   "claim": "population 5,000 in 1700 (estimated)",
+   "source": "Besio Moreno (1939), cited in Cuesta (2006), 'Evolución de la población y estructura ocupacional de Buenos Aires, 1700-1810', Papeles de Población 49, cuadro 1 (from the padrones published in Documentos para la Historia Argentina, vols X-XI), https://scielo.org.mx/pdf/pp/v12n49/v12n49a9.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1838,
+   "claim": "population 65,344 in 1838 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv)"
+  },
+  {
+   "kind": "population",
+   "year": 1855,
+   "claim": "population 92,709 in 1855 (documented)",
+   "source": "Instituto de Estadística y Censos de la Ciudad Autónoma de Buenos Aires, 'Crecimiento de la población. Ciudad de Buenos Aires. Año 2022' (Informe de resultados 1984, October 2025), cuadro C.1, https://www.estadisticaciudad.gob.ar/eyc/wp-content/uploads/2025/10/ir_2025_1984.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1936,
+   "claim": "population 2,415,142 in 1936 (documented)",
+   "source": "Instituto de Estadística y Censos de la Ciudad Autónoma de Buenos Aires, 'Crecimiento de la población. Ciudad de Buenos Aires. Año 2022' (Informe de resultados 1984, October 2025), cuadro C.1, https://www.estadisticaciudad.gob.ar/eyc/wp-content/uploads/2025/10/ir_2025_1984.pdf"
+  },
+  {
+   "kind": "landmark",
+   "name": "Obelisco de Buenos Aires",
+   "claim": "Obelisco de Buenos Aires: completed 1936, height 67.5 m, at -34.6036, -58.3817 (documented)",
+   "source": "https://es.wikipedia.org/wiki/Obelisco_de_Buenos_Aires (height 67.5 m)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Torre Espacial",
+   "claim": "Torre Espacial: completed 1985, height 200 m, at -34.6725, -58.4497 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Torre_Espacial (200 m not including antenna); https://es.wikipedia.org/wiki/Torre_Espacial (228 m to the pinnacle; opened 9 July 1985)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Torre Le Parc",
+   "claim": "Torre Le Parc: completed 1996, height 157.9 m, at -34.5751, -58.4214 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-le-parc/3449"
+  },
+  {
+   "kind": "milestone",
+   "year": 1857,
+   "claim": "1857: First railway in Argentina. On 29 August 1857 the first Argentine train ran from the Estación del Parque, near today's Plaza Lavalle, to La Floresta.",
+   "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires"
+  },
+  {
+   "kind": "milestone",
+   "year": 1880,
+   "claim": "1880: Federalisation of Buenos Aires. After the armed conflict of 1880 the city was federalised, split from Buenos Aires Province and made the seat of the national government.",
+   "source": "https://en.wikipedia.org/wiki/Buenos_Aires"
+  }
+ ],
+ "new-york": [
+  {
+   "kind": "start",
+   "claim": "start_year 1624: Dutch West India Company settlement founded (New Amsterdam); Fort Amsterdam sited on Manhattan in 1625",
+   "source": "https://en.wikipedia.org/wiki/New_Amsterdam"
+  },
+  {
+   "kind": "population",
+   "year": 1723,
+   "claim": "population 7,248 in 1723 (documented)",
+   "source": "Greene & Harrington (1932), American Population Before the Federal Census of 1790, as cited in Rosenwaike, Ira (1972), Population History of New York City, Syracuse University Press, p. 8, https://archive.org/details/populationhistor00irar/page/8, via https://en.wikipedia.org/wiki/Demographics_of_New_York_City"
+  },
+  {
+   "kind": "population",
+   "year": 1746,
+   "claim": "population 11,717 in 1746 (documented)",
+   "source": "Greene & Harrington (1932), American Population Before the Federal Census of 1790, as cited in Rosenwaike, Ira (1972), Population History of New York City, Syracuse University Press, p. 8, https://archive.org/details/populationhistor00irar/page/8, via https://en.wikipedia.org/wiki/Demographics_of_New_York_City"
+  },
+  {
+   "kind": "population",
+   "year": 1850,
+   "claim": "population 515,547 in 1850 (documented)",
+   "source": "US Census Bureau: Gibson, Campbell (1998), Population of the 100 Largest Cities and Other Urban Places in the United States: 1790 to 1990, Working Paper 27, https://www.census.gov/population/www/documentation/twps0027/twps0027.html, via https://en.wikipedia.org/wiki/Demographics_of_New_York_City"
+  },
+  {
+   "kind": "population",
+   "year": 1930,
+   "claim": "population 6,930,446 in 1930 (documented)",
+   "source": "US Census Bureau: Gibson, Campbell (1998), Population of the 100 Largest Cities and Other Urban Places in the United States: 1790 to 1990, Working Paper 27, https://www.census.gov/population/www/documentation/twps0027/twps0027.html, via https://en.wikipedia.org/wiki/Demographics_of_New_York_City"
+  },
+  {
+   "kind": "landmark",
+   "name": "New York World Building",
+   "claim": "New York World Building: completed 1890, height 94.2 m, at 40.712, -74.0053 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/world-building/8929"
+  },
+  {
+   "kind": "landmark",
+   "name": "One World Trade Center (original North Tower)",
+   "claim": "One World Trade Center (original North Tower): completed 1972, height 417 m, at 40.7121, -74.0131 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/one-world-trade-center/200"
+  },
+  {
+   "kind": "landmark",
+   "name": "432 Park Avenue",
+   "claim": "432 Park Avenue: completed 2015, height 425.7 m, at 40.7616, -73.9719 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/432-park-avenue/13227"
+  },
+  {
+   "kind": "milestone",
+   "year": 1858,
+   "claim": "1858: Central Park opens. Olmsted and Vaux win the design competition in 1858 and the park's first areas open to the public late that year; it is completed in 1876.",
+   "source": "https://en.wikipedia.org/wiki/Central_Park"
+  },
+  {
+   "kind": "milestone",
+   "year": 1892,
+   "claim": "1892: Ellis Island immigration station opens. From 1892 to 1954 about 12 million immigrants arriving at the port are processed on Ellis Island.",
+   "source": "https://en.wikipedia.org/wiki/Ellis_Island"
+  }
+ ],
+ "shenzhen": [
+  {
+   "kind": "start",
+   "claim": "start_year 331: Bao'an County founded with its seat at Nantou (Eastern Jin)",
+   "source": "Shenzhen Government Online, 'Brief History', http://english.sz.gov.cn/gi/200708/t20070822_229175.htm, via https://en.wikipedia.org/wiki/Shenzhen#History ; https://en.wikipedia.org/wiki/Bao%27an_County"
+  },
+  {
+   "kind": "landmark",
+   "name": "Nantou Ancient City, South Gate",
+   "claim": "Nantou Ancient City, South Gate: completed 1394, height 4.5 m, at 22.5449, 113.9157 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Nantou_(historic_town) ; position from OpenStreetMap (WGS-84)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Shun Hing Square (Diwang Building)",
+   "claim": "Shun Hing Square (Diwang Building): completed 1996, height 384 m, at 22.5454, 114.1055 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/shun-hing-square/258"
+  },
+  {
+   "kind": "landmark",
+   "name": "KK100",
+   "claim": "KK100: completed 2011, height 441.8 m, at 22.5457, 114.1015 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/kk100/173"
+  },
+  {
+   "kind": "landmark",
+   "name": "Shenzhen Stock Exchange",
+   "claim": "Shenzhen Stock Exchange: completed 2013, height 245.8 m, at 22.5445, 114.0487 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/shenzhen-stock-exchange/1144"
+  },
+  {
+   "kind": "landmark",
+   "name": "Ping An Finance Center",
+   "claim": "Ping An Finance Center: completed 2017, height 599.05 m, at 22.5366, 114.0504 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/ping-an-finance-center/54"
+  },
+  {
+   "kind": "landmark",
+   "name": "China Merchants Bank Global Headquarters Main Tower",
+   "claim": "China Merchants Bank Global Headquarters Main Tower: completed 2025, height 393 m, at 22.5255, 113.9652 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/china-merchants-bank-global-headquarters-main-tower/42765"
+  },
+  {
+   "kind": "milestone",
+   "year": 1990,
+   "claim": "1990: Shenzhen Stock Exchange founded. The exchange was established in December 1990.",
+   "source": "https://www.szse.cn/ via https://en.wikipedia.org/wiki/Shenzhen#History"
+  },
+  {
+   "kind": "milestone",
+   "year": 2004,
+   "claim": "2004: Shenzhen Metro opens. The first metro lines began operating on 28 December 2004.",
+   "source": "https://en.wikipedia.org/wiki/Shenzhen_Metro"
+  },
+  {
+   "kind": "milestone",
+   "year": 2011,
+   "claim": "2011: Summer Universiade. Shenzhen hosted the 2011 Summer Universiade from 12 to 23 August.",
+   "source": "https://en.wikipedia.org/wiki/2011_Summer_Universiade"
+  }
+ ],
+ "bengaluru": [
+  {
+   "kind": "start",
+   "claim": "start_year 1537: Kempe Gowda founds Bangalore and builds its mud fort",
+   "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 6, p. 368 (Bangalore), https://archive.org/details/in.ernet.dli.2015.120384; https://en.wikipedia.org/wiki/Bengaluru"
+  },
+  {
+   "kind": "population",
+   "year": 1800,
+   "claim": "population 50,000 in 1800 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1871,
+   "claim": "population 142,513 in 1871 (documented)",
+   "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 6, pp. 368, 370 (Bangalore), https://archive.org/details/in.ernet.dli.2015.120384"
+  },
+  {
+   "kind": "population",
+   "year": 1931,
+   "claim": "population 309,785 in 1931 (documented)",
+   "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx"
+  },
+  {
+   "kind": "population",
+   "year": 1941,
+   "claim": "population 410,967 in 1941 (documented)",
+   "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx"
+  },
+  {
+   "kind": "landmark",
+   "name": "Shivoham Shiva statue",
+   "claim": "Shivoham Shiva statue: completed 1995, height 19.8 m, at 12.9578, 77.6564 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Shivoham_Shiva_Temple"
+  },
+  {
+   "kind": "landmark",
+   "name": "Mantri Pinnacle",
+   "claim": "Mantri Pinnacle: completed 2016, height 153 m, at 12.8759, 77.598 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/mantri-pinnacle/14522"
+  },
+  {
+   "kind": "landmark",
+   "name": "Four Seasons Hotel Bengaluru",
+   "claim": "Four Seasons Hotel Bengaluru: completed 2019, height 105 m, at 13.0194, 77.5852 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/four-seasons-hotel-bengaluru/34867"
+  },
+  {
+   "kind": "milestone",
+   "year": 1638,
+   "claim": "1638: Conquered by Bijapur. An Adil Shahi army defeated Kempe Gowda III and the town became a jagir of Shahaji.",
+   "source": "https://en.wikipedia.org/wiki/Bengaluru"
+  },
+  {
+   "kind": "milestone",
+   "year": 1791,
+   "claim": "1791: Captured by Cornwallis. British forces under Cornwallis captured the fort on 21 March 1791 during the Third Anglo-Mysore War.",
+   "source": "https://en.wikipedia.org/wiki/Bengaluru"
+  }
+ ],
+ "osaka": [
+  {
+   "kind": "start",
+   "claim": "start_year 645: Emperor Kōtoku moves the capital to Naniwa",
+   "source": "https://ja.wikipedia.org/wiki/難波宮 (capital moved to Naniwa in 645, palace completed 652; recorded in the Nihon Shoki and confirmed by excavations from 1954); https://en.wikipedia.org/wiki/Osaka#History"
+  },
+  {
+   "kind": "population",
+   "year": 1609,
+   "claim": "population 200,000 in 1609 (estimated)",
+   "source": "Rodrigo de Vivero's report of his 1609 visit to Japan, as given in https://ja.wikipedia.org/wiki/江戸の人口"
+  },
+  {
+   "kind": "population",
+   "year": 1721,
+   "claim": "population 382,471 in 1721 (documented)",
+   "source": "Townspeople register of the Osaka Sangō (無名書), via https://ja.wikipedia.org/wiki/三都"
+  },
+  {
+   "kind": "population",
+   "year": 1935,
+   "claim": "population 2,989,874 in 1935 (documented)",
+   "source": "National census, 1 October 1935, via https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位"
+  },
+  {
+   "kind": "population",
+   "year": 1947,
+   "claim": "population 1,559,310 in 1947 (documented)",
+   "source": "Extraordinary national census, 1 October 1947, via https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位"
+  },
+  {
+   "kind": "landmark",
+   "name": "Osaka Castle keep (Tokugawa)",
+   "claim": "Osaka Castle keep (Tokugawa): completed 1626, height 58.3 m, at 34.6873, 135.5259 (estimated)",
+   "source": "https://www.toyotomi-ishigaki.com/hideyoshi/2401.html (58.3 m including keep base, calculated from the surviving Edo-period plans); completed 1626 and burned by lightning 1665 per https://ja.wikipedia.org/wiki/大坂城"
+  },
+  {
+   "kind": "landmark",
+   "name": "Osaka Castle keep (present reconstruction)",
+   "claim": "Osaka Castle keep (present reconstruction): completed 1931, height 54.8 m, at 34.6873, 135.5259 (documented)",
+   "source": "https://ja.wikipedia.org/wiki/大坂城 (completed 7 November 1931; 54.8 m including keep base and roof ornaments)"
+  },
+  {
+   "kind": "landmark",
+   "name": "ORC 200",
+   "claim": "ORC 200: completed 1994, height 200 m, at 34.6693, 135.4611 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/osaka (ORC 200, building id 1680)"
+  },
+  {
+   "kind": "milestone",
+   "year": 1925,
+   "claim": "1925: 'Great Osaka': Japan's largest city. The second boundary extension absorbs the rest of the two neighbouring districts. At the 1925 census Osaka has 2,114,804 people, more than Tokyo City.",
+   "source": "https://ja.wikipedia.org/wiki/大阪市"
+  },
+  {
+   "kind": "milestone",
+   "year": 1933,
+   "claim": "1933: Municipal subway opens. The first section of the Osaka municipal subway opens between Umeda and Shinsaibashi, the first publicly run subway in Japan.",
+   "source": "https://ja.wikipedia.org/wiki/大阪市"
+  }
+ ],
+ "lagos": [
+  {
+   "kind": "start",
+   "claim": "start_year 1472: Awori Yoruba settlement on Lagos Island (Oko/Eko), in place when Portuguese traders reached the lagoon c. 1472",
+   "source": "Kristin Mann (2007), Slavery and the Birth of an African City: Lagos, 1760-1900, pp. 24-26, via https://en.wikipedia.org/wiki/History_of_Lagos"
+  },
+  {
+   "kind": "population",
+   "year": 1815,
+   "claim": "population 11,000 in 1815 (estimated)",
+   "source": "Akinyoade, Appiah & Asa (2017), African Population Studies 31(1 supp.), Table 1, https://aps.journals.ac.za/pub/article/view/997/746"
+  },
+  {
+   "kind": "population",
+   "year": 1855,
+   "claim": "population 20,000 in 1855 (estimated)",
+   "source": "Akinyoade, Appiah & Asa (2017), African Population Studies 31(1 supp.), Table 1, https://aps.journals.ac.za/pub/article/view/997/746"
+  },
+  {
+   "kind": "population",
+   "year": 1891,
+   "claim": "population 33,000 in 1891 (documented)",
+   "source": "Akinyoade, Appiah & Asa (2017), African Population Studies 31(1 supp.), Table 1, https://aps.journals.ac.za/pub/article/view/997/746"
+  },
+  {
+   "kind": "population",
+   "year": 1921,
+   "claim": "population 98,303 in 1921 (documented)",
+   "source": "Ayodeji Olukoju (2003), Infrastructure Development and Urban Facilities in Lagos, 1861-2000, chapter 1, IFRA-Nigeria, https://books.openedition.org/ifra/828 (citing Sada 1969 and National Archives Ibadan, Comcol 1 739)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Independence House",
+   "claim": "Independence House: completed 1961, height 103 m, at 6.4469, 3.3989 (documented)",
+   "source": "SkyscraperPage building 38507, via https://en.wikipedia.org/wiki/Independence_House (CTBUH does not list a completion year)"
+  },
+  {
+   "kind": "landmark",
+   "name": "National Theatre (Wole Soyinka Centre), Iganmu",
+   "claim": "National Theatre (Wole Soyinka Centre), Iganmu: completed 1976, height 31 m, at 6.4764, 3.3694 (documented)",
+   "source": "https://www.icirnigeria.org/heres-what-to-know-about-national-theatre-renamed-wole-soyinka-centre/"
+  },
+  {
+   "kind": "landmark",
+   "name": "Eko Champagne Pearl Tower (Eko Atlantic)",
+   "claim": "Eko Champagne Pearl Tower (Eko Atlantic): completed 2017, height 103 m, at 6.4098, 3.412 (estimated)",
+   "source": "https://www.skyscrapercenter.com/building/eko-champagne-pearl-tower/40872"
+  },
+  {
+   "kind": "milestone",
+   "year": 1898,
+   "claim": "1898: Electric lighting switched on. Electricity supply began on 19 September 1898 with 60 kW of generation, lighting the Marina from Government House to the north side of the island.",
+   "source": "Ayodeji Olukoju (2003), Infrastructure Development and Urban Facilities in Lagos, 1861-2000, chapter 2, via https://en.wikipedia.org/wiki/History_of_Lagos"
+  },
+  {
+   "kind": "milestone",
+   "year": 1924,
+   "claim": "1924: Bubonic plague and clearance of the island. Plague broke out in 1924 and lasted until 1931, with 1,947 recorded cases. Swamps were drained and crowded quarters on Lagos Island were cleared, with residents resettled on the mainland.",
+   "source": "O. A. Faleye (2019), Gesnerus, and Olukoju (2003), https://books.openedition.org/ifra/828, via https://en.wikipedia.org/wiki/History_of_Lagos"
+  }
+ ],
+ "los-angeles": [
+  {
+   "kind": "start",
+   "claim": "start_year 1781: El Pueblo de Nuestra Señora la Reina de los Ángeles founded by 44 settlers under Governor Felipe de Neve",
+   "source": "Estrada, William David (2009), The Los Angeles Plaza: Sacred and Contested Space, University of Texas Press, via https://en.wikipedia.org/wiki/Los_Angeles"
+  },
+  {
+   "kind": "population",
+   "year": 1820,
+   "claim": "population 650 in 1820 (estimated)",
+   "source": "Guinn, J. M. (1902), Historical and Biographical Record of Southern California, https://books.google.com/books?id=KyFPAAAAYAAJ, via https://en.wikipedia.org/wiki/Los_Angeles"
+  },
+  {
+   "kind": "population",
+   "year": 1870,
+   "claim": "population 5,728 in 1870 (documented)",
+   "source": "US Census, as tabulated by Los Angeles Almanac, 'Historical General Population, City & County of Los Angeles, 1850 to 2020', https://www.laalmanac.com/population/po02.php (same figures in the US Census table at https://en.wikipedia.org/wiki/Los_Angeles)"
+  },
+  {
+   "kind": "population",
+   "year": 1890,
+   "claim": "population 50,395 in 1890 (documented)",
+   "source": "US Census, as tabulated by Los Angeles Almanac, 'Historical General Population, City & County of Los Angeles, 1850 to 2020', https://www.laalmanac.com/population/po02.php (same figures in the US Census table at https://en.wikipedia.org/wiki/Los_Angeles)"
+  },
+  {
+   "kind": "population",
+   "year": 1930,
+   "claim": "population 1,238,048 in 1930 (documented)",
+   "source": "US Census, as tabulated by Los Angeles Almanac, 'Historical General Population, City & County of Los Angeles, 1850 to 2020', https://www.laalmanac.com/population/po02.php (same figures in the US Census table at https://en.wikipedia.org/wiki/Los_Angeles)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Eastern Columbia Building",
+   "claim": "Eastern Columbia Building: completed 1930, height 80.5 m, at 34.0429, -118.2563 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/eastern-columbia-lofts/48292"
+  },
+  {
+   "kind": "landmark",
+   "name": "Aon Center (707 Wilshire Tower)",
+   "claim": "Aon Center (707 Wilshire Tower): completed 1974, height 261.5 m, at 34.0492, -118.2569 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/707-wilshire-tower/744"
+  },
+  {
+   "kind": "landmark",
+   "name": "Gas Company Tower",
+   "claim": "Gas Company Tower: completed 1991, height 228.3 m, at 34.0501, -118.2532 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/gas-company-tower/1131"
+  },
+  {
+   "kind": "milestone",
+   "year": 1910,
+   "claim": "1910: Hollywood merges into Los Angeles. Hollywood joins the city in 1910, when ten film companies already operate in Los Angeles; by 1921 more than 80 percent of the world's film industry is concentrated there.",
+   "source": "https://en.wikipedia.org/wiki/Los_Angeles"
+  },
+  {
+   "kind": "milestone",
+   "year": 1913,
+   "claim": "1913: Los Angeles Aqueduct opens. The aqueduct, built under William Mulholland, begins delivering water from the Owens River in November 1913 and allows the city to keep expanding.",
+   "source": "https://en.wikipedia.org/wiki/Los_Angeles_Aqueduct"
+  }
+ ],
+ "luanda": [
+  {
+   "kind": "start",
+   "claim": "start_year 1576: São Paulo da Assunção de Loanda founded by Paulo Dias de Novais",
+   "source": "José Leitão, 'A Missão no Reino de Angola', https://repositorio.ucp.pt/bitstream/10400.14/4910/1/LS_S2_05_JoseADLeitao.pdf, via https://en.wikipedia.org/wiki/Luanda; also Encyclopaedia Britannica (1911), 'Loanda', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Loanda"
+  },
+  {
+   "kind": "population",
+   "year": 1781,
+   "claim": "population 9,755 in 1781 (documented)",
+   "source": "Curto & Gervais (2001), 'The Population History of Luanda during the Late Atlantic Slave Trade, 1781-1844', African Economic History 29; figures read from the Portuguese edition, Africana Studia, Tabela III, https://ojs.letras.up.pt/index.php/AfricanaStudia/article/view/7125"
+  },
+  {
+   "kind": "population",
+   "year": 1802,
+   "claim": "population 6,925 in 1802 (documented)",
+   "source": "Curto & Gervais (2001), African Economic History 29; Portuguese edition, Africana Studia, Tabela III, https://ojs.letras.up.pt/index.php/AfricanaStudia/article/view/7125"
+  },
+  {
+   "kind": "population",
+   "year": 1807,
+   "claim": "population 6,184 in 1807 (documented)",
+   "source": "Curto & Gervais (2001), African Economic History 29; Portuguese edition, Africana Studia, Tabela III, https://ojs.letras.up.pt/index.php/AfricanaStudia/article/view/7125"
+  },
+  {
+   "kind": "population",
+   "year": 1817,
+   "claim": "population 4,490 in 1817 (documented)",
+   "source": "Curto & Gervais (2001), African Economic History 29; Portuguese edition, Africana Studia, Tabela III, https://ojs.letras.up.pt/index.php/AfricanaStudia/article/view/7125"
+  },
+  {
+   "kind": "landmark",
+   "name": "Torre Ambiente",
+   "claim": "Torre Ambiente: completed 2011, height 117 m, at -8.8085, 13.2391 (estimated)",
+   "source": "https://www.skyscrapercenter.com/building/torre-ambiente/39612"
+  },
+  {
+   "kind": "landmark",
+   "name": "Memorial Dr. António Agostinho Neto (mausoleum spire)",
+   "claim": "Memorial Dr. António Agostinho Neto (mausoleum spire): completed 2012, height 120 m, at -8.8237, 13.219 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Mausoleum_of_Ant%C3%B3nio_Agostinho_Neto"
+  },
+  {
+   "kind": "landmark",
+   "name": "IMOB Business Tower",
+   "claim": "IMOB Business Tower: completed 2018, height 145 m, at -8.8122, 13.2361 (documented)",
+   "source": "https://www.skyscrapercenter.com/building/imob-business-tower/14831"
+  },
+  {
+   "kind": "milestone",
+   "year": 1605,
+   "claim": "1605: Settlement recognised as a city. Luanda was given the status of a city in 1605.",
+   "source": "Catarina Madeira Santos (2008), 'Luanda', in L. M. Brockey (ed.), Portuguese Colonial Cities in the Early Modern World, via https://en.wikipedia.org/wiki/Timeline_of_Luanda"
+  },
+  {
+   "kind": "milestone",
+   "year": 1836,
+   "claim": "1836: Slave exports declared illegal. Portugal banned the export slave trade in 1836, ending the business on which the city had lived for more than two centuries.",
+   "source": "José C. Curto (1999), International Journal of African Historical Studies 32(2/3), via https://en.wikipedia.org/wiki/Timeline_of_Luanda"
+  }
+ ],
+ "chennai": [
+  {
+   "kind": "start",
+   "claim": "start_year 1639: Grant of Madraspatam to the East India Company; Fort St. George begun",
+   "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 16, p. 368 (Madras City, History), https://archive.org/details/in.ernet.dli.2015.117105"
+  },
+  {
+   "kind": "population",
+   "year": 1823,
+   "claim": "population 160,000 in 1823 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1871,
+   "claim": "population 367,552 in 1871 (documented)",
+   "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 16, p. 371 (Madras City, Population), https://archive.org/details/in.ernet.dli.2015.117105"
+  },
+  {
+   "kind": "population",
+   "year": 1921,
+   "claim": "population 627,824 in 1921 (documented)",
+   "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx"
+  },
+  {
+   "kind": "population",
+   "year": 1941,
+   "claim": "population 930,356 in 1941 (documented)",
+   "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx"
+  },
+  {
+   "kind": "landmark",
+   "name": "Valluvar Kottam",
+   "claim": "Valluvar Kottam: completed 1976, height 39 m, at 13.0544, 80.2418 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Valluvar_Kottam"
+  },
+  {
+   "kind": "landmark",
+   "name": "Chennai Lighthouse",
+   "claim": "Chennai Lighthouse: completed 1977, height 45.72 m, at 13.0397, 80.2794 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Chennai_Lighthouse"
+  },
+  {
+   "kind": "landmark",
+   "name": "World Trade Center Chennai, Tower 1",
+   "claim": "World Trade Center Chennai, Tower 1: completed 2020, height 122 m, at 12.9616, 80.2452 (documented)",
+   "source": "https://en.wikipedia.org/wiki/World_Trade_Center,_Chennai (citing the Chennai Metropolitan Development Authority approved plan)"
+  },
+  {
+   "kind": "milestone",
+   "year": 1639,
+   "claim": "1639: Madras founded. In August 1639 Francis Day obtained from the local Nayak a grant of Madraspatam with permission to build a fort; work on Fort St. George began in March 1640.",
+   "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 16, p. 368, https://archive.org/details/in.ernet.dli.2015.117105"
+  },
+  {
+   "kind": "milestone",
+   "year": 2004,
+   "claim": "2004: Indian Ocean tsunami. On 26 December 2004 a tsunami struck the shore of Chennai, killing 206 people and altering the coastline.",
+   "source": "https://en.wikipedia.org/wiki/Chennai"
+  }
+ ],
+ "kinshasa": [
+  {
+   "kind": "start",
+   "claim": "start_year 1881: Léopoldville station founded by Henry Morton Stanley beside the Teke villages of Ntamo (Kintambo) and Nshasa",
+   "source": "Kapagama & Waterhouse (2009), Portrait of Kinshasa: A City on (the) Edge, Crisis States Working Paper 53, p. 2, https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1925,
+   "claim": "population 24,058 in 1925 (documented)",
+   "source": "Kapagama & Waterhouse (2009), Crisis States Working Paper 53, Table 1 (from Congo Belge, 1957), https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1935,
+   "claim": "population 21,518 in 1935 (documented)",
+   "source": "Kapagama & Waterhouse (2009), Crisis States Working Paper 53, Table 1 (from Congo Belge, 1957), https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1940,
+   "claim": "population 34,976 in 1940 (documented)",
+   "source": "Kapagama & Waterhouse (2009), Crisis States Working Paper 53, Table 1 (from Congo Belge, 1957), https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1945,
+   "claim": "population 70,780 in 1945 (documented)",
+   "source": "Kapagama & Waterhouse (2009), Crisis States Working Paper 53, Table 1 (from Congo Belge, 1957), https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf"
+  },
+  {
+   "kind": "landmark",
+   "name": "RTNC Congo Building (Cité de la Voix du Peuple)",
+   "claim": "RTNC Congo Building (Cité de la Voix du Peuple): completed 1975, height 103 m, at -4.3297, 15.2986 (documented)",
+   "source": "https://www.skyscrapercenter.com/building/rtnc-congo-building/9659"
+  },
+  {
+   "kind": "landmark",
+   "name": "Kinshasa Financial Center, Ministry of Finance tower",
+   "claim": "Kinshasa Financial Center, Ministry of Finance tower: completed 2023, height 107 m, at -4.3092, 15.2803 (documented)",
+   "source": "https://zoom-eco.net/a-la-une/rdc-felix-tshisekedi-inspecte-les-travaux-de-construction-du-centre-financier-de-kinshasa/"
+  },
+  {
+   "kind": "landmark",
+   "name": "Kinshasa Financial Center, Finance Centre building",
+   "claim": "Kinshasa Financial Center, Finance Centre building: completed 2023, height 78 m, at -4.309, 15.28 (documented)",
+   "source": "https://zoom-eco.net/a-la-une/rdc-felix-tshisekedi-inspecte-les-travaux-de-construction-du-centre-financier-de-kinshasa/"
+  },
+  {
+   "kind": "milestone",
+   "year": 1923,
+   "claim": "1923: Named capital of the Belgian Congo. A royal decree of 1 July 1923 moved the colonial capital from Boma to Léopoldville. The new administrative quarter of Kalina (now Gombe) was built between Léopoldville-West and Kinshasa.",
+   "source": "Valérie Piette (2011), 'La Belgique au Congo ou la volonté d'imposer sa ville? L'exemple de Léopoldville', via https://en.wikipedia.org/wiki/Kinshasa"
+  },
+  {
+   "kind": "milestone",
+   "year": 1994,
+   "claim": "1994: Stade des Martyrs opens. The 80,000-seat national stadium, built with Chinese aid from 1988 and first called Stade Kamanyola, opened on 14 September 1994.",
+   "source": "https://en.wikipedia.org/wiki/Martyrs_Stadium"
+  }
+ ],
+ "bogota": [
+  {
+   "kind": "start",
+   "claim": "start_year 1538: Santa Fe founded by Gonzalo Jiménez de Quesada",
+   "source": "Alcaldía de Bogotá, 'Historia de Bogotá: recorrido por la historia de la ciudad', https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/historia-de-bogota-recorrido-por-la-historia-de-la-ciudad-de-bogota (no founding act survives; 6 August 1538 is the accepted date); https://es.wikipedia.org/wiki/Historia_de_Bogot%C3%A1 (juridical founding 27 April 1539)"
+  },
+  {
+   "kind": "population",
+   "year": 1569,
+   "claim": "population 12,000 in 1569 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv)"
+  },
+  {
+   "kind": "population",
+   "year": 1881,
+   "claim": "population 84,723 in 1881 (documented)",
+   "source": "Rey Hernández (2010), 'Bogotá 1890-1910: población y transformaciones urbanas', Territorios 23, pp. 13-32, https://revistas.urosario.edu.co/index.php/territorios/article/download/1400/1276/5198; also Alcaldía de Bogotá, 'Historia de Bogotá: recorrido por la historia de la ciudad', https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/historia-de-bogota-recorrido-por-la-historia-de-la-ciudad-de-bogota"
+  },
+  {
+   "kind": "population",
+   "year": 1912,
+   "claim": "population 121,257 in 1912 (documented)",
+   "source": "Rey Hernández (2010), 'Bogotá 1890-1910: población y transformaciones urbanas', Territorios 23, pp. 13-32, https://revistas.urosario.edu.co/index.php/territorios/article/download/1400/1276/5198"
+  },
+  {
+   "kind": "population",
+   "year": 1918,
+   "claim": "population 143,994 in 1918 (documented)",
+   "source": "National census of 1918 as given in the population table of https://en.wikipedia.org/wiki/Bogot%C3%A1 (footnote cites DANE)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Edificio Seguros Tequendama",
+   "claim": "Edificio Seguros Tequendama: completed 1970, height 121.92 m, at 4.6125, -74.0695 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/edificio-seguros-tequendama/11187"
+  },
+  {
+   "kind": "landmark",
+   "name": "Edificio Colseguros",
+   "claim": "Edificio Colseguros: completed 1971, height 140 m, at 4.6038, -74.0723 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/edificio-colseguros/4333"
+  },
+  {
+   "kind": "landmark",
+   "name": "Torre Colpatria",
+   "claim": "Torre Colpatria: completed 1979, height 196 m, at 4.611, -74.0702 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-colpatria/1918"
+  },
+  {
+   "kind": "milestone",
+   "year": 1538,
+   "claim": "1538: Quesada founds Santa Fe. No founding act survives, but 6 August 1538 is the accepted date: by tradition the first mass was said that day in a thatched church beside the indigenous village of Teusaquillo.",
+   "source": "Alcaldía de Bogotá, 'Historia de Bogotá: recorrido por la historia de la ciudad', https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/historia-de-bogota-recorrido-por-la-historia-de-la-ciudad-de-bogota"
+  },
+  {
+   "kind": "milestone",
+   "year": 1889,
+   "claim": "1889: Sabana railway begins operating. The Ferrocarril de la Sabana opened its first line, from San Victorino to Facatativá.",
+   "source": "https://en.wikipedia.org/wiki/Timeline_of_Bogot%C3%A1; https://es.wikipedia.org/wiki/Historia_de_Bogot%C3%A1"
+  }
+ ],
+ "lima": [
+  {
+   "kind": "start",
+   "claim": "start_year 1535: Ciudad de los Reyes founded by Francisco Pizarro",
+   "source": "https://en.wikipedia.org/wiki/History_of_Lima (founded by Francisco Pizarro on January 18, 1535); https://en.wikipedia.org/wiki/Lima"
+  },
+  {
+   "kind": "population",
+   "year": 1600,
+   "claim": "population 14,262 in 1600 (documented)",
+   "source": "Compendio de Historia Económica del Perú, tomo III, 'Serie de las recensiones con el aumento y disminución de la población de Lima', as published by Banco Central de Reserva del Perú (BCRPData series CD12302DA), https://estadisticas.bcrp.gob.pe/estadisticas/series/anuales/resultados/CD12302DA/html"
+  },
+  {
+   "kind": "population",
+   "year": 1790,
+   "claim": "population 52,627 in 1790 (documented)",
+   "source": "Compendio de Historia Económica del Perú, tomo III, 'Serie de las recensiones con el aumento y disminución de la población de Lima', as published by Banco Central de Reserva del Perú (BCRPData series CD12302DA), https://estadisticas.bcrp.gob.pe/estadisticas/series/anuales/resultados/CD12302DA/html"
+  },
+  {
+   "kind": "population",
+   "year": 1862,
+   "claim": "population 104,932 in 1862 (documented)",
+   "source": "Compendio de Historia Económica del Perú, tomo IV, population of the province of Lima, as published by Banco Central de Reserva del Perú (BCRPData series CD11697DA and CD11757DA), https://estadisticas.bcrp.gob.pe/estadisticas/series/anuales/resultados/CD11697DA/html"
+  },
+  {
+   "kind": "population",
+   "year": 1896,
+   "claim": "population 145,357 in 1896 (estimated)",
+   "source": "Compendio de Historia Económica del Perú, tomo IV, population of the province of Lima, as published by Banco Central de Reserva del Perú (BCRPData series CD11697DA and CD11757DA), https://estadisticas.bcrp.gob.pe/estadisticas/series/anuales/resultados/CD11697DA/html"
+  },
+  {
+   "kind": "landmark",
+   "name": "Wiese Sudameris Tower (Scotiabank)",
+   "claim": "Wiese Sudameris Tower (Scotiabank): completed 2000, height 90.22 m, at -12.0952, -77.0221 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/wiese-sudameris-tower/11276"
+  },
+  {
+   "kind": "landmark",
+   "name": "Torre Begonias",
+   "claim": "Torre Begonias: completed 2013, height 120.25 m, at -12.0921, -77.0239 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-begonias/14361"
+  },
+  {
+   "kind": "landmark",
+   "name": "Torre Banco de la Nación",
+   "claim": "Torre Banco de la Nación: completed 2015, height 140.1 m, at -12.0871, -77.0006 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-banco-de-la-nacion/16714"
+  },
+  {
+   "kind": "milestone",
+   "year": 1881,
+   "claim": "1881: Chilean occupation. During the War of the Pacific the Chilean army occupied Lima in 1881 after defeating Peruvian forces in the battles of San Juan and Miraflores.",
+   "source": "https://en.wikipedia.org/wiki/Lima"
+  },
+  {
+   "kind": "milestone",
+   "year": 1940,
+   "claim": "1940: Mass migration from the Andes begins. From the 1940s Lima grew rapidly through migration from the Andean regions; the 1940 census counted 562,885 people in the province, and land invasions later produced the barriadas or pueblos jóvenes.",
+   "source": "https://en.wikipedia.org/wiki/History_of_Lima; INEI, Perfil Sociodemográfico de la Provincia de Lima (Censos Nacionales 2007), cuadro 1.1, https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib0838/Libro15/cap01.pdf"
+  }
+ ],
+ "london": [
+  {
+   "kind": "start",
+   "claim": "start_year 47: Roman Londinium founded on the north bank of the Thames (earliest securely dated structure: a timber drain of 47 CE)",
+   "source": "Tree-ring date of a timber drain excavated at No 1 Poultry (Museum of London Archaeology; Archaeology Data Service) and Hingley (2018) / Hill & Rowsome (2011) / Wallace (2015) for a foundation around 47-50 CE, via https://en.wikipedia.org/wiki/Londinium"
+  },
+  {
+   "kind": "population",
+   "year": 1801,
+   "claim": "population 1,011,157 in 1801 (documented)",
+   "source": "UK censuses re-aggregated to the present Greater London area: Great Britain Historical GIS, A Vision of Britain through Time, 'London through time: Population Statistics: Total Population', http://www.visionofbritain.org.uk/data_cube_page.jsp?data_theme=T_POP&data_cube=N_TOT_POP&u_id=10097836&c_id=10001043&add=N, via https://en.wikipedia.org/wiki/Demography_of_London"
+  },
+  {
+   "kind": "population",
+   "year": 1891,
+   "claim": "population 5,565,856 in 1891 (documented)",
+   "source": "UK censuses re-aggregated to the present Greater London area: Great Britain Historical GIS, A Vision of Britain through Time, 'London through time: Population Statistics: Total Population', http://www.visionofbritain.org.uk/data_cube_page.jsp?data_theme=T_POP&data_cube=N_TOT_POP&u_id=10097836&c_id=10001043&add=N, via https://en.wikipedia.org/wiki/Demography_of_London"
+  },
+  {
+   "kind": "population",
+   "year": 1921,
+   "claim": "population 7,553,526 in 1921 (documented)",
+   "source": "UK censuses re-aggregated to the present Greater London area: Great Britain Historical GIS, A Vision of Britain through Time, 'London through time: Population Statistics: Total Population', http://www.visionofbritain.org.uk/data_cube_page.jsp?data_theme=T_POP&data_cube=N_TOT_POP&u_id=10097836&c_id=10001043&add=N, via https://en.wikipedia.org/wiki/Demography_of_London"
+  },
+  {
+   "kind": "population",
+   "year": 1939,
+   "claim": "population 8,615,245 in 1939 (estimated)",
+   "source": "Greater London Authority, London Datastore, 'Population Growth in London, 1939-2015' (peak of 8.6 million in 1939), cited at https://en.wikipedia.org/wiki/London; exact figure as tabulated at https://en.wikipedia.org/wiki/History_of_London#Population"
+  },
+  {
+   "kind": "landmark",
+   "name": "Westminster Abbey",
+   "claim": "Westminster Abbey: completed 1269, height 31 m, at 51.4994, -0.1275 (documented)",
+   "source": "Westminster Abbey, 'Dimensions of Westminster Abbey', http://www.westminster-abbey.org/__data/assets/pdf_file/0009/86076/ABBEY-Dimensions-for-web-.pdf, via https://en.wikipedia.org/wiki/Westminster_Abbey"
+  },
+  {
+   "kind": "landmark",
+   "name": "Monument to the Great Fire of London",
+   "claim": "Monument to the Great Fire of London: completed 1677, height 61.6 m, at 51.5101, -0.0859 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Monument_to_the_Great_Fire_of_London"
+  },
+  {
+   "kind": "landmark",
+   "name": "Nelson's Column",
+   "claim": "Nelson's Column: completed 1843, height 51.6 m, at 51.5077, -0.128 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Nelson%27s_Column"
+  },
+  {
+   "kind": "milestone",
+   "year": 200,
+   "claim": "200: London Wall built. Around 200 a defensive wall about 2 miles long and up to 6 m high is built around the city, enclosing about 330 acres.",
+   "source": "https://en.wikipedia.org/wiki/London_Wall"
+  },
+  {
+   "kind": "milestone",
+   "year": 1801,
+   "claim": "1801: First census counts over a million. The first national census records 1,011,157 people in the area of today's Greater London.",
+   "source": "https://en.wikipedia.org/wiki/Demography_of_London"
+  }
+ ],
+ "hajipur": [
+  {
+   "kind": "start",
+   "claim": "start_year 1350: Hajipur founded as a fortified town by Haji Ilyas (Shamsuddin Ilyas Shah), king of Bengal",
+   "source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879"
+  },
+  {
+   "kind": "population",
+   "year": 1872,
+   "claim": "population 22,306 in 1872 (documented)",
+   "source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879"
+  },
+  {
+   "kind": "population",
+   "year": 1881,
+   "claim": "population 25,078 in 1881 (documented)",
+   "source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879"
+  },
+  {
+   "kind": "population",
+   "year": 1901,
+   "claim": "population 21,398 in 1901 (documented)",
+   "source": "Census of India 2011, Table A-4 (Class I): towns and urban agglomerations with variation since 1901, https://censusindia.gov.in/nada/index.php/catalog/42876; also O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879"
+  },
+  {
+   "kind": "population",
+   "year": 1931,
+   "claim": "population 19,299 in 1931 (documented)",
+   "source": "Census of India 2011, Table A-4 (Class I): towns and urban agglomerations with variation since 1901, https://censusindia.gov.in/nada/index.php/catalog/42876"
+  },
+  {
+   "kind": "population",
+   "year": 1941,
+   "claim": "population 21,963 in 1941 (documented)",
+   "source": "Census of India 2011, Table A-4 (Class I): towns and urban agglomerations with variation since 1901, https://censusindia.gov.in/nada/index.php/catalog/42876"
+  },
+  {
+   "kind": "milestone",
+   "year": 1574,
+   "claim": "1574: Akbar's army storms Hajipur fort. During Akbar's campaign against Daud Khan a force of 3,000 men took the fort by storm. Bihar became a Mughal province governed from Patna, and Hajipur lost its former importance.",
+   "source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879"
+  },
+  {
+   "kind": "milestone",
+   "year": 1764,
+   "claim": "1764: Passes under British rule. After the battle of Buxar the district, with the rest of Bihar, came under the East India Company.",
+   "source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), p. 22, https://archive.org/details/in.ernet.dli.2015.206879"
+  },
+  {
+   "kind": "milestone",
+   "year": 2017,
+   "claim": "2017: Digha-Sonpur road bridge opens. The road deck of the 4,556 m rail-and-road bridge across the Ganges between Patna and Sonpur, just west of Hajipur, was inaugurated on 11 June 2017; trains had used it since February 2016.",
+   "source": "https://en.wikipedia.org/wiki/Digha%E2%80%93Sonpur_Bridge"
+  },
+  {
+   "kind": "milestone",
+   "year": 2025,
+   "claim": "2025: UN counts a 9.9 million 'Hajipur' urban area. The UN's World Urbanization Prospects 2025 applied a new density-based definition of a city and reported 9,941,510 people over 3,092 km2 under the name Hajipur. This is the dense rural belt of north Bihar, not the town.",
+   "source": "UN DESA, World Urbanization Prospects 2025 (100 largest cities, degree-of-urbanisation definition), https://population.un.org/wup/"
+  }
+ ],
+ "rio-de-janeiro": [
+  {
+   "kind": "start",
+   "claim": "start_year 1565: São Sebastião do Rio de Janeiro founded by Estácio de Sá",
+   "source": "https://en.wikipedia.org/wiki/Rio_de_Janeiro (founded 1 March 1565 by the Portuguese led by Estácio de Sá); https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/rio-de-janeiro-city ('Founded in 1565')"
+  },
+  {
+   "kind": "population",
+   "year": 1654,
+   "claim": "population 3,000 in 1654 (estimated)",
+   "source": "Bell (1914), The Beautiful Rio de Janeiro (London: Heinemann), chapter 'Some History', excerpted at https://www.tota.world/article/2709/"
+  },
+  {
+   "kind": "population",
+   "year": 1799,
+   "claim": "population 43,376 in 1799 (documented)",
+   "source": "Recenseamento do Rio de Janeiro (Districto Federal) realizado em 20 de Setembro de 1906 (Rio de Janeiro, 1907), historical summary tables, https://biblioteca.ibge.gov.br/visualizacao/livros/liv49678.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1808,
+   "claim": "population 60,000 in 1808 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv)"
+  },
+  {
+   "kind": "population",
+   "year": 1920,
+   "claim": "population 1,157,873 in 1920 (documented)",
+   "source": "IBGE, Sinopse do Censo Demográfico 2010, Tabela 1.6 'População nos Censos Demográficos, segundo os municípios das capitais - 1872/2010', https://censo2010.ibge.gov.br/sinopse/index.php?dados=6 , via https://en.wikipedia.org/wiki/Rio_de_Janeiro"
+  },
+  {
+   "kind": "landmark",
+   "name": "Candelária Church",
+   "claim": "Candelária Church: completed 1877, height 62.24 m, at -22.9009, -43.1778 (documented)",
+   "source": "https://pt.wikipedia.org/wiki/Igreja_de_Nossa_Senhora_da_Candel%C3%A1ria (height 62.24 m; dome completed 1877)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Edifício Santos Dumont",
+   "claim": "Edifício Santos Dumont: completed 1975, height 140.8 m, at -22.9107, -43.1734 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/edificio-santos-dumont/4290"
+  },
+  {
+   "kind": "landmark",
+   "name": "Centro Candido Mendes",
+   "claim": "Centro Candido Mendes: completed 1982, height 140 m, at -22.9041, -43.1754 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/centro-candido-mendes/4382"
+  },
+  {
+   "kind": "milestone",
+   "year": 1931,
+   "claim": "1931: Christ the Redeemer dedicated. The 30 m statue (38 m with pedestal) on the summit of Corcovado was dedicated on 12 October 1931.",
+   "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)"
+  },
+  {
+   "kind": "milestone",
+   "year": 1960,
+   "claim": "1960: Capital moves to Brasília. Rio ceased to be the national capital and Federal District and became the city-state of Guanabara; in the same year's census São Paulo overtook it as Brazil's most populous city.",
+   "source": "https://en.wikipedia.org/wiki/Rio_de_Janeiro"
+  }
+ ],
+ "paris": [
+  {
+   "kind": "start",
+   "claim": "start_year -52: Roman Lutetia founded after Caesar's conquest of the Parisii (52 BCE); the Parisii had lived in the area since about 250 BCE",
+   "source": "Julius Caesar, De Bello Gallico (Battle of Lutetia, 52 BCE), via https://en.wikipedia.org/wiki/Lutetia and https://en.wikipedia.org/wiki/Paris"
+  },
+  {
+   "kind": "population",
+   "year": 800,
+   "claim": "population 25,000 in 800 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv), https://doi.org/10.1038/sdata.2016.34"
+  },
+  {
+   "kind": "population",
+   "year": 1831,
+   "claim": "population 785,862 in 1831 (documented)",
+   "source": "French national censuses (city proper), as tabulated at https://en.wikipedia.org/wiki/Demographics_of_Paris#Historical_population"
+  },
+  {
+   "kind": "population",
+   "year": 1911,
+   "claim": "population 4,500,000 in 1911 (estimated)",
+   "source": "Urban-area (agglomeration) figure as tabulated at https://en.wikipedia.org/wiki/Demographics_of_Paris#Historical_population ('urban area figures before 1954 are estimates from various sources')"
+  },
+  {
+   "kind": "population",
+   "year": 1921,
+   "claim": "population 4,850,000 in 1921 (estimated)",
+   "source": "Urban-area (agglomeration) figure as tabulated at https://en.wikipedia.org/wiki/Demographics_of_Paris#Historical_population ('urban area figures before 1954 are estimates from various sources')"
+  },
+  {
+   "kind": "landmark",
+   "name": "Dôme des Invalides",
+   "claim": "Dôme des Invalides: completed 1706, height 107 m, at 48.855, 2.3125 (estimated)",
+   "source": "https://en.wikipedia.org/wiki/Les_Invalides"
+  },
+  {
+   "kind": "landmark",
+   "name": "Tour First, La Défense",
+   "claim": "Tour First, La Défense: completed 2011, height 231 m, at 48.8888, 2.2518 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/tour-first/993"
+  },
+  {
+   "kind": "landmark",
+   "name": "Tribunal de Paris",
+   "claim": "Tribunal de Paris: completed 2017, height 159.7 m, at 48.895, 2.31 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/tribunal-de-paris/15851"
+  },
+  {
+   "kind": "milestone",
+   "year": 1356,
+   "claim": "1356: Wall of Charles V and the Bastille. Between 1356 and 1383 Charles V builds a new wall of fortifications and the Bastille, a fortress guarding the Porte Saint-Antoine at the eastern end of the city.",
+   "source": "https://en.wikipedia.org/wiki/History_of_Paris"
+  },
+  {
+   "kind": "milestone",
+   "year": 2024,
+   "claim": "2024: Summer Olympic Games. Paris hosts the Summer Olympics for the third time, after 1900 and 1924.",
+   "source": "https://en.wikipedia.org/wiki/Paris"
+  }
+ ],
+ "hyderabad": [
+  {
+   "kind": "start",
+   "claim": "start_year 1591: Hyderabad founded by Muhammad Quli Qutb Shah around the Charminar",
+   "source": "Imperial Gazetteer of India (1908), vol. 13, 'Hyderabad City', pp. 308-311, https://archive.org/details/imperialgazettee13grea (dates the founding to 1589 and the Charminar to 1591); modern references give 1591, see https://en.wikipedia.org/wiki/Hyderabad"
+  },
+  {
+   "kind": "population",
+   "year": 1591,
+   "claim": "population 70,000 in 1591 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1600,
+   "claim": "population 80,000 in 1600 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1881,
+   "claim": "population 367,417 in 1881 (documented)",
+   "source": "Imperial Gazetteer of India (1908), vol. 13, 'Hyderabad City', pp. 308-311, https://archive.org/details/imperialgazettee13grea"
+  },
+  {
+   "kind": "population",
+   "year": 1901,
+   "claim": "population 448,466 in 1901 (documented)",
+   "source": "Census of India 2011, Table A-4 (Class I): towns and urban agglomerations with variation since 1901, https://censusindia.gov.in/nada/index.php/catalog/42876"
+  },
+  {
+   "kind": "landmark",
+   "name": "Buddha Statue of Hyderabad",
+   "claim": "Buddha Statue of Hyderabad: completed 1992, height 17.7 m, at 17.4156, 78.475 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Buddha_Statue_of_Hyderabad"
+  },
+  {
+   "kind": "landmark",
+   "name": "Lodha Bellezza 3",
+   "claim": "Lodha Bellezza 3: completed 2014, height 153.0 m, at 17.4749, 78.3926 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/lodha-bellezza-3/14687"
+  },
+  {
+   "kind": "landmark",
+   "name": "Dr. B. R. Ambedkar Telangana State Secretariat",
+   "claim": "Dr. B. R. Ambedkar Telangana State Secretariat: completed 2023, height 80.8 m, at 17.41002, 78.46998 (documented)",
+   "source": "Free Press Journal, https://www.freepressjournal.in/india/hyderabad-telanganas-grand-secretariat-a-brainchild-of-cm-kcr-thrown-open"
+  },
+  {
+   "kind": "milestone",
+   "year": 1724,
+   "claim": "1724: Asaf Jah I establishes the Nizams' rule. Asaf Jah I defeated the Mughal governor Mubariz Khan and founded the Asaf Jahi dynasty. The stone city wall begun by Mubariz Khan was completed under the first Nizam.",
+   "source": "Richards, The Mughal Empire, via https://en.wikipedia.org/wiki/Hyderabad; city wall: Imperial Gazetteer of India (1908), vol. 13, 'Hyderabad City', pp. 308-311, https://archive.org/details/imperialgazettee13grea"
+  },
+  {
+   "kind": "milestone",
+   "year": 1769,
+   "claim": "1769: Capital of the Nizams. Hyderabad city became the formal capital of the Asaf Jahi Nizams.",
+   "source": "Richards, The Mughal Empire; Ikram, Muslim Civilization in India, http://www.columbia.edu/itc/mealac/pritchett/00islamlinks/ikram/part2_19.html, via https://en.wikipedia.org/wiki/Hyderabad"
+  }
+ ],
+ "tehran": [
+  {
+   "kind": "start",
+   "claim": "start_year 874: Village of Tehran near Rayy attested through a native scholar",
+   "source": "Encyclopaedia of Islam, 2nd ed., vol. X (Brill, 2000), s.v. 'Tihran' (V. Minorsky, C.E. Bosworth, J. Calmard, B. Hourcade), pp. 482-496, https://bahai-library.com/pdf/e/encyclopedia_islam_tihran.pdf (section 2, 'History to 1926')"
+  },
+  {
+   "kind": "population",
+   "year": 1861,
+   "claim": "population 80,000 in 1861 (estimated)",
+   "source": "Heinrich Brugsch (1861), as reported in Encyclopaedia of Islam, 2nd ed., vol. X (Brill, 2000), s.v. 'Tihran' (V. Minorsky, C.E. Bosworth, J. Calmard, B. Hourcade), pp. 482-496, https://bahai-library.com/pdf/e/encyclopedia_islam_tihran.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1891,
+   "claim": "population 160,000 in 1891 (estimated)",
+   "source": "H. Zandjani (1992), pp. 251-2, as cited in Encyclopaedia of Islam, 2nd ed., vol. X (Brill, 2000), s.v. 'Tihran' (V. Minorsky, C.E. Bosworth, J. Calmard, B. Hourcade), pp. 482-496, https://bahai-library.com/pdf/e/encyclopedia_islam_tihran.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1932,
+   "claim": "population 310,000 in 1932 (estimated)",
+   "source": "H. Zandjani (1992), pp. 251-2, as cited in Encyclopaedia of Islam, 2nd ed., vol. X (Brill, 2000), s.v. 'Tihran' (V. Minorsky, C.E. Bosworth, J. Calmard, B. Hourcade), pp. 482-496, https://bahai-library.com/pdf/e/encyclopedia_islam_tihran.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1940,
+   "claim": "population 540,000 in 1940 (estimated)",
+   "source": "B. Hourcade in Encyclopaedia of Islam, 2nd ed., vol. X (Brill, 2000), s.v. 'Tihran' (V. Minorsky, C.E. Bosworth, J. Calmard, B. Hourcade), pp. 482-496, https://bahai-library.com/pdf/e/encyclopedia_islam_tihran.pdf"
+  },
+  {
+   "kind": "landmark",
+   "name": "Azadi Grand Hotel",
+   "claim": "Azadi Grand Hotel: completed 1978, height 90 m, at 35.7899, 51.39 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/tehran (building id 5138: architectural height 90 m, completed 1978)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Sepehr Tower",
+   "claim": "Sepehr Tower: completed 1998, height 115 m, at 35.7062, 51.4273 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/sepher-tower/4859 (115 m, completion 1998)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Tehran International Tower",
+   "claim": "Tehran International Tower: completed 2007, height 162 m, at 35.7426, 51.399 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/tehran-international-tower/3180 (162 m, completion 2007)"
+  },
+  {
+   "kind": "milestone",
+   "year": 1969,
+   "claim": "1969: First comprehensive plan. The Gruen and Farmanfarmaian master plan set the city limits for 25 years and steered growth west along the foothills towards Karaj.",
+   "source": "Encyclopaedia of Islam, 2nd ed., vol. X (Brill, 2000), s.v. 'Tihran' (V. Minorsky, C.E. Bosworth, J. Calmard, B. Hourcade), pp. 482-496, https://bahai-library.com/pdf/e/encyclopedia_islam_tihran.pdf"
+  },
+  {
+   "kind": "milestone",
+   "year": 2007,
+   "claim": "2007: Milad Tower completed. The 435 m telecommunications tower, begun in 1997, became the tallest structure in Iran.",
+   "source": "https://en.wikipedia.org/wiki/Milad_Tower"
+  }
+ ],
+ "taipei": [
+  {
+   "kind": "start",
+   "claim": "start_year 1709: Chen Lai-chang land patent: Han settlers begin clearing the Taipei Basin around Bangka",
+   "source": "https://zh.wikipedia.org/wiki/臺北市歷史 (陳賴章墾號, 1709) ; https://en.wikipedia.org/wiki/History_of_Taipei"
+  },
+  {
+   "kind": "population",
+   "year": 1920,
+   "claim": "population 162,782 in 1920 (documented)",
+   "source": "1920 census of Taiwan as tabulated in 章英華 (1997), '臺灣的都市體系——從清到日治', in 臺灣的都市社會 (巨流, Taipei), via https://zh.wikipedia.org/wiki/臺北市人口"
+  },
+  {
+   "kind": "population",
+   "year": 1935,
+   "claim": "population 274,157 in 1935 (documented)",
+   "source": "1935 census of Taiwan as tabulated in 章英華 (1997), '臺灣的都市體系——從清到日治', in 臺灣的都市社會 (巨流, Taipei), via https://zh.wikipedia.org/wiki/臺北市人口"
+  },
+  {
+   "kind": "population",
+   "year": 1940,
+   "claim": "population 353,744 in 1940 (documented)",
+   "source": "Taipei City Government statistics (臺北市政府主計處, 1951), via https://zh.wikipedia.org/wiki/臺北市人口"
+  },
+  {
+   "kind": "population",
+   "year": 1945,
+   "claim": "population 335,397 in 1945 (documented)",
+   "source": "Taipei City Government statistics (臺北市政府主計處, 1951), via https://zh.wikipedia.org/wiki/臺北市人口"
+  },
+  {
+   "kind": "landmark",
+   "name": "Sun Yat-sen Memorial Hall",
+   "claim": "Sun Yat-sen Memorial Hall: completed 1972, height 29.6 m, at 25.04, 121.56 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Sun_Yat-sen_Memorial_Hall_(Taipei) (completed 16 May 1972; height 29.6 m)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Shin Kong Life Tower",
+   "claim": "Shin Kong Life Tower: completed 1993, height 244.76 m, at 25.0459, 121.5154 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/taipei (Shin Kong Life Tower, building id 937)"
+  },
+  {
+   "kind": "landmark",
+   "name": "The Sky Taipei",
+   "claim": "The Sky Taipei: completed 2025, height 280 m, at 25.0363, 121.5661 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/taipei (The Sky Taipei, building id 29218; listed as completed 2025)"
+  },
+  {
+   "kind": "milestone",
+   "year": 1709,
+   "claim": "1709: Chen Lai-chang patent opens the Taipei Basin. A partnership of settlers from Quanzhou obtains a patent to reclaim Dajiala, an area covering Bangka, Dadaocheng and the later city centre. The basin had been home to the Ketagalan people.",
+   "source": "https://zh.wikipedia.org/wiki/臺北市歷史 ; https://en.wikipedia.org/wiki/History_of_Taipei"
+  },
+  {
+   "kind": "milestone",
+   "year": 1949,
+   "claim": "1949: Provisional capital of the Republic of China. On 7 December 1949 the Kuomintang government makes Taipei its provisional capital. The arrival of people from the mainland sets off rapid growth in the 1950s.",
+   "source": "https://en.wikipedia.org/wiki/History_of_Taipei ; https://zh.wikipedia.org/wiki/臺北市歷史"
+  }
+ ],
+ "bandung": [
+  {
+   "kind": "start",
+   "claim": "start_year 1810: Bandung regency seat moved to the Great Post Road at the Cikapundung",
+   "source": "S.A. Reitsma, 'Bandoeng: voorheen, thans en in de toekomst', Tropisch Nederland (March 1933), abridged and reprinted by Java Post, https://javapost.nl/2011/10/26/bandoeng-een-stad-met-toekomst/ (quoting the decree in Van der Chijs, Nederlandsch-Indisch Plakaatboek, vol. XVI, p. 210); see also https://en.wikipedia.org/wiki/Bandung"
+  },
+  {
+   "kind": "population",
+   "year": 1889,
+   "claim": "population 18,000 in 1889 (documented)",
+   "source": "Neerlandia, vol. 25 (1921), summarising figures published by Mayor S.A. Reitsma, https://dbnl.org/tekst/_nee003192101_01/_nee003192101_01_0185.php"
+  },
+  {
+   "kind": "population",
+   "year": 1905,
+   "claim": "population 48,000 in 1905 (documented)",
+   "source": "S.A. Reitsma, 'Bandoeng: voorheen, thans en in de toekomst', Tropisch Nederland (March 1933), abridged and reprinted by Java Post, https://javapost.nl/2011/10/26/bandoeng-een-stad-met-toekomst/"
+  },
+  {
+   "kind": "population",
+   "year": 1918,
+   "claim": "population 58,649 in 1918 (documented)",
+   "source": "Statesman's Year-Book 1921, p. 1114, 'population of the six principal towns of Java in 1918', https://en.wikisource.org/wiki/Page:Statesman%27s_Year-Book_1921.djvu/1166"
+  },
+  {
+   "kind": "population",
+   "year": 1920,
+   "claim": "population 102,000 in 1920 (documented)",
+   "source": "Neerlandia, vol. 25 (1921), summarising figures published by Mayor S.A. Reitsma, https://dbnl.org/tekst/_nee003192101_01/_nee003192101_01_0185.php"
+  },
+  {
+   "kind": "landmark",
+   "name": "Grand Mosque of Bandung (twin minarets)",
+   "claim": "Grand Mosque of Bandung (twin minarets): completed 2003, height 81 m, at -6.9217, 107.6063 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Bandung"
+  },
+  {
+   "kind": "landmark",
+   "name": "Hegarmanah Residence Tower A",
+   "claim": "Hegarmanah Residence Tower A: completed 2018, height 92 m, at -6.8821, 107.6027 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/hegarmanah-residence-tower-a/26647"
+  },
+  {
+   "kind": "landmark",
+   "name": "Al-Jabbar Grand Mosque (minarets)",
+   "claim": "Al-Jabbar Grand Mosque (minarets): completed 2022, height 99 m, at -6.9481, 107.7036 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Al-Jabbar_Grand_Mosque"
+  },
+  {
+   "kind": "milestone",
+   "year": 1920,
+   "claim": "1920: Technical college opens; Gedung Sate begun. The Technische Hoogeschool (now Institut Teknologi Bandung) opened in 1920, and construction of the government offices known as Gedung Sate began on 27 July 1920 as departments moved from Batavia. Gedung Sate was completed in September 1924.",
+   "source": "https://en.wikipedia.org/wiki/Gedung_Sate ; Statesman's Year-Book 1921, p. 1114 (Technical High School at Bandoeng erected in 1920), https://en.wikisource.org/wiki/Page:Statesman%27s_Year-Book_1921.djvu/1166"
+  },
+  {
+   "kind": "milestone",
+   "year": 2005,
+   "claim": "2005: Cipularang toll road and Pasupati Bridge open. The Cipularang toll road to Jakarta was completed in May 2005 and the cable-stayed Pasupati Bridge across the Cikapundung valley on 25 June 2005.",
+   "source": "https://en.wikipedia.org/wiki/Bandung ; https://en.wikipedia.org/wiki/Pasupati_Bridge"
+  }
+ ],
+ "kuala-lumpur": [
+  {
+   "kind": "start",
+   "claim": "start_year 1857: Tin miners sent up the Klang River by Raja Abdullah",
+   "source": "Gullick, J.M. (1955), 'Kuala Lumpur, 1880-1895', Journal of the Malayan Branch of the Royal Asiatic Society 28(4), p. 10, https://www.jstor.org/stable/24249151 , via https://en.wikipedia.org/wiki/Kuala_Lumpur"
+  },
+  {
+   "kind": "population",
+   "year": 1879,
+   "claim": "population 2,330 in 1879 (documented)",
+   "source": "Unofficial census of 1879 (Selangor Secretariat file SSF 339/79) as reported in Tsuboi Yuji, 'The Formation of Malayness in the Urban Space of Colonial Kuala Lumpur', Toyo Bunko Research Library 21, ch. 7, p. 196, https://toyo-bunko.repo.nii.ac.jp/record/7409/files/TBRL21_07.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1911,
+   "claim": "population 46,718 in 1911 (documented)",
+   "source": "Federated Malay States census figure as tabulated in Tsuboi Yuji, 'The Formation of Malayness in the Urban Space of Colonial Kuala Lumpur', Toyo Bunko Research Library 21, ch. 7, table 'The Population of the Municipality of Kuala Lumpur, 1891-1931' (source: Census 1891-1931), https://toyo-bunko.repo.nii.ac.jp/record/7409/files/TBRL21_07.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1921,
+   "claim": "population 80,424 in 1921 (documented)",
+   "source": "Federated Malay States census figure as tabulated in Tsuboi Yuji, 'The Formation of Malayness in the Urban Space of Colonial Kuala Lumpur', Toyo Bunko Research Library 21, ch. 7, table 'The Population of the Municipality of Kuala Lumpur, 1891-1931' (source: Census 1891-1931), https://toyo-bunko.repo.nii.ac.jp/record/7409/files/TBRL21_07.pdf"
+  },
+  {
+   "kind": "population",
+   "year": 1947,
+   "claim": "population 176,000 in 1947 (documented)",
+   "source": "1947 census figure as given in Economic History of Malaya, 'The post-1950 emergence of Kuala Lumpur as a great Southeast Asian city', https://www.ehm.my/publications/articles/the-post%E2%80%931950-emergence-of-kuala-lumpur-as-a-great-southeast-asian-city"
+  },
+  {
+   "kind": "landmark",
+   "name": "Parliament House (Bangunan Parlimen Malaysia)",
+   "claim": "Parliament House (Bangunan Parlimen Malaysia): completed 1963, height 75 m, at 3.1495, 101.6793 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/bangunan-parlimen-malaysia/44639"
+  },
+  {
+   "kind": "landmark",
+   "name": "Batu Caves Murugan statue",
+   "claim": "Batu Caves Murugan statue: completed 2006, height 42.7 m, at 3.2374, 101.6839 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Batu_Caves_Murugan_Statue"
+  },
+  {
+   "kind": "landmark",
+   "name": "Merdeka 118 (CTBUH: Menara Merdeka Maybank)",
+   "claim": "Merdeka 118 (CTBUH: Menara Merdeka Maybank): completed 2023, height 678.9 m, at 3.1415, 101.7004 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/menara-merdeka-maybank/10115"
+  },
+  {
+   "kind": "milestone",
+   "year": 1872,
+   "claim": "1872: Town captured and burnt in the Selangor Civil War. Kuala Lumpur was captured and burnt to the ground in 1872 and retaken by Tengku Kudin and Yap Ah Loy's side in March 1873. War, low tin prices and cholera kept it depressed until 1879.",
+   "source": "Gullick (1955), pp. 12-14, via https://en.wikipedia.org/wiki/Kuala_Lumpur"
+  },
+  {
+   "kind": "milestone",
+   "year": 1974,
+   "claim": "1974: Federal Territory created, 243 sq km. On 1 February 1974 Kuala Lumpur was transferred from Selangor to federal jurisdiction as a Federal Territory covering 243 square kilometres.",
+   "source": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+  }
+ ],
+ "dar-es-salaam": [
+  {
+   "kind": "start",
+   "claim": "start_year 1862: Sultan Majid of Zanzibar decides to build a new town beside the fishing village of Mzizima",
+   "source": "Encyclopaedia Britannica (1911), 'Dar-es-Salaam', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dar-es-Salaam"
+  },
+  {
+   "kind": "population",
+   "year": 1867,
+   "claim": "population 3,500 in 1867 (estimated)",
+   "source": "Dar es Salaam city profile, Kinondoni Municipal Council (archived 2007), via https://de.wikipedia.org/wiki/Daressalam"
+  },
+  {
+   "kind": "population",
+   "year": 1900,
+   "claim": "population 20,000 in 1900 (estimated)",
+   "source": "Winfried Speitkamp (2005), Deutsche Kolonialgeschichte, p. 110, via https://de.wikipedia.org/wiki/Daressalam"
+  },
+  {
+   "kind": "population",
+   "year": 1931,
+   "claim": "population 34,300 in 1931 (estimated)",
+   "source": "Hans Hecklau (1989), Ostafrika (Kenya, Tanzania, Uganda), p. 564, via https://de.wikipedia.org/wiki/Daressalam"
+  },
+  {
+   "kind": "population",
+   "year": 1943,
+   "claim": "population 45,100 in 1943 (estimated)",
+   "source": "Hans Hecklau (1989), Ostafrika (Kenya, Tanzania, Uganda), p. 564, via https://de.wikipedia.org/wiki/Daressalam"
+  },
+  {
+   "kind": "landmark",
+   "name": "PSPF Commercial Tower A",
+   "claim": "PSPF Commercial Tower A: completed 2014, height 152.7 m, at -6.8208, 39.2859 (documented)",
+   "source": "https://www.skyscrapercenter.com/building/pspf-commercial-tower-a/14679"
+  },
+  {
+   "kind": "landmark",
+   "name": "Rita Tower",
+   "claim": "Rita Tower: completed 2014, height 133 m, at -6.8167, 39.288 (estimated)",
+   "source": "https://www.skyscrapercenter.com/building/rita-tower/14681"
+  },
+  {
+   "kind": "landmark",
+   "name": "Tanzania Ports Authority Headquarters",
+   "claim": "Tanzania Ports Authority Headquarters: completed 2016, height 157 m, at -6.8221, 39.2857 (documented)",
+   "source": "https://www.skyscrapercenter.com/building/tanzania-ports-authority-headquarters/18275"
+  },
+  {
+   "kind": "milestone",
+   "year": 1907,
+   "claim": "1907: Railway reaches Morogoro. The first section of the Central Railway, from Dar es Salaam to Morogoro, was built by 1907.",
+   "source": "Rudolf Fitzner (ed.) (1908), Deutsches Kolonial-Handbuch, via https://en.wikipedia.org/wiki/Timeline_of_Dar_es_Salaam"
+  },
+  {
+   "kind": "milestone",
+   "year": 1916,
+   "claim": "1916: Captured by British forces. After naval bombardment in July and August, the German authorities surrendered the town on 3 September 1916. It became the capital of the British Tanganyika Territory.",
+   "source": "Conrad Cato (1919), The Navy Everywhere, ch. XII, via https://en.wikipedia.org/wiki/Dar_es_Salaam"
+  }
+ ],
+ "suzhou": [
+  {
+   "kind": "start",
+   "claim": "start_year -514: King Helü of Wu founds his walled capital (Helü City)",
+   "source": "Xu Yinong (2000), The Chinese City in Space and Time: The Development of Urban Form in Suzhou, University of Hawai'i Press, via https://en.wikipedia.org/wiki/Suzhou ; site debate: https://zh.wikipedia.org/wiki/苏州城"
+  },
+  {
+   "kind": "population",
+   "year": 1400,
+   "claim": "population 129,000 in 1400 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Suzhou / Soochow'), https://figshare.com/articles/Chandler_Population_Data/2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1500,
+   "claim": "population 122,000 in 1500 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Suzhou / Soochow'), https://figshare.com/articles/Chandler_Population_Data/2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1800,
+   "claim": "population 243,000 in 1800 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Suzhou / Soochow'), https://figshare.com/articles/Chandler_Population_Data/2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1850,
+   "claim": "population 330,000 in 1850 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Suzhou / Soochow'), https://figshare.com/articles/Chandler_Population_Data/2059494"
+  },
+  {
+   "kind": "landmark",
+   "name": "Tiger Hill Pagoda (Yunyan Temple Pagoda)",
+   "claim": "Tiger Hill Pagoda (Yunyan Temple Pagoda): completed 961, height 47 m, at 31.3381, 120.5764 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Tiger_Hill_Pagoda"
+  },
+  {
+   "kind": "landmark",
+   "name": "Twin Pagodas (Luohanyuan Shuangta)",
+   "claim": "Twin Pagodas (Luohanyuan Shuangta): completed 982, height 33.3 m, at 31.3089, 120.6297 (documented)",
+   "source": "https://zh.wikipedia.org/wiki/罗汉院双塔 (height 33.3 m); http://www.china.org.cn/english/TR-e/43398.htm (built 982, 'more than thirty meters')"
+  },
+  {
+   "kind": "landmark",
+   "name": "Beisi Pagoda (North Temple Pagoda, Bao'en Temple)",
+   "claim": "Beisi Pagoda (North Temple Pagoda, Bao'en Temple): completed 1153, height 76 m, at 31.3244, 120.6153 (documented)",
+   "source": "http://www.china.org.cn/english/TR-e/43399.htm (76 m, built 1131-1162); https://zh.wikipedia.org/wiki/报恩寺塔_(苏州市) (rebuilt 1153)"
+  },
+  {
+   "kind": "milestone",
+   "year": -514,
+   "claim": "-514: King Helü of Wu founds his capital. Later histories record that King Helü had his minister Wu Zixu lay out a walled capital, Helü City, in 514 BCE. Tradition identifies it with the old walled city of Suzhou.",
+   "source": "Xu Yinong (2000), The Chinese City in Space and Time: The Development of Urban Form in Suzhou, University of Hawai'i Press, pp. 34-36, via https://en.wikipedia.org/wiki/Suzhou"
+  },
+  {
+   "kind": "milestone",
+   "year": 1958,
+   "claim": "1958: Most of the city wall demolished. The 15.2 km wall circuit was largely pulled down in 1958; about 2 km survives, including the Pan Gate.",
+   "source": "https://en.wikipedia.org/wiki/Suzhou_City_Wall"
+  }
+ ],
+ "ahmedabad": [
+  {
+   "kind": "start",
+   "claim": "start_year 1411: Ahmad Shah I founds Ahmedabad as capital of the Gujarat Sultanate",
+   "source": "Imperial Gazetteer of India (1908), vol. 5, 'Ahmadabad City', pp. 106-109, https://archive.org/details/imperialgazettee05grea; foundation date 26 February 1411 per Ahmedabad Municipal Corporation, History of Ahmedabad, http://www.egovamc.com/AhmCity/history.aspx, via https://en.wikipedia.org/wiki/Ahmedabad"
+  },
+  {
+   "kind": "population",
+   "year": 1600,
+   "claim": "population 190,000 in 1600 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1824,
+   "claim": "population 87,000 in 1824 (documented)",
+   "source": "Gazetteer of the Bombay Presidency, vol. IV: Ahmedabad (1879), https://archive.org/details/dli.csl.3354, p. 293"
+  },
+  {
+   "kind": "population",
+   "year": 1891,
+   "claim": "population 148,412 in 1891 (documented)",
+   "source": "Imperial Gazetteer of India (1908), vol. 5, 'Ahmadabad City', pp. 106-109, https://archive.org/details/imperialgazettee05grea"
+  },
+  {
+   "kind": "population",
+   "year": 1941,
+   "claim": "population 627,009 in 1941 (documented)",
+   "source": "Census of India 2011, Table A-4 (Class I): towns and urban agglomerations with variation since 1901, https://censusindia.gov.in/nada/index.php/catalog/42876"
+  },
+  {
+   "kind": "landmark",
+   "name": "Teen Darwaza",
+   "claim": "Teen Darwaza: completed 1415, height 7.6 m, at 23.0242, 72.5846 (documented)",
+   "source": "Height: Gazetteer of the Bombay Presidency, vol. IV: Ahmedabad (1879), https://archive.org/details/dli.csl.3354; date: https://en.wikipedia.org/wiki/Teen_Darwaza"
+  },
+  {
+   "kind": "landmark",
+   "name": "Queen's Mosque, Mirzapur (Rani Rupamati's Mosque)",
+   "claim": "Queen's Mosque, Mirzapur (Rani Rupamati's Mosque): completed 1440, height 9.8 m, at 23.03202, 72.58398 (estimated)",
+   "source": "Gazetteer of the Bombay Presidency, vol. IV: Ahmedabad (1879), https://archive.org/details/dli.csl.3354"
+  },
+  {
+   "kind": "landmark",
+   "name": "Patang Hotel (revolving restaurant tower)",
+   "claim": "Patang Hotel (revolving restaurant tower): completed 1984, height 67.4 m, at 23.0264, 72.5722 (documented)",
+   "source": "Limca Book of Records (2018), as cited at https://en.wikipedia.org/wiki/Patang_Hotel"
+  },
+  {
+   "kind": "milestone",
+   "year": 1819,
+   "claim": "1819: Earthquake. A severe earthquake in June 1819 threw down the shaking minarets of the Jama Masjid and destroyed many houses.",
+   "source": "Gazetteer of the Bombay Presidency, vol. IV: Ahmedabad (1879), https://archive.org/details/dli.csl.3354, p. 261"
+  },
+  {
+   "kind": "milestone",
+   "year": 2019,
+   "claim": "2019: Ahmedabad Metro opens. The first 6.5 km section of the east-west corridor was inaugurated on 4 March 2019.",
+   "source": "https://en.wikipedia.org/wiki/Ahmedabad_Metro"
+  }
+ ],
+ "hangzhou": [
+  {
+   "kind": "start",
+   "claim": "start_year -222: Qin dynasty establishes Qiantang County",
+   "source": "https://en.wikipedia.org/wiki/Hangzhou#History"
+  },
+  {
+   "kind": "population",
+   "year": 800,
+   "claim": "population 70,000 in 800 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Hangzhou / Hangchow'), https://figshare.com/articles/Chandler_Population_Data/2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1150,
+   "claim": "population 145,000 in 1150 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Hangzhou / Hangchow'), https://figshare.com/articles/Chandler_Population_Data/2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1250,
+   "claim": "population 320,489 in 1250 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Hangzhou / Hangchow'), https://figshare.com/articles/Chandler_Population_Data/2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1800,
+   "claim": "population 387,000 in 1800 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Hangzhou / Hangchow'), https://figshare.com/articles/Chandler_Population_Data/2059494"
+  },
+  {
+   "kind": "landmark",
+   "name": "Liuhe Pagoda (Six Harmonies Pagoda)",
+   "claim": "Liuhe Pagoda (Six Harmonies Pagoda): completed 1165, height 59.89 m, at 30.1982, 120.1266 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Liuhe_Pagoda"
+  },
+  {
+   "kind": "landmark",
+   "name": "Gongchen Bridge",
+   "claim": "Gongchen Bridge: completed 1885, height 9.2 m, at 30.3205, 120.1347 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Gongchen_Bridge"
+  },
+  {
+   "kind": "landmark",
+   "name": "Baochu Pagoda",
+   "claim": "Baochu Pagoda: completed 1933, height 45.3 m, at 30.2633, 120.1436 (documented)",
+   "source": "Zhejiang Provincial Cultural Heritage Bureau, via https://zh.wikipedia.org/wiki/保俶塔 ; https://en.wikipedia.org/wiki/Baochu_Pagoda"
+  },
+  {
+   "kind": "milestone",
+   "year": -222,
+   "claim": "-222: Qin establishes Qiantang County. After conquering the south-east the First Emperor of Qin set up Qiantang as a county under Kuaiji Commandery, near the Wulin hills west of the later city. It is the first recorded settlement at Hangzhou.",
+   "source": "https://en.wikipedia.org/wiki/Hangzhou#History"
+  },
+  {
+   "kind": "milestone",
+   "year": 1129,
+   "claim": "1129: Song court arrives; Lin'an becomes the capital. After Kaifeng fell to the Jurchens, Emperor Gaozong reached Hangzhou in 1129, and it was chosen as the Southern Song capital in 1132 under the name Lin'an. It remained the capital until 1276.",
+   "source": "https://en.wikipedia.org/wiki/Hangzhou#History"
+  }
+ ],
+ "wuhan": [
+  {
+   "kind": "start",
+   "claim": "start_year 223: Sun Quan builds the walled town of Xiakou on Snake Hill (Wuchang)",
+   "source": "https://zh.wikipedia.org/wiki/武汉历史 ; https://en.wikipedia.org/wiki/Wuhan#History"
+  },
+  {
+   "kind": "population",
+   "year": 1600,
+   "claim": "population 75,000 in 1600 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Wuhan / Wuchang'), https://figshare.com/articles/Chandler_Population_Data/2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1750,
+   "claim": "population 136,000 in 1750 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Wuhan / Wuchang'), https://figshare.com/articles/Chandler_Population_Data/2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1850,
+   "claim": "population 185,000 in 1850 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Wuhan / Wuchang'), https://figshare.com/articles/Chandler_Population_Data/2059494"
+  },
+  {
+   "kind": "population",
+   "year": 1940,
+   "claim": "population 310,000 in 1940 (estimated)",
+   "source": "Pi Mingxiu & Zheng Zilai (2011), pp. 98-102, as cited at https://zh.wikipedia.org/wiki/武汉历史"
+  },
+  {
+   "kind": "landmark",
+   "name": "Jianghan Customs House (Hankow Customs House)",
+   "claim": "Jianghan Customs House (Hankow Customs House): completed 1924, height 45.85 m, at 30.5786, 114.2918 (documented)",
+   "source": "https://zh.wikipedia.org/wiki/江汉关大楼 ; coordinates from OpenStreetMap"
+  },
+  {
+   "kind": "landmark",
+   "name": "Wuhan Tower (Wuhan Center)",
+   "claim": "Wuhan Tower (Wuhan Center): completed 2019, height 443.13 m, at 30.5969, 114.2397 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/wuhan-tower/8823"
+  },
+  {
+   "kind": "landmark",
+   "name": "1 Corporate Avenue (Riverview Plaza A1)",
+   "claim": "1 Corporate Avenue (Riverview Plaza A1): completed 2021, height 376 m, at 30.6108, 114.3036 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/1-corporate-avenue/9591"
+  },
+  {
+   "kind": "milestone",
+   "year": 223,
+   "claim": "223: Sun Quan walls Xiakou on Snake Hill. The Wu ruler Sun Quan built the walled town of Xiakou on Snake Hill in today's Wuchang, with a watchtower that became the Yellow Crane Tower. A slightly earlier fort, Queyue, had been built across the river in Hanyang at the end of the Han.",
+   "source": "https://zh.wikipedia.org/wiki/武汉历史 ; https://en.wikipedia.org/wiki/Wuhan#History"
+  },
+  {
+   "kind": "milestone",
+   "year": 1957,
+   "claim": "1957: First Yangtze River Bridge opens. The 1,670 m road-and-rail Wuhan Yangtze River Bridge opened on 15 October 1957, joining Wuchang to Hanyang and the Beijing-Hankou railway to the line to Guangzhou.",
+   "source": "https://en.wikipedia.org/wiki/Wuhan_Yangtze_River_Bridge"
+  }
+ ],
+ "tianjin": [
+  {
+   "kind": "start",
+   "claim": "start_year 1214: Zhigu fort (Zhiguzhai) set up by the Jin dynasty at the Sanchakou river junction",
+   "source": "天津通志 (Tianjin Gazetteer, 2007) and 郭蕴静 (1989), 天津古代城市发展史, via https://zh.wikipedia.org/wiki/天津历史 and https://zh.wikipedia.org/wiki/天津市"
+  },
+  {
+   "kind": "population",
+   "year": 1750,
+   "claim": "population 80,000 in 1750 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)"
+  },
+  {
+   "kind": "population",
+   "year": 1800,
+   "claim": "population 130,000 in 1800 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)"
+  },
+  {
+   "kind": "population",
+   "year": 1825,
+   "claim": "population 155,000 in 1825 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)"
+  },
+  {
+   "kind": "population",
+   "year": 1914,
+   "claim": "population 785,000 in 1914 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Bohai Building",
+   "claim": "Bohai Building: completed 1936, height 47.47 m, at 39.1254, 117.1974 (documented)",
+   "source": "https://zh.wikipedia.org/wiki/渤海大楼 ; position from OpenStreetMap (WGS-84)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Tianjin Radio and Television Tower",
+   "claim": "Tianjin Radio and Television Tower: completed 1991, height 415.2 m, at 39.0919, 117.1753 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Tianjin_Radio_and_Television_Tower ; https://zh.wikipedia.org/wiki/天津广播电视塔 (citing 天津通志) ; position from OpenStreetMap (WGS-84)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Post and Communications Network Center",
+   "claim": "Post and Communications Network Center: completed 1997, height 182.58 m, at 39.1176, 117.1754 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/post-and-communications-network-center/2230"
+  },
+  {
+   "kind": "milestone",
+   "year": 1900,
+   "claim": "1900: Boxer War: Eight-Nation Alliance takes the city. The Boxers besieged the concessions in June; the allied armies captured Tianjin in July and governed it through a provisional government until August 1902.",
+   "source": "https://en.wikipedia.org/wiki/Tianjin#History"
+  },
+  {
+   "kind": "milestone",
+   "year": 1937,
+   "claim": "1937: Falls to Japan. Tianjin fell to Japanese forces on 30 July 1937; the foreign concessions were not occupied until 1941.",
+   "source": "https://en.wikipedia.org/wiki/Tianjin#History"
+  }
+ ],
+ "alexandria": [
+  {
+   "kind": "start",
+   "claim": "start_year -331: Alexandria founded by Alexander the Great",
+   "source": "https://en.wikipedia.org/wiki/Alexandria#Ancient_era (founded April 331 BC); Encyclopaedia Britannica (1911), 'Alexandria', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Alexandria_(Egypt) (gives 332 B.C.)"
+  },
+  {
+   "kind": "population",
+   "year": -300,
+   "claim": "population 300,000 in -300 (estimated)",
+   "source": "Modelski (2003), World Cities: -3000 to 2000, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file modelskiAncientV2.csv, https://doi.org/10.6084/m9.figshare.2059497.v2"
+  },
+  {
+   "kind": "population",
+   "year": 1,
+   "claim": "population 400,000 in 1 (estimated)",
+   "source": "Modelski (2003), World Cities: -3000 to 2000, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file modelskiAncientV2.csv, https://doi.org/10.6084/m9.figshare.2059497.v2"
+  },
+  {
+   "kind": "population",
+   "year": 400,
+   "claim": "population 200,000 in 400 (estimated)",
+   "source": "Modelski (2003), World Cities: -3000 to 2000, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file modelskiAncientV2.csv, https://doi.org/10.6084/m9.figshare.2059497.v2"
+  },
+  {
+   "kind": "population",
+   "year": 1897,
+   "claim": "population 315,844 in 1897 (documented)",
+   "source": "Egyptian census, as tabulated in Built Environment Observatory (2025), 'Mapping Alexandria: The Urban Explosion of a Mediterranean Metropolis 1947-2024', Appendix 1, https://marsadomran.info/?p=4051"
+  },
+  {
+   "kind": "landmark",
+   "name": "Pharos (Lighthouse of Alexandria)",
+   "claim": "Pharos (Lighthouse of Alexandria): completed -280, height 103 m, at 31.2148, 29.886 (estimated)",
+   "source": "McKenzie (2011), The Architecture of Alexandria and Egypt: 300 BC - AD 700, p. 42, via https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria (Arab descriptions give 103 to 118 m; built in the reign of Ptolemy II, 280-247 BC)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Pompey's Pillar",
+   "claim": "Pompey's Pillar: completed 298, height 26.85 m, at 31.1825, 29.8964 (documented)",
+   "source": "Delbrück (2007), pp. 100-101, via https://en.wikipedia.org/wiki/Pompey%27s_Pillar (26.85 m including base and capital; built 298-303)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Citadel of Qaitbay",
+   "claim": "Citadel of Qaitbay: completed 1477, height 17 m, at 31.213, 29.8852 (estimated)",
+   "source": "https://en.wikipedia.org/wiki/Citadel_of_Qaitbay (height 17 m; built 1477)"
+  },
+  {
+   "kind": "milestone",
+   "year": -47,
+   "claim": "-47: Caesar's siege of Alexandria. Julius Caesar was besieged in the city in 47 BCE, and the royal Library was damaged in the fighting. Octavian (Augustus) later placed the city under a Roman prefect.",
+   "source": "https://en.wikipedia.org/wiki/Alexandria#Ancient_era ; Encyclopaedia Britannica (1911), 'Alexandria', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Alexandria_(Egypt)"
+  },
+  {
+   "kind": "milestone",
+   "year": 2002,
+   "claim": "2002: Bibliotheca Alexandrina inaugurated. A new library and cultural centre, built on the seafront near the harbour to a design by Snohetta, opened in October 2002.",
+   "source": "https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina"
+  }
+ ],
+ "nagoya": [
+  {
+   "kind": "start",
+   "claim": "start_year 1610: Tokugawa Ieyasu begins Nagoya Castle and its castle town",
+   "source": "https://en.wikipedia.org/wiki/Nagoya_Castle (decision November 1609, work begun January 1610); https://ja.wikipedia.org/wiki/清洲越し"
+  },
+  {
+   "kind": "population",
+   "year": 1700,
+   "claim": "population 65,000 in 1700 (estimated)",
+   "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), https://doi.org/10.1038/sdata.2016.34"
+  },
+  {
+   "kind": "population",
+   "year": 1898,
+   "claim": "population 244,145 in 1898 (documented)",
+   "source": "Cabinet Statistics Bureau, 日本帝国人口統計, resident population at 31 December 1898, via https://ja.wikipedia.org/wiki/国勢調査以前の日本の人口統計"
+  },
+  {
+   "kind": "population",
+   "year": 1935,
+   "claim": "population 1,082,816 in 1935 (documented)",
+   "source": "National census, 1 October 1935, via https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位"
+  },
+  {
+   "kind": "population",
+   "year": 1940,
+   "claim": "population 1,328,084 in 1940 (documented)",
+   "source": "National census, 1 October 1940, via https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位"
+  },
+  {
+   "kind": "landmark",
+   "name": "JR Central Office Tower",
+   "claim": "JR Central Office Tower: completed 2000, height 245 m, at 35.1711, 136.8826 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/nagoya (JR Central Office Tower, building id 930)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Midland Square",
+   "claim": "Midland Square: completed 2007, height 247 m, at 35.1706, 136.8851 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/nagoya (Midland Square, building id 906)"
+  },
+  {
+   "kind": "landmark",
+   "name": "Mode Gakuen Spiral Towers",
+   "claim": "Mode Gakuen Spiral Towers: completed 2008, height 170 m, at 35.1681, 136.8857 (documented)",
+   "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/nagoya (Mode Gakuen Spiral Towers, building id 2761)"
+  },
+  {
+   "kind": "milestone",
+   "year": 1660,
+   "claim": "1660: Manji fire and the widening of Hirokōji. A great fire burns nearly 3,000 houses. Afterwards the broad street of Hirokōji is opened at the southern edge of the grid.",
+   "source": "https://ja.wikipedia.org/wiki/名古屋市"
+  },
+  {
+   "kind": "milestone",
+   "year": 1891,
+   "claim": "1891: Nōbi earthquake. The Mino-Owari earthquake of 28 October 1891 causes heavy damage in the city and to Nagoya Castle.",
+   "source": "https://ja.wikipedia.org/wiki/名古屋市 ; https://en.wikipedia.org/wiki/Nagoya_Castle"
+  }
+ ],
+ "johannesburg": [
+  {
+   "kind": "start",
+   "claim": "start_year 1886: Mining camp proclaimed and town founded after the Witwatersrand gold discovery (September 1886)",
+   "source": "Encyclopaedia Britannica (1911), 'Johannesburg', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Johannesburg; proclamation date from https://sahistory.org.za/dated-event/first-mines-are-proclaimed-johannesburg via https://en.wikipedia.org/wiki/History_of_Johannesburg"
+  },
+  {
+   "kind": "population",
+   "year": 1890,
+   "claim": "population 25,000 in 1890 (estimated)",
+   "source": "Encyclopaedia Britannica (1911), 'Johannesburg', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Johannesburg"
+  },
+  {
+   "kind": "population",
+   "year": 1904,
+   "claim": "population 155,642 in 1904 (documented)",
+   "source": "Encyclopaedia Britannica (1911), 'Johannesburg', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Johannesburg"
+  },
+  {
+   "kind": "population",
+   "year": 1936,
+   "claim": "population 519,384 in 1936 (documented)",
+   "source": "E. G. Malherbe (1939), Official Year Book of the Union of South Africa, vol. 20, p. 1034, via https://en.wikipedia.org/wiki/1936_South_African_census"
+  },
+  {
+   "kind": "population",
+   "year": 1946,
+   "claim": "population 603,470 in 1946 (documented)",
+   "source": "United Nations Demographic Yearbook 1955, 'Population of capital city and cities of 100,000 or more inhabitants', via https://en.wikipedia.org/wiki/Timeline_of_Johannesburg"
+  },
+  {
+   "kind": "landmark",
+   "name": "Sentech Tower (Brixton Tower)",
+   "claim": "Sentech Tower (Brixton Tower): completed 1962, height 237 m, at -26.1925, 28.0067 (documented)",
+   "source": "Structurae, 'Sentech Tower (Johannesburg, 1962)', via https://en.wikipedia.org/wiki/Sentech_Tower"
+  },
+  {
+   "kind": "landmark",
+   "name": "Hillbrow Tower (Telkom Joburg Tower)",
+   "claim": "Hillbrow Tower (Telkom Joburg Tower): completed 1971, height 269 m, at -26.1869, 28.0492 (documented)",
+   "source": "https://en.wikipedia.org/wiki/Hillbrow_Tower"
+  },
+  {
+   "kind": "landmark",
+   "name": "Nelson Mandela Bridge (north pylon)",
+   "claim": "Nelson Mandela Bridge (north pylon): completed 2003, height 42 m, at -26.1967, 28.0342 (documented)",
+   "source": "South African History Online, via https://en.wikipedia.org/wiki/Nelson_Mandela_Bridge"
+  },
+  {
+   "kind": "milestone",
+   "year": 1886,
+   "claim": "1886: Goldfield proclaimed and town laid out. After gold was found on the farm Langlaagte, President Kruger declared the area open for public diggings on 20 September 1886. A town was surveyed beside Ferreira's Camp and named Johannesburg.",
+   "source": "https://sahistory.org.za/dated-event/first-mines-are-proclaimed-johannesburg, via https://en.wikipedia.org/wiki/History_of_Johannesburg"
+  },
+  {
+   "kind": "milestone",
+   "year": 2010,
+   "claim": "2010: World Cup final and Gautrain. The rebuilt Soccer City (FNB Stadium) hosted the 2010 FIFA World Cup final. The Gautrain rapid rail link to Sandton, the airport and Pretoria, begun in 2006, was completed in June 2012.",
+   "source": "https://en.wikipedia.org/wiki/History_of_Johannesburg and https://en.wikipedia.org/wiki/Johannesburg"
+  }
+ ]
+}

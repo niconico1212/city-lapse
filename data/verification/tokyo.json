@@ -1,0 +1,88 @@
+{
+  "slug": "tokyo",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1457: Edo Castle built by Ōta Dōkan",
+      "source_opened": "https://en.wikipedia.org/wiki/Edo_Castle",
+      "found": "Infobox 'built = 1457', lead: 'a flatland castle that was built in 1457 by Ōta Dōkan in Edo' (citing the World Digital Library map entry).",
+      "result": "confirmed",
+      "detail": "Year and event match the cited page. (The en 'Edo' article says Dōkan 'started to build' in 1456; 1457 is the completion date.)"
+    },
+    {
+      "kind": "population",
+      "item": "population 150,000 in 1609 (estimated)",
+      "source_opened": "https://ja.wikipedia.org/wiki/江戸の人口 ; chandlerV2.csv from https://doi.org/10.6084/m9.figshare.2059494",
+      "found": "ja.wikipedia: Rodrigo de Vivero, visiting in Keichō 14 (1609), reported Edo's population as 150,000. Chandler CSV row 'Tokyo (Yedo, Edo)': AD_1609 = 150000.",
+      "result": "confirmed",
+      "detail": "Both cited sources give 150,000 for 1609, for Edo as a whole."
+    },
+    {
+      "kind": "population",
+      "item": "population 2,706,800 in 1910 (documented)",
+      "source_opened": "https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23qv020100.csv (table 2-1 CSV linked from https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm)",
+      "found": "Row 明治43 / 1910: 2706800 (Tokyo Prefecture).",
+      "result": "confirmed",
+      "detail": "Exact match; the data note already says the area is Tokyo Prefecture."
+    },
+    {
+      "kind": "population",
+      "item": "population 3,699,428 in 1920 (documented)",
+      "source_opened": "https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23qv020100.csv (table 2-1 CSV linked from https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm)",
+      "found": "Row 大正9 / 1920: 3699428.",
+      "result": "confirmed",
+      "detail": "Exact match (Tokyo Prefecture, 1920 census)."
+    },
+    {
+      "kind": "population",
+      "item": "population 5,408,678 in 1930 (documented)",
+      "source_opened": "https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23qv020100.csv (table 2-1 CSV linked from https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm)",
+      "found": "Row 昭和5 / 1930: 5408678.",
+      "result": "confirmed",
+      "detail": "Exact match (Tokyo Prefecture, 1930 census)."
+    },
+    {
+      "kind": "landmark",
+      "item": "Tokyo Skytree: completed 2012, height 634 m, at 35.7101, 139.8107 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Tokyo_Skytree",
+      "found": "'completed on Leap Day, 29 February 2012'; antenna_spire 634.0 m; coord 35.7101, 139.8107.",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates all match the cited page."
+    },
+    {
+      "kind": "landmark",
+      "item": "Toranomon Hills Mori Tower: completed 2014, height 255.5 m, at 35.6663, 139.7497 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/toranomon-hills-mori-tower/12388 ; https://en.wikipedia.org/wiki/Toranomon_Hills (coordinates)",
+      "found": "CTBUH: Completion 2014; architectural height 255.5 m (258 m to tip, 247 m occupied); address 1-23-4 Toranomon. Wikipedia coord 35°40'1\"N 139°44'58\"E (35.6669, 139.7494).",
+      "result": "confirmed",
+      "detail": "Year and architectural height match CTBUH; the point is about 70 m from the Wikipedia coordinate."
+    },
+    {
+      "kind": "landmark",
+      "item": "Azabudai Hills Mori JP Tower: completed 2023, height 327.2 m, at 35.6608, 139.7404 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/mori-jp-tower/35022 ; https://en.wikipedia.org/wiki/Azabudai_Hills (coordinates)",
+      "found": "CTBUH 'Mori JP Tower': Completion 2023; architectural height 327.2 m (328.1 m to tip). Wikipedia coord 35°39'38\"N 139°44'25\"E (35.6606, 139.7403).",
+      "result": "confirmed",
+      "detail": "Year and height match CTBUH; the point is within about 30 m of the Wikipedia coordinate."
+    },
+    {
+      "kind": "milestone",
+      "item": "1590: Tokugawa Ieyasu enters Edo (given the Kantō after Odawara; begins castle town and filling inlets)",
+      "source_opened": "https://en.wikipedia.org/wiki/Edo ; https://ja.wikipedia.org/wiki/江戸の人口",
+      "found": "en: 'When the Hōjō clan was finally defeated by Toyotomi Hideyoshi in 1590, the Kanto area was given to rule to ... Tokugawa Ieyasu, who took his residence in Edo'; the place was a small fortified residence beside wetlands and tidal inlets. ja: land reclamation of the Hibiya inlet is described under Ieyasu (large-scale works ordered from 1603).",
+      "result": "confirmed",
+      "detail": "Year and event match. Minor nuance: the large-scale filling of the Hibiya inlet is dated from 1603 in the ja article; the caption's 'begins' is acceptable."
+    },
+    {
+      "kind": "milestone",
+      "item": "1932: Greater Tokyo: 82 towns and villages absorbed on 1 October 1932, 15 to 35 wards",
+      "source_opened": "https://ja.wikipedia.org/wiki/東京市 ; https://en.wikipedia.org/wiki/Tokyo_City",
+      "found": "ja: on 1 October 1932 Tokyo City annexed 60 towns and 22 villages from 5 neighbouring districts, adding 20 wards to make 35; the final city area corresponds to today's 23 wards. en: map caption 'merger of 82 municipalities into Tokyo City in 1932'.",
+      "result": "confirmed",
+      "detail": "Date, the count of 82 (60 towns + 22 villages) and 15 to 35 wards all match. (The en article's body text says 'July 1932' without a source; the ja article's dated statement was used.)"
+    }
+  ],
+  "summary": "All 10 sampled figures match the sources they cite: the three prefecture population counts are exact against the Tokyo Metropolitan Government table, the 1609 estimate is in both cited sources, and the landmark years, heights and positions check out. No edits made."
+}

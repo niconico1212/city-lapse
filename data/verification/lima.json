@@ -1,0 +1,88 @@
+{
+  "slug": "lima",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1535: Ciudad de los Reyes founded by Francisco Pizarro",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Lima",
+      "found": "'began with its foundation by Francisco Pizarro on January 18, 1535'",
+      "result": "confirmed",
+      "detail": "Year and event match."
+    },
+    {
+      "kind": "population",
+      "item": "population 14,262 in 1600 (documented)",
+      "source_opened": "https://estadisticas.bcrp.gob.pe/estadisticas/series/anuales/resultados/CD12302DA/html",
+      "found": "Series 'Serie de las recensiones con el aumento y disminucion de la poblacion de Lima': 1600 = 14262",
+      "result": "confirmed",
+      "detail": "Value and year match the BCRP series."
+    },
+    {
+      "kind": "population",
+      "item": "population 52,627 in 1790 (documented)",
+      "source_opened": "https://estadisticas.bcrp.gob.pe/estadisticas/series/anuales/resultados/CD12302DA/html",
+      "found": "Same series: 1790 = 52627",
+      "result": "confirmed",
+      "detail": "Value and year match."
+    },
+    {
+      "kind": "population",
+      "item": "population 104,932 in 1862 (documented)",
+      "source_opened": "https://estadisticas.bcrp.gob.pe/estadisticas/series/anuales/resultados/CD11697DA/html",
+      "found": "'Poblacion por departamentos y provincias para 1862, 1876, 1896 y 1927 - Lima': 1862 = 104932",
+      "result": "confirmed",
+      "detail": "Value, year and area (province of Lima) match."
+    },
+    {
+      "kind": "population",
+      "item": "population 145,357 in 1896 (estimated)",
+      "source_opened": "https://estadisticas.bcrp.gob.pe/estadisticas/series/anuales/resultados/CD11697DA/html",
+      "found": "Same series: 1896 = 145357",
+      "result": "confirmed",
+      "detail": "Value and year match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Wiese Sudameris Tower (Scotiabank): completed 2000, height 90.22 m, at -12.0952, -77.0221 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/wiese-sudameris-tower/11276 ; https://www.skyscrapercenter.com/city/lima",
+      "found": "Wiese Sudameris Tower, 102 Boulevard Dionisio Derteano, completion 2000, 21 floors; city record id 11276: height 90.22, lat -12.095196, lon -77.022057",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match CTBUH."
+    },
+    {
+      "kind": "landmark",
+      "item": "Torre Begonias: completed 2013, height 120.25 m, at -12.0921, -77.0239 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/torre-begonias/14361 ; https://www.skyscrapercenter.com/city/lima",
+      "found": "Torre Begonias, Las Begonias 415, San Isidro, completion 2013, 26 floors; record id 14361: height 120.25, lat -12.092100, lon -77.023918",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match CTBUH."
+    },
+    {
+      "kind": "landmark",
+      "item": "Torre Banco de la Nacion: completed 2015, height 140.1 m, at -12.0871, -77.0006 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/torre-banco-de-la-nacion/16714 ; https://www.skyscrapercenter.com/city/lima",
+      "found": "Torre Banco de la Nacion, Av. Javier Prado Este 2479, San Borja, completion 2015, 30 floors; record id 16714: height 140.10, lat -12.087100, lon -77.000557",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match CTBUH."
+    },
+    {
+      "kind": "milestone",
+      "item": "1881: Chilean occupation. The Chilean army occupied Lima in 1881 after the battles of San Juan and Miraflores.",
+      "source_opened": "https://en.wikipedia.org/wiki/Lima ; https://en.wikipedia.org/wiki/Occupation_of_Lima",
+      "found": "Lima: 'During the War of the Pacific (1879-1883), the Chilean army occupied Lima after defeating Peruvian troops and reserves in the battles of San Juan and Miraflores'. Occupation of Lima: year_start 1881, date_start 17 January",
+      "result": "confirmed",
+      "detail": "Event matches the cited page; that page does not state the year itself, which the linked Occupation of Lima article gives as 17 January 1881. Data left unchanged."
+    },
+    {
+      "kind": "milestone",
+      "item": "1940: Mass migration from the Andes begins; the 1940 census counted 562,885 people in the province; barriadas / pueblos jovenes.",
+      "source_opened": "https://en.wikipedia.org/wiki/History_of_Lima ; https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib0838/Libro15/cap01.pdf",
+      "found": "History of Lima: 'Population growth accelerated in the 1940s spurred by immigration from the Andean regions ... large-scale land invasions ... barriadas, renamed as pueblos jovenes'. INEI cuadro 1.1: 1940 poblacion censada 562 885 (total with omission 577 437)",
+      "result": "confirmed",
+      "detail": "Year, description and census figure match."
+    }
+  ],
+  "summary": "All ten sampled figures match the BCRP series, INEI table, CTBUH records and Wikipedia pages cited. Nothing changed; the 1881 milestone's cited page gives the event but not the year, which the linked Occupation of Lima article supplies."
+}

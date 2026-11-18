@@ -1,0 +1,88 @@
+{
+  "slug": "osaka",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 645: Emperor Kōtoku moves the capital to Naniwa",
+      "source_opened": "https://ja.wikipedia.org/wiki/難波宮 (raw wikitext)",
+      "found": "'乙巳の変（大化元年〈645年〉）ののち、孝徳天皇は難波（難波長柄豊崎宮）に遷都し ... 宮殿は白雉3年（652年）に完成した'; first excavation began February 1954; succession box: capital of Japan 645-655.",
+      "result": "confirmed",
+      "detail": "Year and event match; the parenthetical details in the source field (652, 1954) also match."
+    },
+    {
+      "kind": "population",
+      "item": "population 200,000 in 1609 (estimated)",
+      "source_opened": "https://ja.wikipedia.org/wiki/江戸の人口 (raw wikitext)",
+      "found": "'慶長14年(1609年)に江戸を訪れたロドリゴ・デ・ビベロは江戸の人口を15万人と伝えているが、同時に京の人口を30万〜40万人 ...、大坂の人口を20万人と記録しており'.",
+      "result": "confirmed",
+      "detail": "Number, year and attribution to Rodrigo de Vivero match."
+    },
+    {
+      "kind": "population",
+      "item": "population 382,471 in 1721 (documented)",
+      "source_opened": "https://ja.wikipedia.org/wiki/三都 (raw wikitext)",
+      "found": "Osaka Sangō table row: '享保6年 | 1721 | 383,480 | 382,471 | 1,009 | 無名書' (total, townspeople, clergy).",
+      "result": "confirmed",
+      "detail": "Townspeople figure, year, source name and the 1,009 clergy in the note all match."
+    },
+    {
+      "kind": "population",
+      "item": "population 2,989,874 in 1935 (documented)",
+      "source_opened": "https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位 (raw wikitext)",
+      "found": "Census ranking table: Osaka City '2位 2,989,874, 185.12 km2', between the 1940 entry (3,252,340) and the 1930 entry (2,453,573).",
+      "result": "confirmed",
+      "detail": "Number, census year and area match."
+    },
+    {
+      "kind": "population",
+      "item": "population 1,559,310 in 1947 (documented)",
+      "source_opened": "https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位 (raw wikitext)",
+      "found": "Census ranking table: Osaka City '2位 1,559,310, 185.12 km2', between the 1950 entry (1,956,136) and the 1945 entry (1,102,959).",
+      "result": "confirmed",
+      "detail": "Number and census year match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Osaka Castle keep (Tokugawa): completed 1626, height 58.3 m, at 34.6873, 135.5259 (estimated)",
+      "source_opened": "https://www.toyotomi-ishigaki.com/hideyoshi/2401.html ; https://ja.wikipedia.org/wiki/大坂城 (raw wikitext)",
+      "found": "Museum page: total height of keep base plus keep '29間3尺9寸 ... 58.3ｍとなります', calculated from the 大坂御城天守指図 plans. Wikipedia: '1626年（寛永3年）竣工、1665年（寛文5年）落雷により焼失。天守台・鯱を含む高さは58.3メートル'. OpenStreetMap places the keep within about 20 m of the stored point.",
+      "result": "confirmed",
+      "detail": "Year, height, loss date and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Osaka Castle keep (present reconstruction): completed 1931, height 54.8 m, at 34.6873, 135.5259 (documented)",
+      "source_opened": "https://ja.wikipedia.org/wiki/大坂城 (raw wikitext)",
+      "found": "'復興天守: 1931年（昭和6年）11月7日竣工。天守台・鯱を含む高さは54.8メートル'.",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "ORC 200: completed 1994, height 200 m, at 34.6693, 135.4611 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/orc-200/1680",
+      "found": "Height 200 m; status completed, completion 1994. English Wikipedia (Osaka Resort City 200) gives 34.6697, 135.4606, about 65 m from the stored point (OpenStreetMap search returned nothing).",
+      "result": "confirmed",
+      "detail": "Year, height and position match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1925: 'Great Osaka': Japan's largest city. Second boundary extension absorbs the rest of the two neighbouring districts; 2,114,804 at the 1925 census, more than Tokyo City.",
+      "source_opened": "https://ja.wikipedia.org/wiki/大阪市 (raw wikitext)",
+      "found": "'1925年4月に第2次市域拡張を実施し、同年10月の第2回調査で2,114,804人 ... と全国1位になった（「大大阪時代」）'; chronology: all of Higashinari and Nishinari districts absorbed ('両郡は消滅'); '人口は当時の東京市を上回る211万人'.",
+      "result": "confirmed",
+      "detail": "Year, census figure, the two absorbed districts and the comparison with Tokyo City all match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1933: Municipal subway opens between Umeda and Shinsaibashi, the first publicly run subway in Japan.",
+      "source_opened": "https://ja.wikipedia.org/wiki/大阪市 (raw wikitext)",
+      "found": "'1933年 - 大阪市営地下鉄が部分開業（梅田 - 心斎橋間、日本初の公営地下鉄）'.",
+      "result": "confirmed",
+      "detail": "Year, section and description match."
+    }
+  ],
+  "summary": "All 10 sampled items matched their cited sources (Japanese Wikipedia tables and articles, the Toyotomi stone-wall museum page and CTBUH). Nothing was changed."
+}

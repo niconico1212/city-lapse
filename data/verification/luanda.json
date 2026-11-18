@@ -1,0 +1,88 @@
+{
+  "slug": "luanda",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1576: São Paulo da Assunção de Loanda founded by Paulo Dias de Novais",
+      "source_opened": "https://en.wikipedia.org/wiki/Luanda ; https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Loanda",
+      "found": "Wikipedia: 'Paulo Dias de Novais founded Luanda on 25 January 1576 as São Paulo da Assumpção de Loanda' (citing Leitão). EB1911: 'Loanda was founded in 1576'.",
+      "result": "confirmed",
+      "detail": "Year, name and founder match both cited pages."
+    },
+    {
+      "kind": "population",
+      "item": "population 9,755 in 1781 (documented)",
+      "source_opened": "https://ojs.letras.up.pt/index.php/AfricanaStudia/article/download/7125/6545 (PDF of Curto & Gervais, Portuguese edition, linked from the cited article page; text extracted)",
+      "found": "Table rows for 1781: total 9755; text: 'das 9755 pessoas enumeradas em 1781' and 'o total de residentes caiu de 9755 para 5605, entre 1781 e 1844'.",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 6,925 in 1802 (documented)",
+      "source_opened": "https://ojs.letras.up.pt/index.php/AfricanaStudia/article/download/7125/6545 (PDF of Curto & Gervais, Portuguese edition, linked from the cited article page; text extracted)",
+      "found": "Table rows for 1802: total 6925.",
+      "result": "confirmed",
+      "detail": "Exact match."
+    },
+    {
+      "kind": "population",
+      "item": "population 6,184 in 1807 (documented)",
+      "source_opened": "https://ojs.letras.up.pt/index.php/AfricanaStudia/article/download/7125/6545 (PDF of Curto & Gervais, Portuguese edition, linked from the cited article page; text extracted)",
+      "found": "Table rows for 1807: total 6184 (annual change -24.98%); text: 'de 8243 para 6184, durante 1806-[1807]'.",
+      "result": "confirmed",
+      "detail": "Exact match, including the note about a fall of about a quarter from 1806."
+    },
+    {
+      "kind": "population",
+      "item": "population 4,490 in 1817 (documented)",
+      "source_opened": "https://ojs.letras.up.pt/index.php/AfricanaStudia/article/download/7125/6545 (PDF of Curto & Gervais, Portuguese edition, linked from the cited article page; text extracted)",
+      "found": "Table rows for 1817: total 4490; text: 'baixo em 1817, quando apenas 4490 indivíduos foram contados'.",
+      "result": "confirmed",
+      "detail": "Exact match, and the text supports 'lowest count in the series'."
+    },
+    {
+      "kind": "landmark",
+      "item": "Torre Ambiente: completed 2011, height 117 m, at -8.8085, 13.2391 (estimated)",
+      "source_opened": "https://www.skyscrapercenter.com/building/torre-ambiente/39612 ; OpenStreetMap Nominatim 'Torre Ambiente, Luanda'",
+      "found": "CTBUH: Completion 2011; height 117 m, flagged 'estimated, based on a floor count of 30 floors'; address Largo do Ambiente. OSM building 'Torre do Ambiente, Rua Major Kanhangulo' at -8.80845, 13.23911.",
+      "result": "confirmed",
+      "detail": "Year, height (with its estimated status, as the data records) and position match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Memorial Dr. António Agostinho Neto (mausoleum spire): completed 2012, height 120 m, at -8.8237, 13.219 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Mausoleum_of_Ant%C3%B3nio_Agostinho_Neto ; https://www.verangola.net/va/pt/092023/sugestoes/2656/Memorial-Dr-Agostinho-Neto.htm",
+      "found": "Wikipedia: height 120 m, begun 17 September 1982, completed January 2011, inaugurated 17 September 2012; coord -8.82365, 13.21896. Ver Angola: 'uma torre com cerca de 120 metros de altura'; first stone 17 September 1982.",
+      "result": "confirmed",
+      "detail": "Year (inauguration), height and position match; a second source repeats about 120 m. Both sources give the height as a round figure."
+    },
+    {
+      "kind": "landmark",
+      "item": "IMOB Business Tower: completed 2018, height 145 m, at -8.8122, 13.2361 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/imob-business-tower/14831 ; https://www.wikidata.org/wiki/Q17630251 ; https://fcm.pt/projeto/83/0?lang=2 ; OpenStreetMap Nominatim and Overpass",
+      "found": "CTBUH: Completion 2018; height 145 m; address 'Rua Major Kanhangulo'. Wikidata: 145 m, 35 floors, 2018, no coordinates. FCM (engineers): 35 floors, 'located at Major Kanhangulo Street'. OSM has no building of that name; the stored point equals the centroid Nominatim returns for one segment of the street, which runs at least 450 m (Torre Ambiente is on the same street).",
+      "result": "flagged",
+      "detail": "Year and height confirmed; the position could not be confirmed to within 300 m because no source gives a building-level coordinate. Extended the point's note in luanda.json to say so; confidence left as documented because it describes the year and height."
+    },
+    {
+      "kind": "milestone",
+      "item": "1605: Settlement recognised as a city",
+      "source_opened": "https://en.wikipedia.org/wiki/Timeline_of_Luanda",
+      "found": "'1605 - Settlement recognized as a city' (Santos 2008).",
+      "result": "confirmed",
+      "detail": "Year and event match."
+    },
+    {
+      "kind": "milestone",
+      "item": "1836: Slave exports declared illegal (Portugal banned the export slave trade in 1836)",
+      "source_opened": "https://en.wikipedia.org/wiki/Timeline_of_Luanda ; https://en.wikipedia.org/wiki/Luanda ; EB1911 'Loanda'",
+      "found": "Timeline: '1836 - Slave trade declared illegal' (Curto 1999). Luanda: 'centre of slave trade to Brazil from c. 1550 to 1836 ... The slave trade was abolished in 1836'. EB1911: 'for over two centuries the chief centre of the slave trade'.",
+      "result": "confirmed",
+      "detail": "Year and event match. The caption's 'ending the business' follows these sources; none of the pages opened discusses how long illegal shipments continued."
+    }
+  ],
+  "summary": "Nine of 10 sampled figures match their sources, including all four Curto and Gervais census totals read from the article PDF. One flag: the IMOB Business Tower pin is a street midpoint and could not be confirmed to within 300 m (year and height are fine); a note was added, nothing else changed."
+}

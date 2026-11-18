@@ -1,0 +1,88 @@
+{
+  "slug": "kuala-lumpur",
+  "verified_by": "independent verification agent (phase 7)",
+  "date": "2026-11-18",
+  "checks": [
+    {
+      "kind": "start",
+      "item": "start_year 1857: Tin miners sent up the Klang River by Raja Abdullah",
+      "source_opened": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+      "found": "'The official account considers Kuala Lumpur to have been founded by the Malay Chief of Klang, Raja Abdullah, who sent Chinese miners into the region to open tin mines in 1857'. Infobox: established 1857.",
+      "result": "confirmed",
+      "detail": "Year and description match the cited page; Gullick (1955) on JSTOR was not opened."
+    },
+    {
+      "kind": "population",
+      "item": "population 2,330 in 1879 (documented)",
+      "source_opened": "https://toyo-bunko.repo.nii.ac.jp/record/7409/files/TBRL21_07.pdf (PDF fetched through WebFetch and read with pdftotext)",
+      "found": "'In 1879, when an unofficial census was taken, the population of Kuala Lumpur was 2,330, which included 1,906 Chinese and 390 Malays ... [SSF 339/79]'.",
+      "result": "confirmed",
+      "detail": "Number, year and file reference match Tsuboi."
+    },
+    {
+      "kind": "population",
+      "item": "population 46,718 in 1911 (documented)",
+      "source_opened": "https://toyo-bunko.repo.nii.ac.jp/record/7409/files/TBRL21_07.pdf (PDF fetched through WebFetch and read with pdftotext)",
+      "found": "Table 'The Population of the Municipality of Kuala Lumpur, 1891-1931': 1911 total 46,718.",
+      "result": "confirmed",
+      "detail": "Exact match, municipality."
+    },
+    {
+      "kind": "population",
+      "item": "population 80,424 in 1921 (documented)",
+      "source_opened": "https://toyo-bunko.repo.nii.ac.jp/record/7409/files/TBRL21_07.pdf (PDF fetched through WebFetch and read with pdftotext)",
+      "found": "Same table: 1921 total 80,424.",
+      "result": "confirmed",
+      "detail": "Exact match, municipality."
+    },
+    {
+      "kind": "population",
+      "item": "population 176,000 in 1947 (documented)",
+      "source_opened": "https://www.ehm.my/publications/articles/the-post%E2%80%931950-emergence-of-kuala-lumpur-as-a-great-southeast-asian-city",
+      "found": "'in 1947 Kuala Lumpur was still a relatively small ... city ... It had a population of 176,000, a quarter of Singapore's'.",
+      "result": "confirmed",
+      "detail": "Number and year match; rounding is already in the note."
+    },
+    {
+      "kind": "landmark",
+      "item": "Parliament House (Bangunan Parlimen Malaysia): completed 1963, height 75 m, at 3.1495, 101.6793 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/bangunan-parlimen-malaysia/44639 ; https://en.wikipedia.org/wiki/Malaysian_Houses_of_Parliament ; OpenStreetMap (Nominatim)",
+      "found": "CTBUH: completion 1963; 'Height 75 m / 246 ft. Please note that this height is estimated, based on a floor count of 17 floors'. Wikipedia: opened 2 November 1963; 'a 3-story main building and a 17-story 77-metre-tall tower' (Emporis). OpenStreetMap: 3.1501, 101.6791.",
+      "result": "flagged",
+      "detail": "Year and coordinates hold, but the cited source says its 75 m is an estimate from the floor count and Wikipedia gives 77 m. Lowered confidence from documented to estimated and added a note; height_m left at 75."
+    },
+    {
+      "kind": "landmark",
+      "item": "Batu Caves Murugan statue: completed 2006, height 42.7 m, at 3.2374, 101.6839 (documented)",
+      "source_opened": "https://en.wikipedia.org/wiki/Batu_Caves_Murugan_Statue",
+      "found": "Infobox: height 42.7 m, complete 2006, opened 29 January 2006, coordinates 3.2374, 101.6839.",
+      "result": "confirmed",
+      "detail": "Year, height and coordinates match."
+    },
+    {
+      "kind": "landmark",
+      "item": "Merdeka 118 (CTBUH: Menara Merdeka Maybank): completed 2023, height 678.9 m, at 3.1415, 101.7004 (documented)",
+      "source_opened": "https://www.skyscrapercenter.com/building/menara-merdeka-maybank/10115 ; https://en.wikipedia.org/wiki/Merdeka_Maybank ; OpenStreetMap (Nominatim)",
+      "found": "CTBUH: completion 2023, 678.9 m, 118 floors. Wikipedia: architectural height 678.9 m, completed November 2023. OpenStreetMap: Menara Merdeka Maybank at 3.1416, 101.7007.",
+      "result": "confirmed",
+      "detail": "Year and height match CTBUH; coordinates within about 35 m."
+    },
+    {
+      "kind": "milestone",
+      "item": "1872: Town captured and burnt in the Selangor Civil War (retaken March 1873; depressed until 1879)",
+      "source_opened": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+      "found": "'Kuala Lumpur was captured in 1872 and burnt to the ground. Kudin ... recaptured Kuala Lumpur in March 1873' (Gullick 1955, pp. 12-14). 'The war and other setbacks, such as dropping tin prices, led to a slump. A major outbreak of cholera caused many to flee. The slump lasted until late 1879'.",
+      "result": "confirmed",
+      "detail": "Dates and description match the cited page."
+    },
+    {
+      "kind": "milestone",
+      "item": "1974: Federal Territory created, 243 sq km (1 February 1974)",
+      "source_opened": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+      "found": "'on 1 February 1974, Kuala Lumpur became a federal territory'; infobox 'Transferred to federal jurisdiction 1 February 1974'; '... to 243 km2 in 1974 as a Federal Territory'.",
+      "result": "confirmed",
+      "detail": "Date and area match the cited page."
+    }
+  ],
+  "summary": "Nine of 10 items matched their sources, including the Tsuboi census table. The Parliament House height was marked estimated because CTBUH says its 75 m is derived from the floor count and Wikipedia gives 77 m."
+}

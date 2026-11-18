@@ -1,11 +1,13 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import MapView, { type MapViewHandle } from "./MapView";
+import MapView, { type Extras, type MapViewHandle } from "./MapView";
 import CityPicker from "./CityPicker";
 import BottomBar from "./BottomBar";
 import AboutPanel from "./AboutPanel";
 import { decodeBuildings, ERA_LEGEND, type BuildingBuffers } from "@/lib/buildings";
+import { decodeFabric, decodeModels, type ModelFile, type RealIndex } from "@/lib/extras";
+import { DEFAULT_STYLE, HISTORIC_STYLES, styleById } from "@/lib/styles";
 import { areaAt, buildTimeline, footprintStatus, formatPopulation, formatYear, populationAt } from "@/lib/timeline";
 import type { CityData, CityIndex, Milestone } from "@/lib/types";
 
@@ -15,6 +17,13 @@ const SPEEDS = [0.5, 1, 2, 4];
 const LOW_DETAIL_BUILDINGS = 15_000;
 
 type Detail = "full" | "low";
+
+const NO_EXTRAS: Extras = { fabric: null, models: null, realIndex: null };
+
+function styleFromUrl(): string {
+  if (typeof window === "undefined") return DEFAULT_STYLE;
+  return styleById(new URLSearchParams(window.location.search).get("style")).id;
+}
 
 function detailFromUrl(): Detail | null {
   if (typeof window === "undefined") return null;
@@ -41,12 +50,18 @@ export default function CityLapseApp() {
   const [aboutOpen, setAboutOpen] = useState(false);
   const [heightScale, setHeightScale] = useState(1);
   const [detail, setDetail] = useState<Detail>("full");
+  const [extras, setExtras] = useState<Extras>(NO_EXTRAS);
+  const [styleId, setStyleId] = useState<string>(DEFAULT_STYLE);
+  const styleRef = useRef(styleById(DEFAULT_STYLE));
+  const extrasRaw = useRef<{ fabric?: ArrayBuffer; models?: ModelFile; meta?: CityData }>({});
   const raw = useRef<{ bin: ArrayBuffer; meta: CityData } | null>(null);
   const perf = useRef({ forced: false, samples: [] as number[], decided: false });
   const [hud, setHud] = useState({ year: 2026, seconds: 0 });
   const [caption, setCaption] = useState<{ m: Milestone; key: number } | null>(null);
 
   const mapRef = useRef<MapViewHandle>(null);
+  /** pending start of the film after a city loads; cancelled if the person pauses or scrubs first */
+  const autoplay = useRef<number | undefined>(undefined);
   const detailRef = useRef<Detail>("full");
   const clock = useRef({ seconds: 0, playing: false, speed: 1, last: 0, dirtyUntil: 0, lastHud: 0, lastMilestone: -1 });
 
@@ -112,6 +127,37 @@ export default function CityLapseApp() {
         clock.current.lastMilestone = -1;
         clock.current.dirtyUntil = performance.now() + 4000;
         setCaption(null);
+        setExtras(NO_EXTRAS);
+        extrasRaw.current = { meta };
+        // The artistic layers load after the city itself, so the film can start straight away.
+        const ex = meta.extras ?? {};
+        const late = <T,>(url: string, read: (r: Response) => Promise<T>, apply: (v: T) => void) =>
+          fetch(url)
+            .then((r) => {
+              if (!r.ok) throw new Error(`${url}: HTTP ${r.status}`);
+              return read(r);
+            })
+            .then((v) => {
+              if (cancelled) return;
+              apply(v);
+              clock.current.dirtyUntil = performance.now() + 2500;
+            })
+            .catch((e) => console.warn("optional layer failed to load:", e));
+        if (ex.fabric) {
+          late(`data/${ex.fabric.file}`, (r) => r.arrayBuffer(), (buf) => {
+            extrasRaw.current.fabric = buf;
+            setExtras((cur) => ({ ...cur, fabric: decodeFabric(buf, meta, styleRef.current) }));
+          });
+        }
+        if (ex.models) {
+          late(`data/${ex.models.file}`, (r) => r.json() as Promise<ModelFile>, (file) => {
+            extrasRaw.current.models = file;
+            setExtras((cur) => ({ ...cur, models: decodeModels(file, meta, styleRef.current) }));
+          });
+        }
+        if (ex.real) {
+          late(`data/${ex.real.index}`, (r) => r.json() as Promise<RealIndex>, (idx) => setExtras((cur) => ({ ...cur, realIndex: idx })));
+        }
         setBuffers(decoded);
         setCity(meta);
         setHud({ year: meta.start_year, seconds: 0 });
@@ -119,7 +165,8 @@ export default function CityLapseApp() {
         setLoading(false);
         document.title = `${meta.name} · city-lapse`;
         // start the film shortly after the first frame is on screen
-        window.setTimeout(() => {
+        window.clearTimeout(autoplay.current);
+        autoplay.current = window.setTimeout(() => {
           if (!cancelled) {
             clock.current.playing = true;
             setPlaying(true);
@@ -200,11 +247,33 @@ export default function CityLapseApp() {
     return () => window.clearTimeout(id);
   }, [caption, playing]);
 
-  const poke = () => (clock.current.dirtyUntil = performance.now() + 2500);
+  const poke = useCallback(() => {
+    clock.current.dirtyUntil = performance.now() + 2500;
+  }, []);
+
+  useEffect(() => {
+    setStyleId(styleFromUrl());
+  }, []);
+
+  // Changing the historic style recolours the generated houses and the landmark models.
+  useEffect(() => {
+    const st = styleById(styleId);
+    styleRef.current = st;
+    const rawEx = extrasRaw.current;
+    if (!rawEx.meta) return;
+    const meta = rawEx.meta;
+    setExtras((cur) => ({
+      ...cur,
+      fabric: rawEx.fabric ? decodeFabric(rawEx.fabric, meta, st) : cur.fabric,
+      models: rawEx.models ? decodeModels(rawEx.models, meta, st) : cur.models,
+    }));
+    poke();
+  }, [styleId, poke]);
 
   const togglePlay = useCallback(() => {
     const c = clock.current;
     if (!timeline) return;
+    window.clearTimeout(autoplay.current);
     if (!c.playing && c.seconds >= timeline.duration - 0.01) {
       c.seconds = 0;
       c.lastMilestone = -1;
@@ -215,6 +284,7 @@ export default function CityLapseApp() {
   }, [timeline]);
 
   const seek = useCallback((seconds: number) => {
+    window.clearTimeout(autoplay.current);
     clock.current.seconds = seconds;
     poke();
   }, []);
@@ -236,6 +306,7 @@ export default function CityLapseApp() {
       seekYear: (y: number) => seek(timeline.secondsAt(y)),
       seekFraction: (f: number) => seek(f * timeline.duration),
       pause: () => {
+        window.clearTimeout(autoplay.current);
         clock.current.playing = false;
         setPlaying(false);
       },
@@ -243,6 +314,8 @@ export default function CityLapseApp() {
         clock.current.playing = true;
         setPlaying(true);
       },
+      freeCamera: () => setAutoCamera(false),
+      setStyle: (id: string) => setStyleId(id),
       state: () => ({ seconds: clock.current.seconds, duration: timeline.duration, year: timeline.yearAt(clock.current.seconds), playing: clock.current.playing }),
     };
   }, [timeline, seek]);
@@ -278,6 +351,10 @@ export default function CityLapseApp() {
         buffers={buffers}
         autoCamera={autoCamera}
         heightScale={heightScale}
+        extras={extras}
+        style={styleById(styleId)}
+        fullDetail={detail === "full"}
+        requestFrames={poke}
         onUserCamera={() => setAutoCamera(false)}
       />
 
@@ -346,6 +423,20 @@ export default function CityLapseApp() {
           <div className="legend-row">
             <span className="swatch landmark" /> Landmark (real height)
           </div>
+          {city.extras?.fabric && (
+            <>
+              <div className="legend-title vscale-title" title="How the city before satellite records is drawn. An artist's impression: it changes the look, not the data.">
+                Historic style
+              </div>
+              <div className="vscale" role="group" aria-label="Historic style">
+                {HISTORIC_STYLES.map((st) => (
+                  <button key={st.id} className={st.id === styleId ? "on" : ""} aria-pressed={st.id === styleId} title={st.blurb} onClick={() => setStyleId(st.id)}>
+                    {st.name}
+                  </button>
+                ))}
+              </div>
+            </>
+          )}
           <div className="legend-title vscale-title">Vertical scale</div>
           <div className="vscale" role="group" aria-label="Vertical scale">
             {[1, 2, 4].map((v) => (
@@ -418,7 +509,7 @@ export default function CityLapseApp() {
         </div>
       )}
 
-      {aboutOpen && city && index && <AboutPanel city={city} index={index} onClose={() => setAboutOpen(false)} />}
+      {aboutOpen && city && index && <AboutPanel city={city} index={index} realIndex={extras.realIndex} onClose={() => setAboutOpen(false)} />}
     </main>
   );
 }

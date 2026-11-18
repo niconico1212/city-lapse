@@ -19,6 +19,21 @@ and `docs/DATA_LOG.md` says, city by city, what is documented, what is reconstru
 
 Reconstructed eras are labelled on screen, and the "About the data" panel lists every source.
 
+## Artistic layers (pilot: Tokyo)
+
+Tokyo has three extra layers, switched on in `data/extras.json`:
+
+- **Landmark models** that go up over their real construction period (`scripts/09_landmark_models.py`,
+  facts in `data/models/tokyo.facts.json`). Position, height and years are sourced; shapes are schematic.
+- **Real building shapes from 1975**, shown when zoomed in: 1.7 million footprints with measured heights
+  from PLATEAU, Japan's open 3D city model (`scripts/08_real_buildings.py`, tiles in
+  `public/data/tokyo-real/`). Their construction years are mostly unknown and are assigned by rule.
+- **Stylised fabric before 1900**, an artist's impression in one of three historic styles (woodblock, ink,
+  lantern), chosen in the legend or with `?style=ink` in the URL.
+
+The About panel in the app says which parts are sourced, which are assigned by rule and which are
+drawn for effect. `docs/pilot/` holds reference frames.
+
 ## Run the app
 
 ```bash
@@ -63,6 +78,8 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 | Population | `scripts/02_merge_population.py` | Merges the UN series (1950 onward) into the per-city files |
 | Footprints | `scripts/03_footprints.py` | Per-cell entry years, the pre-1975 reconstruction, `data/footprints/<slug>/<year>.geojson` |
 | Buildings | `scripts/04_buildings.py` | Seeded procedural generation, `public/data/<slug>.bin` and `.json` |
+| Real shapes | `scripts/08_real_buildings.py` | Tokyo only: PLATEAU footprints into tiles (needs the GeoParquet files in `raw/plateau/`) |
+| Landmark models | `scripts/09_landmark_models.py` | Tokyo only: models from `data/models/tokyo.facts.json` |
 | Index | `scripts/05_export_index.py` | `public/data/cities.json` for the picker |
 | Log | `scripts/06_data_log.py` | Regenerates `docs/DATA_LOG.md` |
 

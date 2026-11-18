@@ -1,0 +1,4 @@
+{
+  "_about": "Per-city switches for the artistic layers (pilot: Tokyo). real_shapes: today's real building footprints from 1975 on (scripts/08_real_buildings.py). era_fabric: stylised generated houses for cells built up before 1900 (an artist's impression). models: landmark models that rise over their construction period (scripts/09_landmark_models.py).",
+  "tokyo": { "real_shapes": true, "era_fabric": true, "models": true }
+}

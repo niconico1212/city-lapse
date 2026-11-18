@@ -1,0 +1,426 @@
+{
+ "slug": "tokyo",
+ "source": "Wikidata (CC0): inception (P571) or official opening (P1619), matched to the PLATEAU footprint at the item's coordinates with a height within 40 %",
+ "buildings": [
+  {
+   "name": "Norinchukin Bank Yurakucho building",
+   "wikidata": "Q11637965",
+   "year": 1933,
+   "wikidata_height_m": 91.0,
+   "plateau_height_m": 113.3
+  },
+  {
+   "name": "Meiji Seimei Kan",
+   "wikidata": "Q3023897",
+   "year": 1934,
+   "wikidata_height_m": 115.84,
+   "plateau_height_m": 148.4
+  },
+  {
+   "name": "Mizuho Bank Uchisaiwaichō Head Office Building",
+   "wikidata": "Q6884774",
+   "year": 1980,
+   "wikidata_height_m": 143.0,
+   "plateau_height_m": 131.3
+  },
+  {
+   "name": "Tokyo Court Complex Building",
+   "wikidata": "Q11525948",
+   "year": 1984,
+   "wikidata_height_m": 92.0,
+   "plateau_height_m": 93.1
+  },
+  {
+   "name": "ANA InterContinental Tokyo",
+   "wikidata": "Q3530512",
+   "year": 1986,
+   "wikidata_height_m": 132.85,
+   "plateau_height_m": 147.4
+  },
+  {
+   "name": "Ark Hills",
+   "wikidata": "Q1770571",
+   "year": 1986,
+   "wikidata_height_m": 153.34,
+   "plateau_height_m": 147.4
+  },
+  {
+   "name": "Toho Hibiya Building",
+   "wikidata": "Q11526607",
+   "year": 1987,
+   "wikidata_height_m": 72.2,
+   "plateau_height_m": 79.0
+  },
+  {
+   "name": "NEC Supertower",
+   "wikidata": "Q1621350",
+   "year": 1990,
+   "wikidata_height_m": 180.0,
+   "plateau_height_m": 181.7
+  },
+  {
+   "name": "Gotenyama Trust Tower",
+   "wikidata": "Q123345452",
+   "year": 1990,
+   "wikidata_height_m": 99.2,
+   "plateau_height_m": 103.3
+  },
+  {
+   "name": "New Otani Garden Court",
+   "wikidata": "Q3520999",
+   "year": 1991,
+   "wikidata_height_m": 134.7,
+   "plateau_height_m": 113.9
+  },
+  {
+   "name": "Shiroyama Trust Tower",
+   "wikidata": "Q123333717",
+   "year": 1991,
+   "wikidata_height_m": 158.4,
+   "plateau_height_m": 151.0
+  },
+  {
+   "name": "Akasaka Park Building",
+   "wikidata": "Q19951615",
+   "year": 1993,
+   "wikidata_height_m": 141.0,
+   "plateau_height_m": 98.6
+  },
+  {
+   "name": "DN Tower 21",
+   "wikidata": "Q3011415",
+   "year": 1993,
+   "wikidata_height_m": 99.8,
+   "plateau_height_m": 113.3
+  },
+  {
+   "name": "Setagaya Business Square Tower",
+   "wikidata": "Q130492044",
+   "year": 1993,
+   "wikidata_height_m": 120.0,
+   "plateau_height_m": 130.6
+  },
+  {
+   "name": "Edo-Tokyo Museum",
+   "wikidata": "Q1191042",
+   "year": 1993,
+   "wikidata_height_m": 62.2,
+   "plateau_height_m": 63.9
+  },
+  {
+   "name": "リバーサイド隅田セントラルタワー",
+   "wikidata": "Q142029960",
+   "year": 1994,
+   "wikidata_height_m": 134.0,
+   "plateau_height_m": 130.2
+  },
+  {
+   "name": "Saint Luke's Tower",
+   "wikidata": "Q2736562",
+   "year": 1994,
+   "wikidata_height_m": 220.63,
+   "plateau_height_m": 211.6
+  },
+  {
+   "name": "Bunkyo Civic Center",
+   "wikidata": "Q2928236",
+   "year": 1994,
+   "wikidata_height_m": 141.7,
+   "plateau_height_m": 138.7
+  },
+  {
+   "name": "Nakano Sakaue Sun Bright Twin",
+   "wikidata": "Q123023645",
+   "year": 1996,
+   "wikidata_height_m": 134.0,
+   "plateau_height_m": 140.1
+  },
+  {
+   "name": "Tokyo Opera City Tower",
+   "wikidata": "Q1201889",
+   "year": 1996,
+   "wikidata_height_m": 234.371,
+   "plateau_height_m": 243.3
+  },
+  {
+   "name": "FCG Building",
+   "wikidata": "Q10954019",
+   "year": 1996,
+   "wikidata_height_m": 123.0,
+   "plateau_height_m": 122.3
+  },
+  {
+   "name": "Harmony Square",
+   "wikidata": "Q11327366",
+   "year": 1997,
+   "wikidata_height_m": 125.0,
+   "plateau_height_m": 126.3
+  },
+  {
+   "name": "Shin-saiwaibashi Building",
+   "wikidata": "Q21019081",
+   "year": 1997,
+   "wikidata_height_m": 94.365,
+   "plateau_height_m": 100.9
+  },
+  {
+   "name": "Odakyu Southern Tower",
+   "wikidata": "Q3349080",
+   "year": 1998,
+   "wikidata_height_m": 150.75,
+   "plateau_height_m": 153.5
+  },
+  {
+   "name": "Shibuya Mark City",
+   "wikidata": "Q5364903",
+   "year": 2000,
+   "wikidata_height_m": 99.67,
+   "plateau_height_m": 98.0
+  },
+  {
+   "name": "NTT Docomo Yoyogi Building",
+   "wikidata": "Q2090752",
+   "year": 2000,
+   "wikidata_height_m": 272.0,
+   "plateau_height_m": 240.6
+  },
+  {
+   "name": "Sanno Park Tower",
+   "wikidata": "Q1101096",
+   "year": 2000,
+   "wikidata_height_m": 194.5,
+   "plateau_height_m": 199.4
+  },
+  {
+   "name": "Tokyo Sankei Building",
+   "wikidata": "Q21019215",
+   "year": 2000,
+   "wikidata_height_m": 146.0,
+   "plateau_height_m": 142.8
+  },
+  {
+   "name": "Tokyo Takarazuka Building",
+   "wikidata": "Q65271271",
+   "year": 2000,
+   "wikidata_height_m": 118.85,
+   "plateau_height_m": 117.2
+  },
+  {
+   "name": "Shinjuku Oak Tower",
+   "wikidata": "Q3482260",
+   "year": 2002,
+   "wikidata_height_m": 184.0,
+   "plateau_height_m": 179.5
+  },
+  {
+   "name": "Marunouchi Building",
+   "wikidata": "Q1049122",
+   "year": 2002,
+   "wikidata_height_m": 179.2,
+   "plateau_height_m": 180.1
+  },
+  {
+   "name": "Shiodome City Center",
+   "wikidata": "Q1134566",
+   "year": 2003,
+   "wikidata_height_m": 215.75,
+   "plateau_height_m": 212.4
+  },
+  {
+   "name": "Nittele Tower",
+   "wikidata": "Q2913644",
+   "year": 2003,
+   "wikidata_height_m": 192.8,
+   "plateau_height_m": 210.0
+  },
+  {
+   "name": "Shiodome Tower",
+   "wikidata": "Q97706309",
+   "year": 2003,
+   "wikidata_height_m": 172.0,
+   "plateau_height_m": 173.3
+  },
+  {
+   "name": "Meiji Yasuda Life Insurance Building",
+   "wikidata": "Q3304622",
+   "year": 2004,
+   "wikidata_height_m": 147.0,
+   "plateau_height_m": 148.4
+  },
+  {
+   "name": "Shin-Marunouchi Building",
+   "wikidata": "Q1134387",
+   "year": 2007,
+   "wikidata_height_m": 197.6,
+   "plateau_height_m": 199.9
+  },
+  {
+   "name": "Mode Gakuen Cocoon Tower",
+   "wikidata": "Q1030463",
+   "year": 2008,
+   "wikidata_height_m": 204.0,
+   "plateau_height_m": 173.0
+  },
+  {
+   "name": "Akasaka Biz Tower",
+   "wikidata": "Q5364168",
+   "year": 2008,
+   "wikidata_height_m": 179.25,
+   "plateau_height_m": 180.1
+  },
+  {
+   "name": "Sumitomo Fudosan Shiodome Hamarikyu Building",
+   "wikidata": "Q130526280",
+   "year": 2009,
+   "wikidata_height_m": 118.6,
+   "plateau_height_m": 115.6
+  },
+  {
+   "name": "Marunouchi Park Building",
+   "wikidata": "Q11367941",
+   "year": 2009,
+   "wikidata_height_m": 170.0,
+   "plateau_height_m": 172.1
+  },
+  {
+   "name": "Tokyu Capitol Tower",
+   "wikidata": "Q123345327",
+   "year": 2010,
+   "wikidata_height_m": 112.21,
+   "plateau_height_m": 120.2
+  },
+  {
+   "name": "Hamarikyu Intercity",
+   "wikidata": "Q24865143",
+   "year": 2011,
+   "wikidata_height_m": 116.15,
+   "plateau_height_m": 117.2
+  },
+  {
+   "name": "JP Tower",
+   "wikidata": "Q11226072",
+   "year": 2012,
+   "wikidata_height_m": 200.0,
+   "plateau_height_m": 205.2
+  },
+  {
+   "name": "Kabukiza Tower",
+   "wikidata": "Q22118338",
+   "year": 2013,
+   "wikidata_height_m": 145.5,
+   "plateau_height_m": 144.1
+  },
+  {
+   "name": "Shinjuku Tōhō Building",
+   "wikidata": "Q17217568",
+   "year": 2015,
+   "wikidata_height_m": 130.25,
+   "plateau_height_m": 105.3
+  },
+  {
+   "name": "Nippon Life Hamamatsucho Crea Tower",
+   "wikidata": "Q117695668",
+   "year": 2018,
+   "wikidata_height_m": 156.0,
+   "plateau_height_m": 156.3
+  },
+  {
+   "name": "Tokyo Midtown Hibiya",
+   "wikidata": "Q48752023",
+   "year": 2018,
+   "wikidata_height_m": 192.0,
+   "plateau_height_m": 191.6
+  },
+  {
+   "name": "Shibuya Scramble Square",
+   "wikidata": "Q64026922",
+   "year": 2019,
+   "wikidata_height_m": 229.71,
+   "plateau_height_m": 220.0
+  },
+  {
+   "name": "SHIBUYA SOLASTA",
+   "wikidata": "Q95715739",
+   "year": 2019,
+   "wikidata_height_m": 107.0,
+   "plateau_height_m": 97.1
+  },
+  {
+   "name": "SHIBUYA SKY",
+   "wikidata": "Q116281743",
+   "year": 2019,
+   "wikidata_height_m": 229.0,
+   "plateau_height_m": 220.0
+  },
+  {
+   "name": "パークタワー晴海",
+   "wikidata": "Q137700592",
+   "year": 2019,
+   "wikidata_height_m": 169.99,
+   "plateau_height_m": 174.9
+  },
+  {
+   "name": "Shibuya Parco・Hulic Building",
+   "wikidata": "Q97310199",
+   "year": 2019,
+   "wikidata_height_m": 99.9,
+   "plateau_height_m": 80.4
+  },
+  {
+   "name": "Sumitomo Fudosan Shibuya Tower",
+   "wikidata": "Q123338101",
+   "year": 2019,
+   "wikidata_height_m": 110.7,
+   "plateau_height_m": 104.2
+  },
+  {
+   "name": "Nihonbashi Muromachi Mitsui Tower",
+   "wikidata": "Q109362313",
+   "year": 2019,
+   "wikidata_height_m": 140.48,
+   "plateau_height_m": 141.3
+  },
+  {
+   "name": "宮益坂ビルディング",
+   "wikidata": "Q109934109",
+   "year": 2020,
+   "wikidata_height_m": 61.72,
+   "plateau_height_m": 58.1
+  },
+  {
+   "name": "Yanmar Tokyo",
+   "wikidata": "Q132444494",
+   "year": 2022,
+   "wikidata_height_m": 70.29,
+   "plateau_height_m": 67.0
+  },
+  {
+   "name": "Toranomon Hills Station Tower",
+   "wikidata": "Q130621500",
+   "year": 2023,
+   "wikidata_height_m": 265.75,
+   "plateau_height_m": 264.6
+  },
+  {
+   "name": "パークタワー勝どきサウス",
+   "wikidata": "Q137700879",
+   "year": 2023,
+   "wikidata_height_m": 188.8,
+   "plateau_height_m": 198.1
+  },
+  {
+   "name": "Tokyu Kabukicho Tower",
+   "wikidata": "Q109595002",
+   "year": 2023,
+   "wikidata_height_m": 225.0,
+   "plateau_height_m": 189.8
+  },
+  {
+   "name": "ワールドタワーレジデンス",
+   "wikidata": "Q137700958",
+   "year": 2024,
+   "wikidata_height_m": 181.04,
+   "plateau_height_m": 156.3
+  }
+ ]
+}

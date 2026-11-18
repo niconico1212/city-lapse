@@ -3,6 +3,7 @@
 import { Fragment, useEffect, useRef, type ReactNode } from "react";
 import { formatYear } from "@/lib/timeline";
 import type { CityData, CityIndex, Confidence } from "@/lib/types";
+import type { RealIndex } from "@/lib/extras";
 
 /** Turn the URLs inside a citation string into links, leaving the rest as text. */
 function Cite({ text }: { text: string }) {
@@ -34,7 +35,7 @@ function Conf({ c }: { c: Confidence }) {
   return <span className={`tag ${c}`}>{c}</span>;
 }
 
-export default function AboutPanel({ city, index, onClose }: { city: CityData; index: CityIndex; onClose: () => void }) {
+export default function AboutPanel({ city, index, realIndex, onClose }: { city: CityData; index: CityIndex; realIndex?: RealIndex | null; onClose: () => void }) {
   const ref = useRef<HTMLDivElement>(null);
   useEffect(() => {
     ref.current?.focus();
@@ -107,6 +108,53 @@ export default function AboutPanel({ city, index, onClose }: { city: CityData; i
             </li>
           </ul>
         </section>
+
+        {city.extras && (city.extras.fabric || city.extras.real || city.extras.models) && (
+          <section>
+            <h3>Artistic layers in {city.name}</h3>
+            <p>
+              {city.name} has three extra layers. They change how the city is drawn, not the data behind it, and each
+              is labelled here for what it is.
+            </p>
+            <ul>
+              {city.extras.models && (
+                <li>
+                  <strong>Landmark models: real facts, schematic shapes.</strong> Position, height and completion year
+                  are the sourced values. The shapes are simple massings built from published dimensions (base width,
+                  deck heights, tiers) where those were found, and default proportions where they were not. Each model
+                  goes up over its real construction period where the start year was sourced.
+                </li>
+              )}
+              {city.extras.real && (
+                <li>
+                  <strong>Real building shapes from 1975: zoom in.</strong> When you are zoomed in, the generated boxes
+                  give way to today’s real building footprints and measured heights
+                  {realIndex ? ` (${realIndex.stats.buildings.toLocaleString("en-US")} buildings; ${realIndex.source.name}, ${realIndex.source.publisher})` : ""}.
+                  They are untextured. <strong>Their construction years are mostly not recorded</strong>
+                  {realIndex
+                    ? `: ${realIndex.stats.dated_documented.toLocaleString("en-US")} tall buildings are dated from Wikidata, ${realIndex.stats.dated_ghsl_epoch.toLocaleString("en-US")} by the satellite epoch in which their block was first built up, and the remaining ${realIndex.stats.dated_generated.toLocaleString("en-US")} are placed by rule: low buildings appear around 1975, taller ones in a generated year between 1975 and 2020`
+                    : ""}
+                  . A building always wears its present-day shape, including in years when something else stood on the
+                  lot. Footprints include podiums, so some towers are drawn wider than they are.
+                </li>
+              )}
+              {city.extras.fabric && (
+                <li>
+                  <strong>Before 1900: an artist’s impression.</strong> {city.extras.fabric.count.toLocaleString("en-US")} low
+                  roofed houses are generated for the blocks the reconstruction places inside the city before 1900, and
+                  stand until a generated modernisation year between 1900 and 1965. They show the kind of fabric the
+                  city had, not actual buildings or the real street plan. The historic style (woodblock, ink or
+                  lantern) recolours them and the base map and fades into the modern map by 1960.
+                </li>
+              )}
+            </ul>
+            {realIndex && (
+              <p className="src">
+                <Cite text={`${realIndex.source.name}. ${realIndex.source.url} Derived from ${realIndex.source.derived}. Licence: ${realIndex.source.licence}`} />
+              </p>
+            )}
+          </section>
+        )}
 
         <section>
           <h3>Start of the timeline</h3>

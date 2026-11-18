@@ -1,0 +1,7 @@
+# Not needed to build the site: research files, provenance, pipeline, raw downloads.
+raw
+.venv
+scripts
+docs
+data
+requirements.txt

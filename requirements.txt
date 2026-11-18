@@ -10,3 +10,4 @@ scikit-image
 requests
 openpyxl
 xlrd
+pyarrow

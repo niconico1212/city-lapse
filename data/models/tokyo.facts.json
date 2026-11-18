@@ -1,0 +1,263 @@
+{
+  "slug": "tokyo",
+  "landmarks": [
+    {
+      "name": "Zōjō-ji Sangedatsumon gate",
+      "construction_start_note": "Not sourced as a single year. The temple's own page says the gate was built in 1611, blown down in 1621 and rebuilt in 1622; ja.wikipedia gives Genna 8 (1622) in the text and Genna 7 (1621) in the cultural-property entry.",
+      "dimensions": {
+        "plan_shape": "rectangle",
+        "base_width_m": 21.05,
+        "base_depth_m": 9.72,
+        "tiers": 2,
+        "notes": "Two-storey double-roofed gate (nijumon), 5 x 3 bays with three doorways, hip-and-gable (irimoya) roof, tile. JAANUS gives the plan as '21.05m x 9.72m' without saying which is width and which is depth (assumed width x depth here). Height 21 m (en.wikipedia). Single-storey side buildings (sanro) holding the stairs flank the gate."
+      },
+      "dimensions_source": "https://www.aisf.or.jp/~jaanus/deta/s/sangedatsumon.htm (21.05m x 9.72m, 2-storied, 5 x 3 bays, three entrances); https://en.wikipedia.org/wiki/Zōjō-ji (21 m, two-storied, 1622); https://ja.wikipedia.org/wiki/増上寺 (五間三戸二階二重門、入母屋造、本瓦葺); https://www.zojoji.or.jp/keidai/ (built 1611, blown down 1621, rebuilt 1622)",
+      "color": {
+        "description": "vermilion lacquer (朱漆塗)",
+        "source": "https://www.zojoji.or.jp/keidai/"
+      }
+    },
+    {
+      "name": "Edo Castle keep (Kan'ei tenshu)",
+      "construction_start": 1637,
+      "construction_start_source": "https://ja.wikipedia.org/wiki/江戸城 (\"寛永14年（1637年）には天守台・御殿を修築し、翌年には寛永度天守が完成する\"). CAUTION: the same article's keep section says base and keep were built 1636 (Kan'ei 13) to the following year, so the start is 1636 or 1637 depending on the passage. Completion 1638 confirmed at https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/edojoh/page2-1.html",
+      "dimensions": {
+        "plan_shape": "rectangle",
+        "tiers": 5,
+        "floors": 5,
+        "notes": "Independent layered-tower (sotogata) keep: 5 roof tiers, 5 floors plus 1 basement floor inside the stone base. Column-bay sizes per tier (bays of 7 shaku): basement 12x10, 1st 18x16, 2nd 15x13, 3rd 12x10, 4th 10x8, 5th 8x6. Derived (not stated): at 7 shaku = 2.121 m per bay the 1st tier is about 38.2 x 33.9 m and the 5th about 17.0 x 12.7 m. Height: 30 ken from the honmaru ground including the stone base (ja.wikipedia); a 2015 calculation from the surviving drawings gives 58.63 m (Tokyo Shimbun, cited on ja.wikipedia); en.wikipedia gives a five-storey keep 51 m high. Stone base: the Genna-period base was 7 ken high and the Kan'ei base 'followed its scale'; the base that survives today (rebuilt after the 1657 fire, lowered to 6 ken) measures 41 m east-west x 45 m north-south x 11 m high (en.wikipedia). A small attached base (ko-tenshudai) on the south side carried no building. Walls clad in blackened copper sheet, roofs copper tile."
+      },
+      "dimensions_source": "https://ja.wikipedia.org/wiki/江戸城 (寛永度天守: tier sizes, 30 ken, 58.63 m, copper cladding); https://en.wikipedia.org/wiki/Edo_Castle (51 m keep; present base 41 x 45 x 11 m)",
+      "color": {
+        "description": "black walls (copper sheet treated to appear black) with copper-tiled roofs",
+        "source": "https://ja.wikipedia.org/wiki/江戸城"
+      }
+    },
+    {
+      "name": "National Diet Building",
+      "construction_start": 1920,
+      "construction_start_source": "https://ja.wikipedia.org/wiki/国会議事堂 (着工 1920年1月30日); https://en.wikipedia.org/wiki/National_Diet_Building (construction_start_date 1920)",
+      "dimensions": {
+        "plan_shape": "rectangle",
+        "base_width_m": 206.36,
+        "base_depth_m": 88.63,
+        "floors": 3,
+        "roof_height_m": 20.91,
+        "notes": "Symmetrical about the central tower. Wings: 3 floors above ground + 1 basement, 20.91 m high. Central tower: 65.45 m high, 4 floors (9 levels counting to the top of the tower), with a stepped pyramid-shaped roof. Building footprint area 13,356 m2. Exterior faced in granite."
+      },
+      "dimensions_source": "https://ja.wikipedia.org/wiki/国会議事堂 (幅 206.36m, 奥行き 88.63m, 両翼部 20.91m, 中央塔 65.45m; figures there cite 『帝國議會議事堂建築の概要』 pp.111-119)"
+    },
+    {
+      "name": "Tokyo Tower",
+      "construction_start": 1957,
+      "construction_start_source": "https://ja.wikipedia.org/wiki/東京タワー (着工 1957年6月29日, groundbreaking ceremony; steel erection from 21 September 1957); https://en.wikipedia.org/wiki/Tokyo_Tower (construction_start_date June 1957)",
+      "dimensions": {
+        "plan_shape": "square",
+        "base_width_m": 88.0,
+        "base_depth_m": 88.0,
+        "decks": [
+          {
+            "name": "Main Deck (two storeys)",
+            "z0_m": 120
+          },
+          {
+            "name": "Top Deck",
+            "z0_m": 223.55
+          }
+        ],
+        "mast_from_m": 253,
+        "notes": "Four-legged steel lattice (truss) tower, 333 m (formally 332.6 m), 351 m above sea level. Leg spacing 88.0 m measured between leg centres. The four legs are joined by an arch whose top is at 40 m. A 5-storey building (FootTown) sits between the legs. Deck heights: ja.wikipedia says the Main Deck sits from 120 m above ground on two levels (called 125 m at opening) and the Top Deck is at 223.55 m above ground, and that the official '145 m / 150 m' and '250 m' labels are heights above sea level; en.wikipedia and the official site simply give Main Deck 150 m and Top Deck 250 m (249.6 m). No source gives the top (z1) of either deck. mast_from_m is DERIVED, not stated: 333 m minus the 80 m antenna given by ja.wikipedia = 253 m (en.wikipedia says the antenna was 90 m long, which would give 243 m). A cylindrical digital antenna 13 m in diameter and 11 m high was added at the top of the tower body above the Top Deck. Paint: above the top of the Main Deck, alternating equal bands of international orange and white, 7 bands since 1986 (11 before); the Main Deck side walls are white (since 1998); below the Main Deck the tower is orange."
+      },
+      "dimensions_source": "https://ja.wikipedia.org/wiki/東京タワー; https://en.wikipedia.org/wiki/Tokyo_Tower; https://www.tokyotower.co.jp/towerpedia/ (333 m, Main Deck 150 m, Top Deck 250 m)",
+      "color": {
+        "description": "international orange (黄赤) and white, in bands; aviation obstruction marking",
+        "hex": [
+          "#FF4F00"
+        ],
+        "source": "https://ja.wikipedia.org/wiki/東京タワー and https://en.wikipedia.org/wiki/Tokyo_Tower state the colour name only. The hex is the generic 'International Orange (Aerospace)' value from https://en.wikipedia.org/wiki/International_orange, not a Tokyo Tower paint specification."
+      }
+    },
+    {
+      "name": "Kaminarimon (Sensō-ji outer gate, current structure)",
+      "construction_start": 1959,
+      "construction_start_source": "https://ja.wikipedia.org/wiki/雷門 (\"翌1959年に工事が始まった\"). Rebuilt gate dated 1 May 1960 at https://www.senso-ji.jp/guide/guide01.html",
+      "dimensions": {
+        "plan_shape": "rectangle",
+        "base_width_m": 11.4,
+        "base_depth_m": 6.1,
+        "tiers": 1,
+        "notes": "Single-storey gabled (kirizuma) eight-legged gate (hakkyakumon), tiled roof, reinforced concrete. Frontage 11.4 m, height 11.7 m, floor area 69.3 m2 (official). base_depth_m is DERIVED (69.3 / 11.4 = 6.1 m), not stated. Central red lantern 3.9 m high x 3.3 m wide."
+      },
+      "dimensions_source": "https://www.senso-ji.jp/guide/guide01.html (建坪 69.3m2・間口 11.4m・高さ 11.7m; 切妻造り八脚門); https://en.wikipedia.org/wiki/Kaminarimon",
+      "color": {
+        "description": "vermilion-painted gate (朱塗り) with a red lantern",
+        "source": "https://ja.wikipedia.org/wiki/雷門"
+      }
+    },
+    {
+      "name": "Hōzōmon (Sensō-ji inner gate, current structure)",
+      "construction_start": 1961,
+      "construction_start_source": "https://www.senso-ji.jp/guide/guide03.html (地鎮式 昭和36年(1961)12月20日, ground-breaking rite; 完成 昭和39年(1964)4月1日)",
+      "dimensions": {
+        "plan_shape": "rectangle",
+        "base_width_m": 21.1,
+        "base_depth_m": 8.2,
+        "tiers": 2,
+        "notes": "Two-storey gate with hip-and-gable (irimoya) roof, five bays with three doorways, steel and reinforced concrete. Lower storey 21.1 m long, upper storey 20.0 m long; lower floor area 173.6 m2, upper 144.5 m2; total height 21.7 m (official). base_depth_m is DERIVED (173.6 / 21.1 = 8.2 m); en.wikipedia gives 21 m wide and 8 m deep. Height conflict: the temple's page says 21.7 m, en.wikipedia (and tokyo.json) say 22.7 m."
+      },
+      "dimensions_source": "https://www.senso-ji.jp/guide/guide03.html; https://en.wikipedia.org/wiki/Hōzōmon",
+      "color": {
+        "description": "vermilion-painted two-storey gate (朱塗りの楼門)",
+        "source": "https://www.senso-ji.jp/guide/guide03.html"
+      }
+    },
+    {
+      "name": "Kasumigaseki Building",
+      "construction_start": 1965,
+      "construction_start_source": "https://ja.wikipedia.org/wiki/霞が関ビルディング (着工 1965年3月18日); https://en.wikipedia.org/wiki/Kasumigaseki_Building (March 1965); https://www.skyscrapercenter.com/building/kasumigaseki-building/3615 (1965)",
+      "dimensions": {
+        "floors": 36,
+        "notes": "36 floors above ground plus a 3-level penthouse, 3 basements; 156 m. Plan shape, width and depth were not found in any source opened. Building footprint area 3,561.20 m2 (ja.wikipedia; may include low-rise parts). A 147 m figure appears on ja.wikipedia only in the title of a 1968 film ('霞が関147M'); no opened page states an eaves height."
+      },
+      "dimensions_source": "https://ja.wikipedia.org/wiki/霞が関ビルディング; https://www.skyscrapercenter.com/building/kasumigaseki-building/3615"
+    },
+    {
+      "name": "Sensō-ji five-storey pagoda (current structure)",
+      "construction_start": 1970,
+      "construction_start_source": "https://www.senso-ji.jp/guide/guide06.html (着工式 昭和45年(1970)10月17日; ground-breaking rite 17 Oct 1968; ridge-raising 25 Nov 1971; tower completed 1 Nov 1973)",
+      "dimensions": {
+        "plan_shape": "square",
+        "base_width_m": 7.5,
+        "base_depth_m": 7.5,
+        "tiers": 5,
+        "notes": "Five-storey pagoda in steel and reinforced concrete standing on a podium building (to-in). Tower itself 48.32 m; 53.32 m from the ground, so the podium is about 5 m high. First storey 7.50 m square. Finial (kurin) 15.07 m, included in the tower height. Podium building area 1,723.12 m2 (about 41.5 m square if square - derived, shape not stated)."
+      },
+      "dimensions_source": "https://www.senso-ji.jp/guide/guide06.html (塔高 48.32m(地上、53.32m), 九輪高 15.07m, 初層幅 7.50m四方, 塔院 1723.12m2)",
+      "color": {
+        "description": "vermilion (朱も鮮やかな五重塔)",
+        "source": "https://www.senso-ji.jp/guide/guide06.html"
+      }
+    },
+    {
+      "name": "Sunshine 60",
+      "construction_start": 1973,
+      "construction_start_source": "https://en.wikipedia.org/wiki/Sunshine_60 (construction_start_date July 1973); https://ja.wikipedia.org/wiki/サンシャイン60 (建設期間 1973年-1978年); https://www.skyscrapercenter.com/building/sunshine-60-tower/990 (1973)",
+      "dimensions": {
+        "floors": 60,
+        "roof_height_m": 226.3,
+        "notes": "60 floors above ground plus a 3-level penthouse; basements 4 (Wikipedia) or 5 (CTBUH). Eaves height 226.3 m, which is also the 60th-floor observatory height; top of penthouse 239.7 m (CTBUH rounds to 240 m). Plan shape, width and depth were not found."
+      },
+      "dimensions_source": "https://ja.wikipedia.org/wiki/サンシャイン60 (軒高226.3メートル、塔屋最頂部239.7メートル); https://www.skyscrapercenter.com/building/sunshine-60-tower/990"
+    },
+    {
+      "name": "Tokyo Metropolitan Government Building",
+      "construction_start": 1988,
+      "construction_start_source": "https://ja.wikipedia.org/wiki/東京都庁舎 (着工 1988年3月); https://en.wikipedia.org/wiki/Tokyo_Metropolitan_Government_Building (April 1988); https://www.skyscrapercenter.com/building/tokyo-metropolitan-government-building/945 (1988)",
+      "dimensions": {
+        "plan_shape": "rectangle",
+        "base_width_m": 108.8,
+        "base_depth_m": 44.8,
+        "floors": 48,
+        "roof_height_m": 241.87,
+        "decks": [
+          {
+            "name": "North and South observatories (45th floor, one in each tower)",
+            "z0_m": 202
+          }
+        ],
+        "notes": "Building No.1: 48 floors above ground, 3 below; highest point 243.4 m, eaves 241.87 m. Structural plan from the Tokyo finance bureau's framing drawing: 108.8 m long (X) x 44.8 m deep (Y), made of a left and a right block each 44.8 m long (so about 19.2 m between them - derived). Each block has 4 super-columns at its corners (8 in total), tied by storey-deep super-beams. ja.wikipedia describes the elevation as about 240 m high and 110 m wide, with the upper part formed as twin towers of eight-pointed-star (octagram) plan and service shafts at the four corners. en.wikipedia: the tower 'splits into two sections at the 33rd floor'. The height in metres of the split was not found in any page opened (33/48 of the height would be roughly 165 m - an estimate only). Floors 43, 44 and 46-48 are plant rooms. Completion: December 1990 (Wikipedia) or March 1991 (finance bureau)."
+      },
+      "dimensions_source": "https://www.zaimu.metro.tokyo.lg.jp/documents/d/zaimu/20l5k201 (Tokyo finance bureau, May 2011: 地上48階, 最高部高さ 243.4m, 軒高 241.87m, 伏図 108.8 / 44.8); https://ja.wikipedia.org/wiki/東京都庁舎; https://en.wikipedia.org/wiki/Tokyo_Metropolitan_Government_Building"
+    },
+    {
+      "name": "Rainbow Bridge",
+      "construction_start": 1987,
+      "construction_start_source": "https://ja.wikipedia.org/wiki/レインボーブリッジ (着工 1987年1月14日); https://en.wikipedia.org/wiki/Rainbow_Bridge_(Tokyo) (begin 1987)",
+      "dimensions": {
+        "plan_shape": "other",
+        "base_width_m": 29.0,
+        "notes": "Three-span suspension bridge, double deck. Total length 798.0 m; spans 111.5 + 570.0 + 111.5 m (main span 570 m; en.wikipedia's body text says 580 m but its infobox says 570 m). Deck width 29.0 m; 49.0 m at the tower foundations. Tower tops 126 m above Tokyo Bay mean sea level (tower structures 119.0 m on the Shibaura side and 117.366 m on the Daiba side); towers are rigid frames, not trusses. Clearance under the girder 51.266 m above mean sea level (en.wikipedia: roadway 52 m). Bearing: about 111 degrees from north (WNW to ESE, Shibaura to Daiba), DERIVED from the OpenStreetMap geometry of the expressway on the bridge (way 316305908: straight segment from 35.6377404, 139.7596098 to 35.6353443, 139.7671984). Tower coordinates were not found; with a 570 m main span each tower is 285 m from mid-span along that bearing."
+      },
+      "dimensions_source": "https://ja.wikipedia.org/wiki/レインボーブリッジ (全長 798.0 m, 支間割 111.5 + 570.0 + 111.5 m, 幅 29.0m, 主塔 TP 126 m, 桁下高 TP 51.266 m); https://en.wikipedia.org/wiki/Rainbow_Bridge_(Tokyo); https://www.openstreetmap.org/way/316305908 (bearing)",
+      "color": {
+        "description": "towers painted white",
+        "source": "https://en.wikipedia.org/wiki/Rainbow_Bridge_(Tokyo)"
+      }
+    },
+    {
+      "name": "Roppongi Hills Mori Tower",
+      "construction_start": 2000,
+      "construction_start_source": "https://en.wikipedia.org/wiki/Roppongi_Hills_Mori_Tower (March 2000); https://ja.wikipedia.org/wiki/六本木ヒルズ森タワー (建設期間 2000年3月 - 2003年3月); https://www.skyscrapercenter.com/building/roppongi-hills-mori-tower/1022 (2000)",
+      "dimensions": {
+        "floors": 54,
+        "roof_height_m": 238,
+        "notes": "54 floors above ground plus a 2-level penthouse, 6 basements; 238 m (CTBUH 238.1 m, no spire). Rooftop 'Sky Deck' with heliport at 238 m above ground (270 m above sea level); indoor observatory on the 52nd floor at 218 m (ja.wikipedia) - en.wikipedia's infobox gives 229.3 m for the observatory. Plan shape and dimensions were not found."
+      },
+      "dimensions_source": "https://ja.wikipedia.org/wiki/六本木ヒルズ森タワー; https://en.wikipedia.org/wiki/Roppongi_Hills_Mori_Tower; https://www.skyscrapercenter.com/building/roppongi-hills-mori-tower/1022"
+    },
+    {
+      "name": "Midtown Tower",
+      "construction_start": 2004,
+      "construction_start_source": "https://ja.wikipedia.org/wiki/ミッドタウン・タワー (建設期間 2004年5月 - 2007年1月); https://en.wikipedia.org/wiki/Tokyo_Midtown (groundbreaking May 18, 2004). CAUTION: https://www.skyscrapercenter.com/building/midtown-tower/901 lists construction start 2003.",
+      "dimensions": {
+        "floors": 54,
+        "notes": "54 floors above ground; basements 5 (Wikipedia) or 4 (CTBUH). Height 248.1 m (Wikipedia) / 247.9 m (CTBUH), no separate spire. Plan shape and dimensions were not found."
+      },
+      "dimensions_source": "https://ja.wikipedia.org/wiki/ミッドタウン・タワー; https://en.wikipedia.org/wiki/Midtown_Tower; https://www.skyscrapercenter.com/building/midtown-tower/901"
+    },
+    {
+      "name": "Tokyo Skytree",
+      "construction_start": 2008,
+      "construction_start_source": "https://www.tokyo-skytree.jp/about/timeline/ (2008 7月14日 着工); https://en.wikipedia.org/wiki/Tokyo_Skytree; https://ja.wikipedia.org/wiki/東京スカイツリー",
+      "dimensions": {
+        "plan_shape": "triangle",
+        "base_width_m": 68,
+        "decks": [
+          {
+            "name": "Tembo Deck (floors 340, 345, 350)",
+            "z0_m": 340,
+            "z1_m": 350
+          },
+          {
+            "name": "Tembo Galleria (floors 445, 450)",
+            "z0_m": 445,
+            "z1_m": 450
+          }
+        ],
+        "mast_from_m": 497,
+        "notes": "Equilateral-triangle plan at the ground, each side about 68 m (official), with a leg truss (kanae truss) at each corner. The section rounds gradually and becomes a circle at about 320 m (ja.wikipedia and the en.wikipedia silhouette caption: 'circular at 320 m elevation'; en.wikipedia's body text says cylindrical from about 350 m). The deck z values are floor levels, not the outer top and bottom of the deck structures; en.wikipedia gives the top floor as 451.3 m. Height as a building 470.97 m (top of the second observatory structure). Steel tower body tops out at 497 m (en.wikipedia infobox 'roof' 495.2 m); above it the gain tower (antenna mast) rises to 634 m. Gain tower outer diameter about 6 m, about 8 m with antennas. Horizontal ring trusses every 12.5 m. A reinforced-concrete central column (shinbashira) runs up the middle. The lift shaft is grey."
+      },
+      "dimensions_source": "https://www.tokyo-skytree.jp/about/outline/ (高さ 634 m, 足元の一辺 約 68 m, 三角形; 天望デッキ 350m, 天望回廊 450m); https://www.tokyo-skytree.jp/about/spec/structure/ (ring truss 12.5 m); https://ja.wikipedia.org/wiki/東京スカイツリー (H320で円, 497 m, ゲイン塔, 470.97 m); https://en.wikipedia.org/wiki/Tokyo_Skytree",
+      "color": {
+        "description": "'Skytree White', an original bluish white based on the traditional Japanese colour aijiro (藍白), the palest indigo-dye shade",
+        "hex": [
+          "#EBF6F7"
+        ],
+        "source": "https://www.tokyo-skytree.jp/about/design/color/ (colour name and basis). The hex is the value https://en.wikipedia.org/wiki/Traditional_colors_of_Japan and https://ja.wikipedia.org/wiki/藍白 give for aijiro, not an official Skytree White value."
+      }
+    },
+    {
+      "name": "Toranomon Hills Mori Tower",
+      "construction_start": 2011,
+      "construction_start_source": "https://ja.wikipedia.org/wiki/虎ノ門ヒルズ (虎ノ門ヒルズ森タワー: 着工 2011年4月1日); https://en.wikipedia.org/wiki/Toranomon_Hills (April 2011); https://www.skyscrapercenter.com/building/toranomon-hills-mori-tower/12388 (2011)",
+      "dimensions": {
+        "floors": 52,
+        "roof_height_m": 247,
+        "notes": "52 floors above ground plus 1 penthouse level, 5 basements. 247 m to the emergency rescue space on the roof (the officially quoted height; CTBUH 'occupied' 247 m); highest part 255.5 m (CTBUH architectural 255.5 m, tip 258 m). A road (Loop Road No. 2) passes through the building at ground level. Building footprint area 9,391 m2. Plan dimensions were not found."
+      },
+      "dimensions_source": "https://ja.wikipedia.org/wiki/虎ノ門ヒルズ (高さ 247m（最高部: 255.5m）, 地上52階、地下5階、塔屋1階); https://www.skyscrapercenter.com/building/toranomon-hills-mori-tower/12388"
+    },
+    {
+      "name": "Azabudai Hills Mori JP Tower",
+      "construction_start": 2019,
+      "construction_start_source": "https://ja.wikipedia.org/wiki/麻布台ヒルズ森JPタワー (着工 2019年8月); https://en.wikipedia.org/wiki/Azabudai_Hills (August 2019); https://www.skyscrapercenter.com/building/mori-jp-tower/35022 (2019)",
+      "dimensions": {
+        "floors": 64,
+        "roof_height_m": 323.1,
+        "notes": "64 floors above ground (CTBUH says 65) plus a 2-level penthouse, 5 basements. Height differs by source: ja.wikipedia 325.49 m; en.wikipedia 325.2 m architectural, roof 323.1 m, top floor 322 m; CTBUH 327.2 m architectural and 328.1 m to tip (tokyo.json uses 327.2). No antenna or spire. Exterior design by Pelli Clarke Pelli Architects. Building footprint area 15,247 m2 (ja.wikipedia, citing Shimizu). Plan dimensions and taper were not found."
+      },
+      "dimensions_source": "https://ja.wikipedia.org/wiki/麻布台ヒルズ森JPタワー; https://en.wikipedia.org/wiki/Azabudai_Hills; https://www.skyscrapercenter.com/building/mori-jp-tower/35022"
+    }
+  ],
+  "gaps": "Plan width and depth could not be sourced for any skyscraper except the Tokyo Metropolitan Government Building, nor could setbacks or the height in metres at which that building splits into twin towers. Sangedatsumon has no construction start; the Edo keep start is 1636 or 1637 depending on the passage; Tokyo Tower's deck tops and mast start are not published (mast start is derived, and ground-level versus sea-level deck heights conflict between sources); Rainbow Bridge tower coordinates were not found (bearing derived from OpenStreetMap); both hex colours are generic reference values, not official paint specifications. Values marked DERIVED in notes are arithmetic on sourced numbers. The CTBUH, tokyotower.co.jp, zojoji.or.jp and JAANUS pages were read through a page-summarising fetch, not raw page text."
+}

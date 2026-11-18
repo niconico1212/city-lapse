@@ -13,7 +13,7 @@ Owner: Nico (GitHub `niconico1212`). Deploy target: Vercel.
 | View | **3D extruded city**: a tilted map where the footprint spreads and buildings extrude upward over time |
 | City list | **Top 50 by metro / urban-area population**, using one ranking source applied consistently. Record which source in `data/cities.json`. |
 | Start year | **Earliest documented** for each city (its founding, or its earliest known settlement). Each city runs on its own clock. |
-| Building realism | **Honest procedural fill.** The footprint, density and height profile are real by era; individual generic buildings are generated. Landmark towers are modeled to their real heights and completion years. A "How this was made" note says so. |
+| Building realism | **Three tiers, each labelled on screen and in the "How this was made" note** (revised with the artistic pass; the first build was procedural fill throughout). **1. Landmarks:** recognisable models at real position, height and completion year, going up over their real construction period. Shapes are schematic, built from published dimensions. **2. Satellite era (1975 on), where an open building dataset exists:** today's real building footprints and heights, untextured. Construction years are mostly unknown, so a building wears its present-day shape and is dated by rule; say so. **3. Before 1975:** an artist's impression. The footprint is still the reconstruction; the buildings are stylised, era-appropriate fabric in a chosen historic style. Where a city has no real-shape data or no stylised fabric yet, it falls back to honest procedural fill: footprint, density and height profile real by era, individual buildings generated. |
 | Overlays | Year counter, population counter, milestone captions, landmark pins |
 | Not in v1 | Side-by-side city comparison, the skyline side view |
 
@@ -42,6 +42,11 @@ Owner: Nico (GitHub `niconico1212`). Deploy target: Vercel.
 
 **Landmarks**
 - CTBUH Skyscraper Center (heights, completion years), plus city-specific sources for older landmarks (castles, cathedrals, temples, forts)
+- Landmark models: construction start and silhouette dimensions per landmark in `data/models/<slug>.facts.json`, each with its source
+
+**Real building shapes (satellite era)**
+- Tokyo: PLATEAU (MLIT open 3D city model), LOD0 footprints with measured heights for the 23 wards, via the Flateau GeoParquet release (CC BY 4.0)
+- Other cities: to be chosen per city (Overture Maps / OpenStreetMap footprints, Google Open Buildings, national open models). Coverage and height quality vary a lot; pilot a poor-data city before rolling out.
 
 **Pre-1975 footprint method:** start from the 1975 GHSL footprint and contract it backward toward the historic core, driven by population and era-typical density. Anchor to dated historical maps where available. Mark it all `reconstructed`.
 
@@ -82,6 +87,16 @@ Footprints: `data/footprints/<slug>/<year>.geojson` (simplified). The app consum
 - Landmarks are placed at their real coordinates and heights, and never generated.
 - Budget is about 50–150k buildings per city for smooth browser performance. Simplify geometry aggressively.
 
+## Artistic layers (`data/extras.json`)
+
+Switched on per city; a city without them shows the procedural fill. Pilot: Tokyo.
+
+- `models`: `scripts/09_landmark_models.py` turns each landmark into stacked prisms that appear bottom to top between construction start and completion. Output `public/data/<slug>-models.json`.
+- `real_shapes`: `scripts/08_real_buildings.py` writes real footprints as z14 tiles in `public/data/<slug>-real/`, loaded by viewport when zoomed in. Inside the loaded block the generated boxes give way from 1975. Dating order: documented (Wikidata), GHSL epoch of the cell, otherwise generated.
+- `era_fabric`: `scripts/04_buildings.py` generates rows of low roofed houses for cells built up before 1900; they stand until the cell's (generated) modernisation year. Three historic styles (woodblock, ink, lantern) restyle the houses and the base map; they change the look, never the data.
+
+Rules that still hold: nothing in these layers changes a sourced number; anything generated or assumed is labelled as such in the About panel; a guessed dimension is never presented as sourced.
+
 ## Stack
 
 - **Next.js** (App Router, static export where possible) + TypeScript
@@ -109,6 +124,7 @@ Footprints: `data/footprints/<slug>/<year>.geojson` (simplified). The app consum
 6. **App polish.** Overlays, playback, picker, about panel, and performance.
 7. **Verification.** A separate agent that didn't produce the data spot-checks about 10 random figures per city against the cited sources and fixes or flags problems.
 8. **Deploy** to Vercel.
+9. **Artistic pass.** Landmark models, real building shapes for the satellite era, stylised fabric before it. Pilot on Tokyo, then one poor-data city, then roll out.
 
 ## Conventions
 

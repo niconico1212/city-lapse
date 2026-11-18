@@ -220,3 +220,60 @@ and sourced start-site coordinates for four cities. Results: `data/verification/
 - The Atlas comparison shows our 1990-2014 footprints growing far more slowly than the Atlas's
   (median x1.29 against x2.52). GHSL's early epochs probably overstate built-up area. Nothing was
   changed for this; it is recorded as a caveat in `docs/DATA_LOG.md` and the About panel.
+
+## Artistic pass (phase 9, pilot: Tokyo)
+
+Nico asked for real-looking buildings from the satellite era, landmark models that go up, and an
+artistic depiction before satellite records, starting with Tokyo. He chose untextured real
+shapes and stylised 3D, and approved revising the locked "building realism" decision in
+`CLAUDE.md`.
+
+**D33. Three realism tiers.** Landmark models; real present-day shapes from 1975 where data
+exists; a stylised artist's impression before. Each tier is labelled in the About panel. Cities
+without the extra data keep the procedural fill.
+
+**D34. Tokyo's real shapes come from PLATEAU** (MLIT), LOD0 footprints with measured heights for
+the 23 wards: 1.7 million buildings after dropping those under 25 m2. Taken from the Flateau
+GeoParquet release (CC BY 4.0) rather than the original CityGML, which is tens of gigabytes.
+
+**D35. Real shapes are today's shapes, dated by rule.** PLATEAU's construction-year field is
+empty for Tokyo. Order of dating: (1) a matching Wikidata item's inception or opening date
+(55 tall buildings); (2) the GHSL epoch in which the building's cell became built-up, if 1980 or
+later (about 2,900); (3) otherwise generated: buildings up to 20 m appear in a 1972-1978 wave,
+taller ones get a seeded year from 1975 to 2020, later the taller they are. So most of Tokyo's
+real buildings appear around 1975, the moment the display switches from reconstruction to
+record, whatever stood on the lot then. The About panel says this plainly.
+
+**D36. Footprints include podiums.** PLATEAU LOD0 merges a tower with its podium, so some towers
+are drawn as wide slabs at full height. PLATEAU LOD2 would fix this for central Tokyo but is far
+larger; not done in the pilot.
+
+**D37. Real shapes show only when zoomed in** (map zoom 12.6 and up), as a block of 5 x 5 tiles
+of about 2 km around the view centre, loaded nearest first. Inside the part of that block that
+has fully arrived, the generated boxes give way from 1975; outside it, and when zoomed out, the
+generated blocks remain. The auto camera now ends closer in (2.4 km radius) for cities with
+real shapes, so they are on screen for the last decades of the film.
+
+**D38. Stylised fabric is generated and labelled as an artist's impression.** For cells the
+reconstruction puts inside the city before 1900: five rows of three lots per 100 m cell, each a
+long low roofed house, with occasional halls and white storehouses, aligned to a smooth random
+street orientation. They stand from the cell's entry year until a seeded modernisation year
+between 1900 and 1965, after which the generated boxes take over. It does not use Edo-period
+land-use maps: where samurai estates, temples and townspeople's blocks really were is not
+represented.
+
+**D39. Three historic styles, Nico to choose.** Woodblock (paper ground, indigo water, grey tile
+roofs), Ink (pale paper, grey washes, black roofs), Lantern (night map, warm timber). The style
+fades into the modern dark map between 1880 and 1960. Styles recolour the generated houses, the
+ground and the base map; they do not touch the data. Default: woodblock.
+
+**D40. Landmark models are schematic massings from sourced dimensions.** A builder per kind
+(lattice tower, round tower, skyscraper, twin-top tower, gate, pagoda, castle keep, bridge)
+takes the dimensions researched into `data/models/<slug>.facts.json`. Where a dimension was not
+found, a default proportion is used and the model's `shape_source` says so. Skyscraper plates
+were not found for most towers, so those use a plate in proportion to height. Colours are used
+only where a source names one (Tokyo Tower's international orange and white bands, Skytree
+white); the hex values are generic references, not paint specifications.
+
+**D41. Models go up over the real construction period** where the start year was sourced (15 of
+Tokyo's 16 landmarks); otherwise over an assumed span stated in the model.

@@ -46,6 +46,17 @@ MAX_INSTANCES = 145_000
 MIN_UNIT_BUDGET = 20_000
 NO_END = 32767
 FLAG_LANDMARK = 1
+FLAG_COVERED = 2       # stands where real building shapes exist (hidden when those are on screen)
+FLAG_GROUND_ONLY = 4   # carries a ground patch but no building (the stylised fabric stands on it)
+
+# Stylised era fabric (an artist's impression, for cities switched on in data/extras.json):
+# cells built up before FABRIC_BEFORE are drawn as rows of low roofed houses until the cell is
+# modernised, in a seeded year between FABRIC_MOD_FROM and FABRIC_MOD_TO.
+FABRIC_BEFORE = 1900
+FABRIC_MOD_FROM, FABRIC_MOD_PEAK, FABRIC_MOD_TO = 1900, 1930, 1965
+FABRIC_LAYOUT = [("x", "<i2"), ("y", "<i2"), ("y0", "<i2"), ("y1", "<i2"), ("len", "u1"), ("wid", "u1"),
+                 ("rot", "u1"), ("h", "u1"), ("kind", "u1")]
+FABRIC_XY_UNIT, FABRIC_LW_UNIT, FABRIC_H_UNIT = 1.0, 0.25, 0.1
 
 # Upper bound on the height of a generic (non-landmark) building by year, in metres.
 # "Almost nothing over 30 m before 1900 unless the building is a landmark."
@@ -200,7 +211,8 @@ def landmark_instances(lm, x, y, rng):
     return out, base
 
 
-def generate(slug, city, cmeta, meta, clip, recon, unit_budget):
+def generate(slug, city, cmeta, meta, clip, recon, unit_budget, extras=None):
+    extras = extras or {}
     rng = rng_for(slug, "buildings")
     S = clip["S"].astype(np.float32)
     H = clip["H"].astype(np.float32)
@@ -239,6 +251,17 @@ def generate(slug, city, cmeta, meta, clip, recon, unit_budget):
     ang = ndi.gaussian_filter(rng.standard_normal(sel.shape).astype(np.float32), 14)
     ang = (ang / (ang.std() + 1e-9)) * 35.0
     theta_cell = ang[rr, cc].astype(np.float64)
+
+    # Optional layers (data/extras.json)
+    covered = None
+    cover_path = CLIPS / f"{slug}_realcover.npz"
+    if extras.get("real_shapes") and cover_path.exists():
+        covered = np.load(cover_path)["cover"][rr, cc]
+    fabric_cell = mod_year = None
+    if extras.get("era_fabric"):
+        frng = rng_for(slug, "fabric")
+        fabric_cell = entry < FABRIC_BEFORE
+        mod_year = frng.triangular(FABRIC_MOD_FROM, FABRIC_MOD_PEAK, FABRIC_MOD_TO, size=n)
 
     units = choose_units(rr, cc, vol_w, s25, unit_budget)
     recs = []  # (x, y, y0, y1, h, w, d, rot, flags, ground side)
@@ -291,11 +314,19 @@ def generate(slug, city, cmeta, meta, clip, recon, unit_budget):
         ground_th = th
         if rng.random() < 0.3:
             wdt, dpt = dpt, wdt
+        i0 = int(g[0])
+        flag = FLAG_COVERED if covered is not None and covered[g].mean() >= 0.5 else 0
+        if fabric_cell is not None and (fabric_cell[i0] or y0 < FABRIC_BEFORE):
+            # The stylised fabric stands here until the cell is modernised: the ground patch starts at
+            # the entry year, the generated boxes only at the modernisation year.
+            recs.append((bx, by, y0, y0 + 1, 0.3, 2.0, 2.0, ground_th, FLAG_GROUND_ONLY, ground))
+            ground = 0.0
+            y0 = max(y0, float(mod_year[i0]))
         gens = height_generations(y0, hf, rng)
         for k, (gy, gh) in enumerate(gens):
             g_end = gens[k + 1][0] if k + 1 < len(gens) else NO_END
             # only the first generation carries the ground patch, which then stays for good
-            recs.append((bx, by, gy, g_end, gh, wdt, dpt, ground_th, 0, ground if k == 0 else 0.0))
+            recs.append((bx, by, gy, g_end, gh, wdt, dpt, ground_th, flag, ground if k == 0 else 0.0))
 
     arr = np.array(recs, dtype=np.float64) if recs else np.zeros((0, 10))
 
@@ -306,7 +337,8 @@ def generate(slug, city, cmeta, meta, clip, recon, unit_budget):
     for lm in city["landmarks"]:
         lx, ly = local_xy(lm["lon"], lm["lat"], lon0, lat0)
         inst, base = landmark_instances(lm, float(lx), float(ly), lrng)
-        lm_recs.extend(inst)
+        if not extras.get("models"):      # with models on, scripts/09_landmark_models.py draws the landmark
+            lm_recs.extend(inst)
         lm_out.append({**lm, "x": round(float(lx), 1), "y": round(float(ly), 1)})
         if len(arr):
             near = np.hypot(arr[:, 0] - lx, arr[:, 1] - ly) < (base * 0.6 + 0.5 * np.maximum(arr[:, 5], arr[:, 6]))
@@ -318,15 +350,81 @@ def generate(slug, city, cmeta, meta, clip, recon, unit_budget):
             arr = arr[~during]
     if lm_recs:
         arr = np.vstack([arr, np.array(lm_recs, dtype=np.float64)])
+    fabric = None
+    if fabric_cell is not None:
+        fabric = generate_fabric(slug, x, y, entry, mod_year, fabric_cell, theta_cell, s_ep[0], start)
     return arr, lm_out, {"cells": int(n), "units": len(units),
-                         "median_height_m": round(med, 1), "lot_cells": len(lot_cache)}
+                         "median_height_m": round(med, 1), "lot_cells": len(lot_cache)}, fabric
+
+
+def generate_fabric(slug, x, y, entry, mod_year, fabric_cell, theta_cell, s75, start):
+    """Rows of low roofed houses for cells built up before FABRIC_BEFORE. Entirely generated.
+
+    Per 100 m cell: five rows of three lots along the local street orientation, each holding one
+    long roof (a row house), now and then a larger hall or a small white storehouse, with lanes
+    between the rows. How many lots are filled follows how densely the cell was built in 1975. Each house appears between the cell's
+    entry year and a few decades later and stands until the cell's modernisation year.
+    Returns rows of (x, y, y0, y1, length, width, rotation_deg, eave_height, kind).
+    """
+    rng = rng_for(slug, "fabric-houses")
+    out = []
+    dens = np.clip(s75 / 6000.0, 0.0, 1.0)
+    for i in np.flatnonzero(fabric_cell):
+        th = float(theta_cell[i])
+        ct, st = math.cos(math.radians(th)), math.sin(math.radians(th))
+        fill = 0.55 + 0.42 * float(dens[i])
+        span = max(2.0, min(70.0, 0.5 * (FABRIC_BEFORE - entry[i])))
+        for r in range(5):
+            for c in range(3):
+                if rng.random() > fill:
+                    continue
+                u = (c - 1) * 33.0 + rng.normal(0, 1.5)
+                v = (r - 2) * 19.5 + rng.normal(0, 1.0)
+                roll = rng.random()
+                if roll < 0.035:     # hall: temple, shrine or residence
+                    kind, length, width, eave = 1, 22 + 9 * rng.random(), 14 + 4 * rng.random(), 6.0 + 3.0 * rng.random()
+                elif roll < 0.10:    # storehouse
+                    kind, length, width, eave = 2, 9 + 4 * rng.random(), 7 + 2 * rng.random(), 5.0 + 1.5 * rng.random()
+                else:                # row house
+                    kind, length, width = 0, 24 + 7 * rng.random(), 10.5 + 3.5 * rng.random()
+                    eave = 3.2 + 1.2 * rng.random() if rng.random() < 0.7 else 5.4 + 1.2 * rng.random()
+                rot = th + rng.normal(0, 1.5)
+                y0 = max(float(start), entry[i] + span * rng.random() ** 2)
+                y1 = float(mod_year[i]) + rng.normal(0, 4.0)
+                if y1 <= y0 + 2:
+                    continue
+                out.append((x[i] + u * ct - v * st, y[i] + u * st + v * ct, y0, y1, length, width, rot, eave, kind))
+    return np.array(out, dtype=np.float64) if out else np.zeros((0, 9))
+
+
+def write_fabric(path, fab):
+    order = np.argsort(fab[:, 2], kind="stable")
+    fab = fab[order]
+    cols = {
+        "x": np.round(fab[:, 0] / FABRIC_XY_UNIT).astype("<i2"), "y": np.round(fab[:, 1] / FABRIC_XY_UNIT).astype("<i2"),
+        "y0": np.clip(np.floor(fab[:, 2]), -32000, 2026).astype("<i2"),
+        "y1": np.clip(np.floor(fab[:, 3]), -32000, NO_END).astype("<i2"),
+        "len": np.clip(np.round(fab[:, 4] / FABRIC_LW_UNIT), 1, 255).astype("u1"),
+        "wid": np.clip(np.round(fab[:, 5] / FABRIC_LW_UNIT), 1, 255).astype("u1"),
+        "rot": (np.round((fab[:, 6] % 180.0) / 180.0 * 256.0) % 256).astype("u1"),
+        "h": np.clip(np.round(fab[:, 7] / FABRIC_H_UNIT), 1, 255).astype("u1"),
+        "kind": fab[:, 8].astype("u1"),
+    }
+    with open(path, "wb") as fh:
+        fh.write(b"CLF1")
+        fh.write(struct.pack("<I", len(fab)))
+        for name, _ in FABRIC_LAYOUT:
+            fh.write(cols[name].tobytes())
+    return path.stat().st_size
 
 
 CAMERA_MAX_R = 14_000.0   # the auto camera never pulls back further than this (metres)
 CAMERA_CORE_R = 5_000.0   # ... and pushes in to about this by 2026, to watch the skyline rise
+FABRIC_CAMERA_ZOOM = 0.55    # with stylised fabric, frame this fraction of the early city's radius
+CAMERA_CORE_R_REAL = 2_400.0  # closer where real building shapes exist, so they can be read
 
 
-def camera_path(arr, city, hx, hy):
+def camera_path(arr, city, hx, hy, core_r=CAMERA_CORE_R, fabric=None):
     """Per-year view target for the auto camera: centre and radius of what is worth looking at.
 
     Up to 1975 it follows the spreading footprint (centroid, and the radius holding 65 % of the
@@ -337,7 +435,13 @@ def camera_path(arr, city, hx, hy):
     years = sorted({start, *[y for y in (-2000, -1000, -500, 1, 500, 1000, 1200, 1400, 1500, 1600, 1700, 1750,
                                           1800, 1850, 1875, 1900, 1920, 1940, 1950, 1960, 1970)
                              if start < y], *GHSL_EPOCHS, END_YEAR})
-    generic = arr[arr[:, 8] == 0]
+    generic = arr[(arr[:, 8].astype(int) & (FLAG_LANDMARK | FLAG_GROUND_ONLY)) == 0]
+    if fabric is not None and len(fabric):
+        # the stylised houses are what stands in the early city: count them as buildings (x, y, y0, y1, w, d)
+        houses = np.zeros((len(fabric), generic.shape[1]))
+        houses[:, [0, 1, 2, 3]] = fabric[:, [0, 1, 2, 3]]
+        houses[:, 5], houses[:, 6] = fabric[:, 4], fabric[:, 5]
+        generic = np.vstack([generic, houses])
     # where the tall buildings are today: volume-weighted centroid of the tallest 1 % (plus landmarks)
     now = arr[arr[:, 3] > END_YEAR]
     tx, ty = hx, hy
@@ -363,6 +467,8 @@ def camera_path(arr, city, hx, hy):
         o = np.argsort(dist)
         cw = np.cumsum(wgt[o])
         r = float(dist[o][np.searchsorted(cw, 0.65 * cw[-1])])
+        if fabric is not None and yr < FABRIC_BEFORE:
+            r *= FABRIC_CAMERA_ZOOM   # stay close enough to read the roofs; the city spreads past the frame
         r = min(max(r, 700.0), CAMERA_MAX_R)
         # keep the historic core in frame while the city is still small
         off = math.hypot(cx - hx, cy - hy)
@@ -373,7 +479,7 @@ def camera_path(arr, city, hx, hy):
             f = min(1.0, (yr - 1975) / 45.0)
             f = f * f * (3 - 2 * f)
             cx, cy = cx + (tx - cx) * f, cy + (ty - cy) * f
-            r = math.exp(math.log(r) * (1 - f) + math.log(min(r, CAMERA_CORE_R)) * f)
+            r = math.exp(math.log(r) * (1 - f) + math.log(min(r, core_r)) * f)
         out.append({"year": yr, "x": round(cx), "y": round(cy), "r": round(r)})
     return out
 
@@ -415,18 +521,34 @@ def process(slug, cmeta, un):
     recon = np.load(CLIPS / f"{slug}_recon.npz")
     summary = json.loads((DATA / "footprints" / slug / "summary.json").read_text())
 
+    extras_path = DATA / "extras.json"
+    extras = json.loads(extras_path.read_text()).get(slug, {}) if extras_path.exists() else {}
     budget = 90_000
     for _ in range(5):
-        arr, lms, stats = generate(slug, city, cmeta, meta, clip, recon, budget)
+        arr, lms, stats, fabric = generate(slug, city, cmeta, meta, clip, recon, budget, extras)
         if len(arr) <= MAX_INSTANCES or budget <= MIN_UNIT_BUDGET:
             break
         budget = max(MIN_UNIT_BUDGET, int(budget * TARGET_INSTANCES / len(arr)))
     PUBLIC_DATA.mkdir(parents=True, exist_ok=True)
     xy_scale, nbytes = write_bin(PUBLIC_DATA / f"{slug}.bin", arr)
+    extras_out = {}
+    if fabric is not None and len(fabric):
+        fbytes = write_fabric(PUBLIC_DATA / f"{slug}-fabric.bin", fabric)
+        extras_out["fabric"] = {
+            "file": f"{slug}-fabric.bin", "count": int(len(fabric)), "bytes": fbytes,
+            "layout": [name for name, _ in FABRIC_LAYOUT], "xy_unit": FABRIC_XY_UNIT, "lw_unit": FABRIC_LW_UNIT,
+            "h_unit": FABRIC_H_UNIT, "before": FABRIC_BEFORE,
+            "note": "Artist's impression. Generated rows of low roofed houses for cells the reconstruction puts "
+                    f"inside the city before {FABRIC_BEFORE}; not a record of real buildings.",
+        }
+    if extras.get("real_shapes") and (PUBLIC_DATA / f"{slug}-real.json").exists():
+        extras_out["real"] = {"index": f"{slug}-real.json", "dir": f"{slug}-real"}
+    if extras.get("models"):
+        extras_out["models"] = {"file": f"{slug}-models.json"}
 
     lon0, lat0 = cmeta["center"]["lon"], cmeta["center"]["lat"]
     hx, hy = local_xy(city["historic_core"]["lon"], city["historic_core"]["lat"], lon0, lat0)
-    generic = arr[arr[:, 8] == 0]
+    generic = arr[(arr[:, 8].astype(int) & (FLAG_LANDMARK | FLAG_GROUND_ONLY)) == 0]
     pre1950 = [p for p in city["population"] if p["year"] < 1950]
     reasons = list(summary.get("download_failures", []))
     if len(pre1950) < 3:
@@ -458,11 +580,14 @@ def process(slug, cmeta, un):
         "buildings": {
             "file": f"{slug}.bin", "count": int(len(arr)), "bytes": nbytes, "xy_scale": xy_scale,
             "wd_unit": WD_UNIT, "ground_unit": GROUND_UNIT, "layout": [name for name, _ in LAYOUT],
-            "generic": int(len(generic)), "landmark_parts": int(len(arr) - len(generic)),
+            "generic": int(len(generic)), "landmark_parts": int((arr[:, 8].astype(int) & FLAG_LANDMARK).sum()),
             "max_generic_height_m": round(float(generic[:, 4].max()), 1) if len(generic) else 0,
             **stats,
         },
-        "camera": camera_path(arr, city, float(hx), float(hy)),
+        "extras": extras_out,
+        "camera": camera_path(arr, city, float(hx), float(hy),
+                              CAMERA_CORE_R_REAL if "real" in extras_out else CAMERA_CORE_R,
+                              fabric if "fabric" in extras_out else None),
     }
     (PUBLIC_DATA / f"{slug}.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")) + "\n")
     return {"slug": slug, "status": status, "instances": int(len(arr)), "units": stats["units"],

@@ -13,8 +13,10 @@ export interface BuildingBuffers {
   startIndices: Uint32Array;
   elevations: Float32Array;
   colors: Uint8Array;
-  /** [year built, year replaced] per vertex */
+  /** [year built, year replaced, mode] per vertex (mode 0 = rises from the ground) */
   life: Float32Array;
+  /** [lng, lat, covered] per vertex: the building's own position, and whether real shapes replace it */
+  anchor: Float32Array;
   /** flat ground patches: the built-up cells each building stands for */
   ground: {
     count: number;
@@ -113,22 +115,24 @@ export function decodeBuildings(buf: ArrayBuffer, city: CityData, options: Decod
     const sorted = Uint16Array.from(h).sort();
     minHeight = sorted[n - options.maxExtruded];
   }
+  // bit 2 (4): ground patch only, no building. bit 1 (2): real shapes replace it when they are on screen.
   let kept = 0;
-  for (let i = 0; i < n; i++) if (h[i] >= minHeight || (flags[i] & 1) === 1) kept++;
+  for (let i = 0; i < n; i++) if ((flags[i] & 4) === 0 && (h[i] >= minHeight || (flags[i] & 1) === 1)) kept++;
 
   const vertexCount = kept * 5;
   const positions = new Float64Array(vertexCount * 2);
   const startIndices = new Uint32Array(kept + 1);
   const elevations = new Float32Array(vertexCount);
   const colors = new Uint8Array(vertexCount * 4);
-  const life = new Float32Array(vertexCount * 2);
+  const life = new Float32Array(vertexCount * 3);
+  const anchor = new Float32Array(vertexCount * 3);
   const rgb: [number, number, number] = [0, 0, 0];
   let nGround = 0;
   for (let i = 0; i < n; i++) if (ground[i] > 0) nGround++;
   const gPositions = new Float64Array(nGround * 10);
   const gStart = new Uint32Array(nGround + 1);
   const gColors = new Uint8Array(nGround * 20);
-  const gLife = new Float32Array(nGround * 10);
+  const gLife = new Float32Array(nGround * 15);
   let gi = 0;
   let bi = 0;
   // corner order gives a clockwise ring (deck.gl's expected outer winding with _normalize: false)
@@ -166,8 +170,8 @@ export function decodeBuildings(buf: ArrayBuffer, city: CityData, options: Decod
           gColors[v * 4 + 1] = 34 + rgb[1] * 0.3;
           gColors[v * 4 + 2] = 42 + rgb[2] * 0.3;
           gColors[v * 4 + 3] = 255;
-          gLife[v * 2] = y0[i];
-          gLife[v * 2 + 1] = NO_END;
+          gLife[v * 3] = y0[i];
+          gLife[v * 3 + 1] = NO_END;
         }
         gi++;
       }
@@ -177,7 +181,10 @@ export function decodeBuildings(buf: ArrayBuffer, city: CityData, options: Decod
       rgb[1] += (255 - rgb[1]) * lift;
       rgb[2] += (255 - rgb[2]) * lift;
     }
-    if (h[i] < minHeight && !landmark) continue;
+    if ((flags[i] & 4) !== 0 || (h[i] < minHeight && !landmark)) continue;
+    const aLng = lon0 + px / mPerDegLon;
+    const aLat = lat0 + py / mPerDegLat;
+    const covered = (flags[i] & 2) !== 0 ? 1 : 0;
     const v0 = bi * 5;
     startIndices[bi] = v0;
     bi++;
@@ -194,8 +201,11 @@ export function decodeBuildings(buf: ArrayBuffer, city: CityData, options: Decod
       colors[v * 4 + 1] = rgb[1];
       colors[v * 4 + 2] = rgb[2];
       colors[v * 4 + 3] = 255;
-      life[v * 2] = y0[i];
-      life[v * 2 + 1] = y1[i];
+      life[v * 3] = y0[i];
+      life[v * 3 + 1] = y1[i];
+      anchor[v * 3] = aLng;
+      anchor[v * 3 + 1] = aLat;
+      anchor[v * 3 + 2] = covered;
     }
   }
   startIndices[kept] = vertexCount;
@@ -208,6 +218,7 @@ export function decodeBuildings(buf: ArrayBuffer, city: CityData, options: Decod
     elevations,
     colors,
     life,
+    anchor,
     ground: { count: nGround, positions: gPositions, startIndices: gStart, colors: gColors, life: gLife },
   };
 }

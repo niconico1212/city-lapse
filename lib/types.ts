@@ -117,5 +117,11 @@ export interface CityData {
     units: number;
     median_height_m: number;
   };
+  /** optional artistic layers (pilot: Tokyo); see data/extras.json */
+  extras?: {
+    fabric?: { file: string; count: number; bytes: number; layout: string[]; xy_unit: number; lw_unit: number; h_unit: number; before: number; note: string };
+    real?: { index: string; dir: string };
+    models?: { file: string };
+  };
   camera: CameraKey[];
 }

@@ -265,7 +265,8 @@ represented.
 **D39. Three historic styles, Nico to choose.** Woodblock (paper ground, indigo water, grey tile
 roofs), Ink (pale paper, grey washes, black roofs), Lantern (night map, warm timber). The style
 fades into the modern dark map between 1880 and 1960. Styles recolour the generated houses, the
-ground and the base map; they do not touch the data. Default: woodblock.
+ground and the base map; they do not touch the data. **Nico chose woodblock**; it is the default, and the other two stay
+available in the legend and through `?style=ink` or `?style=lantern`.
 
 **D40. Landmark models are schematic massings from sourced dimensions.** A builder per kind
 (lattice tower, round tower, skyscraper, twin-top tower, gate, pagoda, castle keep, bridge)

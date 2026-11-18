@@ -1,0 +1,7469 @@
+{
+ "sources": {
+  "wup2025": {
+   "citation": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19)",
+   "url": "https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+   "definition": "Cities as defined by the Degree of Urbanisation: contiguous 1 km2 grid cells with at least 1,500 inhabitants per km2 and at least 50,000 inhabitants in total. This is an urban-extent definition, not an administrative one."
+  },
+  "wup2018": {
+   "citation": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035",
+   "url": "https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+   "definition": "Urban agglomeration (or the national statistical concept the UN adopted for that city); narrower than the 2025 revision's urban extents."
+  }
+ },
+ "cities": {
+  "jakarta": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 11696369,
+     "plausibility": "High",
+     "land_area_km2": 2114
+    },
+    {
+     "year": 1980,
+     "value": 14204709,
+     "plausibility": "High",
+     "land_area_km2": 2470
+    },
+    {
+     "year": 1985,
+     "value": 16848703,
+     "plausibility": "High",
+     "land_area_km2": 2961
+    },
+    {
+     "year": 1990,
+     "value": 19744195,
+     "plausibility": "High",
+     "land_area_km2": 3304
+    },
+    {
+     "year": 1995,
+     "value": 22421273,
+     "plausibility": "High",
+     "land_area_km2": 3619
+    },
+    {
+     "year": 2000,
+     "value": 25591966,
+     "plausibility": "High",
+     "land_area_km2": 3965
+    },
+    {
+     "year": 2005,
+     "value": 28880592,
+     "plausibility": "High",
+     "land_area_km2": 4153
+    },
+    {
+     "year": 2010,
+     "value": 32595795,
+     "plausibility": "High",
+     "land_area_km2": 4363
+    },
+    {
+     "year": 2015,
+     "value": 36098681,
+     "plausibility": "High",
+     "land_area_km2": 4542
+    },
+    {
+     "year": 2020,
+     "value": 39069168,
+     "plausibility": "High",
+     "land_area_km2": 4671
+    },
+    {
+     "year": 2025,
+     "value": 41913860,
+     "plausibility": "High",
+     "land_area_km2": 4883
+    },
+    {
+     "year": 2030,
+     "value": 44639909,
+     "plausibility": "High",
+     "land_area_km2": 5125
+    }
+   ],
+   "wup2018_name": "Jakarta",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 1452000
+    },
+    {
+     "year": 1955,
+     "value": 1972106
+    },
+    {
+     "year": 1960,
+     "value": 2678740
+    },
+    {
+     "year": 1965,
+     "value": 3296964
+    },
+    {
+     "year": 1970,
+     "value": 3915406
+    },
+    {
+     "year": 1975,
+     "value": 4813132
+    },
+    {
+     "year": 1980,
+     "value": 5984256
+    },
+    {
+     "year": 1985,
+     "value": 7009030
+    },
+    {
+     "year": 1990,
+     "value": 8174756
+    },
+    {
+     "year": 1995,
+     "value": 8321858
+    },
+    {
+     "year": 2000,
+     "value": 8389759
+    },
+    {
+     "year": 2005,
+     "value": 8988406
+    },
+    {
+     "year": 2010,
+     "value": 9625579
+    },
+    {
+     "year": 2015,
+     "value": 10173388
+    },
+    {
+     "year": 2020,
+     "value": 10770487
+    },
+    {
+     "year": 2025,
+     "value": 11634078
+    },
+    {
+     "year": 2030,
+     "value": 12686756
+    },
+    {
+     "year": 2035,
+     "value": 13688321
+    }
+   ]
+  },
+  "dhaka": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 5037174,
+     "plausibility": "High",
+     "land_area_km2": 728
+    },
+    {
+     "year": 1980,
+     "value": 6430888,
+     "plausibility": "High",
+     "land_area_km2": 873
+    },
+    {
+     "year": 1985,
+     "value": 8361623,
+     "plausibility": "High",
+     "land_area_km2": 1131
+    },
+    {
+     "year": 1990,
+     "value": 10965513,
+     "plausibility": "High",
+     "land_area_km2": 1512
+    },
+    {
+     "year": 1995,
+     "value": 13683256,
+     "plausibility": "Moderate",
+     "land_area_km2": 1827
+    },
+    {
+     "year": 2000,
+     "value": 17434596,
+     "plausibility": "Moderate",
+     "land_area_km2": 2547
+    },
+    {
+     "year": 2005,
+     "value": 20992712,
+     "plausibility": "Moderate",
+     "land_area_km2": 3217
+    },
+    {
+     "year": 2010,
+     "value": 24560379,
+     "plausibility": "Moderate",
+     "land_area_km2": 3835
+    },
+    {
+     "year": 2015,
+     "value": 28339424,
+     "plausibility": "Moderate",
+     "land_area_km2": 4635
+    },
+    {
+     "year": 2020,
+     "value": 32635931,
+     "plausibility": "Moderate",
+     "land_area_km2": 5907
+    },
+    {
+     "year": 2025,
+     "value": 36585479,
+     "plausibility": "Moderate",
+     "land_area_km2": 6812
+    },
+    {
+     "year": 2030,
+     "value": 40803862,
+     "plausibility": "Moderate",
+     "land_area_km2": 7695
+    }
+   ],
+   "wup2018_name": "Dhaka",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 335760
+    },
+    {
+     "year": 1955,
+     "value": 408866
+    },
+    {
+     "year": 1960,
+     "value": 507921
+    },
+    {
+     "year": 1965,
+     "value": 820740
+    },
+    {
+     "year": 1970,
+     "value": 1373718
+    },
+    {
+     "year": 1975,
+     "value": 2221055
+    },
+    {
+     "year": 1980,
+     "value": 3265663
+    },
+    {
+     "year": 1985,
+     "value": 4660384
+    },
+    {
+     "year": 1990,
+     "value": 6620697
+    },
+    {
+     "year": 1995,
+     "value": 8332474
+    },
+    {
+     "year": 2000,
+     "value": 10284947
+    },
+    {
+     "year": 2005,
+     "value": 12330879
+    },
+    {
+     "year": 2010,
+     "value": 14730537
+    },
+    {
+     "year": 2015,
+     "value": 17597177
+    },
+    {
+     "year": 2020,
+     "value": 21005860
+    },
+    {
+     "year": 2025,
+     "value": 24652864
+    },
+    {
+     "year": 2030,
+     "value": 28075660
+    },
+    {
+     "year": 2035,
+     "value": 31233651
+    }
+   ]
+  },
+  "tokyo": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 24281618,
+     "plausibility": "High",
+     "land_area_km2": 4594
+    },
+    {
+     "year": 1980,
+     "value": 25912201,
+     "plausibility": "High",
+     "land_area_km2": 4641
+    },
+    {
+     "year": 1985,
+     "value": 27209324,
+     "plausibility": "High",
+     "land_area_km2": 4680
+    },
+    {
+     "year": 1990,
+     "value": 28588983,
+     "plausibility": "High",
+     "land_area_km2": 4752
+    },
+    {
+     "year": 1995,
+     "value": 29222295,
+     "plausibility": "High",
+     "land_area_km2": 4877
+    },
+    {
+     "year": 2000,
+     "value": 30302560,
+     "plausibility": "High",
+     "land_area_km2": 4923
+    },
+    {
+     "year": 2005,
+     "value": 31352582,
+     "plausibility": "High",
+     "land_area_km2": 5001
+    },
+    {
+     "year": 2010,
+     "value": 32558339,
+     "plausibility": "High",
+     "land_area_km2": 5091
+    },
+    {
+     "year": 2015,
+     "value": 33103603,
+     "plausibility": "High",
+     "land_area_km2": 5105
+    },
+    {
+     "year": 2020,
+     "value": 33698874,
+     "plausibility": "High",
+     "land_area_km2": 5143
+    },
+    {
+     "year": 2025,
+     "value": 33412512,
+     "plausibility": "High",
+     "land_area_km2": 5148
+    },
+    {
+     "year": 2030,
+     "value": 33044211,
+     "plausibility": "High",
+     "land_area_km2": 5147
+    }
+   ],
+   "wup2018_name": "Tokyo",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 11274641
+    },
+    {
+     "year": 1955,
+     "value": 13712679
+    },
+    {
+     "year": 1960,
+     "value": 16678821
+    },
+    {
+     "year": 1965,
+     "value": 20284371
+    },
+    {
+     "year": 1970,
+     "value": 23297503
+    },
+    {
+     "year": 1975,
+     "value": 26614733
+    },
+    {
+     "year": 1980,
+     "value": 28548512
+    },
+    {
+     "year": 1985,
+     "value": 30303794
+    },
+    {
+     "year": 1990,
+     "value": 32530003
+    },
+    {
+     "year": 1995,
+     "value": 33586573
+    },
+    {
+     "year": 2000,
+     "value": 34449908
+    },
+    {
+     "year": 2005,
+     "value": 35621544
+    },
+    {
+     "year": 2010,
+     "value": 36859626
+    },
+    {
+     "year": 2015,
+     "value": 37256109
+    },
+    {
+     "year": 2020,
+     "value": 37393129
+    },
+    {
+     "year": 2025,
+     "value": 37036204
+    },
+    {
+     "year": 2030,
+     "value": 36573799
+    },
+    {
+     "year": 2035,
+     "value": 36014030
+    }
+   ]
+  },
+  "delhi": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 6091891,
+     "plausibility": "Moderate",
+     "land_area_km2": 922
+    },
+    {
+     "year": 1980,
+     "value": 7392606,
+     "plausibility": "High",
+     "land_area_km2": 987
+    },
+    {
+     "year": 1985,
+     "value": 9166234,
+     "plausibility": "High",
+     "land_area_km2": 1057
+    },
+    {
+     "year": 1990,
+     "value": 11580745,
+     "plausibility": "High",
+     "land_area_km2": 1242
+    },
+    {
+     "year": 1995,
+     "value": 14496458,
+     "plausibility": "High",
+     "land_area_km2": 1411
+    },
+    {
+     "year": 2000,
+     "value": 17969092,
+     "plausibility": "High",
+     "land_area_km2": 1558
+    },
+    {
+     "year": 2005,
+     "value": 20652915,
+     "plausibility": "High",
+     "land_area_km2": 1712
+    },
+    {
+     "year": 2010,
+     "value": 23240763,
+     "plausibility": "High",
+     "land_area_km2": 1791
+    },
+    {
+     "year": 2015,
+     "value": 26122475,
+     "plausibility": "High",
+     "land_area_km2": 1941
+    },
+    {
+     "year": 2020,
+     "value": 29101252,
+     "plausibility": "High",
+     "land_area_km2": 2061
+    },
+    {
+     "year": 2025,
+     "value": 30222405,
+     "plausibility": "High",
+     "land_area_km2": 2101
+    },
+    {
+     "year": 2030,
+     "value": 31341648,
+     "plausibility": "High",
+     "land_area_km2": 2146
+    }
+   ],
+   "wup2018_name": "Delhi",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 1369369
+    },
+    {
+     "year": 1955,
+     "value": 1781624
+    },
+    {
+     "year": 1960,
+     "value": 2282962
+    },
+    {
+     "year": 1965,
+     "value": 2845042
+    },
+    {
+     "year": 1970,
+     "value": 3530693
+    },
+    {
+     "year": 1975,
+     "value": 4436385
+    },
+    {
+     "year": 1980,
+     "value": 5587014
+    },
+    {
+     "year": 1985,
+     "value": 7225758
+    },
+    {
+     "year": 1990,
+     "value": 9384209
+    },
+    {
+     "year": 1995,
+     "value": 12138233
+    },
+    {
+     "year": 2000,
+     "value": 15691899
+    },
+    {
+     "year": 2005,
+     "value": 18691330
+    },
+    {
+     "year": 2010,
+     "value": 21987895
+    },
+    {
+     "year": 2015,
+     "value": 25865875
+    },
+    {
+     "year": 2020,
+     "value": 30290936
+    },
+    {
+     "year": 2025,
+     "value": 34665569
+    },
+    {
+     "year": 2030,
+     "value": 38938697
+    },
+    {
+     "year": 2035,
+     "value": 43345059
+    }
+   ]
+  },
+  "shanghai": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 4542787,
+     "plausibility": "High",
+     "land_area_km2": 706
+    },
+    {
+     "year": 1980,
+     "value": 4922471,
+     "plausibility": "Moderate",
+     "land_area_km2": 813
+    },
+    {
+     "year": 1985,
+     "value": 6276781,
+     "plausibility": "Moderate",
+     "land_area_km2": 1047
+    },
+    {
+     "year": 1990,
+     "value": 7783199,
+     "plausibility": "High",
+     "land_area_km2": 1208
+    },
+    {
+     "year": 1995,
+     "value": 10567164,
+     "plausibility": "High",
+     "land_area_km2": 1625
+    },
+    {
+     "year": 2000,
+     "value": 14034558,
+     "plausibility": "High",
+     "land_area_km2": 1973
+    },
+    {
+     "year": 2005,
+     "value": 17111107,
+     "plausibility": "High",
+     "land_area_km2": 2358
+    },
+    {
+     "year": 2010,
+     "value": 20525275,
+     "plausibility": "High",
+     "land_area_km2": 2624
+    },
+    {
+     "year": 2015,
+     "value": 23830644,
+     "plausibility": "High",
+     "land_area_km2": 2822
+    },
+    {
+     "year": 2020,
+     "value": 27654481,
+     "plausibility": "High",
+     "land_area_km2": 2946
+    },
+    {
+     "year": 2025,
+     "value": 29558908,
+     "plausibility": "High",
+     "land_area_km2": 3130
+    },
+    {
+     "year": 2030,
+     "value": 31297216,
+     "plausibility": "High",
+     "land_area_km2": 3264
+    }
+   ],
+   "wup2018_name": "Shanghai",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 4288091
+    },
+    {
+     "year": 1955,
+     "value": 5712858
+    },
+    {
+     "year": 1960,
+     "value": 6865312
+    },
+    {
+     "year": 1965,
+     "value": 6428131
+    },
+    {
+     "year": 1970,
+     "value": 6052468
+    },
+    {
+     "year": 1975,
+     "value": 5658129
+    },
+    {
+     "year": 1980,
+     "value": 5927898
+    },
+    {
+     "year": 1985,
+     "value": 7096280
+    },
+    {
+     "year": 1990,
+     "value": 8605812
+    },
+    {
+     "year": 1995,
+     "value": 11072063
+    },
+    {
+     "year": 2000,
+     "value": 14246541
+    },
+    {
+     "year": 2005,
+     "value": 17055788
+    },
+    {
+     "year": 2010,
+     "value": 20314309
+    },
+    {
+     "year": 2015,
+     "value": 23482181
+    },
+    {
+     "year": 2020,
+     "value": 27058479
+    },
+    {
+     "year": 2025,
+     "value": 30482140
+    },
+    {
+     "year": 2030,
+     "value": 32869265
+    },
+    {
+     "year": 2035,
+     "value": 34341242
+    }
+   ]
+  },
+  "guangzhou": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 1644240,
+     "plausibility": "Moderate",
+     "land_area_km2": 333
+    },
+    {
+     "year": 1980,
+     "value": 2086190,
+     "plausibility": "Moderate",
+     "land_area_km2": 447
+    },
+    {
+     "year": 1985,
+     "value": 2746863,
+     "plausibility": "Moderate",
+     "land_area_km2": 574
+    },
+    {
+     "year": 1990,
+     "value": 4135425,
+     "plausibility": "Moderate",
+     "land_area_km2": 838
+    },
+    {
+     "year": 1995,
+     "value": 9101542,
+     "plausibility": "Moderate",
+     "land_area_km2": 2008
+    },
+    {
+     "year": 2000,
+     "value": 18970258,
+     "plausibility": "High",
+     "land_area_km2": 3442
+    },
+    {
+     "year": 2005,
+     "value": 22306405,
+     "plausibility": "High",
+     "land_area_km2": 3966
+    },
+    {
+     "year": 2010,
+     "value": 24200998,
+     "plausibility": "High",
+     "land_area_km2": 4168
+    },
+    {
+     "year": 2015,
+     "value": 25320819,
+     "plausibility": "High",
+     "land_area_km2": 4339
+    },
+    {
+     "year": 2020,
+     "value": 26508282,
+     "plausibility": "High",
+     "land_area_km2": 4374
+    },
+    {
+     "year": 2025,
+     "value": 27563372,
+     "plausibility": "High",
+     "land_area_km2": 4542
+    },
+    {
+     "year": 2030,
+     "value": 28442486,
+     "plausibility": "High",
+     "land_area_km2": 4681
+    }
+   ],
+   "wup2018_name": "Guangzhou, Guangdong",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 1048975
+    },
+    {
+     "year": 1955,
+     "value": 1155063
+    },
+    {
+     "year": 1960,
+     "value": 1271914
+    },
+    {
+     "year": 1965,
+     "value": 1400511
+    },
+    {
+     "year": 1970,
+     "value": 1542151
+    },
+    {
+     "year": 1975,
+     "value": 1698116
+    },
+    {
+     "year": 1980,
+     "value": 1869905
+    },
+    {
+     "year": 1985,
+     "value": 2355566
+    },
+    {
+     "year": 1990,
+     "value": 3245991
+    },
+    {
+     "year": 1995,
+     "value": 5035339
+    },
+    {
+     "year": 2000,
+     "value": 7812008
+    },
+    {
+     "year": 2005,
+     "value": 9055056
+    },
+    {
+     "year": 2010,
+     "value": 10278197
+    },
+    {
+     "year": 2015,
+     "value": 11694882
+    },
+    {
+     "year": 2020,
+     "value": 13301532
+    },
+    {
+     "year": 2025,
+     "value": 14878691
+    },
+    {
+     "year": 2030,
+     "value": 16024165
+    },
+    {
+     "year": 2035,
+     "value": 16740973
+    }
+   ]
+  },
+  "cairo": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 7440914,
+     "plausibility": "High",
+     "land_area_km2": 609
+    },
+    {
+     "year": 1980,
+     "value": 8493679,
+     "plausibility": "High",
+     "land_area_km2": 693
+    },
+    {
+     "year": 1985,
+     "value": 9799452,
+     "plausibility": "High",
+     "land_area_km2": 804
+    },
+    {
+     "year": 1990,
+     "value": 11676131,
+     "plausibility": "High",
+     "land_area_km2": 927
+    },
+    {
+     "year": 1995,
+     "value": 13927904,
+     "plausibility": "High",
+     "land_area_km2": 1080
+    },
+    {
+     "year": 2000,
+     "value": 15676619,
+     "plausibility": "Moderate",
+     "land_area_km2": 1137
+    },
+    {
+     "year": 2005,
+     "value": 17519921,
+     "plausibility": "Moderate",
+     "land_area_km2": 1249
+    },
+    {
+     "year": 2010,
+     "value": 19455095,
+     "plausibility": "Moderate",
+     "land_area_km2": 1364
+    },
+    {
+     "year": 2015,
+     "value": 21550926,
+     "plausibility": "Moderate",
+     "land_area_km2": 1471
+    },
+    {
+     "year": 2020,
+     "value": 24002054,
+     "plausibility": "Moderate",
+     "land_area_km2": 1530
+    },
+    {
+     "year": 2025,
+     "value": 25566102,
+     "plausibility": "Moderate",
+     "land_area_km2": 1645
+    },
+    {
+     "year": 2030,
+     "value": 27184973,
+     "plausibility": "Moderate",
+     "land_area_km2": 1774
+    }
+   ],
+   "wup2018_name": "Al-Qahirah (Cairo)",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 2493514
+    },
+    {
+     "year": 1955,
+     "value": 3029198
+    },
+    {
+     "year": 1960,
+     "value": 3680160
+    },
+    {
+     "year": 1965,
+     "value": 4737968
+    },
+    {
+     "year": 1970,
+     "value": 5584507
+    },
+    {
+     "year": 1975,
+     "value": 6449922
+    },
+    {
+     "year": 1980,
+     "value": 7348778
+    },
+    {
+     "year": 1985,
+     "value": 8328255
+    },
+    {
+     "year": 1990,
+     "value": 9892143
+    },
+    {
+     "year": 1995,
+     "value": 11961986
+    },
+    {
+     "year": 2000,
+     "value": 13625565
+    },
+    {
+     "year": 2005,
+     "value": 15174050
+    },
+    {
+     "year": 2010,
+     "value": 16899015
+    },
+    {
+     "year": 2015,
+     "value": 18820072
+    },
+    {
+     "year": 2020,
+     "value": 20900604
+    },
+    {
+     "year": 2025,
+     "value": 23074225
+    },
+    {
+     "year": 2030,
+     "value": 25516696
+    },
+    {
+     "year": 2035,
+     "value": 28504351
+    }
+   ]
+  },
+  "manila": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 8329012,
+     "plausibility": "High",
+     "land_area_km2": 1015
+    },
+    {
+     "year": 1980,
+     "value": 9884349,
+     "plausibility": "High",
+     "land_area_km2": 1187
+    },
+    {
+     "year": 1985,
+     "value": 11682238,
+     "plausibility": "High",
+     "land_area_km2": 1366
+    },
+    {
+     "year": 1990,
+     "value": 13905472,
+     "plausibility": "High",
+     "land_area_km2": 1794
+    },
+    {
+     "year": 1995,
+     "value": 16293501,
+     "plausibility": "High",
+     "land_area_km2": 1930
+    },
+    {
+     "year": 2000,
+     "value": 17799064,
+     "plausibility": "High",
+     "land_area_km2": 2052
+    },
+    {
+     "year": 2005,
+     "value": 19347220,
+     "plausibility": "High",
+     "land_area_km2": 2175
+    },
+    {
+     "year": 2010,
+     "value": 21072115,
+     "plausibility": "High",
+     "land_area_km2": 2233
+    },
+    {
+     "year": 2015,
+     "value": 22677351,
+     "plausibility": "High",
+     "land_area_km2": 2364
+    },
+    {
+     "year": 2020,
+     "value": 24013676,
+     "plausibility": "High",
+     "land_area_km2": 2373
+    },
+    {
+     "year": 2025,
+     "value": 24735305,
+     "plausibility": "High",
+     "land_area_km2": 2438
+    },
+    {
+     "year": 2030,
+     "value": 25527969,
+     "plausibility": "High",
+     "land_area_km2": 2523
+    }
+   ],
+   "wup2018_name": "Manila",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 1543666
+    },
+    {
+     "year": 1955,
+     "value": 1871605
+    },
+    {
+     "year": 1960,
+     "value": 2273734
+    },
+    {
+     "year": 1965,
+     "value": 2828883
+    },
+    {
+     "year": 1970,
+     "value": 3534309
+    },
+    {
+     "year": 1975,
+     "value": 4999303
+    },
+    {
+     "year": 1980,
+     "value": 5954719
+    },
+    {
+     "year": 1985,
+     "value": 6887920
+    },
+    {
+     "year": 1990,
+     "value": 7972799
+    },
+    {
+     "year": 1995,
+     "value": 9401255
+    },
+    {
+     "year": 2000,
+     "value": 9957962
+    },
+    {
+     "year": 2005,
+     "value": 10750752
+    },
+    {
+     "year": 2010,
+     "value": 11887189
+    },
+    {
+     "year": 2015,
+     "value": 12860058
+    },
+    {
+     "year": 2020,
+     "value": 13923452
+    },
+    {
+     "year": 2025,
+     "value": 15230559
+    },
+    {
+     "year": 2030,
+     "value": 16841340
+    },
+    {
+     "year": 2035,
+     "value": 18649422
+    }
+   ]
+  },
+  "kolkata": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 10527605,
+     "plausibility": "Low",
+     "land_area_km2": 779
+    },
+    {
+     "year": 1980,
+     "value": 11830220,
+     "plausibility": "Moderate",
+     "land_area_km2": 905
+    },
+    {
+     "year": 1985,
+     "value": 13234849,
+     "plausibility": "Moderate",
+     "land_area_km2": 1085
+    },
+    {
+     "year": 1990,
+     "value": 14841167,
+     "plausibility": "Moderate",
+     "land_area_km2": 1333
+    },
+    {
+     "year": 1995,
+     "value": 16321060,
+     "plausibility": "Moderate",
+     "land_area_km2": 1415
+    },
+    {
+     "year": 2000,
+     "value": 18355286,
+     "plausibility": "Moderate",
+     "land_area_km2": 1783
+    },
+    {
+     "year": 2005,
+     "value": 19462171,
+     "plausibility": "Moderate",
+     "land_area_km2": 1912
+    },
+    {
+     "year": 2010,
+     "value": 20487403,
+     "plausibility": "Moderate",
+     "land_area_km2": 2064
+    },
+    {
+     "year": 2015,
+     "value": 21294623,
+     "plausibility": "Moderate",
+     "land_area_km2": 2147
+    },
+    {
+     "year": 2020,
+     "value": 22048672,
+     "plausibility": "Moderate",
+     "land_area_km2": 2218
+    },
+    {
+     "year": 2025,
+     "value": 22549738,
+     "plausibility": "Moderate",
+     "land_area_km2": 2329
+    },
+    {
+     "year": 2030,
+     "value": 23033107,
+     "plausibility": "Moderate",
+     "land_area_km2": 2423
+    }
+   ],
+   "wup2018_name": "Kolkata (Calcutta)",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 4604143
+    },
+    {
+     "year": 1955,
+     "value": 5219086
+    },
+    {
+     "year": 1960,
+     "value": 5910210
+    },
+    {
+     "year": 1965,
+     "value": 6589384
+    },
+    {
+     "year": 1970,
+     "value": 7329372
+    },
+    {
+     "year": 1975,
+     "value": 8165629
+    },
+    {
+     "year": 1980,
+     "value": 9100166
+    },
+    {
+     "year": 1985,
+     "value": 10003665
+    },
+    {
+     "year": 1990,
+     "value": 10974177
+    },
+    {
+     "year": 1995,
+     "value": 11992194
+    },
+    {
+     "year": 2000,
+     "value": 13097153
+    },
+    {
+     "year": 2005,
+     "value": 13595152
+    },
+    {
+     "year": 2010,
+     "value": 14002798
+    },
+    {
+     "year": 2015,
+     "value": 14422670
+    },
+    {
+     "year": 2020,
+     "value": 14850066
+    },
+    {
+     "year": 2025,
+     "value": 15845219
+    },
+    {
+     "year": 2030,
+     "value": 17583604
+    },
+    {
+     "year": 2035,
+     "value": 19564170
+    }
+   ]
+  },
+  "seoul": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 10079046,
+     "plausibility": "Moderate",
+     "land_area_km2": 950
+    },
+    {
+     "year": 1980,
+     "value": 12173872,
+     "plausibility": "Moderate",
+     "land_area_km2": 1017
+    },
+    {
+     "year": 1985,
+     "value": 14400888,
+     "plausibility": "Moderate",
+     "land_area_km2": 1219
+    },
+    {
+     "year": 1990,
+     "value": 16913185,
+     "plausibility": "Moderate",
+     "land_area_km2": 1357
+    },
+    {
+     "year": 1995,
+     "value": 17839491,
+     "plausibility": "Moderate",
+     "land_area_km2": 1569
+    },
+    {
+     "year": 2000,
+     "value": 18962544,
+     "plausibility": "Moderate",
+     "land_area_km2": 1792
+    },
+    {
+     "year": 2005,
+     "value": 19861300,
+     "plausibility": "Moderate",
+     "land_area_km2": 1988
+    },
+    {
+     "year": 2010,
+     "value": 20547751,
+     "plausibility": "Moderate",
+     "land_area_km2": 2121
+    },
+    {
+     "year": 2015,
+     "value": 21459415,
+     "plausibility": "Moderate",
+     "land_area_km2": 2204
+    },
+    {
+     "year": 2020,
+     "value": 22235497,
+     "plausibility": "Moderate",
+     "land_area_km2": 2267
+    },
+    {
+     "year": 2025,
+     "value": 22490482,
+     "plausibility": "Moderate",
+     "land_area_km2": 2255
+    },
+    {
+     "year": 2030,
+     "value": 22626893,
+     "plausibility": "Moderate",
+     "land_area_km2": 2261
+    }
+   ],
+   "wup2018_name": "Seoul",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 1021031
+    },
+    {
+     "year": 1955,
+     "value": 1552603
+    },
+    {
+     "year": 1960,
+     "value": 2361196
+    },
+    {
+     "year": 1965,
+     "value": 3452123
+    },
+    {
+     "year": 1970,
+     "value": 5311569
+    },
+    {
+     "year": 1975,
+     "value": 6807519
+    },
+    {
+     "year": 1980,
+     "value": 8244352
+    },
+    {
+     "year": 1985,
+     "value": 9333674
+    },
+    {
+     "year": 1990,
+     "value": 10517565
+    },
+    {
+     "year": 1995,
+     "value": 10255889
+    },
+    {
+     "year": 2000,
+     "value": 9879073
+    },
+    {
+     "year": 2005,
+     "value": 9822447
+    },
+    {
+     "year": 2010,
+     "value": 9796045
+    },
+    {
+     "year": 2015,
+     "value": 9896859
+    },
+    {
+     "year": 2020,
+     "value": 9963452
+    },
+    {
+     "year": 2025,
+     "value": 10025770
+    },
+    {
+     "year": 2030,
+     "value": 10163143
+    },
+    {
+     "year": 2035,
+     "value": 10285619
+    }
+   ]
+  },
+  "karachi": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 4626701,
+     "plausibility": "High",
+     "land_area_km2": 460
+    },
+    {
+     "year": 1980,
+     "value": 5819767,
+     "plausibility": "High",
+     "land_area_km2": 515
+    },
+    {
+     "year": 1985,
+     "value": 6810930,
+     "plausibility": "High",
+     "land_area_km2": 539
+    },
+    {
+     "year": 1990,
+     "value": 7977466,
+     "plausibility": "High",
+     "land_area_km2": 606
+    },
+    {
+     "year": 1995,
+     "value": 9457981,
+     "plausibility": "High",
+     "land_area_km2": 626
+    },
+    {
+     "year": 2000,
+     "value": 10799503,
+     "plausibility": "High",
+     "land_area_km2": 643
+    },
+    {
+     "year": 2005,
+     "value": 12184764,
+     "plausibility": "Moderate",
+     "land_area_km2": 677
+    },
+    {
+     "year": 2010,
+     "value": 13950654,
+     "plausibility": "Moderate",
+     "land_area_km2": 712
+    },
+    {
+     "year": 2015,
+     "value": 15811774,
+     "plausibility": "Moderate",
+     "land_area_km2": 755
+    },
+    {
+     "year": 2020,
+     "value": 19340628,
+     "plausibility": "Moderate",
+     "land_area_km2": 795
+    },
+    {
+     "year": 2025,
+     "value": 21422590,
+     "plausibility": "Moderate",
+     "land_area_km2": 870
+    },
+    {
+     "year": 2030,
+     "value": 23598646,
+     "plausibility": "Moderate",
+     "land_area_km2": 889
+    }
+   ],
+   "wup2018_name": "Karachi",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 1055380
+    },
+    {
+     "year": 1955,
+     "value": 1419491
+    },
+    {
+     "year": 1960,
+     "value": 1853325
+    },
+    {
+     "year": 1965,
+     "value": 2405037
+    },
+    {
+     "year": 1970,
+     "value": 3118723
+    },
+    {
+     "year": 1975,
+     "value": 3989191
+    },
+    {
+     "year": 1980,
+     "value": 5047815
+    },
+    {
+     "year": 1985,
+     "value": 6032582
+    },
+    {
+     "year": 1990,
+     "value": 7147064
+    },
+    {
+     "year": 1995,
+     "value": 8467439
+    },
+    {
+     "year": 2000,
+     "value": 9825295
+    },
+    {
+     "year": 2005,
+     "value": 11131559
+    },
+    {
+     "year": 2010,
+     "value": 12611924
+    },
+    {
+     "year": 2015,
+     "value": 14289160
+    },
+    {
+     "year": 2020,
+     "value": 16093786
+    },
+    {
+     "year": 2025,
+     "value": 18076794
+    },
+    {
+     "year": 2030,
+     "value": 20431848
+    },
+    {
+     "year": 2035,
+     "value": 23128137
+    }
+   ]
+  },
+  "mumbai": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 8338773,
+     "plausibility": "Low",
+     "land_area_km2": 514
+    },
+    {
+     "year": 1980,
+     "value": 9784903,
+     "plausibility": "Low",
+     "land_area_km2": 545
+    },
+    {
+     "year": 1985,
+     "value": 11203457,
+     "plausibility": "Low",
+     "land_area_km2": 582
+    },
+    {
+     "year": 1990,
+     "value": 12791412,
+     "plausibility": "Low",
+     "land_area_km2": 613
+    },
+    {
+     "year": 1995,
+     "value": 14384595,
+     "plausibility": "Low",
+     "land_area_km2": 644
+    },
+    {
+     "year": 2000,
+     "value": 15952862,
+     "plausibility": "Low",
+     "land_area_km2": 671
+    },
+    {
+     "year": 2005,
+     "value": 16839794,
+     "plausibility": "Low",
+     "land_area_km2": 690
+    },
+    {
+     "year": 2010,
+     "value": 17674045,
+     "plausibility": "Low",
+     "land_area_km2": 711
+    },
+    {
+     "year": 2015,
+     "value": 18336779,
+     "plausibility": "Low",
+     "land_area_km2": 718
+    },
+    {
+     "year": 2020,
+     "value": 19327767,
+     "plausibility": "Moderate",
+     "land_area_km2": 724
+    },
+    {
+     "year": 2025,
+     "value": 20203056,
+     "plausibility": "Moderate",
+     "land_area_km2": 740
+    },
+    {
+     "year": 2030,
+     "value": 21114847,
+     "plausibility": "Moderate",
+     "land_area_km2": 782
+    }
+   ],
+   "wup2018_name": "Mumbai (Bombay)",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 3088811
+    },
+    {
+     "year": 1955,
+     "value": 3726210
+    },
+    {
+     "year": 1960,
+     "value": 4414904
+    },
+    {
+     "year": 1965,
+     "value": 5314300
+    },
+    {
+     "year": 1970,
+     "value": 6412876
+    },
+    {
+     "year": 1975,
+     "value": 7685346
+    },
+    {
+     "year": 1980,
+     "value": 9199543
+    },
+    {
+     "year": 1985,
+     "value": 10685530
+    },
+    {
+     "year": 1990,
+     "value": 12355090
+    },
+    {
+     "year": 1995,
+     "value": 14135363
+    },
+    {
+     "year": 2000,
+     "value": 16146527
+    },
+    {
+     "year": 2005,
+     "value": 17257072
+    },
+    {
+     "year": 2010,
+     "value": 18257413
+    },
+    {
+     "year": 2015,
+     "value": 19315737
+    },
+    {
+     "year": 2020,
+     "value": 20411274
+    },
+    {
+     "year": 2025,
+     "value": 22088953
+    },
+    {
+     "year": 2030,
+     "value": 24572450
+    },
+    {
+     "year": 2035,
+     "value": 27342819
+    }
+   ]
+  },
+  "sao-paulo": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 10536121,
+     "plausibility": "High",
+     "land_area_km2": 1761
+    },
+    {
+     "year": 1980,
+     "value": 13006388,
+     "plausibility": "High",
+     "land_area_km2": 1806
+    },
+    {
+     "year": 1985,
+     "value": 14102503,
+     "plausibility": "High",
+     "land_area_km2": 1833
+    },
+    {
+     "year": 1990,
+     "value": 15262744,
+     "plausibility": "High",
+     "land_area_km2": 1896
+    },
+    {
+     "year": 1995,
+     "value": 16046719,
+     "plausibility": "High",
+     "land_area_km2": 1918
+    },
+    {
+     "year": 2000,
+     "value": 16702008,
+     "plausibility": "High",
+     "land_area_km2": 1937
+    },
+    {
+     "year": 2005,
+     "value": 17436827,
+     "plausibility": "High",
+     "land_area_km2": 1966
+    },
+    {
+     "year": 2010,
+     "value": 18150750,
+     "plausibility": "High",
+     "land_area_km2": 1979
+    },
+    {
+     "year": 2015,
+     "value": 18680183,
+     "plausibility": "High",
+     "land_area_km2": 2013
+    },
+    {
+     "year": 2020,
+     "value": 18801950,
+     "plausibility": "High",
+     "land_area_km2": 2015
+    },
+    {
+     "year": 2025,
+     "value": 18949790,
+     "plausibility": "High",
+     "land_area_km2": 2044
+    },
+    {
+     "year": 2030,
+     "value": 18988842,
+     "plausibility": "High",
+     "land_area_km2": 2070
+    }
+   ],
+   "wup2018_name": "São Paulo",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 2334038
+    },
+    {
+     "year": 1955,
+     "value": 3043828
+    },
+    {
+     "year": 1960,
+     "value": 3969759
+    },
+    {
+     "year": 1965,
+     "value": 5494150
+    },
+    {
+     "year": 1970,
+     "value": 7620490
+    },
+    {
+     "year": 1975,
+     "value": 9614016
+    },
+    {
+     "year": 1980,
+     "value": 12089454
+    },
+    {
+     "year": 1985,
+     "value": 13394815
+    },
+    {
+     "year": 1990,
+     "value": 14775840
+    },
+    {
+     "year": 1995,
+     "value": 15913473
+    },
+    {
+     "year": 2000,
+     "value": 17014078
+    },
+    {
+     "year": 2005,
+     "value": 18288134
+    },
+    {
+     "year": 2010,
+     "value": 19659808
+    },
+    {
+     "year": 2015,
+     "value": 20883046
+    },
+    {
+     "year": 2020,
+     "value": 22043028
+    },
+    {
+     "year": 2025,
+     "value": 22990007
+    },
+    {
+     "year": 2030,
+     "value": 23824223
+    },
+    {
+     "year": 2035,
+     "value": 24490136
+    }
+   ]
+  },
+  "bangkok": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 3650772,
+     "plausibility": "High",
+     "land_area_km2": 759
+    },
+    {
+     "year": 1980,
+     "value": 4636381,
+     "plausibility": "High",
+     "land_area_km2": 903
+    },
+    {
+     "year": 1985,
+     "value": 5306933,
+     "plausibility": "High",
+     "land_area_km2": 1001
+    },
+    {
+     "year": 1990,
+     "value": 6342886,
+     "plausibility": "Moderate",
+     "land_area_km2": 1202
+    },
+    {
+     "year": 1995,
+     "value": 7206638,
+     "plausibility": "Moderate",
+     "land_area_km2": 1448
+    },
+    {
+     "year": 2000,
+     "value": 8377066,
+     "plausibility": "Moderate",
+     "land_area_km2": 1736
+    },
+    {
+     "year": 2005,
+     "value": 10541547,
+     "plausibility": "Moderate",
+     "land_area_km2": 2115
+    },
+    {
+     "year": 2010,
+     "value": 12986747,
+     "plausibility": "High",
+     "land_area_km2": 2401
+    },
+    {
+     "year": 2015,
+     "value": 14915059,
+     "plausibility": "High",
+     "land_area_km2": 2532
+    },
+    {
+     "year": 2020,
+     "value": 17250109,
+     "plausibility": "High",
+     "land_area_km2": 2600
+    },
+    {
+     "year": 2025,
+     "value": 18180280,
+     "plausibility": "High",
+     "land_area_km2": 2661
+    },
+    {
+     "year": 2030,
+     "value": 18973005,
+     "plausibility": "High",
+     "land_area_km2": 2710
+    }
+   ],
+   "wup2018_name": "Krung Thep (Bangkok)",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 1360000
+    },
+    {
+     "year": 1955,
+     "value": 1711706
+    },
+    {
+     "year": 1960,
+     "value": 2150853
+    },
+    {
+     "year": 1965,
+     "value": 2584466
+    },
+    {
+     "year": 1970,
+     "value": 3109945
+    },
+    {
+     "year": 1975,
+     "value": 3842023
+    },
+    {
+     "year": 1980,
+     "value": 4723143
+    },
+    {
+     "year": 1985,
+     "value": 5279127
+    },
+    {
+     "year": 1990,
+     "value": 5888835
+    },
+    {
+     "year": 1995,
+     "value": 6123394
+    },
+    {
+     "year": 2000,
+     "value": 6395429
+    },
+    {
+     "year": 2005,
+     "value": 7272016
+    },
+    {
+     "year": 2010,
+     "value": 8269045
+    },
+    {
+     "year": 2015,
+     "value": 9402771
+    },
+    {
+     "year": 2020,
+     "value": 10539415
+    },
+    {
+     "year": 2025,
+     "value": 11391704
+    },
+    {
+     "year": 2030,
+     "value": 12100612
+    },
+    {
+     "year": 2035,
+     "value": 12679614
+    }
+   ]
+  },
+  "mexico-city": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 11119402,
+     "plausibility": "High",
+     "land_area_km2": 1659
+    },
+    {
+     "year": 1980,
+     "value": 13216145,
+     "plausibility": "High",
+     "land_area_km2": 1772
+    },
+    {
+     "year": 1985,
+     "value": 14354636,
+     "plausibility": "High",
+     "land_area_km2": 1796
+    },
+    {
+     "year": 1990,
+     "value": 15602020,
+     "plausibility": "High",
+     "land_area_km2": 1823
+    },
+    {
+     "year": 1995,
+     "value": 16617208,
+     "plausibility": "High",
+     "land_area_km2": 1881
+    },
+    {
+     "year": 2000,
+     "value": 17598162,
+     "plausibility": "High",
+     "land_area_km2": 1913
+    },
+    {
+     "year": 2005,
+     "value": 17873392,
+     "plausibility": "High",
+     "land_area_km2": 1963
+    },
+    {
+     "year": 2010,
+     "value": 18329145,
+     "plausibility": "High",
+     "land_area_km2": 2037
+    },
+    {
+     "year": 2015,
+     "value": 18955463,
+     "plausibility": "High",
+     "land_area_km2": 2094
+    },
+    {
+     "year": 2020,
+     "value": 17610488,
+     "plausibility": "High",
+     "land_area_km2": 2095
+    },
+    {
+     "year": 2025,
+     "value": 17734212,
+     "plausibility": "High",
+     "land_area_km2": 2097
+    },
+    {
+     "year": 2030,
+     "value": 17829110,
+     "plausibility": "High",
+     "land_area_km2": 2101
+    }
+   ],
+   "wup2018_name": "Ciudad de México (Mexico City)",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 3365081
+    },
+    {
+     "year": 1955,
+     "value": 4293878
+    },
+    {
+     "year": 1960,
+     "value": 5479184
+    },
+    {
+     "year": 1965,
+     "value": 6969157
+    },
+    {
+     "year": 1970,
+     "value": 8830947
+    },
+    {
+     "year": 1975,
+     "value": 10733860
+    },
+    {
+     "year": 1980,
+     "value": 13027620
+    },
+    {
+     "year": 1985,
+     "value": 14278216
+    },
+    {
+     "year": 1990,
+     "value": 15642318
+    },
+    {
+     "year": 1995,
+     "value": 17017469
+    },
+    {
+     "year": 2000,
+     "value": 18457027
+    },
+    {
+     "year": 2005,
+     "value": 19276065
+    },
+    {
+     "year": 2010,
+     "value": 20136681
+    },
+    {
+     "year": 2015,
+     "value": 21339781
+    },
+    {
+     "year": 2020,
+     "value": 21782378
+    },
+    {
+     "year": 2025,
+     "value": 22752414
+    },
+    {
+     "year": 2030,
+     "value": 24110599
+    },
+    {
+     "year": 2035,
+     "value": 25414624
+    }
+   ]
+  },
+  "beijing": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 5154971,
+     "plausibility": "High",
+     "land_area_km2": 830
+    },
+    {
+     "year": 1980,
+     "value": 5564199,
+     "plausibility": "High",
+     "land_area_km2": 858
+    },
+    {
+     "year": 1985,
+     "value": 6001087,
+     "plausibility": "High",
+     "land_area_km2": 897
+    },
+    {
+     "year": 1990,
+     "value": 6615743,
+     "plausibility": "High",
+     "land_area_km2": 957
+    },
+    {
+     "year": 1995,
+     "value": 7970314,
+     "plausibility": "High",
+     "land_area_km2": 1072
+    },
+    {
+     "year": 2000,
+     "value": 9635380,
+     "plausibility": "High",
+     "land_area_km2": 1232
+    },
+    {
+     "year": 2005,
+     "value": 11731870,
+     "plausibility": "High",
+     "land_area_km2": 1362
+    },
+    {
+     "year": 2010,
+     "value": 14332332,
+     "plausibility": "High",
+     "land_area_km2": 1498
+    },
+    {
+     "year": 2015,
+     "value": 15431938,
+     "plausibility": "High",
+     "land_area_km2": 1629
+    },
+    {
+     "year": 2020,
+     "value": 16484278,
+     "plausibility": "High",
+     "land_area_km2": 1661
+    },
+    {
+     "year": 2025,
+     "value": 17013303,
+     "plausibility": "High",
+     "land_area_km2": 1713
+    },
+    {
+     "year": 2030,
+     "value": 17583507,
+     "plausibility": "High",
+     "land_area_km2": 1851
+    }
+   ],
+   "wup2018_name": "Beijing",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 1671365
+    },
+    {
+     "year": 1955,
+     "value": 2364625
+    },
+    {
+     "year": 1960,
+     "value": 3900441
+    },
+    {
+     "year": 1965,
+     "value": 4582017
+    },
+    {
+     "year": 1970,
+     "value": 4426045
+    },
+    {
+     "year": 1975,
+     "value": 4827973
+    },
+    {
+     "year": 1980,
+     "value": 5366372
+    },
+    {
+     "year": 1985,
+     "value": 6017488
+    },
+    {
+     "year": 1990,
+     "value": 6787737
+    },
+    {
+     "year": 1995,
+     "value": 8355148
+    },
+    {
+     "year": 2000,
+     "value": 10285091
+    },
+    {
+     "year": 2005,
+     "value": 12991292
+    },
+    {
+     "year": 2010,
+     "value": 16441252
+    },
+    {
+     "year": 2015,
+     "value": 18421198
+    },
+    {
+     "year": 2020,
+     "value": 20462610
+    },
+    {
+     "year": 2025,
+     "value": 22596455
+    },
+    {
+     "year": 2030,
+     "value": 24281913
+    },
+    {
+     "year": 2035,
+     "value": 25365920
+    }
+   ]
+  },
+  "lahore": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 4402766,
+     "plausibility": "Moderate",
+     "land_area_km2": 412
+    },
+    {
+     "year": 1980,
+     "value": 5082999,
+     "plausibility": "Moderate",
+     "land_area_km2": 444
+    },
+    {
+     "year": 1985,
+     "value": 5632845,
+     "plausibility": "Moderate",
+     "land_area_km2": 483
+    },
+    {
+     "year": 1990,
+     "value": 6218992,
+     "plausibility": "High",
+     "land_area_km2": 518
+    },
+    {
+     "year": 1995,
+     "value": 7095321,
+     "plausibility": "High",
+     "land_area_km2": 612
+    },
+    {
+     "year": 2000,
+     "value": 7978805,
+     "plausibility": "High",
+     "land_area_km2": 658
+    },
+    {
+     "year": 2005,
+     "value": 9122097,
+     "plausibility": "High",
+     "land_area_km2": 689
+    },
+    {
+     "year": 2010,
+     "value": 10518158,
+     "plausibility": "Moderate",
+     "land_area_km2": 723
+    },
+    {
+     "year": 2015,
+     "value": 11828766,
+     "plausibility": "Moderate",
+     "land_area_km2": 772
+    },
+    {
+     "year": 2020,
+     "value": 14024855,
+     "plausibility": "Moderate",
+     "land_area_km2": 877
+    },
+    {
+     "year": 2025,
+     "value": 15156430,
+     "plausibility": "Moderate",
+     "land_area_km2": 967
+    },
+    {
+     "year": 2030,
+     "value": 16286222,
+     "plausibility": "Moderate",
+     "land_area_km2": 1019
+    }
+   ],
+   "wup2018_name": "Lahore",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 835769
+    },
+    {
+     "year": 1955,
+     "value": 1021679
+    },
+    {
+     "year": 1960,
+     "value": 1264277
+    },
+    {
+     "year": 1965,
+     "value": 1574981
+    },
+    {
+     "year": 1970,
+     "value": 1963951
+    },
+    {
+     "year": 1975,
+     "value": 2398576
+    },
+    {
+     "year": 1980,
+     "value": 2881596
+    },
+    {
+     "year": 1985,
+     "value": 3387873
+    },
+    {
+     "year": 1990,
+     "value": 3970161
+    },
+    {
+     "year": 1995,
+     "value": 4652529
+    },
+    {
+     "year": 2000,
+     "value": 5576372
+    },
+    {
+     "year": 2005,
+     "value": 6856969
+    },
+    {
+     "year": 2010,
+     "value": 8432132
+    },
+    {
+     "year": 2015,
+     "value": 10369137
+    },
+    {
+     "year": 2020,
+     "value": 12642423
+    },
+    {
+     "year": 2025,
+     "value": 14825828
+    },
+    {
+     "year": 2030,
+     "value": 16883085
+    },
+    {
+     "year": 2035,
+     "value": 19116605
+    }
+   ]
+  },
+  "istanbul": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 5305193,
+     "plausibility": "High",
+     "land_area_km2": 732
+    },
+    {
+     "year": 1980,
+     "value": 6232218,
+     "plausibility": "High",
+     "land_area_km2": 770
+    },
+    {
+     "year": 1985,
+     "value": 7472439,
+     "plausibility": "High",
+     "land_area_km2": 837
+    },
+    {
+     "year": 1990,
+     "value": 8765208,
+     "plausibility": "Moderate",
+     "land_area_km2": 897
+    },
+    {
+     "year": 1995,
+     "value": 9801443,
+     "plausibility": "Moderate",
+     "land_area_km2": 1011
+    },
+    {
+     "year": 2000,
+     "value": 10633602,
+     "plausibility": "High",
+     "land_area_km2": 1139
+    },
+    {
+     "year": 2005,
+     "value": 11792604,
+     "plausibility": "Moderate",
+     "land_area_km2": 1188
+    },
+    {
+     "year": 2010,
+     "value": 12999813,
+     "plausibility": "Moderate",
+     "land_area_km2": 1158
+    },
+    {
+     "year": 2015,
+     "value": 13843301,
+     "plausibility": "Moderate",
+     "land_area_km2": 1225
+    },
+    {
+     "year": 2020,
+     "value": 14609817,
+     "plausibility": "Moderate",
+     "land_area_km2": 1259
+    },
+    {
+     "year": 2025,
+     "value": 15014763,
+     "plausibility": "Moderate",
+     "land_area_km2": 1268
+    },
+    {
+     "year": 2030,
+     "value": 15388017,
+     "plausibility": "Moderate",
+     "land_area_km2": 1288
+    }
+   ],
+   "wup2018_name": "Istanbul",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 967497
+    },
+    {
+     "year": 1955,
+     "value": 1248709
+    },
+    {
+     "year": 1960,
+     "value": 1453353
+    },
+    {
+     "year": 1965,
+     "value": 2001192
+    },
+    {
+     "year": 1970,
+     "value": 2772095
+    },
+    {
+     "year": 1975,
+     "value": 3600332
+    },
+    {
+     "year": 1980,
+     "value": 4397037
+    },
+    {
+     "year": 1985,
+     "value": 5407297
+    },
+    {
+     "year": 1990,
+     "value": 6552160
+    },
+    {
+     "year": 1995,
+     "value": 7665403
+    },
+    {
+     "year": 2000,
+     "value": 8743868
+    },
+    {
+     "year": 2005,
+     "value": 10465694
+    },
+    {
+     "year": 2010,
+     "value": 12584885
+    },
+    {
+     "year": 2015,
+     "value": 14126772
+    },
+    {
+     "year": 2020,
+     "value": 15190336
+    },
+    {
+     "year": 2025,
+     "value": 16236703
+    },
+    {
+     "year": 2030,
+     "value": 17124240
+    },
+    {
+     "year": 2035,
+     "value": 17986297
+    }
+   ]
+  },
+  "moscow": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 8520842,
+     "plausibility": "Moderate",
+     "land_area_km2": 1263
+    },
+    {
+     "year": 1980,
+     "value": 9107571,
+     "plausibility": "Moderate",
+     "land_area_km2": 1275
+    },
+    {
+     "year": 1985,
+     "value": 9678610,
+     "plausibility": "Moderate",
+     "land_area_km2": 1309
+    },
+    {
+     "year": 1990,
+     "value": 10169614,
+     "plausibility": "Moderate",
+     "land_area_km2": 1330
+    },
+    {
+     "year": 1995,
+     "value": 10386424,
+     "plausibility": "Moderate",
+     "land_area_km2": 1405
+    },
+    {
+     "year": 2000,
+     "value": 11194627,
+     "plausibility": "Moderate",
+     "land_area_km2": 1435
+    },
+    {
+     "year": 2005,
+     "value": 11992017,
+     "plausibility": "Moderate",
+     "land_area_km2": 1443
+    },
+    {
+     "year": 2010,
+     "value": 12790165,
+     "plausibility": "Moderate",
+     "land_area_km2": 1479
+    },
+    {
+     "year": 2015,
+     "value": 13480234,
+     "plausibility": "Moderate",
+     "land_area_km2": 1512
+    },
+    {
+     "year": 2020,
+     "value": 14268411,
+     "plausibility": "Moderate",
+     "land_area_km2": 1514
+    },
+    {
+     "year": 2025,
+     "value": 14524753,
+     "plausibility": "Moderate",
+     "land_area_km2": 1561
+    },
+    {
+     "year": 2030,
+     "value": 14757838,
+     "plausibility": "Moderate",
+     "land_area_km2": 1580
+    }
+   ],
+   "wup2018_name": "Moskva (Moscow)",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 5356392
+    },
+    {
+     "year": 1955,
+     "value": 5748746
+    },
+    {
+     "year": 1960,
+     "value": 6169961
+    },
+    {
+     "year": 1965,
+     "value": 6621780
+    },
+    {
+     "year": 1970,
+     "value": 7106457
+    },
+    {
+     "year": 1975,
+     "value": 7622703
+    },
+    {
+     "year": 1980,
+     "value": 8136141
+    },
+    {
+     "year": 1985,
+     "value": 8579920
+    },
+    {
+     "year": 1990,
+     "value": 8986631
+    },
+    {
+     "year": 1995,
+     "value": 9200994
+    },
+    {
+     "year": 2000,
+     "value": 10004523
+    },
+    {
+     "year": 2005,
+     "value": 10751428
+    },
+    {
+     "year": 2010,
+     "value": 11461264
+    },
+    {
+     "year": 2015,
+     "value": 12049135
+    },
+    {
+     "year": 2020,
+     "value": 12537954
+    },
+    {
+     "year": 2025,
+     "value": 12737356
+    },
+    {
+     "year": 2030,
+     "value": 12795712
+    },
+    {
+     "year": 2035,
+     "value": 12822748
+    }
+   ]
+  },
+  "ho-chi-minh-city": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 2384034,
+     "plausibility": "High",
+     "land_area_km2": 314
+    },
+    {
+     "year": 1980,
+     "value": 2914462,
+     "plausibility": "Moderate",
+     "land_area_km2": 409
+    },
+    {
+     "year": 1985,
+     "value": 3344198,
+     "plausibility": "Moderate",
+     "land_area_km2": 599
+    },
+    {
+     "year": 1990,
+     "value": 3806029,
+     "plausibility": "Moderate",
+     "land_area_km2": 725
+    },
+    {
+     "year": 1995,
+     "value": 4926769,
+     "plausibility": "Moderate",
+     "land_area_km2": 936
+    },
+    {
+     "year": 2000,
+     "value": 6006090,
+     "plausibility": "Moderate",
+     "land_area_km2": 969
+    },
+    {
+     "year": 2005,
+     "value": 7350436,
+     "plausibility": "Moderate",
+     "land_area_km2": 1106
+    },
+    {
+     "year": 2010,
+     "value": 9300611,
+     "plausibility": "Moderate",
+     "land_area_km2": 1275
+    },
+    {
+     "year": 2015,
+     "value": 11248598,
+     "plausibility": "High",
+     "land_area_km2": 1376
+    },
+    {
+     "year": 2020,
+     "value": 13096660,
+     "plausibility": "High",
+     "land_area_km2": 1460
+    },
+    {
+     "year": 2025,
+     "value": 14052713,
+     "plausibility": "High",
+     "land_area_km2": 1546
+    },
+    {
+     "year": 2030,
+     "value": 14858040,
+     "plausibility": "High",
+     "land_area_km2": 1612
+    }
+   ],
+   "wup2018_name": "Thành Pho Ho Chí Minh (Ho Chi Minh City)",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 1213224
+    },
+    {
+     "year": 1955,
+     "value": 1303257
+    },
+    {
+     "year": 1960,
+     "value": 1400000
+    },
+    {
+     "year": 1965,
+     "value": 1660497
+    },
+    {
+     "year": 1970,
+     "value": 1969558
+    },
+    {
+     "year": 1975,
+     "value": 2336143
+    },
+    {
+     "year": 1980,
+     "value": 2716087
+    },
+    {
+     "year": 1985,
+     "value": 2819578
+    },
+    {
+     "year": 1990,
+     "value": 3037805
+    },
+    {
+     "year": 1995,
+     "value": 3657824
+    },
+    {
+     "year": 2000,
+     "value": 4389369
+    },
+    {
+     "year": 2005,
+     "value": 5212238
+    },
+    {
+     "year": 2010,
+     "value": 6189370
+    },
+    {
+     "year": 2015,
+     "value": 7348291
+    },
+    {
+     "year": 2020,
+     "value": 8602317
+    },
+    {
+     "year": 2025,
+     "value": 9816318
+    },
+    {
+     "year": 2030,
+     "value": 11053991
+    },
+    {
+     "year": 2035,
+     "value": 12235882
+    }
+   ]
+  },
+  "buenos-aires": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 8560900,
+     "plausibility": "High",
+     "land_area_km2": 1597
+    },
+    {
+     "year": 1980,
+     "value": 9276947,
+     "plausibility": "High",
+     "land_area_km2": 1644
+    },
+    {
+     "year": 1985,
+     "value": 9814790,
+     "plausibility": "High",
+     "land_area_km2": 1668
+    },
+    {
+     "year": 1990,
+     "value": 10434266,
+     "plausibility": "High",
+     "land_area_km2": 1720
+    },
+    {
+     "year": 1995,
+     "value": 11066641,
+     "plausibility": "High",
+     "land_area_km2": 1810
+    },
+    {
+     "year": 2000,
+     "value": 11711634,
+     "plausibility": "High",
+     "land_area_km2": 1883
+    },
+    {
+     "year": 2005,
+     "value": 12474463,
+     "plausibility": "High",
+     "land_area_km2": 1977
+    },
+    {
+     "year": 2010,
+     "value": 13343013,
+     "plausibility": "High",
+     "land_area_km2": 2064
+    },
+    {
+     "year": 2015,
+     "value": 13767054,
+     "plausibility": "High",
+     "land_area_km2": 2148
+    },
+    {
+     "year": 2020,
+     "value": 13941208,
+     "plausibility": "Moderate",
+     "land_area_km2": 2167
+    },
+    {
+     "year": 2025,
+     "value": 14017736,
+     "plausibility": "Moderate",
+     "land_area_km2": 2164
+    },
+    {
+     "year": 2030,
+     "value": 14121470,
+     "plausibility": "Moderate",
+     "land_area_km2": 2171
+    }
+   ],
+   "wup2018_name": "Buenos Aires",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 5166140
+    },
+    {
+     "year": 1955,
+     "value": 5910271
+    },
+    {
+     "year": 1960,
+     "value": 6761837
+    },
+    {
+     "year": 1965,
+     "value": 7548511
+    },
+    {
+     "year": 1970,
+     "value": 8416170
+    },
+    {
+     "year": 1975,
+     "value": 9143219
+    },
+    {
+     "year": 1980,
+     "value": 9919781
+    },
+    {
+     "year": 1985,
+     "value": 10523442
+    },
+    {
+     "year": 1990,
+     "value": 11147566
+    },
+    {
+     "year": 1995,
+     "value": 11806407
+    },
+    {
+     "year": 2000,
+     "value": 12503871
+    },
+    {
+     "year": 2005,
+     "value": 13329540
+    },
+    {
+     "year": 2010,
+     "value": 14245871
+    },
+    {
+     "year": 2015,
+     "value": 14705533
+    },
+    {
+     "year": 2020,
+     "value": 15153729
+    },
+    {
+     "year": 2025,
+     "value": 15752275
+    },
+    {
+     "year": 2030,
+     "value": 16456115
+    },
+    {
+     "year": 2035,
+     "value": 17127741
+    }
+   ]
+  },
+  "new-york": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 12076416,
+     "plausibility": "High",
+     "land_area_km2": 2444
+    },
+    {
+     "year": 1980,
+     "value": 11747059,
+     "plausibility": "High",
+     "land_area_km2": 2435
+    },
+    {
+     "year": 1985,
+     "value": 11899125,
+     "plausibility": "High",
+     "land_area_km2": 2451
+    },
+    {
+     "year": 1990,
+     "value": 12013284,
+     "plausibility": "High",
+     "land_area_km2": 2462
+    },
+    {
+     "year": 1995,
+     "value": 12534438,
+     "plausibility": "High",
+     "land_area_km2": 2500
+    },
+    {
+     "year": 2000,
+     "value": 13044483,
+     "plausibility": "High",
+     "land_area_km2": 2563
+    },
+    {
+     "year": 2005,
+     "value": 13198043,
+     "plausibility": "High",
+     "land_area_km2": 2580
+    },
+    {
+     "year": 2010,
+     "value": 13438372,
+     "plausibility": "High",
+     "land_area_km2": 2626
+    },
+    {
+     "year": 2015,
+     "value": 13744911,
+     "plausibility": "High",
+     "land_area_km2": 2677
+    },
+    {
+     "year": 2020,
+     "value": 14048071,
+     "plausibility": "High",
+     "land_area_km2": 2699
+    },
+    {
+     "year": 2025,
+     "value": 13920148,
+     "plausibility": "High",
+     "land_area_km2": 2691
+    },
+    {
+     "year": 2030,
+     "value": 13833498,
+     "plausibility": "High",
+     "land_area_km2": 2689
+    }
+   ],
+   "wup2018_name": "New York-Newark",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 12338471
+    },
+    {
+     "year": 1955,
+     "value": 13219362
+    },
+    {
+     "year": 1960,
+     "value": 14163521
+    },
+    {
+     "year": 1965,
+     "value": 15176758
+    },
+    {
+     "year": 1970,
+     "value": 16191180
+    },
+    {
+     "year": 1975,
+     "value": 15880271
+    },
+    {
+     "year": 1980,
+     "value": 15601401
+    },
+    {
+     "year": 1985,
+     "value": 15826788
+    },
+    {
+     "year": 1990,
+     "value": 16085599
+    },
+    {
+     "year": 1995,
+     "value": 16942770
+    },
+    {
+     "year": 2000,
+     "value": 17813371
+    },
+    {
+     "year": 2005,
+     "value": 18087174
+    },
+    {
+     "year": 2010,
+     "value": 18365262
+    },
+    {
+     "year": 2015,
+     "value": 18647626
+    },
+    {
+     "year": 2020,
+     "value": 18803552
+    },
+    {
+     "year": 2025,
+     "value": 19154024
+    },
+    {
+     "year": 2030,
+     "value": 19957605
+    },
+    {
+     "year": 2035,
+     "value": 20817170
+    }
+   ]
+  },
+  "shenzhen": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 487944,
+     "plausibility": "Low",
+     "land_area_km2": 43
+    },
+    {
+     "year": 1980,
+     "value": 676929,
+     "plausibility": "High",
+     "land_area_km2": 92
+    },
+    {
+     "year": 1985,
+     "value": 800637,
+     "plausibility": "High",
+     "land_area_km2": 128
+    },
+    {
+     "year": 1990,
+     "value": 1377937,
+     "plausibility": "Moderate",
+     "land_area_km2": 331
+    },
+    {
+     "year": 1995,
+     "value": 3365371,
+     "plausibility": "Moderate",
+     "land_area_km2": 825
+    },
+    {
+     "year": 2000,
+     "value": 8180960,
+     "plausibility": "High",
+     "land_area_km2": 1241
+    },
+    {
+     "year": 2005,
+     "value": 10001708,
+     "plausibility": "High",
+     "land_area_km2": 1345
+    },
+    {
+     "year": 2010,
+     "value": 11671088,
+     "plausibility": "High",
+     "land_area_km2": 1398
+    },
+    {
+     "year": 2015,
+     "value": 12485865,
+     "plausibility": "High",
+     "land_area_km2": 1440
+    },
+    {
+     "year": 2020,
+     "value": 13433855,
+     "plausibility": "High",
+     "land_area_km2": 1478
+    },
+    {
+     "year": 2025,
+     "value": 13878396,
+     "plausibility": "High",
+     "land_area_km2": 1459
+    },
+    {
+     "year": 2030,
+     "value": 14273003,
+     "plausibility": "High",
+     "land_area_km2": 1516
+    }
+   ],
+   "wup2018_name": "Shenzhen",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 3148
+    },
+    {
+     "year": 1955,
+     "value": 5112
+    },
+    {
+     "year": 1960,
+     "value": 8302
+    },
+    {
+     "year": 1965,
+     "value": 13480
+    },
+    {
+     "year": 1970,
+     "value": 21890
+    },
+    {
+     "year": 1975,
+     "value": 35547
+    },
+    {
+     "year": 1980,
+     "value": 58983
+    },
+    {
+     "year": 1985,
+     "value": 193113
+    },
+    {
+     "year": 1990,
+     "value": 875000
+    },
+    {
+     "year": 1995,
+     "value": 2393747
+    },
+    {
+     "year": 2000,
+     "value": 6550414
+    },
+    {
+     "year": 2005,
+     "value": 8409066
+    },
+    {
+     "year": 2010,
+     "value": 10222916
+    },
+    {
+     "year": 2015,
+     "value": 11275391
+    },
+    {
+     "year": 2020,
+     "value": 12356820
+    },
+    {
+     "year": 2025,
+     "value": 13545445
+    },
+    {
+     "year": 2030,
+     "value": 14537252
+    },
+    {
+     "year": 2035,
+     "value": 15185481
+    }
+   ]
+  },
+  "bengaluru": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 2369541,
+     "plausibility": "High",
+     "land_area_km2": 192
+    },
+    {
+     "year": 1980,
+     "value": 3095305,
+     "plausibility": "High",
+     "land_area_km2": 202
+    },
+    {
+     "year": 1985,
+     "value": 3729483,
+     "plausibility": "High",
+     "land_area_km2": 239
+    },
+    {
+     "year": 1990,
+     "value": 4441591,
+     "plausibility": "High",
+     "land_area_km2": 265
+    },
+    {
+     "year": 1995,
+     "value": 5183009,
+     "plausibility": "High",
+     "land_area_km2": 316
+    },
+    {
+     "year": 2000,
+     "value": 6051928,
+     "plausibility": "High",
+     "land_area_km2": 371
+    },
+    {
+     "year": 2005,
+     "value": 7332774,
+     "plausibility": "High",
+     "land_area_km2": 463
+    },
+    {
+     "year": 2010,
+     "value": 8904750,
+     "plausibility": "Moderate",
+     "land_area_km2": 510
+    },
+    {
+     "year": 2015,
+     "value": 10749239,
+     "plausibility": "Moderate",
+     "land_area_km2": 573
+    },
+    {
+     "year": 2020,
+     "value": 12905733,
+     "plausibility": "Moderate",
+     "land_area_km2": 637
+    },
+    {
+     "year": 2025,
+     "value": 13187098,
+     "plausibility": "Moderate",
+     "land_area_km2": 642
+    },
+    {
+     "year": 2030,
+     "value": 13556889,
+     "plausibility": "Moderate",
+     "land_area_km2": 696
+    }
+   ],
+   "wup2018_name": "Bangalore",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 745999
+    },
+    {
+     "year": 1955,
+     "value": 939396
+    },
+    {
+     "year": 1960,
+     "value": 1165978
+    },
+    {
+     "year": 1965,
+     "value": 1377314
+    },
+    {
+     "year": 1970,
+     "value": 1614756
+    },
+    {
+     "year": 1975,
+     "value": 2110599
+    },
+    {
+     "year": 1980,
+     "value": 2812428
+    },
+    {
+     "year": 1985,
+     "value": 3397214
+    },
+    {
+     "year": 1990,
+     "value": 4042598
+    },
+    {
+     "year": 1995,
+     "value": 4754228
+    },
+    {
+     "year": 2000,
+     "value": 5581263
+    },
+    {
+     "year": 2005,
+     "value": 6785901
+    },
+    {
+     "year": 2010,
+     "value": 8295564
+    },
+    {
+     "year": 2015,
+     "value": 10141080
+    },
+    {
+     "year": 2020,
+     "value": 12326532
+    },
+    {
+     "year": 2025,
+     "value": 14395443
+    },
+    {
+     "year": 2030,
+     "value": 16226826
+    },
+    {
+     "year": 2035,
+     "value": 18065541
+    }
+   ]
+  },
+  "osaka": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 14448054,
+     "plausibility": "Moderate",
+     "land_area_km2": 2146
+    },
+    {
+     "year": 1980,
+     "value": 14742356,
+     "plausibility": "Moderate",
+     "land_area_km2": 2160
+    },
+    {
+     "year": 1985,
+     "value": 14752691,
+     "plausibility": "Moderate",
+     "land_area_km2": 2164
+    },
+    {
+     "year": 1990,
+     "value": 15001183,
+     "plausibility": "Moderate",
+     "land_area_km2": 2178
+    },
+    {
+     "year": 1995,
+     "value": 15099035,
+     "plausibility": "High",
+     "land_area_km2": 2238
+    },
+    {
+     "year": 2000,
+     "value": 14487830,
+     "plausibility": "High",
+     "land_area_km2": 2227
+    },
+    {
+     "year": 2005,
+     "value": 14186135,
+     "plausibility": "High",
+     "land_area_km2": 2235
+    },
+    {
+     "year": 2010,
+     "value": 14203979,
+     "plausibility": "High",
+     "land_area_km2": 2239
+    },
+    {
+     "year": 2015,
+     "value": 13814578,
+     "plausibility": "High",
+     "land_area_km2": 2239
+    },
+    {
+     "year": 2020,
+     "value": 13456617,
+     "plausibility": "High",
+     "land_area_km2": 2232
+    },
+    {
+     "year": 2025,
+     "value": 12964145,
+     "plausibility": "High",
+     "land_area_km2": 2229
+    },
+    {
+     "year": 2030,
+     "value": 12410577,
+     "plausibility": "High",
+     "land_area_km2": 2207
+    }
+   ],
+   "wup2018_name": "Kinki M.M.A. (Osaka)",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 7005284
+    },
+    {
+     "year": 1955,
+     "value": 8622976
+    },
+    {
+     "year": 1960,
+     "value": 10614841
+    },
+    {
+     "year": 1965,
+     "value": 13065322
+    },
+    {
+     "year": 1970,
+     "value": 15271510
+    },
+    {
+     "year": 1975,
+     "value": 16298124
+    },
+    {
+     "year": 1980,
+     "value": 17027547
+    },
+    {
+     "year": 1985,
+     "value": 17582632
+    },
+    {
+     "year": 1990,
+     "value": 18388783
+    },
+    {
+     "year": 1995,
+     "value": 18939588
+    },
+    {
+     "year": 2000,
+     "value": 18660022
+    },
+    {
+     "year": 2005,
+     "value": 18762099
+    },
+    {
+     "year": 2010,
+     "value": 19312646
+    },
+    {
+     "year": 2015,
+     "value": 19304722
+    },
+    {
+     "year": 2020,
+     "value": 19165340
+    },
+    {
+     "year": 2025,
+     "value": 18921632
+    },
+    {
+     "year": 2030,
+     "value": 18658055
+    },
+    {
+     "year": 2035,
+     "value": 18345611
+    }
+   ]
+  },
+  "lagos": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 2612450,
+     "plausibility": "Low",
+     "land_area_km2": 605
+    },
+    {
+     "year": 1980,
+     "value": 3414699,
+     "plausibility": "Low",
+     "land_area_km2": 673
+    },
+    {
+     "year": 1985,
+     "value": 4486575,
+     "plausibility": "Moderate",
+     "land_area_km2": 752
+    },
+    {
+     "year": 1990,
+     "value": 5762980,
+     "plausibility": "Moderate",
+     "land_area_km2": 806
+    },
+    {
+     "year": 1995,
+     "value": 6887200,
+     "plausibility": "Moderate",
+     "land_area_km2": 836
+    },
+    {
+     "year": 2000,
+     "value": 7908961,
+     "plausibility": "Moderate",
+     "land_area_km2": 872
+    },
+    {
+     "year": 2005,
+     "value": 9007119,
+     "plausibility": "Moderate",
+     "land_area_km2": 944
+    },
+    {
+     "year": 2010,
+     "value": 10133104,
+     "plausibility": "Moderate",
+     "land_area_km2": 1102
+    },
+    {
+     "year": 2015,
+     "value": 11091934,
+     "plausibility": "Moderate",
+     "land_area_km2": 1144
+    },
+    {
+     "year": 2020,
+     "value": 12012080,
+     "plausibility": "Moderate",
+     "land_area_km2": 1171
+    },
+    {
+     "year": 2025,
+     "value": 12791699,
+     "plausibility": "Moderate",
+     "land_area_km2": 1231
+    },
+    {
+     "year": 2030,
+     "value": 13616401,
+     "plausibility": "Moderate",
+     "land_area_km2": 1266
+    }
+   ],
+   "wup2018_name": "Lagos",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 325218
+    },
+    {
+     "year": 1955,
+     "value": 468460
+    },
+    {
+     "year": 1960,
+     "value": 762418
+    },
+    {
+     "year": 1965,
+     "value": 1135439
+    },
+    {
+     "year": 1970,
+     "value": 1413528
+    },
+    {
+     "year": 1975,
+     "value": 1889802
+    },
+    {
+     "year": 1980,
+     "value": 2572218
+    },
+    {
+     "year": 1985,
+     "value": 3500464
+    },
+    {
+     "year": 1990,
+     "value": 4764093
+    },
+    {
+     "year": 1995,
+     "value": 5982680
+    },
+    {
+     "year": 2000,
+     "value": 7280706
+    },
+    {
+     "year": 2005,
+     "value": 8859399
+    },
+    {
+     "year": 2010,
+     "value": 10441182
+    },
+    {
+     "year": 2015,
+     "value": 12239206
+    },
+    {
+     "year": 2020,
+     "value": 14368332
+    },
+    {
+     "year": 2025,
+     "value": 17156393
+    },
+    {
+     "year": 2030,
+     "value": 20600156
+    },
+    {
+     "year": 2035,
+     "value": 24418768
+    }
+   ]
+  },
+  "los-angeles": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 7717837,
+     "plausibility": "Moderate",
+     "land_area_km2": 2691
+    },
+    {
+     "year": 1980,
+     "value": 8205671,
+     "plausibility": "Moderate",
+     "land_area_km2": 2715
+    },
+    {
+     "year": 1985,
+     "value": 9268829,
+     "plausibility": "Moderate",
+     "land_area_km2": 3007
+    },
+    {
+     "year": 1990,
+     "value": 10244444,
+     "plausibility": "Moderate",
+     "land_area_km2": 3224
+    },
+    {
+     "year": 1995,
+     "value": 10701394,
+     "plausibility": "Moderate",
+     "land_area_km2": 3313
+    },
+    {
+     "year": 2000,
+     "value": 11195626,
+     "plausibility": "Moderate",
+     "land_area_km2": 3449
+    },
+    {
+     "year": 2005,
+     "value": 11410739,
+     "plausibility": "Moderate",
+     "land_area_km2": 3475
+    },
+    {
+     "year": 2010,
+     "value": 11715021,
+     "plausibility": "Moderate",
+     "land_area_km2": 3529
+    },
+    {
+     "year": 2015,
+     "value": 12106181,
+     "plausibility": "Moderate",
+     "land_area_km2": 3610
+    },
+    {
+     "year": 2020,
+     "value": 12491491,
+     "plausibility": "Moderate",
+     "land_area_km2": 3650
+    },
+    {
+     "year": 2025,
+     "value": 12740420,
+     "plausibility": "Moderate",
+     "land_area_km2": 3699
+    },
+    {
+     "year": 2030,
+     "value": 13069762,
+     "plausibility": "Moderate",
+     "land_area_km2": 3769
+    }
+   ],
+   "wup2018_name": "Los Angeles-Long Beach-Santa Ana",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 4045514
+    },
+    {
+     "year": 1955,
+     "value": 5154301
+    },
+    {
+     "year": 1960,
+     "value": 6529638
+    },
+    {
+     "year": 1965,
+     "value": 7407634
+    },
+    {
+     "year": 1970,
+     "value": 8377685
+    },
+    {
+     "year": 1975,
+     "value": 8925518
+    },
+    {
+     "year": 1980,
+     "value": 9511568
+    },
+    {
+     "year": 1985,
+     "value": 10181172
+    },
+    {
+     "year": 1990,
+     "value": 10883429
+    },
+    {
+     "year": 1995,
+     "value": 11338890
+    },
+    {
+     "year": 2000,
+     "value": 11798345
+    },
+    {
+     "year": 2005,
+     "value": 11977857
+    },
+    {
+     "year": 2010,
+     "value": 12160151
+    },
+    {
+     "year": 2015,
+     "value": 12345219
+    },
+    {
+     "year": 2020,
+     "value": 12446597
+    },
+    {
+     "year": 2025,
+     "value": 12677559
+    },
+    {
+     "year": 2030,
+     "value": 13209244
+    },
+    {
+     "year": 2035,
+     "value": 13778153
+    }
+   ]
+  },
+  "luanda": {
+   "wup2025": [
+    {
+     "year": 1995,
+     "value": 306451,
+     "plausibility": "Moderate",
+     "land_area_km2": 171
+    },
+    {
+     "year": 2000,
+     "value": 714643,
+     "plausibility": "Moderate",
+     "land_area_km2": 289
+    },
+    {
+     "year": 2005,
+     "value": 1246115,
+     "plausibility": "Moderate",
+     "land_area_km2": 395
+    },
+    {
+     "year": 2010,
+     "value": 3544235,
+     "plausibility": "Low",
+     "land_area_km2": 664
+    },
+    {
+     "year": 2015,
+     "value": 7109333,
+     "plausibility": "Moderate",
+     "land_area_km2": 890
+    },
+    {
+     "year": 2020,
+     "value": 9775496,
+     "plausibility": "High",
+     "land_area_km2": 933
+    },
+    {
+     "year": 2025,
+     "value": 11370127,
+     "plausibility": "High",
+     "land_area_km2": 1039
+    },
+    {
+     "year": 2030,
+     "value": 13134985,
+     "plausibility": "High",
+     "land_area_km2": 1097
+    }
+   ],
+   "wup2018_name": "Luanda",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 138413
+    },
+    {
+     "year": 1955,
+     "value": 174268
+    },
+    {
+     "year": 1960,
+     "value": 219427
+    },
+    {
+     "year": 1965,
+     "value": 315108
+    },
+    {
+     "year": 1970,
+     "value": 459225
+    },
+    {
+     "year": 1975,
+     "value": 598504
+    },
+    {
+     "year": 1980,
+     "value": 771349
+    },
+    {
+     "year": 1985,
+     "value": 1034661
+    },
+    {
+     "year": 1990,
+     "value": 1473848
+    },
+    {
+     "year": 1995,
+     "value": 2066306
+    },
+    {
+     "year": 2000,
+     "value": 2828820
+    },
+    {
+     "year": 2005,
+     "value": 3872050
+    },
+    {
+     "year": 2010,
+     "value": 5300466
+    },
+    {
+     "year": 2015,
+     "value": 7023206
+    },
+    {
+     "year": 2020,
+     "value": 8329798
+    },
+    {
+     "year": 2025,
+     "value": 10027897
+    },
+    {
+     "year": 2030,
+     "value": 12128764
+    },
+    {
+     "year": 2035,
+     "value": 14495112
+    }
+   ]
+  },
+  "chennai": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 4484115,
+     "plausibility": "Moderate",
+     "land_area_km2": 360
+    },
+    {
+     "year": 1980,
+     "value": 5183417,
+     "plausibility": "Moderate",
+     "land_area_km2": 414
+    },
+    {
+     "year": 1985,
+     "value": 5721576,
+     "plausibility": "Moderate",
+     "land_area_km2": 447
+    },
+    {
+     "year": 1990,
+     "value": 6322625,
+     "plausibility": "Moderate",
+     "land_area_km2": 501
+    },
+    {
+     "year": 1995,
+     "value": 6911173,
+     "plausibility": "High",
+     "land_area_km2": 641
+    },
+    {
+     "year": 2000,
+     "value": 7612508,
+     "plausibility": "High",
+     "land_area_km2": 753
+    },
+    {
+     "year": 2005,
+     "value": 8507759,
+     "plausibility": "High",
+     "land_area_km2": 885
+    },
+    {
+     "year": 2010,
+     "value": 9290701,
+     "plausibility": "High",
+     "land_area_km2": 926
+    },
+    {
+     "year": 2015,
+     "value": 10092351,
+     "plausibility": "High",
+     "land_area_km2": 952
+    },
+    {
+     "year": 2020,
+     "value": 10919927,
+     "plausibility": "High",
+     "land_area_km2": 1009
+    },
+    {
+     "year": 2025,
+     "value": 11153205,
+     "plausibility": "High",
+     "land_area_km2": 1059
+    },
+    {
+     "year": 2030,
+     "value": 11350843,
+     "plausibility": "High",
+     "land_area_km2": 1070
+    }
+   ],
+   "wup2018_name": "Chennai (Madras)",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 1491293
+    },
+    {
+     "year": 1955,
+     "value": 1705272
+    },
+    {
+     "year": 1960,
+     "value": 1914797
+    },
+    {
+     "year": 1965,
+     "value": 2394412
+    },
+    {
+     "year": 1970,
+     "value": 3044204
+    },
+    {
+     "year": 1975,
+     "value": 3593728
+    },
+    {
+     "year": 1980,
+     "value": 4187413
+    },
+    {
+     "year": 1985,
+     "value": 4735899
+    },
+    {
+     "year": 1990,
+     "value": 5332057
+    },
+    {
+     "year": 1995,
+     "value": 5934398
+    },
+    {
+     "year": 2000,
+     "value": 6593279
+    },
+    {
+     "year": 2005,
+     "value": 7476986
+    },
+    {
+     "year": 2010,
+     "value": 8506193
+    },
+    {
+     "year": 2015,
+     "value": 9677072
+    },
+    {
+     "year": 2020,
+     "value": 10971108
+    },
+    {
+     "year": 2025,
+     "value": 12336047
+    },
+    {
+     "year": 2030,
+     "value": 13814367
+    },
+    {
+     "year": 2035,
+     "value": 15375797
+    }
+   ]
+  },
+  "kinshasa": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 1035622,
+     "plausibility": "Moderate",
+     "land_area_km2": 257
+    },
+    {
+     "year": 1980,
+     "value": 1551098,
+     "plausibility": "High",
+     "land_area_km2": 304
+    },
+    {
+     "year": 1985,
+     "value": 2247115,
+     "plausibility": "High",
+     "land_area_km2": 323
+    },
+    {
+     "year": 1990,
+     "value": 3056017,
+     "plausibility": "High",
+     "land_area_km2": 328
+    },
+    {
+     "year": 1995,
+     "value": 4253749,
+     "plausibility": "Moderate",
+     "land_area_km2": 373
+    },
+    {
+     "year": 2000,
+     "value": 5328174,
+     "plausibility": "Moderate",
+     "land_area_km2": 395
+    },
+    {
+     "year": 2005,
+     "value": 5646713,
+     "plausibility": "Moderate",
+     "land_area_km2": 397
+    },
+    {
+     "year": 2010,
+     "value": 6279925,
+     "plausibility": "Moderate",
+     "land_area_km2": 409
+    },
+    {
+     "year": 2015,
+     "value": 7960568,
+     "plausibility": "Moderate",
+     "land_area_km2": 433
+    },
+    {
+     "year": 2020,
+     "value": 10453545,
+     "plausibility": "Moderate",
+     "land_area_km2": 478
+    },
+    {
+     "year": 2025,
+     "value": 10943641,
+     "plausibility": "Moderate",
+     "land_area_km2": 511
+    },
+    {
+     "year": 2030,
+     "value": 11618069,
+     "plausibility": "Moderate",
+     "land_area_km2": 530
+    }
+   ],
+   "wup2018_name": "Kinshasa",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 201905
+    },
+    {
+     "year": 1955,
+     "value": 292398
+    },
+    {
+     "year": 1960,
+     "value": 442853
+    },
+    {
+     "year": 1965,
+     "value": 717018
+    },
+    {
+     "year": 1970,
+     "value": 1069714
+    },
+    {
+     "year": 1975,
+     "value": 1481820
+    },
+    {
+     "year": 1980,
+     "value": 2052874
+    },
+    {
+     "year": 1985,
+     "value": 2811896
+    },
+    {
+     "year": 1990,
+     "value": 3683274
+    },
+    {
+     "year": 1995,
+     "value": 4824684
+    },
+    {
+     "year": 2000,
+     "value": 6140419
+    },
+    {
+     "year": 2005,
+     "value": 7589069
+    },
+    {
+     "year": 2010,
+     "value": 9381673
+    },
+    {
+     "year": 2015,
+     "value": 11597706
+    },
+    {
+     "year": 2020,
+     "value": 14342439
+    },
+    {
+     "year": 2025,
+     "value": 17778474
+    },
+    {
+     "year": 2030,
+     "value": 21914342
+    },
+    {
+     "year": 2035,
+     "value": 26681825
+    }
+   ]
+  },
+  "bogota": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 3389750,
+     "plausibility": "High",
+     "land_area_km2": 394
+    },
+    {
+     "year": 1980,
+     "value": 3844780,
+     "plausibility": "High",
+     "land_area_km2": 400
+    },
+    {
+     "year": 1985,
+     "value": 4360229,
+     "plausibility": "High",
+     "land_area_km2": 407
+    },
+    {
+     "year": 1990,
+     "value": 4922725,
+     "plausibility": "Moderate",
+     "land_area_km2": 410
+    },
+    {
+     "year": 1995,
+     "value": 5579035,
+     "plausibility": "Moderate",
+     "land_area_km2": 430
+    },
+    {
+     "year": 2000,
+     "value": 6340840,
+     "plausibility": "Moderate",
+     "land_area_km2": 453
+    },
+    {
+     "year": 2005,
+     "value": 7125041,
+     "plausibility": "Moderate",
+     "land_area_km2": 462
+    },
+    {
+     "year": 2010,
+     "value": 7987913,
+     "plausibility": "Moderate",
+     "land_area_km2": 472
+    },
+    {
+     "year": 2015,
+     "value": 8934193,
+     "plausibility": "Moderate",
+     "land_area_km2": 497
+    },
+    {
+     "year": 2020,
+     "value": 9935155,
+     "plausibility": "Moderate",
+     "land_area_km2": 517
+    },
+    {
+     "year": 2025,
+     "value": 10624315,
+     "plausibility": "Moderate",
+     "land_area_km2": 542
+    },
+    {
+     "year": 2030,
+     "value": 11195101,
+     "plausibility": "Moderate",
+     "land_area_km2": 548
+    }
+   ],
+   "wup2018_name": "Bogotá",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 630315
+    },
+    {
+     "year": 1955,
+     "value": 894187
+    },
+    {
+     "year": 1960,
+     "value": 1268645
+    },
+    {
+     "year": 1965,
+     "value": 1779758
+    },
+    {
+     "year": 1970,
+     "value": 2383425
+    },
+    {
+     "year": 1975,
+     "value": 3040465
+    },
+    {
+     "year": 1980,
+     "value": 3525154
+    },
+    {
+     "year": 1985,
+     "value": 4086775
+    },
+    {
+     "year": 1990,
+     "value": 4740448
+    },
+    {
+     "year": 1995,
+     "value": 5488071
+    },
+    {
+     "year": 2000,
+     "value": 6329384
+    },
+    {
+     "year": 2005,
+     "value": 7299095
+    },
+    {
+     "year": 2010,
+     "value": 8417705
+    },
+    {
+     "year": 2015,
+     "value": 9707746
+    },
+    {
+     "year": 2020,
+     "value": 10978360
+    },
+    {
+     "year": 2025,
+     "value": 11795829
+    },
+    {
+     "year": 2030,
+     "value": 12343364
+    },
+    {
+     "year": 2035,
+     "value": 12753324
+    }
+   ]
+  },
+  "lima": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 3519785,
+     "plausibility": "High",
+     "land_area_km2": 607
+    },
+    {
+     "year": 1980,
+     "value": 4207147,
+     "plausibility": "High",
+     "land_area_km2": 629
+    },
+    {
+     "year": 1985,
+     "value": 4831357,
+     "plausibility": "High",
+     "land_area_km2": 643
+    },
+    {
+     "year": 1990,
+     "value": 5487000,
+     "plausibility": "High",
+     "land_area_km2": 672
+    },
+    {
+     "year": 1995,
+     "value": 6272844,
+     "plausibility": "High",
+     "land_area_km2": 758
+    },
+    {
+     "year": 2000,
+     "value": 6991685,
+     "plausibility": "High",
+     "land_area_km2": 825
+    },
+    {
+     "year": 2005,
+     "value": 7802098,
+     "plausibility": "High",
+     "land_area_km2": 920
+    },
+    {
+     "year": 2010,
+     "value": 8532370,
+     "plausibility": "High",
+     "land_area_km2": 944
+    },
+    {
+     "year": 2015,
+     "value": 9288321,
+     "plausibility": "High",
+     "land_area_km2": 964
+    },
+    {
+     "year": 2020,
+     "value": 10036608,
+     "plausibility": "High",
+     "land_area_km2": 974
+    },
+    {
+     "year": 2025,
+     "value": 10580241,
+     "plausibility": "High",
+     "land_area_km2": 1026
+    },
+    {
+     "year": 2030,
+     "value": 11145021,
+     "plausibility": "High",
+     "land_area_km2": 1085
+    }
+   ],
+   "wup2018_name": "Lima",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 1065888
+    },
+    {
+     "year": 1955,
+     "value": 1368023
+    },
+    {
+     "year": 1960,
+     "value": 1755920
+    },
+    {
+     "year": 1965,
+     "value": 2283738
+    },
+    {
+     "year": 1970,
+     "value": 2980371
+    },
+    {
+     "year": 1975,
+     "value": 3695522
+    },
+    {
+     "year": 1980,
+     "value": 4437754
+    },
+    {
+     "year": 1985,
+     "value": 5116117
+    },
+    {
+     "year": 1990,
+     "value": 5836537
+    },
+    {
+     "year": 1995,
+     "value": 6582251
+    },
+    {
+     "year": 2000,
+     "value": 7293549
+    },
+    {
+     "year": 2005,
+     "value": 8081255
+    },
+    {
+     "year": 2010,
+     "value": 8919759
+    },
+    {
+     "year": 2015,
+     "value": 9812737
+    },
+    {
+     "year": 2020,
+     "value": 10719188
+    },
+    {
+     "year": 2025,
+     "value": 11517333
+    },
+    {
+     "year": 2030,
+     "value": 12266187
+    },
+    {
+     "year": 2035,
+     "value": 12971998
+    }
+   ]
+  },
+  "london": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 7369842,
+     "plausibility": "High",
+     "land_area_km2": 1554
+    },
+    {
+     "year": 1980,
+     "value": 7026099,
+     "plausibility": "High",
+     "land_area_km2": 1545
+    },
+    {
+     "year": 1985,
+     "value": 7030290,
+     "plausibility": "High",
+     "land_area_km2": 1546
+    },
+    {
+     "year": 1990,
+     "value": 7140652,
+     "plausibility": "High",
+     "land_area_km2": 1568
+    },
+    {
+     "year": 1995,
+     "value": 7388279,
+     "plausibility": "High",
+     "land_area_km2": 1570
+    },
+    {
+     "year": 2000,
+     "value": 7654553,
+     "plausibility": "High",
+     "land_area_km2": 1585
+    },
+    {
+     "year": 2005,
+     "value": 7947720,
+     "plausibility": "High",
+     "land_area_km2": 1585
+    },
+    {
+     "year": 2010,
+     "value": 8597262,
+     "plausibility": "High",
+     "land_area_km2": 1599
+    },
+    {
+     "year": 2015,
+     "value": 9274623,
+     "plausibility": "High",
+     "land_area_km2": 1622
+    },
+    {
+     "year": 2020,
+     "value": 9991400,
+     "plausibility": "High",
+     "land_area_km2": 1632
+    },
+    {
+     "year": 2025,
+     "value": 10416420,
+     "plausibility": "High",
+     "land_area_km2": 1646
+    },
+    {
+     "year": 2030,
+     "value": 10766831,
+     "plausibility": "Moderate",
+     "land_area_km2": 1657
+    }
+   ],
+   "wup2018_name": "London",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 8360847
+    },
+    {
+     "year": 1955,
+     "value": 8277908
+    },
+    {
+     "year": 1960,
+     "value": 8195769
+    },
+    {
+     "year": 1965,
+     "value": 7868506
+    },
+    {
+     "year": 1970,
+     "value": 7509405
+    },
+    {
+     "year": 1975,
+     "value": 7124383
+    },
+    {
+     "year": 1980,
+     "value": 6751196
+    },
+    {
+     "year": 1985,
+     "value": 6740954
+    },
+    {
+     "year": 1990,
+     "value": 6794400
+    },
+    {
+     "year": 1995,
+     "value": 7029508
+    },
+    {
+     "year": 2000,
+     "value": 7272819
+    },
+    {
+     "year": 2005,
+     "value": 7501217
+    },
+    {
+     "year": 2010,
+     "value": 8044433
+    },
+    {
+     "year": 2015,
+     "value": 8661381
+    },
+    {
+     "year": 2020,
+     "value": 9304016
+    },
+    {
+     "year": 2025,
+     "value": 9840742
+    },
+    {
+     "year": 2030,
+     "value": 10228051
+    },
+    {
+     "year": 2035,
+     "value": 10556486
+    }
+   ]
+  },
+  "hajipur": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 745962,
+     "plausibility": "High",
+     "land_area_km2": 100
+    },
+    {
+     "year": 1980,
+     "value": 942414,
+     "plausibility": "High",
+     "land_area_km2": 148
+    },
+    {
+     "year": 1985,
+     "value": 1163861,
+     "plausibility": "High",
+     "land_area_km2": 203
+    },
+    {
+     "year": 1990,
+     "value": 1751554,
+     "plausibility": "High",
+     "land_area_km2": 395
+    },
+    {
+     "year": 1995,
+     "value": 2396126,
+     "plausibility": "High",
+     "land_area_km2": 566
+    },
+    {
+     "year": 2000,
+     "value": 3363805,
+     "plausibility": "High",
+     "land_area_km2": 821
+    },
+    {
+     "year": 2005,
+     "value": 4618123,
+     "plausibility": "High",
+     "land_area_km2": 1216
+    },
+    {
+     "year": 2010,
+     "value": 6367922,
+     "plausibility": "High",
+     "land_area_km2": 1890
+    },
+    {
+     "year": 2015,
+     "value": 7761198,
+     "plausibility": "High",
+     "land_area_km2": 2339
+    },
+    {
+     "year": 2020,
+     "value": 9070088,
+     "plausibility": "High",
+     "land_area_km2": 2879
+    },
+    {
+     "year": 2025,
+     "value": 9941510,
+     "plausibility": "High",
+     "land_area_km2": 3092
+    },
+    {
+     "year": 2030,
+     "value": 11060041,
+     "plausibility": "High",
+     "land_area_km2": 3391
+    }
+   ],
+   "wup2018_name": null,
+   "wup2018": []
+  },
+  "rio-de-janeiro": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 5880669,
+     "plausibility": "High",
+     "land_area_km2": 1048
+    },
+    {
+     "year": 1980,
+     "value": 6680298,
+     "plausibility": "High",
+     "land_area_km2": 1117
+    },
+    {
+     "year": 1985,
+     "value": 6984412,
+     "plausibility": "High",
+     "land_area_km2": 1132
+    },
+    {
+     "year": 1990,
+     "value": 7269491,
+     "plausibility": "High",
+     "land_area_km2": 1151
+    },
+    {
+     "year": 1995,
+     "value": 7799358,
+     "plausibility": "High",
+     "land_area_km2": 1179
+    },
+    {
+     "year": 2000,
+     "value": 8416754,
+     "plausibility": "High",
+     "land_area_km2": 1214
+    },
+    {
+     "year": 2005,
+     "value": 8711725,
+     "plausibility": "High",
+     "land_area_km2": 1232
+    },
+    {
+     "year": 2010,
+     "value": 8980518,
+     "plausibility": "High",
+     "land_area_km2": 1235
+    },
+    {
+     "year": 2015,
+     "value": 9273974,
+     "plausibility": "High",
+     "land_area_km2": 1242
+    },
+    {
+     "year": 2020,
+     "value": 9417822,
+     "plausibility": "High",
+     "land_area_km2": 1245
+    },
+    {
+     "year": 2025,
+     "value": 9500336,
+     "plausibility": "High",
+     "land_area_km2": 1260
+    },
+    {
+     "year": 2030,
+     "value": 9540571,
+     "plausibility": "High",
+     "land_area_km2": 1267
+    }
+   ],
+   "wup2018_name": "Rio de Janeiro",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 3026195
+    },
+    {
+     "year": 1955,
+     "value": 3687344
+    },
+    {
+     "year": 1960,
+     "value": 4493182
+    },
+    {
+     "year": 1965,
+     "value": 5522674
+    },
+    {
+     "year": 1970,
+     "value": 6790519
+    },
+    {
+     "year": 1975,
+     "value": 7733429
+    },
+    {
+     "year": 1980,
+     "value": 8783870
+    },
+    {
+     "year": 1985,
+     "value": 9241709
+    },
+    {
+     "year": 1990,
+     "value": 9697487
+    },
+    {
+     "year": 1995,
+     "value": 10431518
+    },
+    {
+     "year": 2000,
+     "value": 11306768
+    },
+    {
+     "year": 2005,
+     "value": 11831807
+    },
+    {
+     "year": 2010,
+     "value": 12373884
+    },
+    {
+     "year": 2015,
+     "value": 12940796
+    },
+    {
+     "year": 2020,
+     "value": 13458075
+    },
+    {
+     "year": 2025,
+     "value": 13923245
+    },
+    {
+     "year": 2030,
+     "value": 14408259
+    },
+    {
+     "year": 2035,
+     "value": 14810180
+    }
+   ]
+  },
+  "paris": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 7423859,
+     "plausibility": "High",
+     "land_area_km2": 1266
+    },
+    {
+     "year": 1980,
+     "value": 7492841,
+     "plausibility": "High",
+     "land_area_km2": 1272
+    },
+    {
+     "year": 1985,
+     "value": 7737189,
+     "plausibility": "High",
+     "land_area_km2": 1292
+    },
+    {
+     "year": 1990,
+     "value": 8058139,
+     "plausibility": "High",
+     "land_area_km2": 1300
+    },
+    {
+     "year": 1995,
+     "value": 8223842,
+     "plausibility": "High",
+     "land_area_km2": 1310
+    },
+    {
+     "year": 2000,
+     "value": 8385156,
+     "plausibility": "High",
+     "land_area_km2": 1311
+    },
+    {
+     "year": 2005,
+     "value": 8759570,
+     "plausibility": "High",
+     "land_area_km2": 1353
+    },
+    {
+     "year": 2010,
+     "value": 9032030,
+     "plausibility": "High",
+     "land_area_km2": 1362
+    },
+    {
+     "year": 2015,
+     "value": 9271626,
+     "plausibility": "High",
+     "land_area_km2": 1377
+    },
+    {
+     "year": 2020,
+     "value": 9346461,
+     "plausibility": "High",
+     "land_area_km2": 1380
+    },
+    {
+     "year": 2025,
+     "value": 9381921,
+     "plausibility": "High",
+     "land_area_km2": 1381
+    },
+    {
+     "year": 2030,
+     "value": 9375275,
+     "plausibility": "High",
+     "land_area_km2": 1381
+    }
+   ],
+   "wup2018_name": "Paris",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 6283018
+    },
+    {
+     "year": 1955,
+     "value": 6796437
+    },
+    {
+     "year": 1960,
+     "value": 7410735
+    },
+    {
+     "year": 1965,
+     "value": 7855185
+    },
+    {
+     "year": 1970,
+     "value": 8208121
+    },
+    {
+     "year": 1975,
+     "value": 8557844
+    },
+    {
+     "year": 1980,
+     "value": 8669349
+    },
+    {
+     "year": 1985,
+     "value": 8956222
+    },
+    {
+     "year": 1990,
+     "value": 9330327
+    },
+    {
+     "year": 1995,
+     "value": 9510103
+    },
+    {
+     "year": 2000,
+     "value": 9736538
+    },
+    {
+     "year": 2005,
+     "value": 10091795
+    },
+    {
+     "year": 2010,
+     "value": 10460118
+    },
+    {
+     "year": 2015,
+     "value": 10733502
+    },
+    {
+     "year": 2020,
+     "value": 11017230
+    },
+    {
+     "year": 2025,
+     "value": 11346802
+    },
+    {
+     "year": 2030,
+     "value": 11709788
+    },
+    {
+     "year": 2035,
+     "value": 12064575
+    }
+   ]
+  },
+  "hyderabad": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 2810479,
+     "plausibility": "High",
+     "land_area_km2": 403
+    },
+    {
+     "year": 1980,
+     "value": 3263578,
+     "plausibility": "High",
+     "land_area_km2": 424
+    },
+    {
+     "year": 1985,
+     "value": 4062021,
+     "plausibility": "High",
+     "land_area_km2": 474
+    },
+    {
+     "year": 1990,
+     "value": 5083884,
+     "plausibility": "High",
+     "land_area_km2": 518
+    },
+    {
+     "year": 1995,
+     "value": 5749082,
+     "plausibility": "High",
+     "land_area_km2": 583
+    },
+    {
+     "year": 2000,
+     "value": 6340661,
+     "plausibility": "High",
+     "land_area_km2": 643
+    },
+    {
+     "year": 2005,
+     "value": 6950375,
+     "plausibility": "High",
+     "land_area_km2": 709
+    },
+    {
+     "year": 2010,
+     "value": 7578211,
+     "plausibility": "High",
+     "land_area_km2": 768
+    },
+    {
+     "year": 2015,
+     "value": 8304057,
+     "plausibility": "High",
+     "land_area_km2": 825
+    },
+    {
+     "year": 2020,
+     "value": 9013199,
+     "plausibility": "High",
+     "land_area_km2": 861
+    },
+    {
+     "year": 2025,
+     "value": 9190795,
+     "plausibility": "High",
+     "land_area_km2": 889
+    },
+    {
+     "year": 2030,
+     "value": 9317456,
+     "plausibility": "High",
+     "land_area_km2": 891
+    }
+   ],
+   "wup2018_name": "Hyderabad",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 232322
+    },
+    {
+     "year": 1955,
+     "value": 312361
+    },
+    {
+     "year": 1960,
+     "value": 419652
+    },
+    {
+     "year": 1965,
+     "value": 499783
+    },
+    {
+     "year": 1970,
+     "value": 585722
+    },
+    {
+     "year": 1975,
+     "value": 666537
+    },
+    {
+     "year": 1980,
+     "value": 741027
+    },
+    {
+     "year": 1985,
+     "value": 837846
+    },
+    {
+     "year": 1990,
+     "value": 949808
+    },
+    {
+     "year": 1995,
+     "value": 1076731
+    },
+    {
+     "year": 2000,
+     "value": 1210423
+    },
+    {
+     "year": 2005,
+     "value": 1347593
+    },
+    {
+     "year": 2010,
+     "value": 1500352
+    },
+    {
+     "year": 2015,
+     "value": 1670427
+    },
+    {
+     "year": 2020,
+     "value": 1849829
+    },
+    {
+     "year": 2025,
+     "value": 2058729
+    },
+    {
+     "year": 2030,
+     "value": 2323232
+    },
+    {
+     "year": 2035,
+     "value": 2629655
+    }
+   ]
+  },
+  "tehran": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 4265101,
+     "plausibility": "High",
+     "land_area_km2": 658
+    },
+    {
+     "year": 1980,
+     "value": 5107765,
+     "plausibility": "High",
+     "land_area_km2": 687
+    },
+    {
+     "year": 1985,
+     "value": 6036852,
+     "plausibility": "High",
+     "land_area_km2": 724
+    },
+    {
+     "year": 1990,
+     "value": 6650179,
+     "plausibility": "High",
+     "land_area_km2": 741
+    },
+    {
+     "year": 1995,
+     "value": 6780147,
+     "plausibility": "High",
+     "land_area_km2": 752
+    },
+    {
+     "year": 2000,
+     "value": 6999195,
+     "plausibility": "High",
+     "land_area_km2": 771
+    },
+    {
+     "year": 2005,
+     "value": 7235118,
+     "plausibility": "High",
+     "land_area_km2": 775
+    },
+    {
+     "year": 2010,
+     "value": 7713902,
+     "plausibility": "High",
+     "land_area_km2": 790
+    },
+    {
+     "year": 2015,
+     "value": 8117767,
+     "plausibility": "High",
+     "land_area_km2": 775
+    },
+    {
+     "year": 2020,
+     "value": 8889152,
+     "plausibility": "High",
+     "land_area_km2": 782
+    },
+    {
+     "year": 2025,
+     "value": 9174964,
+     "plausibility": "High",
+     "land_area_km2": 786
+    },
+    {
+     "year": 2030,
+     "value": 9334993,
+     "plausibility": "High",
+     "land_area_km2": 815
+    }
+   ],
+   "wup2018_name": "Tehran",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 1041350
+    },
+    {
+     "year": 1955,
+     "value": 1396391
+    },
+    {
+     "year": 1960,
+     "value": 1872633
+    },
+    {
+     "year": 1965,
+     "value": 2510893
+    },
+    {
+     "year": 1970,
+     "value": 3289785
+    },
+    {
+     "year": 1975,
+     "value": 4273048
+    },
+    {
+     "year": 1980,
+     "value": 5079191
+    },
+    {
+     "year": 1985,
+     "value": 5839193
+    },
+    {
+     "year": 1990,
+     "value": 6364827
+    },
+    {
+     "year": 1995,
+     "value": 6686727
+    },
+    {
+     "year": 2000,
+     "value": 7128140
+    },
+    {
+     "year": 2005,
+     "value": 7652157
+    },
+    {
+     "year": 2010,
+     "value": 8058520
+    },
+    {
+     "year": 2015,
+     "value": 8555089
+    },
+    {
+     "year": 2020,
+     "value": 9134708
+    },
+    {
+     "year": 2025,
+     "value": 9729742
+    },
+    {
+     "year": 2030,
+     "value": 10239785
+    },
+    {
+     "year": 2035,
+     "value": 10664297
+    }
+   ]
+  },
+  "taipei": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 3691099,
+     "plausibility": "High",
+     "land_area_km2": 494
+    },
+    {
+     "year": 1980,
+     "value": 4669003,
+     "plausibility": "Moderate",
+     "land_area_km2": 551
+    },
+    {
+     "year": 1985,
+     "value": 5791742,
+     "plausibility": "Moderate",
+     "land_area_km2": 690
+    },
+    {
+     "year": 1990,
+     "value": 6841153,
+     "plausibility": "Moderate",
+     "land_area_km2": 745
+    },
+    {
+     "year": 1995,
+     "value": 7432342,
+     "plausibility": "Moderate",
+     "land_area_km2": 812
+    },
+    {
+     "year": 2000,
+     "value": 7898577,
+     "plausibility": "Moderate",
+     "land_area_km2": 853
+    },
+    {
+     "year": 2005,
+     "value": 8233746,
+     "plausibility": "Moderate",
+     "land_area_km2": 894
+    },
+    {
+     "year": 2010,
+     "value": 8604396,
+     "plausibility": "Moderate",
+     "land_area_km2": 911
+    },
+    {
+     "year": 2015,
+     "value": 8854906,
+     "plausibility": "Moderate",
+     "land_area_km2": 924
+    },
+    {
+     "year": 2020,
+     "value": 9233776,
+     "plausibility": "Moderate",
+     "land_area_km2": 940
+    },
+    {
+     "year": 2025,
+     "value": 9136792,
+     "plausibility": "Moderate",
+     "land_area_km2": 937
+    },
+    {
+     "year": 2030,
+     "value": 9053593,
+     "plausibility": "Moderate",
+     "land_area_km2": 937
+    }
+   ],
+   "wup2018_name": "Taibei",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 550908
+    },
+    {
+     "year": 1955,
+     "value": 696347
+    },
+    {
+     "year": 1960,
+     "value": 880240
+    },
+    {
+     "year": 1965,
+     "value": 1112552
+    },
+    {
+     "year": 1970,
+     "value": 1406266
+    },
+    {
+     "year": 1975,
+     "value": 1777521
+    },
+    {
+     "year": 1980,
+     "value": 2246932
+    },
+    {
+     "year": 1985,
+     "value": 2497433
+    },
+    {
+     "year": 1990,
+     "value": 2737271
+    },
+    {
+     "year": 1995,
+     "value": 2703631
+    },
+    {
+     "year": 2000,
+     "value": 2642361
+    },
+    {
+     "year": 2005,
+     "value": 2636404
+    },
+    {
+     "year": 2010,
+     "value": 2653861
+    },
+    {
+     "year": 2015,
+     "value": 2685628
+    },
+    {
+     "year": 2020,
+     "value": 2721485
+    },
+    {
+     "year": 2025,
+     "value": 2779198
+    },
+    {
+     "year": 2030,
+     "value": 2843865
+    },
+    {
+     "year": 2035,
+     "value": 2889567
+    }
+   ]
+  },
+  "bandung": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 3475759,
+     "plausibility": "High",
+     "land_area_km2": 539
+    },
+    {
+     "year": 1980,
+     "value": 3925884,
+     "plausibility": "High",
+     "land_area_km2": 563
+    },
+    {
+     "year": 1985,
+     "value": 4513534,
+     "plausibility": "High",
+     "land_area_km2": 644
+    },
+    {
+     "year": 1990,
+     "value": 5059787,
+     "plausibility": "High",
+     "land_area_km2": 718
+    },
+    {
+     "year": 1995,
+     "value": 5723780,
+     "plausibility": "Moderate",
+     "land_area_km2": 779
+    },
+    {
+     "year": 2000,
+     "value": 6333411,
+     "plausibility": "Moderate",
+     "land_area_km2": 808
+    },
+    {
+     "year": 2005,
+     "value": 6989517,
+     "plausibility": "Moderate",
+     "land_area_km2": 888
+    },
+    {
+     "year": 2010,
+     "value": 7602471,
+     "plausibility": "Moderate",
+     "land_area_km2": 934
+    },
+    {
+     "year": 2015,
+     "value": 8155517,
+     "plausibility": "Moderate",
+     "land_area_km2": 966
+    },
+    {
+     "year": 2020,
+     "value": 8536016,
+     "plausibility": "Moderate",
+     "land_area_km2": 975
+    },
+    {
+     "year": 2025,
+     "value": 8909104,
+     "plausibility": "Moderate",
+     "land_area_km2": 1016
+    },
+    {
+     "year": 2030,
+     "value": 9189416,
+     "plausibility": "Moderate",
+     "land_area_km2": 1025
+    }
+   ],
+   "wup2018_name": "Bandung",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 511000
+    },
+    {
+     "year": 1955,
+     "value": 678764
+    },
+    {
+     "year": 1960,
+     "value": 901677
+    },
+    {
+     "year": 1965,
+     "value": 1051836
+    },
+    {
+     "year": 1970,
+     "value": 1170475
+    },
+    {
+     "year": 1975,
+     "value": 1303538
+    },
+    {
+     "year": 1980,
+     "value": 1452150
+    },
+    {
+     "year": 1985,
+     "value": 1715513
+    },
+    {
+     "year": 1990,
+     "value": 2035262
+    },
+    {
+     "year": 1995,
+     "value": 2096615
+    },
+    {
+     "year": 2000,
+     "value": 2138133
+    },
+    {
+     "year": 2005,
+     "value": 2265029
+    },
+    {
+     "year": 2010,
+     "value": 2397718
+    },
+    {
+     "year": 2015,
+     "value": 2484417
+    },
+    {
+     "year": 2020,
+     "value": 2580191
+    },
+    {
+     "year": 2025,
+     "value": 2758097
+    },
+    {
+     "year": 2030,
+     "value": 3002211
+    },
+    {
+     "year": 2035,
+     "value": 3238995
+    }
+   ]
+  },
+  "kuala-lumpur": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 170777,
+     "plausibility": "Moderate",
+     "land_area_km2": 55
+    },
+    {
+     "year": 1980,
+     "value": 707135,
+     "plausibility": "Low",
+     "land_area_km2": 288
+    },
+    {
+     "year": 1985,
+     "value": 1268550,
+     "plausibility": "Low",
+     "land_area_km2": 457
+    },
+    {
+     "year": 1990,
+     "value": 2154831,
+     "plausibility": "Moderate",
+     "land_area_km2": 653
+    },
+    {
+     "year": 1995,
+     "value": 2855929,
+     "plausibility": "Moderate",
+     "land_area_km2": 796
+    },
+    {
+     "year": 2000,
+     "value": 4143915,
+     "plausibility": "Moderate",
+     "land_area_km2": 1050
+    },
+    {
+     "year": 2005,
+     "value": 4854181,
+     "plausibility": "Moderate",
+     "land_area_km2": 1129
+    },
+    {
+     "year": 2010,
+     "value": 5655509,
+     "plausibility": "Moderate",
+     "land_area_km2": 1179
+    },
+    {
+     "year": 2015,
+     "value": 6660560,
+     "plausibility": "High",
+     "land_area_km2": 1250
+    },
+    {
+     "year": 2020,
+     "value": 7863028,
+     "plausibility": "High",
+     "land_area_km2": 1300
+    },
+    {
+     "year": 2025,
+     "value": 8443731,
+     "plausibility": "High",
+     "land_area_km2": 1345
+    },
+    {
+     "year": 2030,
+     "value": 9052302,
+     "plausibility": "High",
+     "land_area_km2": 1420
+    }
+   ],
+   "wup2018_name": "Kuala Lumpur",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 261528
+    },
+    {
+     "year": 1955,
+     "value": 299730
+    },
+    {
+     "year": 1960,
+     "value": 343527
+    },
+    {
+     "year": 1965,
+     "value": 393692
+    },
+    {
+     "year": 1970,
+     "value": 451201
+    },
+    {
+     "year": 1975,
+     "value": 660984
+    },
+    {
+     "year": 1980,
+     "value": 971445
+    },
+    {
+     "year": 1985,
+     "value": 1427427
+    },
+    {
+     "year": 1990,
+     "value": 2097661
+    },
+    {
+     "year": 1995,
+     "value": 2974961
+    },
+    {
+     "year": 2000,
+     "value": 4176469
+    },
+    {
+     "year": 2005,
+     "value": 4926787
+    },
+    {
+     "year": 2010,
+     "value": 5809953
+    },
+    {
+     "year": 2015,
+     "value": 6851431
+    },
+    {
+     "year": 2020,
+     "value": 7996830
+    },
+    {
+     "year": 2025,
+     "value": 9000280
+    },
+    {
+     "year": 2030,
+     "value": 9805249
+    },
+    {
+     "year": 2035,
+     "value": 10466823
+    }
+   ]
+  },
+  "dar-es-salaam": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 299151,
+     "plausibility": "Low",
+     "land_area_km2": 108
+    },
+    {
+     "year": 1980,
+     "value": 538288,
+     "plausibility": "Low",
+     "land_area_km2": 162
+    },
+    {
+     "year": 1985,
+     "value": 761953,
+     "plausibility": "Low",
+     "land_area_km2": 199
+    },
+    {
+     "year": 1990,
+     "value": 1207959,
+     "plausibility": "Low",
+     "land_area_km2": 333
+    },
+    {
+     "year": 1995,
+     "value": 1587045,
+     "plausibility": "Low",
+     "land_area_km2": 404
+    },
+    {
+     "year": 2000,
+     "value": 2071645,
+     "plausibility": "Low",
+     "land_area_km2": 482
+    },
+    {
+     "year": 2005,
+     "value": 2741761,
+     "plausibility": "Moderate",
+     "land_area_km2": 552
+    },
+    {
+     "year": 2010,
+     "value": 3776518,
+     "plausibility": "Moderate",
+     "land_area_km2": 650
+    },
+    {
+     "year": 2015,
+     "value": 5209937,
+     "plausibility": "Moderate",
+     "land_area_km2": 761
+    },
+    {
+     "year": 2020,
+     "value": 6851004,
+     "plausibility": "High",
+     "land_area_km2": 841
+    },
+    {
+     "year": 2025,
+     "value": 7795114,
+     "plausibility": "High",
+     "land_area_km2": 909
+    },
+    {
+     "year": 2030,
+     "value": 8865491,
+     "plausibility": "High",
+     "land_area_km2": 982
+    }
+   ],
+   "wup2018_name": "Dar es Salaam",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 83844
+    },
+    {
+     "year": 1955,
+     "value": 117439
+    },
+    {
+     "year": 1960,
+     "value": 162126
+    },
+    {
+     "year": 1965,
+     "value": 233251
+    },
+    {
+     "year": 1970,
+     "value": 356785
+    },
+    {
+     "year": 1975,
+     "value": 571594
+    },
+    {
+     "year": 1980,
+     "value": 854913
+    },
+    {
+     "year": 1985,
+     "value": 1136733
+    },
+    {
+     "year": 1990,
+     "value": 1473870
+    },
+    {
+     "year": 1995,
+     "value": 1830067
+    },
+    {
+     "year": 2000,
+     "value": 2272483
+    },
+    {
+     "year": 2005,
+     "value": 2926695
+    },
+    {
+     "year": 2010,
+     "value": 3869675
+    },
+    {
+     "year": 2015,
+     "value": 5115698
+    },
+    {
+     "year": 2020,
+     "value": 6701650
+    },
+    {
+     "year": 2025,
+     "value": 8561525
+    },
+    {
+     "year": 2030,
+     "value": 10788523
+    },
+    {
+     "year": 2035,
+     "value": 13383362
+    }
+   ]
+  },
+  "suzhou": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 930446,
+     "plausibility": "High",
+     "land_area_km2": 125
+    },
+    {
+     "year": 1980,
+     "value": 1037478,
+     "plausibility": "High",
+     "land_area_km2": 165
+    },
+    {
+     "year": 1985,
+     "value": 1328160,
+     "plausibility": "High",
+     "land_area_km2": 226
+    },
+    {
+     "year": 1990,
+     "value": 1804713,
+     "plausibility": "High",
+     "land_area_km2": 319
+    },
+    {
+     "year": 1995,
+     "value": 2665005,
+     "plausibility": "High",
+     "land_area_km2": 504
+    },
+    {
+     "year": 2000,
+     "value": 3671581,
+     "plausibility": "High",
+     "land_area_km2": 598
+    },
+    {
+     "year": 2005,
+     "value": 4258791,
+     "plausibility": "High",
+     "land_area_km2": 777
+    },
+    {
+     "year": 2010,
+     "value": 4863627,
+     "plausibility": "High",
+     "land_area_km2": 974
+    },
+    {
+     "year": 2015,
+     "value": 6124237,
+     "plausibility": "High",
+     "land_area_km2": 1100
+    },
+    {
+     "year": 2020,
+     "value": 7615260,
+     "plausibility": "High",
+     "land_area_km2": 1144
+    },
+    {
+     "year": 2025,
+     "value": 7731101,
+     "plausibility": "High",
+     "land_area_km2": 1169
+    },
+    {
+     "year": 2030,
+     "value": 7784349,
+     "plausibility": "High",
+     "land_area_km2": 1170
+    }
+   ],
+   "wup2018_name": "Suzhou, Jiangsu",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 457047
+    },
+    {
+     "year": 1955,
+     "value": 485669
+    },
+    {
+     "year": 1960,
+     "value": 516092
+    },
+    {
+     "year": 1965,
+     "value": 535967
+    },
+    {
+     "year": 1970,
+     "value": 507747
+    },
+    {
+     "year": 1975,
+     "value": 530124
+    },
+    {
+     "year": 1980,
+     "value": 555749
+    },
+    {
+     "year": 1985,
+     "value": 717966
+    },
+    {
+     "year": 1990,
+     "value": 1066702
+    },
+    {
+     "year": 1995,
+     "value": 1500844
+    },
+    {
+     "year": 2000,
+     "value": 2111878
+    },
+    {
+     "year": 2005,
+     "value": 2907598
+    },
+    {
+     "year": 2010,
+     "value": 3997251
+    },
+    {
+     "year": 2015,
+     "value": 5336392
+    },
+    {
+     "year": 2020,
+     "value": 7069992
+    },
+    {
+     "year": 2025,
+     "value": 8592823
+    },
+    {
+     "year": 2030,
+     "value": 9388528
+    },
+    {
+     "year": 2035,
+     "value": 9813985
+    }
+   ]
+  },
+  "ahmedabad": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 2569410,
+     "plausibility": "High",
+     "land_area_km2": 225
+    },
+    {
+     "year": 1980,
+     "value": 3023120,
+     "plausibility": "High",
+     "land_area_km2": 237
+    },
+    {
+     "year": 1985,
+     "value": 3498239,
+     "plausibility": "High",
+     "land_area_km2": 249
+    },
+    {
+     "year": 1990,
+     "value": 4042628,
+     "plausibility": "High",
+     "land_area_km2": 261
+    },
+    {
+     "year": 1995,
+     "value": 4558297,
+     "plausibility": "High",
+     "land_area_km2": 278
+    },
+    {
+     "year": 2000,
+     "value": 5119105,
+     "plausibility": "Moderate",
+     "land_area_km2": 287
+    },
+    {
+     "year": 2005,
+     "value": 5653155,
+     "plausibility": "Moderate",
+     "land_area_km2": 309
+    },
+    {
+     "year": 2010,
+     "value": 6214561,
+     "plausibility": "Moderate",
+     "land_area_km2": 325
+    },
+    {
+     "year": 2015,
+     "value": 6835750,
+     "plausibility": "Moderate",
+     "land_area_km2": 351
+    },
+    {
+     "year": 2020,
+     "value": 7466781,
+     "plausibility": "Moderate",
+     "land_area_km2": 362
+    },
+    {
+     "year": 2025,
+     "value": 7632408,
+     "plausibility": "High",
+     "land_area_km2": 365
+    },
+    {
+     "year": 2030,
+     "value": 7806201,
+     "plausibility": "High",
+     "land_area_km2": 373
+    }
+   ],
+   "wup2018_name": "Ahmadabad",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 854959
+    },
+    {
+     "year": 1955,
+     "value": 1007060
+    },
+    {
+     "year": 1960,
+     "value": 1180775
+    },
+    {
+     "year": 1965,
+     "value": 1412315
+    },
+    {
+     "year": 1970,
+     "value": 1694534
+    },
+    {
+     "year": 1975,
+     "value": 2050045
+    },
+    {
+     "year": 1980,
+     "value": 2483901
+    },
+    {
+     "year": 1985,
+     "value": 2970909
+    },
+    {
+     "year": 1990,
+     "value": 3546597
+    },
+    {
+     "year": 1995,
+     "value": 4139579
+    },
+    {
+     "year": 2000,
+     "value": 4815227
+    },
+    {
+     "year": 2005,
+     "value": 5493707
+    },
+    {
+     "year": 2010,
+     "value": 6249507
+    },
+    {
+     "year": 2015,
+     "value": 7109286
+    },
+    {
+     "year": 2020,
+     "value": 8059441
+    },
+    {
+     "year": 2025,
+     "value": 9061819
+    },
+    {
+     "year": 2030,
+     "value": 10147703
+    },
+    {
+     "year": 2035,
+     "value": 11294690
+    }
+   ]
+  },
+  "hangzhou": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 1113616,
+     "plausibility": "High",
+     "land_area_km2": 205
+    },
+    {
+     "year": 1980,
+     "value": 1199594,
+     "plausibility": "Moderate",
+     "land_area_km2": 239
+    },
+    {
+     "year": 1985,
+     "value": 1586242,
+     "plausibility": "Moderate",
+     "land_area_km2": 342
+    },
+    {
+     "year": 1990,
+     "value": 2227238,
+     "plausibility": "Moderate",
+     "land_area_km2": 507
+    },
+    {
+     "year": 1995,
+     "value": 3369526,
+     "plausibility": "High",
+     "land_area_km2": 717
+    },
+    {
+     "year": 2000,
+     "value": 4964897,
+     "plausibility": "High",
+     "land_area_km2": 985
+    },
+    {
+     "year": 2005,
+     "value": 5788862,
+     "plausibility": "High",
+     "land_area_km2": 1133
+    },
+    {
+     "year": 2010,
+     "value": 6706744,
+     "plausibility": "Moderate",
+     "land_area_km2": 1396
+    },
+    {
+     "year": 2015,
+     "value": 6862416,
+     "plausibility": "Moderate",
+     "land_area_km2": 1461
+    },
+    {
+     "year": 2020,
+     "value": 6863540,
+     "plausibility": "Moderate",
+     "land_area_km2": 1455
+    },
+    {
+     "year": 2025,
+     "value": 7500208,
+     "plausibility": "Moderate",
+     "land_area_km2": 1610
+    },
+    {
+     "year": 2030,
+     "value": 8137733,
+     "plausibility": "Moderate",
+     "land_area_km2": 1736
+    }
+   ],
+   "wup2018_name": "Hangzhou",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 610395
+    },
+    {
+     "year": 1955,
+     "value": 760747
+    },
+    {
+     "year": 1960,
+     "value": 948190
+    },
+    {
+     "year": 1965,
+     "value": 973454
+    },
+    {
+     "year": 1970,
+     "value": 1024742
+    },
+    {
+     "year": 1975,
+     "value": 1078733
+    },
+    {
+     "year": 1980,
+     "value": 1135584
+    },
+    {
+     "year": 1985,
+     "value": 1351264
+    },
+    {
+     "year": 1990,
+     "value": 1666355
+    },
+    {
+     "year": 1995,
+     "value": 2438737
+    },
+    {
+     "year": 2000,
+     "value": 3569504
+    },
+    {
+     "year": 2005,
+     "value": 4555793
+    },
+    {
+     "year": 2010,
+     "value": 5757938
+    },
+    {
+     "year": 2015,
+     "value": 6657736
+    },
+    {
+     "year": 2020,
+     "value": 7642147
+    },
+    {
+     "year": 2025,
+     "value": 8591036
+    },
+    {
+     "year": 2030,
+     "value": 9260447
+    },
+    {
+     "year": 2035,
+     "value": 9675019
+    }
+   ]
+  },
+  "wuhan": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 1665771,
+     "plausibility": "High",
+     "land_area_km2": 281
+    },
+    {
+     "year": 1980,
+     "value": 1983631,
+     "plausibility": "High",
+     "land_area_km2": 340
+    },
+    {
+     "year": 1985,
+     "value": 2341145,
+     "plausibility": "High",
+     "land_area_km2": 380
+    },
+    {
+     "year": 1990,
+     "value": 2747486,
+     "plausibility": "High",
+     "land_area_km2": 401
+    },
+    {
+     "year": 1995,
+     "value": 3968929,
+     "plausibility": "High",
+     "land_area_km2": 488
+    },
+    {
+     "year": 2000,
+     "value": 5637243,
+     "plausibility": "Moderate",
+     "land_area_km2": 562
+    },
+    {
+     "year": 2005,
+     "value": 6197659,
+     "plausibility": "Moderate",
+     "land_area_km2": 646
+    },
+    {
+     "year": 2010,
+     "value": 6720499,
+     "plausibility": "Moderate",
+     "land_area_km2": 705
+    },
+    {
+     "year": 2015,
+     "value": 7072984,
+     "plausibility": "High",
+     "land_area_km2": 717
+    },
+    {
+     "year": 2020,
+     "value": 7558701,
+     "plausibility": "High",
+     "land_area_km2": 726
+    },
+    {
+     "year": 2025,
+     "value": 7363548,
+     "plausibility": "High",
+     "land_area_km2": 711
+    },
+    {
+     "year": 2030,
+     "value": 7131478,
+     "plausibility": "High",
+     "land_area_km2": 706
+    }
+   ],
+   "wup2018_name": "Wuhan",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 1068258
+    },
+    {
+     "year": 1955,
+     "value": 1488494
+    },
+    {
+     "year": 1960,
+     "value": 1653278
+    },
+    {
+     "year": 1965,
+     "value": 1836198
+    },
+    {
+     "year": 1970,
+     "value": 2039416
+    },
+    {
+     "year": 1975,
+     "value": 2265125
+    },
+    {
+     "year": 1980,
+     "value": 2515887
+    },
+    {
+     "year": 1985,
+     "value": 2897080
+    },
+    {
+     "year": 1990,
+     "value": 3417482
+    },
+    {
+     "year": 1995,
+     "value": 4762594
+    },
+    {
+     "year": 2000,
+     "value": 6637746
+    },
+    {
+     "year": 2005,
+     "value": 7129205
+    },
+    {
+     "year": 2010,
+     "value": 7514801
+    },
+    {
+     "year": 2015,
+     "value": 7921253
+    },
+    {
+     "year": 2020,
+     "value": 8364978
+    },
+    {
+     "year": 2025,
+     "value": 8986475
+    },
+    {
+     "year": 2030,
+     "value": 9610794
+    },
+    {
+     "year": 2035,
+     "value": 10037986
+    }
+   ]
+  },
+  "tianjin": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 2567069,
+     "plausibility": "High",
+     "land_area_km2": 267
+    },
+    {
+     "year": 1980,
+     "value": 2629780,
+     "plausibility": "High",
+     "land_area_km2": 277
+    },
+    {
+     "year": 1985,
+     "value": 2802082,
+     "plausibility": "High",
+     "land_area_km2": 300
+    },
+    {
+     "year": 1990,
+     "value": 3002887,
+     "plausibility": "High",
+     "land_area_km2": 306
+    },
+    {
+     "year": 1995,
+     "value": 3617716,
+     "plausibility": "High",
+     "land_area_km2": 342
+    },
+    {
+     "year": 2000,
+     "value": 4302429,
+     "plausibility": "High",
+     "land_area_km2": 361
+    },
+    {
+     "year": 2005,
+     "value": 4999108,
+     "plausibility": "Moderate",
+     "land_area_km2": 401
+    },
+    {
+     "year": 2010,
+     "value": 5717356,
+     "plausibility": "Moderate",
+     "land_area_km2": 424
+    },
+    {
+     "year": 2015,
+     "value": 6769579,
+     "plausibility": "Moderate",
+     "land_area_km2": 486
+    },
+    {
+     "year": 2020,
+     "value": 7042294,
+     "plausibility": "Moderate",
+     "land_area_km2": 494
+    },
+    {
+     "year": 2025,
+     "value": 7285342,
+     "plausibility": "Moderate",
+     "land_area_km2": 541
+    },
+    {
+     "year": 2030,
+     "value": 7451187,
+     "plausibility": "Moderate",
+     "land_area_km2": 550
+    }
+   ],
+   "wup2018_name": "Tianjin",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 2467096
+    },
+    {
+     "year": 1955,
+     "value": 2760676
+    },
+    {
+     "year": 1960,
+     "value": 2935185
+    },
+    {
+     "year": 1965,
+     "value": 3120620
+    },
+    {
+     "year": 1970,
+     "value": 3317826
+    },
+    {
+     "year": 1975,
+     "value": 3527495
+    },
+    {
+     "year": 1980,
+     "value": 3750476
+    },
+    {
+     "year": 1985,
+     "value": 4097324
+    },
+    {
+     "year": 1990,
+     "value": 4558206
+    },
+    {
+     "year": 1995,
+     "value": 5643951
+    },
+    {
+     "year": 2000,
+     "value": 6988727
+    },
+    {
+     "year": 2005,
+     "value": 8430065
+    },
+    {
+     "year": 2010,
+     "value": 10150076
+    },
+    {
+     "year": 2015,
+     "value": 12516041
+    },
+    {
+     "year": 2020,
+     "value": 13589078
+    },
+    {
+     "year": 2025,
+     "value": 14704080
+    },
+    {
+     "year": 2030,
+     "value": 15745240
+    },
+    {
+     "year": 2035,
+     "value": 16445898
+    }
+   ]
+  },
+  "alexandria": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 2647675,
+     "plausibility": "Moderate",
+     "land_area_km2": 245
+    },
+    {
+     "year": 1980,
+     "value": 3069954,
+     "plausibility": "Moderate",
+     "land_area_km2": 282
+    },
+    {
+     "year": 1985,
+     "value": 3518630,
+     "plausibility": "Moderate",
+     "land_area_km2": 307
+    },
+    {
+     "year": 1990,
+     "value": 3843104,
+     "plausibility": "Moderate",
+     "land_area_km2": 341
+    },
+    {
+     "year": 1995,
+     "value": 4090540,
+     "plausibility": "Moderate",
+     "land_area_km2": 358
+    },
+    {
+     "year": 2000,
+     "value": 4477718,
+     "plausibility": "High",
+     "land_area_km2": 383
+    },
+    {
+     "year": 2005,
+     "value": 4933017,
+     "plausibility": "Moderate",
+     "land_area_km2": 411
+    },
+    {
+     "year": 2010,
+     "value": 5441285,
+     "plausibility": "Moderate",
+     "land_area_km2": 445
+    },
+    {
+     "year": 2015,
+     "value": 5938458,
+     "plausibility": "Moderate",
+     "land_area_km2": 463
+    },
+    {
+     "year": 2020,
+     "value": 6870513,
+     "plausibility": "Moderate",
+     "land_area_km2": 514
+    },
+    {
+     "year": 2025,
+     "value": 7266957,
+     "plausibility": "Moderate",
+     "land_area_km2": 591
+    },
+    {
+     "year": 2030,
+     "value": 7672767,
+     "plausibility": "Moderate",
+     "land_area_km2": 624
+    }
+   ],
+   "wup2018_name": "Al-Iskandariyah (Alexandria)",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 1037462
+    },
+    {
+     "year": 1955,
+     "value": 1249034
+    },
+    {
+     "year": 1960,
+     "value": 1503829
+    },
+    {
+     "year": 1965,
+     "value": 1752021
+    },
+    {
+     "year": 1970,
+     "value": 1987188
+    },
+    {
+     "year": 1975,
+     "value": 2241216
+    },
+    {
+     "year": 1980,
+     "value": 2521445
+    },
+    {
+     "year": 1985,
+     "value": 2833769
+    },
+    {
+     "year": 1990,
+     "value": 3055905
+    },
+    {
+     "year": 1995,
+     "value": 3243744
+    },
+    {
+     "year": 2000,
+     "value": 3545628
+    },
+    {
+     "year": 2005,
+     "value": 3919345
+    },
+    {
+     "year": 2010,
+     "value": 4332570
+    },
+    {
+     "year": 2015,
+     "value": 4789362
+    },
+    {
+     "year": 2020,
+     "value": 5280664
+    },
+    {
+     "year": 2025,
+     "value": 5807051
+    },
+    {
+     "year": 2030,
+     "value": 6417384
+    },
+    {
+     "year": 2035,
+     "value": 7168583
+    }
+   ]
+  },
+  "nagoya": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 5365962,
+     "plausibility": "Moderate",
+     "land_area_km2": 1586
+    },
+    {
+     "year": 1980,
+     "value": 5790847,
+     "plausibility": "Moderate",
+     "land_area_km2": 1690
+    },
+    {
+     "year": 1985,
+     "value": 5907119,
+     "plausibility": "Moderate",
+     "land_area_km2": 1702
+    },
+    {
+     "year": 1990,
+     "value": 6199565,
+     "plausibility": "Moderate",
+     "land_area_km2": 1728
+    },
+    {
+     "year": 1995,
+     "value": 6570014,
+     "plausibility": "Moderate",
+     "land_area_km2": 1828
+    },
+    {
+     "year": 2000,
+     "value": 6506286,
+     "plausibility": "Moderate",
+     "land_area_km2": 1811
+    },
+    {
+     "year": 2005,
+     "value": 6686843,
+     "plausibility": "Moderate",
+     "land_area_km2": 1889
+    },
+    {
+     "year": 2010,
+     "value": 6826195,
+     "plausibility": "Moderate",
+     "land_area_km2": 1914
+    },
+    {
+     "year": 2015,
+     "value": 7037742,
+     "plausibility": "Moderate",
+     "land_area_km2": 1962
+    },
+    {
+     "year": 2020,
+     "value": 7282018,
+     "plausibility": "Moderate",
+     "land_area_km2": 2003
+    },
+    {
+     "year": 2025,
+     "value": 7146160,
+     "plausibility": "Moderate",
+     "land_area_km2": 1979
+    },
+    {
+     "year": 2030,
+     "value": 6999662,
+     "plausibility": "Moderate",
+     "land_area_km2": 1960
+    }
+   ],
+   "wup2018_name": "Chukyo M.M.A. (Nagoya)",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 2236878
+    },
+    {
+     "year": 1955,
+     "value": 3100066
+    },
+    {
+     "year": 1960,
+     "value": 4296736
+    },
+    {
+     "year": 1965,
+     "value": 5954267
+    },
+    {
+     "year": 1970,
+     "value": 6603381
+    },
+    {
+     "year": 1975,
+     "value": 7317947
+    },
+    {
+     "year": 1980,
+     "value": 7777328
+    },
+    {
+     "year": 1985,
+     "value": 8023149
+    },
+    {
+     "year": 1990,
+     "value": 8407204
+    },
+    {
+     "year": 1995,
+     "value": 8748338
+    },
+    {
+     "year": 2000,
+     "value": 8740191
+    },
+    {
+     "year": 2005,
+     "value": 8914045
+    },
+    {
+     "year": 2010,
+     "value": 9098050
+    },
+    {
+     "year": 2015,
+     "value": 9350155
+    },
+    {
+     "year": 2020,
+     "value": 9552132
+    },
+    {
+     "year": 2025,
+     "value": 9534788
+    },
+    {
+     "year": 2030,
+     "value": 9406897
+    },
+    {
+     "year": 2035,
+     "value": 9254220
+    }
+   ]
+  },
+  "johannesburg": {
+   "wup2025": [
+    {
+     "year": 1975,
+     "value": 1180560,
+     "plausibility": "Moderate",
+     "land_area_km2": 353
+    },
+    {
+     "year": 1980,
+     "value": 1210325,
+     "plausibility": "Moderate",
+     "land_area_km2": 359
+    },
+    {
+     "year": 1985,
+     "value": 1299644,
+     "plausibility": "Moderate",
+     "land_area_km2": 359
+    },
+    {
+     "year": 1990,
+     "value": 1439103,
+     "plausibility": "Moderate",
+     "land_area_km2": 368
+    },
+    {
+     "year": 1995,
+     "value": 2031050,
+     "plausibility": "Moderate",
+     "land_area_km2": 474
+    },
+    {
+     "year": 2000,
+     "value": 2767803,
+     "plausibility": "Moderate",
+     "land_area_km2": 612
+    },
+    {
+     "year": 2005,
+     "value": 3912682,
+     "plausibility": "Moderate",
+     "land_area_km2": 1007
+    },
+    {
+     "year": 2010,
+     "value": 4684164,
+     "plausibility": "Moderate",
+     "land_area_km2": 1182
+    },
+    {
+     "year": 2015,
+     "value": 5425198,
+     "plausibility": "Moderate",
+     "land_area_km2": 1258
+    },
+    {
+     "year": 2020,
+     "value": 6518726,
+     "plausibility": "Moderate",
+     "land_area_km2": 1375
+    },
+    {
+     "year": 2025,
+     "value": 7077175,
+     "plausibility": "Moderate",
+     "land_area_km2": 1445
+    },
+    {
+     "year": 2030,
+     "value": 7557294,
+     "plausibility": "Moderate",
+     "land_area_km2": 1515
+    }
+   ],
+   "wup2018_name": "Johannesburg",
+   "wup2018": [
+    {
+     "year": 1950,
+     "value": 910550
+    },
+    {
+     "year": 1955,
+     "value": 1022266
+    },
+    {
+     "year": 1960,
+     "value": 1147725
+    },
+    {
+     "year": 1965,
+     "value": 1288499
+    },
+    {
+     "year": 1970,
+     "value": 1443042
+    },
+    {
+     "year": 1975,
+     "value": 1497734
+    },
+    {
+     "year": 1980,
+     "value": 1554516
+    },
+    {
+     "year": 1985,
+     "value": 1625087
+    },
+    {
+     "year": 1990,
+     "value": 1878674
+    },
+    {
+     "year": 1995,
+     "value": 2421063
+    },
+    {
+     "year": 2000,
+     "value": 3045543
+    },
+    {
+     "year": 2005,
+     "value": 3623048
+    },
+    {
+     "year": 2010,
+     "value": 4249354
+    },
+    {
+     "year": 2015,
+     "value": 4984804
+    },
+    {
+     "year": 2020,
+     "value": 5782747
+    },
+    {
+     "year": 2025,
+     "value": 6444575
+    },
+    {
+     "year": 2030,
+     "value": 6978417
+    },
+    {
+     "year": 2035,
+     "value": 7461164
+    }
+   ]
+  }
+ }
+}

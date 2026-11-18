@@ -1,0 +1,1313 @@
+{
+  "ranking_source": {
+    "id": "UN-WUP-2025",
+    "title": "United Nations, Department of Economic and Social Affairs, Population Division (2025). World Urbanization Prospects: The 2025 Revision, Online Edition. File 18: The 100 Largest Cities Ranked by Population Size at Each Point in Time, 1975-2050 (POP/DB/WUP/Rev.2025/F18).",
+    "url": "https://population.un.org/wup/assets/Download/Cities/WUP2025-F18-DEGURBA-100_Largest_Cities.xlsx",
+    "definition": "Cities as defined by the Degree of Urbanisation: contiguous 1 km2 grid cells with at least 1,500 inhabitants per km2 and at least 50,000 inhabitants in total. This is an urban-extent definition, not an administrative one.",
+    "ranked_by": "2025 mid-year population",
+    "licence": "CC BY 3.0 IGO"
+  },
+  "generated_by": "scripts/build_city_list.py",
+  "cities": [
+    {
+      "slug": "jakarta",
+      "name": "Jakarta",
+      "country": "Indonesia",
+      "rank": 1,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Jakarta",
+      "un_country": "Indonesia",
+      "un_city_code": 5590,
+      "population_2025": 41913860,
+      "un_plausibility": "High",
+      "un_land_area_km2": 4883,
+      "center": {
+        "lat": -6.1754,
+        "lon": 106.8272
+      },
+      "un_centroid": {
+        "lat": -6.3241,
+        "lon": 106.8189
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "dhaka",
+      "name": "Dhaka",
+      "country": "Bangladesh",
+      "rank": 2,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Dhaka",
+      "un_country": "Bangladesh",
+      "un_city_code": 6249,
+      "population_2025": 36585479,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 6812,
+      "center": {
+        "lat": 23.7104,
+        "lon": 90.4074
+      },
+      "un_centroid": {
+        "lat": 23.6364,
+        "lon": 90.6228
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "tokyo",
+      "name": "Tokyo",
+      "country": "Japan",
+      "rank": 3,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Tōkyō (Tokyo)",
+      "un_country": "Japan",
+      "un_city_code": 6030,
+      "population_2025": 33412512,
+      "un_plausibility": "High",
+      "un_land_area_km2": 5148,
+      "center": {
+        "lat": 35.6852,
+        "lon": 139.7528
+      },
+      "un_centroid": {
+        "lat": 35.667,
+        "lon": 139.6543
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "delhi",
+      "name": "Delhi",
+      "country": "India",
+      "rank": 4,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "New Delhi",
+      "un_country": "India",
+      "un_city_code": 8364,
+      "population_2025": 30222405,
+      "un_plausibility": "High",
+      "un_land_area_km2": 2101,
+      "center": {
+        "lat": 28.6328,
+        "lon": 77.2197
+      },
+      "un_centroid": {
+        "lat": 28.6188,
+        "lon": 77.2194
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "shanghai",
+      "name": "Shanghai",
+      "country": "China",
+      "rank": 5,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Shanghai",
+      "un_country": "China",
+      "un_city_code": 11738,
+      "population_2025": 29558908,
+      "un_plausibility": "High",
+      "un_land_area_km2": 3130,
+      "center": {
+        "lat": 31.2304,
+        "lon": 121.4737
+      },
+      "un_centroid": {
+        "lat": 31.2117,
+        "lon": 121.4363
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "guangzhou",
+      "name": "Guangzhou",
+      "country": "China",
+      "rank": 6,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Guangzhou",
+      "un_country": "China",
+      "un_city_code": 11306,
+      "population_2025": 27563372,
+      "un_plausibility": "High",
+      "un_land_area_km2": 4542,
+      "center": {
+        "lat": 23.1291,
+        "lon": 113.2644
+      },
+      "un_centroid": {
+        "lat": 23.009,
+        "lon": 113.4114
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "cairo",
+      "name": "Cairo",
+      "country": "Egypt",
+      "rank": 7,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Al-Qahirah (Cairo)",
+      "un_country": "Egypt",
+      "un_city_code": 4435,
+      "population_2025": 25566102,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 1645,
+      "center": {
+        "lat": 30.0444,
+        "lon": 31.2357
+      },
+      "un_centroid": {
+        "lat": 30.0694,
+        "lon": 31.2547
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "manila",
+      "name": "Manila",
+      "country": "Philippines",
+      "rank": 8,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Manila",
+      "un_country": "Philippines",
+      "un_city_code": 2369,
+      "population_2025": 24735305,
+      "un_plausibility": "High",
+      "un_land_area_km2": 2438,
+      "center": {
+        "lat": 14.5906,
+        "lon": 120.975
+      },
+      "un_centroid": {
+        "lat": 14.5827,
+        "lon": 121.0189
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "kolkata",
+      "name": "Kolkata",
+      "country": "India",
+      "rank": 9,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Kolkata",
+      "un_country": "India",
+      "un_city_code": 11821,
+      "population_2025": 22549738,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 2329,
+      "center": {
+        "lat": 22.5726,
+        "lon": 88.3639
+      },
+      "un_centroid": {
+        "lat": 22.5759,
+        "lon": 88.3498
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "seoul",
+      "name": "Seoul",
+      "country": "South Korea",
+      "rank": 10,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Seoul",
+      "un_country": "Republic of Korea",
+      "un_city_code": 332,
+      "population_2025": 22490482,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 2255,
+      "center": {
+        "lat": 37.57,
+        "lon": 126.9769
+      },
+      "un_centroid": {
+        "lat": 37.4888,
+        "lon": 126.9452
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "karachi",
+      "name": "Karachi",
+      "country": "Pakistan",
+      "rank": 11,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Karachi",
+      "un_country": "Pakistan",
+      "un_city_code": 2578,
+      "population_2025": 21422590,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 870,
+      "center": {
+        "lat": 24.8607,
+        "lon": 67.0011
+      },
+      "un_centroid": {
+        "lat": 24.8979,
+        "lon": 67.0666
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "mumbai",
+      "name": "Mumbai",
+      "country": "India",
+      "rank": 12,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Mumbai",
+      "un_country": "India",
+      "un_city_code": 7945,
+      "population_2025": 20203056,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 740,
+      "center": {
+        "lat": 18.969,
+        "lon": 72.8205
+      },
+      "un_centroid": {
+        "lat": 19.1338,
+        "lon": 72.8869
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "sao-paulo",
+      "name": "São Paulo",
+      "country": "Brazil",
+      "rank": 13,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "São Paulo",
+      "un_country": "Brazil",
+      "un_city_code": 7303,
+      "population_2025": 18949790,
+      "un_plausibility": "High",
+      "un_land_area_km2": 2044,
+      "center": {
+        "lat": -23.5505,
+        "lon": -46.6333
+      },
+      "un_centroid": {
+        "lat": -23.5761,
+        "lon": -46.5991
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "bangkok",
+      "name": "Bangkok",
+      "country": "Thailand",
+      "rank": 14,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Krung Thep Maha Nakhon (Bangkok)",
+      "un_country": "Thailand",
+      "un_city_code": 2286,
+      "population_2025": 18180280,
+      "un_plausibility": "High",
+      "un_land_area_km2": 2661,
+      "center": {
+        "lat": 13.7563,
+        "lon": 100.5018
+      },
+      "un_centroid": {
+        "lat": 13.7627,
+        "lon": 100.5538
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "mexico-city",
+      "name": "Mexico City",
+      "country": "Mexico",
+      "rank": 15,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Ciudad de México (Mexico City)",
+      "un_country": "Mexico",
+      "un_city_code": 5439,
+      "population_2025": 17734212,
+      "un_plausibility": "High",
+      "un_land_area_km2": 2097,
+      "center": {
+        "lat": 19.4326,
+        "lon": -99.1332
+      },
+      "un_centroid": {
+        "lat": 19.449,
+        "lon": -99.1019
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "beijing",
+      "name": "Beijing",
+      "country": "China",
+      "rank": 16,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Beijing",
+      "un_country": "China",
+      "un_city_code": 9020,
+      "population_2025": 17013303,
+      "un_plausibility": "High",
+      "un_land_area_km2": 1713,
+      "center": {
+        "lat": 39.9163,
+        "lon": 116.3972
+      },
+      "un_centroid": {
+        "lat": 39.9288,
+        "lon": 116.3724
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "lahore",
+      "name": "Lahore",
+      "country": "Pakistan",
+      "rank": 17,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Lahore",
+      "un_country": "Pakistan",
+      "un_city_code": 8021,
+      "population_2025": 15156430,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 967,
+      "center": {
+        "lat": 31.582,
+        "lon": 74.3294
+      },
+      "un_centroid": {
+        "lat": 31.5359,
+        "lon": 74.2879
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "istanbul",
+      "name": "Istanbul",
+      "country": "Türkiye",
+      "rank": 18,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Istanbul",
+      "un_country": "Türkiye",
+      "un_city_code": 2626,
+      "population_2025": 15014763,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 1268,
+      "center": {
+        "lat": 41.0082,
+        "lon": 28.9784
+      },
+      "un_centroid": {
+        "lat": 41.0125,
+        "lon": 28.9888
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "moscow",
+      "name": "Moscow",
+      "country": "Russia",
+      "rank": 19,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Moskva (Moscow)",
+      "un_country": "Russian Federation",
+      "un_city_code": 2485,
+      "population_2025": 14524753,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 1561,
+      "center": {
+        "lat": 55.752,
+        "lon": 37.6175
+      },
+      "un_centroid": {
+        "lat": 55.7493,
+        "lon": 37.6383
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "ho-chi-minh-city",
+      "name": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "rank": 20,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Ho Chi Minh City",
+      "un_country": "Viet Nam",
+      "un_city_code": 5435,
+      "population_2025": 14052713,
+      "un_plausibility": "High",
+      "un_land_area_km2": 1546,
+      "center": {
+        "lat": 10.7769,
+        "lon": 106.7009
+      },
+      "un_centroid": {
+        "lat": 10.8303,
+        "lon": 106.6938
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "buenos-aires",
+      "name": "Buenos Aires",
+      "country": "Argentina",
+      "rank": 21,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Buenos Aires",
+      "un_country": "Argentina",
+      "un_city_code": 4459,
+      "population_2025": 14017736,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 2164,
+      "center": {
+        "lat": -34.6083,
+        "lon": -58.3712
+      },
+      "un_centroid": {
+        "lat": -34.6532,
+        "lon": -58.5227
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "new-york",
+      "name": "New York",
+      "country": "United States",
+      "rank": 22,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "New York City",
+      "un_country": "United States of America",
+      "un_city_code": 8354,
+      "population_2025": 13920148,
+      "un_plausibility": "High",
+      "un_land_area_km2": 2691,
+      "center": {
+        "lat": 40.74,
+        "lon": -73.99
+      },
+      "un_centroid": {
+        "lat": 40.7382,
+        "lon": -73.935
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "shenzhen",
+      "name": "Shenzhen",
+      "country": "China",
+      "rank": 23,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Shenzhen",
+      "un_country": "China",
+      "un_city_code": 11478,
+      "population_2025": 13878396,
+      "un_plausibility": "High",
+      "un_land_area_km2": 1459,
+      "center": {
+        "lat": 22.5431,
+        "lon": 114.0579
+      },
+      "un_centroid": {
+        "lat": 22.6576,
+        "lon": 114.0103
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "bengaluru",
+      "name": "Bengaluru",
+      "country": "India",
+      "rank": 24,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Bengaluru",
+      "un_country": "India",
+      "un_city_code": 9949,
+      "population_2025": 13187098,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 642,
+      "center": {
+        "lat": 12.9716,
+        "lon": 77.5946
+      },
+      "un_centroid": {
+        "lat": 13.0142,
+        "lon": 77.5567
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "osaka",
+      "name": "Osaka",
+      "country": "Japan",
+      "rank": 25,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Osaka",
+      "un_country": "Japan",
+      "un_city_code": 4490,
+      "population_2025": 12964145,
+      "un_plausibility": "High",
+      "un_land_area_km2": 2229,
+      "center": {
+        "lat": 34.6937,
+        "lon": 135.5023
+      },
+      "un_centroid": {
+        "lat": 34.7217,
+        "lon": 135.4776
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "lagos",
+      "name": "Lagos",
+      "country": "Nigeria",
+      "rank": 26,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Lagos",
+      "un_country": "Nigeria",
+      "un_city_code": 1265,
+      "population_2025": 12791699,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 1231,
+      "center": {
+        "lat": 6.4541,
+        "lon": 3.3947
+      },
+      "un_centroid": {
+        "lat": 6.5707,
+        "lon": 3.3095
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "los-angeles",
+      "name": "Los Angeles",
+      "country": "United States",
+      "rank": 27,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Los Angeles",
+      "un_country": "United States of America",
+      "un_city_code": 1725,
+      "population_2025": 12740420,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 3699,
+      "center": {
+        "lat": 34.0537,
+        "lon": -118.2428
+      },
+      "un_centroid": {
+        "lat": 33.9871,
+        "lon": -118.0941
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "luanda",
+      "name": "Luanda",
+      "country": "Angola",
+      "rank": 28,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Luanda",
+      "un_country": "Angola",
+      "un_city_code": 939,
+      "population_2025": 11370127,
+      "un_plausibility": "High",
+      "un_land_area_km2": 1039,
+      "center": {
+        "lat": -8.8147,
+        "lon": 13.2302
+      },
+      "un_centroid": {
+        "lat": -8.885,
+        "lon": 13.3
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "chennai",
+      "name": "Chennai",
+      "country": "India",
+      "rank": 29,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Chennai",
+      "un_country": "India",
+      "un_city_code": 10747,
+      "population_2025": 11153205,
+      "un_plausibility": "High",
+      "un_land_area_km2": 1059,
+      "center": {
+        "lat": 13.0827,
+        "lon": 80.2707
+      },
+      "un_centroid": {
+        "lat": 13.0389,
+        "lon": 80.1946
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "kinshasa",
+      "name": "Kinshasa",
+      "country": "DR Congo",
+      "rank": 30,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Kinshasa",
+      "un_country": "Democratic Republic of the Congo",
+      "un_city_code": 1854,
+      "population_2025": 10943641,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 511,
+      "center": {
+        "lat": -4.3033,
+        "lon": 15.3105
+      },
+      "un_centroid": {
+        "lat": -4.3839,
+        "lon": 15.3266
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "bogota",
+      "name": "Bogotá",
+      "country": "Colombia",
+      "rank": 31,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Bogotá",
+      "un_country": "Colombia",
+      "un_city_code": 3883,
+      "population_2025": 10624315,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 542,
+      "center": {
+        "lat": 4.5981,
+        "lon": -74.076
+      },
+      "un_centroid": {
+        "lat": 4.6467,
+        "lon": -74.1155
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "lima",
+      "name": "Lima",
+      "country": "Peru",
+      "rank": 32,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Lima",
+      "un_country": "Peru",
+      "un_city_code": 1987,
+      "population_2025": 10580241,
+      "un_plausibility": "High",
+      "un_land_area_km2": 1026,
+      "center": {
+        "lat": -12.0464,
+        "lon": -77.0428
+      },
+      "un_centroid": {
+        "lat": -12.0387,
+        "lon": -77.0094
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "london",
+      "name": "London",
+      "country": "United Kingdom",
+      "rank": 33,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "London",
+      "un_country": "United Kingdom",
+      "un_city_code": 5938,
+      "population_2025": 10416420,
+      "un_plausibility": "High",
+      "un_land_area_km2": 1646,
+      "center": {
+        "lat": 51.5099,
+        "lon": -0.1181
+      },
+      "un_centroid": {
+        "lat": 51.5098,
+        "lon": -0.1263
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "hajipur",
+      "name": "Hajipur",
+      "country": "India",
+      "rank": 34,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Hajipur",
+      "un_country": "India",
+      "un_city_code": 11027,
+      "population_2025": 9941510,
+      "un_plausibility": "High",
+      "un_land_area_km2": 3092,
+      "center": {
+        "lat": 25.6858,
+        "lon": 85.2146
+      },
+      "un_centroid": {
+        "lat": 25.8288,
+        "lon": 85.5364
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "rio-de-janeiro",
+      "name": "Rio de Janeiro",
+      "country": "Brazil",
+      "rank": 35,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Rio de Janeiro",
+      "un_country": "Brazil",
+      "un_city_code": 7935,
+      "population_2025": 9500336,
+      "un_plausibility": "High",
+      "un_land_area_km2": 1260,
+      "center": {
+        "lat": -22.9068,
+        "lon": -43.1729
+      },
+      "un_centroid": {
+        "lat": -22.8458,
+        "lon": -43.3667
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "paris",
+      "name": "Paris",
+      "country": "France",
+      "rank": 36,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Paris",
+      "un_country": "France",
+      "un_city_code": 2994,
+      "population_2025": 9381921,
+      "un_plausibility": "High",
+      "un_land_area_km2": 1381,
+      "center": {
+        "lat": 48.8566,
+        "lon": 2.3522
+      },
+      "un_centroid": {
+        "lat": 48.8487,
+        "lon": 2.3563
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "hyderabad",
+      "name": "Hyderabad",
+      "country": "India",
+      "rank": 37,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Hyderabad",
+      "un_country": "India",
+      "un_city_code": 9913,
+      "population_2025": 9190795,
+      "un_plausibility": "High",
+      "un_land_area_km2": 889,
+      "center": {
+        "lat": 17.3616,
+        "lon": 78.4747
+      },
+      "un_centroid": {
+        "lat": 17.4165,
+        "lon": 78.4764
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "tehran",
+      "name": "Tehran",
+      "country": "Iran",
+      "rank": 38,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Tehrān (Tehran)",
+      "un_country": "Iran (Islamic Republic of)",
+      "un_city_code": 5264,
+      "population_2025": 9174964,
+      "un_plausibility": "High",
+      "un_land_area_km2": 786,
+      "center": {
+        "lat": 35.6892,
+        "lon": 51.389
+      },
+      "un_centroid": {
+        "lat": 35.6937,
+        "lon": 51.3555
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "taipei",
+      "name": "Taipei",
+      "country": "Taiwan",
+      "rank": 39,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Taipei",
+      "un_country": "China, Taiwan Province of China",
+      "un_city_code": 12128,
+      "population_2025": 9136792,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 937,
+      "center": {
+        "lat": 25.0375,
+        "lon": 121.5637
+      },
+      "un_centroid": {
+        "lat": 25.022,
+        "lon": 121.4638
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "bandung",
+      "name": "Bandung",
+      "country": "Indonesia",
+      "rank": 40,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Bandung",
+      "un_country": "Indonesia",
+      "un_city_code": 5991,
+      "population_2025": 8909104,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 1016,
+      "center": {
+        "lat": -6.9175,
+        "lon": 107.6191
+      },
+      "un_centroid": {
+        "lat": -6.9277,
+        "lon": 107.6307
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "kuala-lumpur",
+      "name": "Kuala Lumpur",
+      "country": "Malaysia",
+      "rank": 41,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Kuala Lumpur",
+      "un_country": "Malaysia",
+      "un_city_code": 1629,
+      "population_2025": 8443731,
+      "un_plausibility": "High",
+      "un_land_area_km2": 1345,
+      "center": {
+        "lat": 3.1478,
+        "lon": 101.6953
+      },
+      "un_centroid": {
+        "lat": 3.1014,
+        "lon": 101.6438
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "dar-es-salaam",
+      "name": "Dar es Salaam",
+      "country": "Tanzania",
+      "rank": 42,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Dar es Salaam",
+      "un_country": "United Republic of Tanzania",
+      "un_city_code": 3566,
+      "population_2025": 7795114,
+      "un_plausibility": "High",
+      "un_land_area_km2": 909,
+      "center": {
+        "lat": -6.8161,
+        "lon": 39.2894
+      },
+      "un_centroid": {
+        "lat": -6.8345,
+        "lon": 39.2173
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "suzhou",
+      "name": "Suzhou",
+      "country": "China",
+      "rank": 43,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Suzhou",
+      "un_country": "China",
+      "un_city_code": 11632,
+      "population_2025": 7731101,
+      "un_plausibility": "High",
+      "un_land_area_km2": 1169,
+      "center": {
+        "lat": 31.299,
+        "lon": 120.5853
+      },
+      "un_centroid": {
+        "lat": 31.3058,
+        "lon": 120.6852
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "ahmedabad",
+      "name": "Ahmedabad",
+      "country": "India",
+      "rank": 44,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Ahmedabad",
+      "un_country": "India",
+      "un_city_code": 6408,
+      "population_2025": 7632408,
+      "un_plausibility": "High",
+      "un_land_area_km2": 365,
+      "center": {
+        "lat": 23.0225,
+        "lon": 72.5714
+      },
+      "un_centroid": {
+        "lat": 23.0193,
+        "lon": 72.5987
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "hangzhou",
+      "name": "Hangzhou",
+      "country": "China",
+      "rank": 45,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Hangzhou",
+      "un_country": "China",
+      "un_city_code": 11700,
+      "population_2025": 7500208,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 1610,
+      "center": {
+        "lat": 30.25,
+        "lon": 120.165
+      },
+      "un_centroid": {
+        "lat": 30.2216,
+        "lon": 120.2844
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "wuhan",
+      "name": "Wuhan",
+      "country": "China",
+      "rank": 46,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Wuhan",
+      "un_country": "China",
+      "un_city_code": 10474,
+      "population_2025": 7363548,
+      "un_plausibility": "High",
+      "un_land_area_km2": 711,
+      "center": {
+        "lat": 30.581,
+        "lon": 114.288
+      },
+      "un_centroid": {
+        "lat": 30.5664,
+        "lon": 114.2942
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "tianjin",
+      "name": "Tianjin",
+      "country": "China",
+      "rank": 47,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Tianjin",
+      "un_country": "China",
+      "un_city_code": 9414,
+      "population_2025": 7285342,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 541,
+      "center": {
+        "lat": 39.13,
+        "lon": 117.2
+      },
+      "un_centroid": {
+        "lat": 39.1338,
+        "lon": 117.1939
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "alexandria",
+      "name": "Alexandria",
+      "country": "Egypt",
+      "rank": 48,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Alexandria",
+      "un_country": "Egypt",
+      "un_city_code": 275,
+      "population_2025": 7266957,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 591,
+      "center": {
+        "lat": 31.2001,
+        "lon": 29.9187
+      },
+      "un_centroid": {
+        "lat": 31.1926,
+        "lon": 29.9547
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "nagoya",
+      "name": "Nagoya",
+      "country": "Japan",
+      "rank": 49,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Nagoya",
+      "un_country": "Japan",
+      "un_city_code": 5245,
+      "population_2025": 7146160,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 1979,
+      "center": {
+        "lat": 35.1815,
+        "lon": 136.9066
+      },
+      "un_centroid": {
+        "lat": 35.1612,
+        "lon": 136.9304
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    },
+    {
+      "slug": "johannesburg",
+      "name": "Johannesburg",
+      "country": "South Africa",
+      "rank": 50,
+      "ranking_source": "UN-WUP-2025",
+      "un_name": "Johannesburg",
+      "un_country": "South Africa",
+      "un_city_code": 3664,
+      "population_2025": 7077175,
+      "un_plausibility": "Moderate",
+      "un_land_area_km2": 1445,
+      "center": {
+        "lat": -26.2041,
+        "lon": 28.0473
+      },
+      "un_centroid": {
+        "lat": -26.219,
+        "lon": 28.0106
+      },
+      "camera": {
+        "zoom": 10.5,
+        "pitch": 55,
+        "bearing": -20
+      }
+    }
+  ]
+}

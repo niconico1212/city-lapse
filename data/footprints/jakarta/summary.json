@@ -1,0 +1,203 @@
+{
+ "slug": "jakarta",
+ "status": "ok",
+ "urban_centre": {
+  "id": 5472,
+  "name": "Jakarta",
+  "area_km2": 4614.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1513,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1600,
+   "area_km2": 0.23,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1650,
+   "area_km2": 1.35,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1700,
+   "area_km2": 3.18,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1750,
+   "area_km2": 3.99,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 4.81,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 4.87,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 5.52,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 8.11,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 13.06,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 21.62,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 43.48,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 87.99,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 139.27,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 323.56,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 693.52,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 1177.73,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 1560.51,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 1799.83,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 2045.78,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 2253.48,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 2513.26,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 2658.45,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 2817.87,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 2916.76,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 2999.78,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 3053.25,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 3124.99,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Sunda Kelapa harbour (mouth of the Ciliwung, Old Batavia)",
+   "lat": -6.1239,
+   "lon": 106.8086,
+   "snapped_m": 100
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 8.4
+   },
+   {
+    "distance_km": 11.0
+   },
+   {
+    "distance_km": 13.9
+   },
+   {
+    "distance_km": 19.4
+   },
+   {
+    "distance_km": 10.2
+   },
+   {
+    "distance_km": 25.6
+   },
+   {
+    "distance_km": 24.1
+   },
+   {
+    "distance_km": 60.2
+   },
+   {
+    "distance_km": 98.4
+   },
+   {
+    "distance_km": 34.3
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 30.8,
+  "first_population_year": 1673,
+  "population_1975_used": 4813132
+ }
+}

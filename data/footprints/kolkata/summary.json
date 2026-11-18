@@ -1,0 +1,172 @@
+{
+ "slug": "kolkata",
+ "status": "ok",
+ "urban_centre": {
+  "id": 11352,
+  "name": "Kolkata",
+  "area_km2": 2482.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1690,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1700,
+   "area_km2": 0.05,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1750,
+   "area_km2": 2.2,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 3.24,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 4.04,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 8.27,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 12.06,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 28.08,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 38.81,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 48.46,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 63.43,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 119.96,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 188.02,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 280.42,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 404.03,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 485.18,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 564.28,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 679.49,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 796.86,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 898.92,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 974.58,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 1035.46,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 1087.8,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 1133.34,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 1174.23,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 1208.72,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Site of the first Fort William (General Post Office, B. B. D. Bagh)",
+   "lat": 22.5731,
+   "lon": 88.3456,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 35.2
+   },
+   {
+    "distance_km": 18.8
+   },
+   {
+    "distance_km": 42.5
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 168.3,
+  "first_population_year": 1710,
+  "population_1975_used": 8165629
+ }
+}

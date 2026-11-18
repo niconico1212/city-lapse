@@ -1,0 +1,238 @@
+{
+ "slug": "paris",
+ "status": "ok",
+ "urban_centre": {
+  "id": 2878,
+  "name": "Paris",
+  "area_km2": 1421.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": -52,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1,
+   "area_km2": 0.03,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 250,
+   "area_km2": 0.31,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 500,
+   "area_km2": 0.48,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 750,
+   "area_km2": 0.76,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1000,
+   "area_km2": 0.83,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1100,
+   "area_km2": 1.55,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1200,
+   "area_km2": 3.62,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1300,
+   "area_km2": 7.51,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1400,
+   "area_km2": 9.22,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1500,
+   "area_km2": 9.22,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1600,
+   "area_km2": 9.22,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1650,
+   "area_km2": 14.97,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1700,
+   "area_km2": 17.44,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1750,
+   "area_km2": 18.3,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 18.3,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 24.82,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 34.68,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 82.09,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 142.3,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 195.97,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 248.39,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 333.78,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 397.69,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 508.45,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 696.76,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 896.62,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 1007.62,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 1022.79,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 1036.0,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 1046.2,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 1071.61,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 1087.82,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 1098.43,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 1104.64,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 1110.68,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 1115.69,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 1123.67,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Île de la Cité and the Left Bank core of Roman Lutetia",
+   "lat": 48.8547,
+   "lon": 2.3475,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 10.4
+   },
+   {
+    "distance_km": 12.5
+   },
+   {
+    "distance_km": 15.0
+   },
+   {
+    "distance_km": 17.1
+   },
+   {
+    "distance_km": 28.1
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 84.9,
+  "first_population_year": 100,
+  "population_1975_used": 8557844
+ }
+}

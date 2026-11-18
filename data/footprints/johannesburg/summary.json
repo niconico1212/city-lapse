@@ -1,0 +1,163 @@
+{
+ "slug": "johannesburg",
+ "status": "ok",
+ "urban_centre": {
+  "id": 3512,
+  "name": "Johannesburg",
+  "area_km2": 1756.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1886,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 23.07,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 46.04,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 66.89,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 116.75,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 183.87,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 352.7,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 516.52,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 754.52,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 844.1,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 935.8,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 1025.97,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 1102.64,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 1180.98,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 1213.18,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 1239.66,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 1251.91,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 1270.71,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 1293.71,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 1315.28,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Ferreirasdorp (Ferreira's Camp, the first diggers' camp of 1886)",
+   "lat": -26.208,
+   "lon": 28.033,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 14.1
+   },
+   {
+    "distance_km": 10.7
+   },
+   {
+    "distance_km": 20.1
+   },
+   {
+    "distance_km": 14.7
+   },
+   {
+    "distance_km": 23.1
+   },
+   {
+    "distance_km": 14.9
+   },
+   {
+    "distance_km": 24.5
+   },
+   {
+    "distance_km": 31.6
+   },
+   {
+    "distance_km": 15.1
+   },
+   {
+    "distance_km": 13.3
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 17.7,
+  "first_population_year": 1887,
+  "population_1975_used": 1497734
+ }
+}

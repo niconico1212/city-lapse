@@ -1,0 +1,193 @@
+{
+ "slug": "lagos",
+ "status": "ok",
+ "urban_centre": {
+  "id": 1289,
+  "name": "Lagos",
+  "area_km2": 1199.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1472,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1500,
+   "area_km2": 0.02,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1600,
+   "area_km2": 0.05,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1650,
+   "area_km2": 0.08,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1700,
+   "area_km2": 0.15,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1750,
+   "area_km2": 0.26,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 0.56,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 1.03,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 1.49,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 2.55,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 3.78,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 7.53,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 12.0,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 17.99,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 33.53,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 64.04,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 174.42,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 375.71,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 541.42,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 578.45,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 616.48,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 648.53,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 678.31,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 695.81,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 815.48,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 879.39,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 939.81,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 973.68,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 990.63,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Iga Idunganran (palace of the Oba of Lagos, Isale Eko, Lagos Island)",
+   "lat": 6.4654,
+   "lon": 3.39,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 7.1
+   },
+   {
+    "distance_km": 19.7
+   },
+   {
+    "distance_km": 15.9
+   },
+   {
+    "distance_km": 20.4
+   },
+   {
+    "distance_km": 8.3
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 34.9,
+  "first_population_year": 1789,
+  "population_1975_used": 1889802
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "slug": "nagoya",
+ "status": "ok",
+ "urban_centre": {
+  "id": 5213,
+  "name": "Nagoya",
+  "area_km2": 2392.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1610,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1650,
+   "area_km2": 4.35,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1700,
+   "area_km2": 4.35,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1750,
+   "area_km2": 5.76,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 5.88,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 5.92,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 5.95,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 8.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 18.84,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 27.34,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 43.1,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 105.67,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 179.68,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 351.6,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 784.67,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 1401.06,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 1673.59,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 1686.7,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 1698.06,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 1708.69,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 1754.71,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 1787.72,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 1827.48,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 1856.87,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 1879.21,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 1893.0,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 1901.52,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Nagoya Castle",
+   "lat": 35.1856,
+   "lon": 136.8986,
+   "snapped_m": 100
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 21.2
+   },
+   {
+    "distance_km": 28.5
+   },
+   {
+    "distance_km": 7.8
+   },
+   {
+    "distance_km": 7.2
+   },
+   {
+    "distance_km": 34.7
+   },
+   {
+    "distance_km": 23.5
+   },
+   {
+    "distance_km": 41.5
+   },
+   {
+    "distance_km": 50.4
+   },
+   {
+    "distance_km": 45.2
+   },
+   {
+    "distance_km": 13.9
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 43.7,
+  "first_population_year": 1650,
+  "population_1975_used": 7317947
+ }
+}

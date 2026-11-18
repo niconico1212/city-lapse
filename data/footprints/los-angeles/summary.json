@@ -1,0 +1,183 @@
+{
+ "slug": "los-angeles",
+ "status": "ok",
+ "urban_centre": {
+  "id": 2007,
+  "name": "Los Angeles",
+  "area_km2": 4498.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1781,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 0.05,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 0.11,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 0.28,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 0.87,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 12.93,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 46.79,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 98.2,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 244.94,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 345.78,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 1080.39,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 2026.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 3020.09,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 3468.17,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 3508.33,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 3542.65,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 3568.79,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 3694.92,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 3765.33,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 3835.44,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 3866.36,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 3895.73,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 3915.04,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 3942.5,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Los Angeles Plaza (El Pueblo de Los Ángeles Historical Monument)",
+   "lat": 34.0569,
+   "lon": -118.2378,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 7.1
+   },
+   {
+    "distance_km": 16.4
+   },
+   {
+    "distance_km": 8.3
+   },
+   {
+    "distance_km": 17.8
+   },
+   {
+    "distance_km": 25.0
+   },
+   {
+    "distance_km": 7.8
+   },
+   {
+    "distance_km": 37.6
+   },
+   {
+    "distance_km": 11.5
+   },
+   {
+    "distance_km": 19.6
+   },
+   {
+    "distance_km": 24.0
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 25.7,
+  "first_population_year": 1781,
+  "population_1975_used": 8925518
+ }
+}

@@ -1,0 +1,172 @@
+{
+ "slug": "bengaluru",
+ "status": "ok",
+ "urban_centre": {
+  "id": 9558,
+  "name": "Bengaluru",
+  "area_km2": 1008.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1537,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1600,
+   "area_km2": 0.04,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1650,
+   "area_km2": 0.08,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1700,
+   "area_km2": 0.19,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1750,
+   "area_km2": 0.46,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 1.13,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 1.32,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 2.85,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 3.36,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 4.3,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 5.66,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 8.26,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 12.36,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 18.99,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 41.2,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 74.8,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 120.36,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 169.56,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 196.75,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 227.66,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 257.5,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 359.01,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 420.09,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 544.46,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 603.83,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 657.08,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 701.86,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 729.42,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Bangalore Fort, at the southern edge of the old Pete",
+   "lat": 12.9629,
+   "lon": 77.576,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 124.5,
+  "first_population_year": 1800,
+  "population_1975_used": 2110599
+ }
+}

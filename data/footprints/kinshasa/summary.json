@@ -1,0 +1,139 @@
+{
+ "slug": "kinshasa",
+ "status": "ok",
+ "urban_centre": {
+  "id": 1876,
+  "name": "Kinshasa",
+  "area_km2": 487.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1881,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 0.12,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 0.41,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 1.75,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 3.31,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 4.12,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 27.63,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 70.41,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 197.6,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 295.04,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 313.8,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 329.45,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 343.47,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 346.15,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 348.83,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 356.26,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 362.77,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 377.67,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 403.37,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 408.45,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Mont Ngaliema (Leopold Hill) above Ngaliema Bay, site of Stanley's 1881 station",
+   "lat": -4.328,
+   "lon": 15.2482,
+   "snapped_m": 141
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 6.4
+   },
+   {
+    "distance_km": 24.5
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 50.2,
+  "first_population_year": 1909,
+  "population_1975_used": 1481820
+ }
+}

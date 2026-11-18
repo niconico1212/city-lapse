@@ -1,0 +1,179 @@
+{
+ "slug": "bogota",
+ "status": "ok",
+ "urban_centre": {
+  "id": 3881,
+  "name": "Bogota",
+  "area_km2": 534.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1538,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1600,
+   "area_km2": 0.4,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1650,
+   "area_km2": 0.44,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1700,
+   "area_km2": 0.49,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1750,
+   "area_km2": 0.56,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 0.66,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 0.82,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 1.04,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 1.74,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 2.93,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 4.37,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 7.62,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 13.99,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 23.52,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 47.37,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 110.77,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 241.78,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 332.44,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 336.07,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 339.23,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 342.08,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 356.9,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 364.58,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 377.07,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 383.11,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 389.36,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 395.52,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 400.01,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Plaza de Bolívar (the Plaza Mayor of the 1539 juridical founding)",
+   "lat": 4.5981,
+   "lon": -74.0761,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 10.4
+   },
+   {
+    "distance_km": 19.3
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 91.5,
+  "first_population_year": 1569,
+  "population_1975_used": 3040465
+ }
+}

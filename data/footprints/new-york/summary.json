@@ -1,0 +1,198 @@
+{
+ "slug": "new-york",
+ "status": "ok",
+ "urban_centre": {
+  "id": 8099,
+  "name": "New York City",
+  "area_km2": 3031.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1624,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1650,
+   "area_km2": 0.05,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1700,
+   "area_km2": 0.19,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1750,
+   "area_km2": 0.48,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 2.23,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 5.82,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 18.93,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 39.15,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 146.62,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 236.24,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 323.59,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 463.62,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 579.42,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 1114.16,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 1485.94,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 1973.56,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 2086.42,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 2117.45,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 2145.91,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 2168.57,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 2220.7,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 2256.25,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 2290.0,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 2311.85,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 2324.48,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 2329.38,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 2338.82,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Site of Fort Amsterdam, southern tip of Manhattan (Bowling Green)",
+   "lat": 40.7042,
+   "lon": -74.0137,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 10.5
+   },
+   {
+    "distance_km": 8.9
+   },
+   {
+    "distance_km": 13.1
+   },
+   {
+    "distance_km": 11.2
+   },
+   {
+    "distance_km": 30.6
+   },
+   {
+    "distance_km": 28.2
+   },
+   {
+    "distance_km": 22.3
+   },
+   {
+    "distance_km": 23.1
+   },
+   {
+    "distance_km": 41.1
+   },
+   {
+    "distance_km": 34.9
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 76.1,
+  "first_population_year": 1664,
+  "population_1975_used": 15880271
+ }
+}

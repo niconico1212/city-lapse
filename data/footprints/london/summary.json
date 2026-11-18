@@ -1,0 +1,245 @@
+{
+ "slug": "london",
+ "status": "ok",
+ "urban_centre": {
+  "id": 5816,
+  "name": "London",
+  "area_km2": 1649.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 47,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 250,
+   "area_km2": 2.03,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 500,
+   "area_km2": 2.03,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 750,
+   "area_km2": 2.03,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1000,
+   "area_km2": 2.03,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1100,
+   "area_km2": 2.03,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1200,
+   "area_km2": 2.03,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1300,
+   "area_km2": 3.61,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1400,
+   "area_km2": 3.61,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1500,
+   "area_km2": 3.61,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1600,
+   "area_km2": 8.44,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1650,
+   "area_km2": 18.49,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1700,
+   "area_km2": 24.81,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1750,
+   "area_km2": 30.49,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 45.24,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 70.18,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 101.31,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 189.72,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 322.58,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 429.67,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 531.32,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 660.83,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 820.19,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 927.31,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 1056.11,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 1124.27,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 1149.69,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 1164.44,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 1176.84,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 1187.57,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 1203.08,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 1215.67,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 1225.82,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 1234.33,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 1241.27,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 1244.43,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 1249.43,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Londinium (Roman city, now the City of London; point at the Walbrook / Mithraeum)",
+   "lat": 51.5125,
+   "lon": -0.0906,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 9.8
+   },
+   {
+    "distance_km": 13.5
+   },
+   {
+    "distance_km": 21.7
+   },
+   {
+    "distance_km": 20.2
+   },
+   {
+    "distance_km": 18.4
+   },
+   {
+    "distance_km": 17.2
+   },
+   {
+    "distance_km": 27.9
+   },
+   {
+    "distance_km": 27.0
+   },
+   {
+    "distance_km": 19.4
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 62.0,
+  "first_population_year": 140,
+  "population_1975_used": 7124383
+ }
+}

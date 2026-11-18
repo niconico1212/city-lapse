@@ -1,0 +1,203 @@
+{
+ "slug": "sao-paulo",
+ "status": "ok",
+ "urban_centre": {
+  "id": 7277,
+  "name": "São Paulo",
+  "area_km2": 2111.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1554,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1600,
+   "area_km2": 0.03,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1650,
+   "area_km2": 0.05,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1700,
+   "area_km2": 0.11,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1750,
+   "area_km2": 0.23,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 0.5,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 0.73,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 0.97,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 1.36,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 11.02,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 19.89,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 35.91,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 62.95,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 110.36,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 226.96,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 448.48,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 1000.24,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 1360.18,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 1389.14,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 1409.27,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 1425.37,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 1509.77,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 1550.37,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 1587.54,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 1609.33,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 1627.38,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 1640.6,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 1663.67,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Pátio do Colégio (site of the 1554 Jesuit college)",
+   "lat": -23.5481,
+   "lon": -46.6325,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 8.0
+   },
+   {
+    "distance_km": 7.8
+   },
+   {
+    "distance_km": 15.7
+   },
+   {
+    "distance_km": 6.4
+   },
+   {
+    "distance_km": 13.2
+   },
+   {
+    "distance_km": 19.1
+   },
+   {
+    "distance_km": 14.4
+   },
+   {
+    "distance_km": 22.5
+   },
+   {
+    "distance_km": 41.3
+   },
+   {
+    "distance_km": 30.5
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 70.7,
+  "first_population_year": 1836,
+  "population_1975_used": 9614016
+ }
+}

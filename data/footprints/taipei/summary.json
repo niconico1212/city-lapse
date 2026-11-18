@@ -1,0 +1,173 @@
+{
+ "slug": "taipei",
+ "status": "ok",
+ "urban_centre": {
+  "id": 1142,
+  "name": "Taipei",
+  "area_km2": 972.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1709,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1750,
+   "area_km2": 0.04,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 0.19,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 0.42,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 0.93,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 2.06,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 4.19,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 7.07,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 13.84,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 23.35,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 40.58,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 73.43,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 136.31,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 253.0,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 344.69,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 389.27,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 437.44,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 483.8,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 530.94,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 557.01,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 584.81,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 603.76,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 617.84,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 626.05,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 637.86,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Bangka (Mengjia, today's Wanhua), at Lungshan Temple",
+   "lat": 25.0372,
+   "lon": 121.4994,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 23.3
+   },
+   {
+    "distance_km": 14.9
+   },
+   {
+    "distance_km": 15.8
+   },
+   {
+    "distance_km": 20.8
+   },
+   {
+    "distance_km": 20.9
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 51.6,
+  "first_population_year": 1875,
+  "population_1975_used": 1777521
+ }
+}

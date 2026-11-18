@@ -1,0 +1,221 @@
+{
+ "slug": "manila",
+ "status": "ok",
+ "urban_centre": {
+  "id": 2323,
+  "name": "Manila",
+  "area_km2": 2555.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 900,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1000,
+   "area_km2": 0.03,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1100,
+   "area_km2": 0.05,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1200,
+   "area_km2": 0.09,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1300,
+   "area_km2": 0.17,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1400,
+   "area_km2": 0.33,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1500,
+   "area_km2": 0.66,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1600,
+   "area_km2": 1.25,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1650,
+   "area_km2": 1.29,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1700,
+   "area_km2": 1.33,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1750,
+   "area_km2": 2.21,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 3.4,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 3.98,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 5.04,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 6.77,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 10.83,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 14.8,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 21.28,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 35.87,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 61.29,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 167.59,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 286.79,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 517.93,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 789.67,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 887.64,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 991.49,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 1080.28,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 1153.41,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 1187.69,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 1241.89,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 1278.01,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 1308.81,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 1333.33,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 1368.74,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Fort Santiago, Intramuros (mouth of the Pasig River, site of pre-Hispanic Maynila)",
+   "lat": 14.595,
+   "lon": 120.9694,
+   "snapped_m": 100
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 7.3
+   },
+   {
+    "distance_km": 34.8
+   },
+   {
+    "distance_km": 22.0
+   },
+   {
+    "distance_km": 14.0
+   },
+   {
+    "distance_km": 48.0
+   },
+   {
+    "distance_km": 34.9
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 63.3,
+  "first_population_year": 1591,
+  "population_1975_used": 4999303
+ }
+}

@@ -1,0 +1,262 @@
+{
+ "slug": "beijing",
+ "status": "ok",
+ "urban_centre": {
+  "id": 8745,
+  "name": "Beijing",
+  "area_km2": 2179.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": -1045,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": -1000,
+   "area_km2": 0.02,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": -500,
+   "area_km2": 0.04,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": -250,
+   "area_km2": 0.06,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1,
+   "area_km2": 0.11,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 250,
+   "area_km2": 0.19,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 500,
+   "area_km2": 0.33,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 750,
+   "area_km2": 0.57,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1000,
+   "area_km2": 1.72,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1100,
+   "area_km2": 5.15,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1200,
+   "area_km2": 13.83,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1300,
+   "area_km2": 25.51,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1400,
+   "area_km2": 37.67,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1500,
+   "area_km2": 37.98,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1600,
+   "area_km2": 37.98,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1650,
+   "area_km2": 37.98,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1700,
+   "area_km2": 37.98,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1750,
+   "area_km2": 37.98,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 37.98,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 37.98,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 37.98,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 37.98,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 37.98,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 41.95,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 53.06,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 73.35,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 104.38,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 162.64,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 440.96,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 581.36,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 683.54,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 765.38,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 844.57,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 923.79,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 1100.13,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 1214.12,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 1407.27,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 1499.41,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 1582.94,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 1668.25,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 1704.27,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Forbidden City, centre of the Yuan-Ming-Qing walled city",
+   "lat": 39.9163,
+   "lon": 116.3972,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 14.9
+   },
+   {
+    "distance_km": 17.9
+   },
+   {
+    "distance_km": 23.7
+   },
+   {
+    "distance_km": 23.7
+   },
+   {
+    "distance_km": 28.7
+   },
+   {
+    "distance_km": 23.5
+   },
+   {
+    "distance_km": 38.2
+   },
+   {
+    "distance_km": 14.9
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 70.6,
+  "first_population_year": 938,
+  "population_1975_used": 4827973
+ }
+}

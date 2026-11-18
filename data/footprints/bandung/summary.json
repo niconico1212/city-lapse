@@ -1,0 +1,157 @@
+{
+ "slug": "bandung",
+ "status": "ok",
+ "urban_centre": {
+  "id": 5748,
+  "name": "Bandung",
+  "area_km2": 988.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1810,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 0.07,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 0.86,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 1.15,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 3.14,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 5.21,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 11.9,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 19.55,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 34.2,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 106.31,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 191.62,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 289.0,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 346.91,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 394.18,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 437.04,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 475.33,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 515.45,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 538.39,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 559.34,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 574.22,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 585.86,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 591.68,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 610.42,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Alun-alun (town square) beside the Grand Mosque, on the Great Post Road",
+   "lat": -6.9217,
+   "lon": 107.6063,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 20.9
+   },
+   {
+    "distance_km": 16.0
+   },
+   {
+    "distance_km": 23.8
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 37.6,
+  "first_population_year": 1846,
+  "population_1975_used": 1303538
+ }
+}

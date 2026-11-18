@@ -1,0 +1,167 @@
+{
+ "slug": "ho-chi-minh-city",
+ "status": "ok",
+ "urban_centre": {
+  "id": 5239,
+  "name": "Ho Chi Minh City",
+  "area_km2": 1487.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1623,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1650,
+   "area_km2": 0.02,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1700,
+   "area_km2": 0.07,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1750,
+   "area_km2": 0.24,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1800,
+   "area_km2": 0.8,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1825,
+   "area_km2": 0.96,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1850,
+   "area_km2": 1.14,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 1.2,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 4.4,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 7.4,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 9.52,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 16.08,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 26.79,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 68.02,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 91.2,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 149.06,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 190.57,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 270.51,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 400.03,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 528.42,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 716.94,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 802.39,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 924.84,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 974.69,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 1018.08,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 1048.71,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 1079.19,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Site of the 1790 Gia Định citadel (Thành Bát Quái), District 1",
+   "lat": 10.7852,
+   "lon": 106.7028,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 122.6,
+  "first_population_year": 1800,
+  "population_1975_used": 2336143
+ }
+}

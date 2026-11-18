@@ -1,0 +1,165 @@
+{
+ "slug": "kuala-lumpur",
+ "status": "ok",
+ "urban_centre": {
+  "id": 1648,
+  "name": "Kuala Lumpur",
+  "area_km2": 1340.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1857,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 0.28,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 5.87,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 10.0,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 19.65,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 32.32,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 50.16,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 105.77,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 161.42,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 246.32,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 388.94,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 434.21,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 483.48,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 530.71,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 706.12,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 812.57,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 874.05,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 907.39,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 939.03,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 965.42,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 989.32,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Confluence of the Gombak and Klang rivers (Jamek Mosque / old Market Square)",
+   "lat": 3.1488,
+   "lon": 101.6957,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 8.4
+   },
+   {
+    "distance_km": 8.9
+   },
+   {
+    "distance_km": 12.9
+   },
+   {
+    "distance_km": 35.0
+   },
+   {
+    "distance_km": 7.6
+   },
+   {
+    "distance_km": 15.7
+   },
+   {
+    "distance_km": 14.1
+   },
+   {
+    "distance_km": 26.1
+   },
+   {
+    "distance_km": 26.6
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 17.0,
+  "first_population_year": 1875,
+  "population_1975_used": 660984
+ }
+}

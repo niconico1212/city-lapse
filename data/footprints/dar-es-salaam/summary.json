@@ -1,0 +1,144 @@
+{
+ "slug": "dar-es-salaam",
+ "status": "ok",
+ "urban_centre": {
+  "id": 3570,
+  "name": "Dar es-Salaam",
+  "area_km2": 907.0
+ },
+ "shared_urban_centre_split": null,
+ "threshold_m2_per_cell": 500,
+ "ghsl_resolution_m": 100,
+ "download_failures": [],
+ "epochs": [
+  {
+   "year": 1862,
+   "area_km2": 0.01,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1875,
+   "area_km2": 0.44,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1900,
+   "area_km2": 2.89,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1910,
+   "area_km2": 3.96,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1920,
+   "area_km2": 4.73,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1930,
+   "area_km2": 7.5,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1940,
+   "area_km2": 11.06,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1950,
+   "area_km2": 25.57,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1960,
+   "area_km2": 57.43,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1970,
+   "area_km2": 146.83,
+   "confidence": "reconstructed"
+  },
+  {
+   "year": 1975,
+   "area_km2": 253.55,
+   "confidence": "documented"
+  },
+  {
+   "year": 1980,
+   "area_km2": 303.26,
+   "confidence": "documented"
+  },
+  {
+   "year": 1985,
+   "area_km2": 367.82,
+   "confidence": "documented"
+  },
+  {
+   "year": 1990,
+   "area_km2": 426.83,
+   "confidence": "documented"
+  },
+  {
+   "year": 1995,
+   "area_km2": 497.83,
+   "confidence": "documented"
+  },
+  {
+   "year": 2000,
+   "area_km2": 545.54,
+   "confidence": "documented"
+  },
+  {
+   "year": 2005,
+   "area_km2": 604.8,
+   "confidence": "documented"
+  },
+  {
+   "year": 2010,
+   "area_km2": 638.92,
+   "confidence": "documented"
+  },
+  {
+   "year": 2015,
+   "area_km2": 666.58,
+   "confidence": "documented"
+  },
+  {
+   "year": 2020,
+   "area_km2": 687.06,
+   "confidence": "documented"
+  },
+  {
+   "year": 2025,
+   "area_km2": 699.29,
+   "confidence": "estimated"
+  }
+ ],
+ "reconstruction": {
+  "historic_core": {
+   "name": "Old Boma (built 1866-67 by Sultan Majid) on the harbour front",
+   "lat": -6.8205,
+   "lon": 39.2872,
+   "snapped_m": 0
+  },
+  "satellite_seeds": [
+   {
+    "distance_km": 6.5
+   },
+   {
+    "distance_km": 14.3
+   }
+  ],
+  "start_site": null,
+  "density_decline_per_year": 0.015,
+  "density_peak_year": 1890,
+  "density_cap_per_ha": 500.0,
+  "population_basis": "researched points before 1950 + UN WUP 2018 for 1950-1975",
+  "density_1975_per_ha": 22.5,
+  "first_population_year": 1867,
+  "population_1975_used": 571594
+ }
+}

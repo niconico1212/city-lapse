@@ -1,0 +1,12 @@
+# Data pipeline (scripts/). The web app itself needs only Node.
+numpy
+scipy
+rasterio
+geopandas
+pyogrio
+shapely>=2.0
+pyproj
+scikit-image
+requests
+openpyxl
+xlrd

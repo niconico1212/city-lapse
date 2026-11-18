@@ -1,0 +1,532 @@
+{
+  "slug": "bangkok",
+  "name": "Bangkok",
+  "country": "Thailand",
+  "start_year": 1448,
+  "start_label": "Thonburi (Bangkok) customs post recorded under King Chao Sam Phraya of Ayutthaya (r. 1424-1448)",
+  "start_source": "https://en.wikipedia.org/wiki/History_of_Bangkok#Under_Ayutthaya",
+  "start_confidence": "estimated",
+  "historic_core": {
+    "name": "Grand Palace, Rattanakosin Island (the 1782 royal city; the older town of Thonburi lies directly across the river)",
+    "lat": 13.7501,
+    "lon": 100.492,
+    "source": "https://en.wikipedia.org/wiki/Grand_Palace"
+  },
+  "population": [
+    {
+      "year": 1800,
+      "value": 45000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Bangkok'), https://figshare.com/articles/Chandler_Population_Data/2059494",
+      "note": "Eighteen years after the capital moved to the east bank. Chandler gives 48,000 for 1809.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1822,
+      "value": 50000,
+      "confidence": "estimated",
+      "source": "Crawfurd (1830), Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China, vol. 2, p. 215, via https://en.wikipedia.org/wiki/Bangkok#Demography ; same figure in Chandler (1987) as digitised by Reba et al. (2016)",
+      "note": "The British envoy John Crawfurd, visiting in 1822, estimated 'no more than 50,000'.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1828,
+      "value": 77300,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Bangkok'), https://figshare.com/articles/Chandler_Population_Data/2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1849,
+      "value": 160154,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Bangkok'), https://figshare.com/articles/Chandler_Population_Data/2059494",
+      "note": "Unrounded figure in Chandler, whose original source was not seen; he gives 158,000 for 1850.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1875,
+      "value": 200000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Bangkok'), https://figshare.com/articles/Chandler_Population_Data/2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1900,
+      "value": 267000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034 (file chandlerV2.csv, row 'Bangkok'), https://figshare.com/articles/Chandler_Population_Data/2059494",
+      "note": "The Encyclopaedia Britannica (11th ed., 1911, 'Bangkok') gives a contemporary estimate of 450,000 around 1910.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1919,
+      "value": 437294,
+      "confidence": "documented",
+      "source": "National Statistical Office of Thailand, 2010 Thailand Statistical Yearbook (special edition), census series as tabulated at https://en.wikipedia.org/wiki/Bangkok#Demography",
+      "note": "Census figure for Bangkok as tabulated by the National Statistical Office; the area is the Bangkok census area of the time (the provinces of Phra Nakhon and Thonburi are the likely basis), which is wider than the built-up city. Chandler's 375,000 for 1925 refers to a narrower city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1929,
+      "value": 713384,
+      "confidence": "documented",
+      "source": "National Statistical Office of Thailand, 2010 Thailand Statistical Yearbook (special edition), census series as tabulated at https://en.wikipedia.org/wiki/Bangkok#Demography",
+      "note": "Census figure for Bangkok as tabulated by the National Statistical Office; the area is the Bangkok census area of the time (the provinces of Phra Nakhon and Thonburi are the likely basis), which is wider than the built-up city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1937,
+      "value": 890453,
+      "confidence": "documented",
+      "source": "National Statistical Office of Thailand, 2010 Thailand Statistical Yearbook (special edition), census series as tabulated at https://en.wikipedia.org/wiki/Bangkok#Demography",
+      "note": "Census figure for Bangkok as tabulated by the National Statistical Office; the area is the Bangkok census area of the time (the provinces of Phra Nakhon and Thonburi are the likely basis), which is wider than the built-up city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1947,
+      "value": 1178881,
+      "confidence": "documented",
+      "source": "National Statistical Office of Thailand, 2010 Thailand Statistical Yearbook (special edition), census series as tabulated at https://en.wikipedia.org/wiki/Bangkok#Demography",
+      "note": "Census figure for Bangkok as tabulated by the National Statistical Office; the area is the Bangkok census area of the time (the provinces of Phra Nakhon and Thonburi are the likely basis), which is wider than the built-up city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 1360000,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Krung Thep (Bangkok)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 1711706,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Krung Thep (Bangkok)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 2150853,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Krung Thep (Bangkok)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 2584466,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Krung Thep (Bangkok)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 3109945,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Krung Thep (Bangkok)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 3650772,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 4636381,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 5306933,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 6342886,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 7206638,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 8377066,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 10541547,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 12986747,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 14915059,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 17250109,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 18180280,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 18338825,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1448,
+      "title": "Thonburi customs post on record under Ayutthaya",
+      "detail": "A document from the reign of the Ayutthayan king Chao Sam Phraya (1424-1448) names the customs official of Thonburi, the riverside town later called Bangkok. It is the earliest written record of the settlement.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Bangkok#Under_Ayutthaya",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1538,
+      "title": "Bypass canal cut across the river loop",
+      "detail": "Under King Chairacha (in 1538 or 1542) a channel was dug across the neck of a meander of the Chao Phraya. The river adopted it as its main course, splitting the town into west and east banks.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Bangkok#Under_Ayutthaya",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1688,
+      "title": "Siege of Bangkok expels the French garrison",
+      "detail": "A French-designed fort had been built on the east bank in 1685-87. In the revolution of 1688 some 40,000 Siamese troops besieged it for four months until the French withdrew, and the fort was demolished.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Bangkok#Under_Ayutthaya",
+      "confidence": "documented"
+    },
+    {
+      "year": 1767,
+      "title": "Taksin makes Thonburi the capital",
+      "detail": "After the Burmese destroyed Ayutthaya, Taksin declared himself king on 28 December 1767 and made the fortified town of Thonburi, on the west bank, his capital, extending its walls and moats.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Bangkok#Thonburi",
+      "confidence": "documented"
+    },
+    {
+      "year": 1782,
+      "title": "Rama I moves the capital to the east bank",
+      "detail": "The city pillar was erected on 21 April 1782, the formal founding date of Bangkok (Rattanakosin). The Grand Palace was laid out by the river and new moats enclosed Rattanakosin Island; the Chinese community was moved to what became Chinatown.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Bangkok#Rattanakosin",
+      "confidence": "documented"
+    },
+    {
+      "year": 1820,
+      "title": "Cholera epidemic kills about 30,000",
+      "detail": "A cholera pandemic reached the city in 1820, with a reported 30,000 deaths; it struck again in 1849.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Bangkok",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1855,
+      "title": "Bowring Treaty opens Siam to Western trade",
+      "detail": "King Mongkut (Rama IV), open to Western ideas but forced to acknowledge Western power, signed the Bowring Treaty in 1855.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Bangkok#Rattanakosin",
+      "confidence": "documented"
+    },
+    {
+      "year": 1864,
+      "title": "Charoen Krung, the first paved road",
+      "detail": "Charoen Krung Road, the city's first paved street, was built in 1862-1864 under the influence of the Western community.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Bangkok#Rattanakosin",
+      "confidence": "documented"
+    },
+    {
+      "year": 1893,
+      "title": "Paknam Railway opens; trams electrified a year later",
+      "detail": "The Paknam Railway to Samut Prakan opened in 1893, the year of the Paknam Incident and French blockade. Electric trams began running in 1894.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Bangkok",
+      "confidence": "documented"
+    },
+    {
+      "year": 1932,
+      "title": "Memorial Bridge opens; absolute monarchy ends",
+      "detail": "The Memorial Bridge, linking Bangkok to Thonburi, opened on 6 April 1932. In June a coup in the city ended the absolute monarchy.",
+      "source": "https://en.wikipedia.org/wiki/Memorial_Bridge_(Bangkok) ; https://en.wikipedia.org/wiki/History_of_Bangkok",
+      "confidence": "documented"
+    },
+    {
+      "year": 1942,
+      "title": "Wartime bombing and a two-month flood",
+      "detail": "Allied with Japan, Bangkok was bombed by the Allies between 1941 and 1945. In 1942 city-wide flooding lasted two months.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Bangkok",
+      "confidence": "documented"
+    },
+    {
+      "year": 1972,
+      "title": "Phra Nakhon and Thonburi merged into one city",
+      "detail": "Decrees in 1971-1972 merged the provinces on the two banks into the present Bangkok (Krung Thep Maha Nakhon). The Bangkok Metropolitan Administration was created in 1975.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Bangkok",
+      "confidence": "documented"
+    },
+    {
+      "year": 1999,
+      "title": "BTS Skytrain opens",
+      "detail": "The city's first rapid-transit lines, the elevated Sukhumvit and Silom lines, opened on 5 December 1999.",
+      "source": "https://en.wikipedia.org/wiki/BTS_Skytrain",
+      "confidence": "documented"
+    },
+    {
+      "year": 2004,
+      "title": "MRT Blue Line opens",
+      "detail": "The Metropolitan Rapid Transit (MRT) Blue Line opened in 2004.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Bangkok",
+      "confidence": "documented"
+    },
+    {
+      "year": 2011,
+      "title": "Severe floods inundate parts of the city",
+      "detail": "The 2011 floods submerged parts of Bangkok.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Bangkok",
+      "confidence": "documented"
+    },
+    {
+      "year": 2016,
+      "title": "MahaNakhon completed",
+      "detail": "The 314 m MahaNakhon tower was completed, at the time the tallest building in Thailand.",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/mahanakhon/8725 ; https://en.wikipedia.org/wiki/History_of_Bangkok",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Giant Swing (Sao Chingcha)",
+      "year": 1784,
+      "height_m": 21.15,
+      "lat": 13.7518,
+      "lon": 100.5013,
+      "kind": "monument",
+      "source": "https://en.wikipedia.org/wiki/Giant_Swing ; https://th.wikipedia.org/wiki/เสาชิงช้า",
+      "confidence": "documented",
+      "note": "First erected by Rama I in 1784; moved to its present spot in 1920 and rebuilt in new teak in 2006-07. The 21.15 m height is that of the present structure."
+    },
+    {
+      "name": "Wat Arun, central prang",
+      "year": 1851,
+      "height_m": 81.85,
+      "lat": 13.7436,
+      "lon": 100.4889,
+      "kind": "temple",
+      "source": "https://th.wikipedia.org/wiki/พระปรางค์วัดอรุณราชวรารามราชวรมหาวิหาร ; https://en.wikipedia.org/wiki/Wat_Arun",
+      "confidence": "estimated",
+      "note": "Height is disputed: Thai Wikipedia's article on the prang gives 81.85 m from base to tip, English Wikipedia says sources range from 66.8 m to 86 m, and Thai Wikipedia's temple article says 67 m. Built under Rama II and Rama III and finished in 1851, replacing a 16 m Ayutthaya-period prang."
+    },
+    {
+      "name": "Golden Mount (Phu Khao Thong), Wat Saket",
+      "year": 1877,
+      "height_m": 59.78,
+      "lat": 13.7539,
+      "lon": 100.5083,
+      "kind": "temple",
+      "source": "https://th.wikipedia.org/wiki/พระบรมบรรพต ; https://en.wikipedia.org/wiki/Wat_Saket",
+      "confidence": "estimated",
+      "note": "Artificial hill and chedi begun in 1865 under Rama IV and completed early in Rama V's reign; 1877 is the year relics were first enshrined. Thai Wikipedia's Wat Saket article gives 77 m instead of 59.78 m."
+    },
+    {
+      "name": "Ananta Samakhom Throne Hall",
+      "year": 1915,
+      "height_m": 49.5,
+      "lat": 13.7716,
+      "lon": 100.5133,
+      "kind": "palace",
+      "source": "https://en.wikipedia.org/wiki/Ananta_Samakhom_Throne_Hall",
+      "confidence": "documented",
+      "note": "Height of the central dome."
+    },
+    {
+      "name": "Democracy Monument",
+      "year": 1940,
+      "height_m": 24,
+      "lat": 13.7567,
+      "lon": 100.5017,
+      "kind": "monument",
+      "source": "https://en.wikipedia.org/wiki/Democracy_Monument",
+      "confidence": "documented",
+      "note": "Height of the four wings; opened 24 June 1940."
+    },
+    {
+      "name": "Victory Monument",
+      "year": 1942,
+      "height_m": 50,
+      "lat": 13.7647,
+      "lon": 100.5386,
+      "kind": "monument",
+      "source": "https://th.wikipedia.org/wiki/อนุสาวรีย์ชัยสมรภูมิ ; https://en.wikipedia.org/wiki/Victory_Monument_(Bangkok)",
+      "confidence": "estimated",
+      "note": "Thai Wikipedia gives the obelisk as 'about 50 m'; completed 24 June 1942."
+    },
+    {
+      "name": "Dusit Thani Hotel (original)",
+      "year": 1970,
+      "height_m": 100,
+      "lat": 13.7283,
+      "lon": 100.5372,
+      "kind": "skyscraper",
+      "demolished_year": 2020,
+      "source": "https://en.wikipedia.org/wiki/Dusit_Thani_Bangkok",
+      "confidence": "documented",
+      "note": "82 m to the roof, 100 m including the spire; the tallest building in the city when it opened on 27 February 1970. Demolished 2019-2020."
+    },
+    {
+      "name": "Bangkok Bank Building",
+      "year": 1981,
+      "height_m": 134,
+      "lat": 13.7265,
+      "lon": 100.5303,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/bangkok-bank-building/4487",
+      "confidence": "documented"
+    },
+    {
+      "name": "Rama IX Bridge",
+      "year": 1987,
+      "height_m": 87,
+      "lat": 13.6821,
+      "lon": 100.519,
+      "kind": "bridge",
+      "source": "https://en.wikipedia.org/wiki/Rama_IX_Bridge",
+      "confidence": "documented",
+      "note": "Opened 5 December 1987."
+    },
+    {
+      "name": "Baiyoke Tower I",
+      "year": 1987,
+      "height_m": 151,
+      "lat": 13.753,
+      "lon": 100.5398,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/baiyoke-tower-i/3924",
+      "confidence": "documented"
+    },
+    {
+      "name": "Baiyoke Tower II",
+      "year": 1997,
+      "height_m": 304,
+      "lat": 13.7543,
+      "lon": 100.5402,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/baiyoke-tower-ii/487",
+      "confidence": "documented"
+    },
+    {
+      "name": "State Tower",
+      "year": 2001,
+      "height_m": 247.2,
+      "lat": 13.7214,
+      "lon": 100.5173,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/state-tower/902",
+      "confidence": "documented"
+    },
+    {
+      "name": "Rama VIII Bridge",
+      "year": 2002,
+      "height_m": 160,
+      "lat": 13.7692,
+      "lon": 100.4968,
+      "kind": "bridge",
+      "source": "https://en.wikipedia.org/wiki/Rama_VIII_Bridge",
+      "confidence": "documented",
+      "note": "Height of the single pylon; opened 7 May 2002."
+    },
+    {
+      "name": "Bhumibol Bridge",
+      "year": 2006,
+      "height_m": 173,
+      "lat": 13.6653,
+      "lon": 100.5394,
+      "kind": "bridge",
+      "source": "https://en.wikipedia.org/wiki/Bhumibol_Bridge",
+      "confidence": "documented",
+      "note": "Height of the pylons."
+    },
+    {
+      "name": "MahaNakhon",
+      "year": 2016,
+      "height_m": 314,
+      "lat": 13.7235,
+      "lon": 100.5283,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/mahanakhon/8725",
+      "confidence": "documented"
+    },
+    {
+      "name": "Magnolias Waterfront Residences Tower 1 (Iconsiam)",
+      "year": 2018,
+      "height_m": 315,
+      "lat": 13.7264,
+      "lon": 100.5106,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/magnolias-waterfront-residences-tower-1/14532",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/bangkok/",
+  "notes": "Start date is a matter of definition. Bangkok dates its own foundation to 21 April 1782, when Rama I moved the capital to the east bank. The settlement is older: it was the capital Thonburi from 1767, a fortified customs town through the 16th and 17th centuries, and is first recorded in a document of the reign of Chao Sam Phraya (1424-1448). Since that document is dated only to the reign, the start year 1448 is the latest date by which the town is on record and is marked 'estimated'; Wikipedia's timeline puts the first settlement around the 14th century without a source. If the project prefers the official founding, use 1782. Population: nothing was found before 1800, so the Ayutthaya-period and Thonburi-period town (350 years) has no figure. The 19th-century points are Chandler's estimates as digitised by Reba, Reitsma & Seto (2016), resting on travellers' reports such as Crawfurd's; Chandler's 1809 (48,000), 1850 (158,000) and 1925 (375,000) values were not used. Census figures from 1919 are from the National Statistical Office series as reproduced on Wikipedia (the yearbook itself was not opened) and cover a wider area than Chandler's city, so the step from 267,000 (1900) to 437,294 (1919) is partly a change of definition. Landmarks: the Grand Palace, Wat Phra Kaew, Wat Pho (whose four great chedis are 42 m but undated in the source), the Memorial Bridge, Hua Lamphong station and the Wat Paknam Buddha were left out for lack of a sourced height or completion year. Heights of Wat Arun and the Golden Mount are disputed between sources (see their notes). The bridge heights are pylon heights. Tower heights, years and coordinates are from the CTBUH Skyscraper Center city listing for Bangkok; CTBUH lists the Iconsiam residential tower at 315 m, one metre taller than MahaNakhon. Other coordinates are from Wikipedia."
+}

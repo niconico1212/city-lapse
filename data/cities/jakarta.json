@@ -1,0 +1,530 @@
+{
+  "slug": "jakarta",
+  "name": "Jakarta",
+  "country": "Indonesia",
+  "start_year": 1513,
+  "start_label": "Port of Sunda Kalapa first described by Portuguese visitors",
+  "start_source": "Tomé Pires, Suma Oriental (written 1512-1515; Asian Educational Services reprint 1990), pp. xxv, 166, 172, https://books.google.com/books?id=h82D-Y0E3TwC&pg=PA166 , via https://en.wikipedia.org/wiki/Sunda_Kelapa and https://en.wikipedia.org/wiki/Jakarta",
+  "start_confidence": "documented",
+  "historic_core": {
+    "name": "Sunda Kelapa harbour (mouth of the Ciliwung, Old Batavia)",
+    "lat": -6.1239,
+    "lon": 106.8086,
+    "source": "https://en.wikipedia.org/wiki/Sunda_Kelapa"
+  },
+  "population": [
+    {
+      "year": 1673,
+      "value": 33687,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "note": "Batavia. Chandler's figures are for the built-up city with suburbs.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1700,
+      "value": 35000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1750,
+      "value": 44000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1779,
+      "value": 50000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1800,
+      "value": 53000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1813,
+      "value": 49683,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "note": "Unrounded figure as given in Chandler.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1844,
+      "value": 60850,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1850,
+      "value": 60000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1880,
+      "value": 96957,
+      "confidence": "documented",
+      "source": "Encyclopaedia Britannica, 11th ed. (1911), 'Batavia (city)', vol. 3 pp. 507-508, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Batavia_(city)",
+      "note": "Batavia, as reported in the 1911 Britannica.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1898,
+      "value": 115567,
+      "confidence": "documented",
+      "source": "Encyclopaedia Britannica, 11th ed. (1911), 'Batavia (city)', vol. 3 pp. 507-508, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Batavia_(city)",
+      "note": "Batavia, as reported in the 1911 Britannica (9,423 Europeans, 26,433 Chinese, 2,828 Arabs).",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1918,
+      "value": 234697,
+      "confidence": "documented",
+      "source": "Statesman's Year-Book 1921, 'Netherlands: Dutch East Indies', http://hdl.handle.net/2027/njp.32101072368440?urlappend=%3Bseq=1166 , via https://en.wikipedia.org/wiki/Timeline_of_Jakarta",
+      "note": "Batavia municipality.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1920,
+      "value": 306000,
+      "confidence": "documented",
+      "source": "1920 Dutch East Indies census as cited by Hiroyoshi Kano, Growing Metropolitan Suburbia: A Comparative Sociological Study on Tokyo and Jakarta, p. 5, https://books.google.com/books?id=w1lRf5kNH4QC&pg=PA5 , via https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies",
+      "note": "Rounded. The same Wikipedia article's infobox gives 253,800 for the Batavia municipality in 1920, so the 306,000 figure covers a wider area (the difference is not explained on the page).",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1930,
+      "value": 533000,
+      "confidence": "documented",
+      "source": "1930 census figure as given by Dean Forbes, 'Jakarta', in J. Gugler (ed.), World Cities beyond the West (Cambridge UP, 2004), https://books.google.com/books?id=lw3iPzyfpdQC&pg=PA268 , via https://en.wikipedia.org/wiki/Timeline_of_Jakarta",
+      "note": "Rounded. Cribb & Kahin, Historical Dictionary of Indonesia, give 435,000 for the city in the 1930 census; the two figures use different boundaries.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1945,
+      "value": 847483,
+      "confidence": "documented",
+      "source": "Twang Peck Yang (1987), Indonesian Chinese Business Communities in Transformation, 1940-50, PhD thesis, ANU, p. 137, https://doi.org/10.25911/5d74e0dec38e7 , via https://en.wikipedia.org/wiki/Jakarta",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1949,
+      "value": 1340625,
+      "confidence": "documented",
+      "source": "Merrillees, S. (2015), Jakarta: Portraits of a Capital 1950-1980, p. 15, via https://en.wikipedia.org/wiki/History_of_Jakarta",
+      "note": "City within its 182 sq km pre-1950 boundary.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 1452000,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Jakarta\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 1972106,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Jakarta\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 2678740,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Jakarta\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 3296964,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Jakarta\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 3915406,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Jakarta\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 11696369,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 14204709,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 16848703,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 19744195,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 22421273,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 25591966,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 28880592,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 32595795,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 36098681,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 39069168,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 41913860,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 42459070,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1513,
+      "title": "Portuguese ships reach the port of Kalapa",
+      "detail": "In March 1513 the Portuguese captain at Malacca sent four ships to Java. Tomé Pires, writing in 1512-1515, described Calapa as the most important port of the Sunda Kingdom.",
+      "source": "Pires, Suma Oriental (1990 reprint), pp. xxv, 172, via https://en.wikipedia.org/wiki/Jakarta",
+      "confidence": "documented"
+    },
+    {
+      "year": 1522,
+      "title": "Sunda-Portuguese treaty at Kalapa",
+      "detail": "On 21 August 1522 the Sunda Kingdom concluded a treaty with Portugal that allowed the Portuguese to build a fortress at Kalapa. A stone padrão marking the treaty survives in the National Museum.",
+      "source": "Pires, Suma Oriental (1990 reprint), p. 172, via https://en.wikipedia.org/wiki/Jakarta",
+      "confidence": "documented"
+    },
+    {
+      "year": 1527,
+      "title": "Kalapa conquered and becomes Jayakarta",
+      "detail": "Islamic forces captured Kalapa on 22 June 1527, the date Jakarta celebrates as its founding. The town became a dependency of Banten and was recorded by Europeans as Jacatra.",
+      "source": "Gultom (2017), pp. 3, 17, via https://en.wikipedia.org/wiki/Jakarta",
+      "confidence": "documented"
+    },
+    {
+      "year": 1619,
+      "title": "VOC destroys Jayakarta and founds Batavia",
+      "detail": "Jan Pieterszoon Coen returned with reinforcements in May 1619, razed Jayakarta and made the site the Dutch East India Company's Asian headquarters, named Batavia.",
+      "source": "Ricklefs (2001), A History of Modern Indonesia since c. 1200, p. 35, via https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies",
+      "confidence": "documented"
+    },
+    {
+      "year": 1628,
+      "title": "Mataram besieges Batavia; the city is walled",
+      "detail": "Sultan Agung of Mataram began a siege on 27 August 1628 and attacked again in 1629. After the sieges failed, a moat and city wall were built that enclosed Batavia completely.",
+      "source": "Ricklefs (2001), pp. 52-53, via https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies",
+      "confidence": "documented"
+    },
+    {
+      "year": 1740,
+      "title": "Massacre of Batavia's Chinese residents",
+      "detail": "About ten thousand Chinese were killed between 9 and 22 October 1740. The survivors were moved the next year to Glodok, outside the city walls.",
+      "source": "Gimon (2001), via https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies",
+      "confidence": "documented"
+    },
+    {
+      "year": 1808,
+      "title": "Government moves south to Weltevreden",
+      "detail": "Governor-General Daendels decided to leave the dilapidated, unhealthy Old Town and built a new centre on the Weltevreden estate further south, giving Batavia two centres.",
+      "source": "https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies",
+      "confidence": "documented"
+    },
+    {
+      "year": 1811,
+      "title": "British occupation under Raffles",
+      "detail": "British forces took over the government of Java in 1811. The Dutch returned to rule in 1816.",
+      "source": "https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies",
+      "confidence": "documented"
+    },
+    {
+      "year": 1873,
+      "title": "Railway to Buitenzorg completed",
+      "detail": "The city's first railway was begun in 1869, the same year horse trams were introduced, and the line from Batavia to Buitenzorg (Bogor) was completed in 1873.",
+      "source": "Merrillees (2001), p. 14, via https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies",
+      "confidence": "documented"
+    },
+    {
+      "year": 1886,
+      "title": "Tanjung Priok harbour completed",
+      "detail": "A new harbour at Tanjung Priok, begun in 1877 as shipping and trade with Europe grew, was completed in 1886.",
+      "source": "Merrillees (2015), p. 11, via https://en.wikipedia.org/wiki/History_of_Jakarta ; https://en.wikipedia.org/wiki/Timeline_of_Jakarta",
+      "confidence": "documented"
+    },
+    {
+      "year": 1935,
+      "title": "Meester Cornelis absorbed into Batavia",
+      "detail": "The neighbouring municipality of Meester Cornelis (now Jatinegara) was included in the city in 1935.",
+      "source": "Merrillees (2015), p. 11, via https://en.wikipedia.org/wiki/History_of_Jakarta",
+      "confidence": "documented"
+    },
+    {
+      "year": 1942,
+      "title": "Japanese occupation; Batavia renamed Jakarta",
+      "detail": "Batavia fell to Japanese forces on 5 March 1942. The occupation authorities renamed the city Jakarta.",
+      "source": "https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies",
+      "confidence": "documented"
+    },
+    {
+      "year": 1945,
+      "title": "Indonesian independence proclaimed in Jakarta",
+      "detail": "Independence was proclaimed in Jakarta on 17 August 1945.",
+      "source": "Ricklefs (2001), p. 260, via https://en.wikipedia.org/wiki/Jakarta",
+      "confidence": "documented"
+    },
+    {
+      "year": 1950,
+      "title": "City area enlarged from 182 to 530 sq km",
+      "detail": "In March 1950, after the recognition of Indonesian sovereignty, Jakarta's area was increased from 182 to 530 square kilometres. The added districts were rural and sparsely populated.",
+      "source": "Merrillees (2015), p. 15, via https://en.wikipedia.org/wiki/History_of_Jakarta",
+      "confidence": "documented"
+    },
+    {
+      "year": 1962,
+      "title": "Jakarta hosts the Fourth Asian Games",
+      "detail": "The 1962 Asian Games were used to complete new landmarks, including the Senayan sports complex, Hotel Indonesia and the Thamrin-Sudirman avenue.",
+      "source": "Merrillees (2015), p. 97, via https://en.wikipedia.org/wiki/History_of_Jakarta",
+      "confidence": "documented"
+    },
+    {
+      "year": 2019,
+      "title": "First metro line opens",
+      "detail": "Phase 1 of the Jakarta MRT, from Lebak Bulus to Bundaran HI, was officially opened on 24 March 2019.",
+      "source": "https://en.wikipedia.org/wiki/Jakarta_MRT",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Menara Syahbandar (harbourmaster's lookout tower)",
+      "year": 1839,
+      "height_m": 12,
+      "lat": -6.1272,
+      "lon": 106.809,
+      "kind": "tower",
+      "source": "https://id.wikipedia.org/wiki/Menara_Syahbandar",
+      "confidence": "documented"
+    },
+    {
+      "name": "Jakarta Cathedral",
+      "year": 1901,
+      "height_m": 60,
+      "lat": -6.1693,
+      "lon": 106.8331,
+      "kind": "church",
+      "source": "https://en.wikipedia.org/wiki/Jakarta_Cathedral",
+      "confidence": "documented",
+      "note": "Height of the two front spires."
+    },
+    {
+      "name": "Sarinah Building",
+      "year": 1967,
+      "height_m": 74,
+      "lat": -6.1876,
+      "lon": 106.8238,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/sarinah/24112",
+      "confidence": "documented",
+      "note": "Height and completion year from CTBUH; coordinates from Wikipedia (which gives the opening as August 1966)."
+    },
+    {
+      "name": "Wisma Nusantara",
+      "year": 1972,
+      "height_m": 117,
+      "lat": -6.1933,
+      "lon": 106.8235,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/wisma-nusantara/4817",
+      "confidence": "documented"
+    },
+    {
+      "name": "National Monument (Monas)",
+      "year": 1975,
+      "height_m": 132,
+      "lat": -6.1754,
+      "lon": 106.8271,
+      "kind": "monument",
+      "source": "https://en.wikipedia.org/wiki/National_Monument_(Indonesia)",
+      "confidence": "documented",
+      "note": "Obelisk structure finished in 1963; monument completed and opened 12 July 1975."
+    },
+    {
+      "name": "Istiqlal Mosque (minaret)",
+      "year": 1978,
+      "height_m": 96.66,
+      "lat": -6.1698,
+      "lon": 106.8309,
+      "kind": "mosque",
+      "source": "https://en.wikipedia.org/wiki/Istiqlal_Mosque,_Jakarta",
+      "confidence": "documented",
+      "note": "Height of the single minaret (66.66 m marble shaft plus 30 m steel pinnacle)."
+    },
+    {
+      "name": "Wisma 46",
+      "year": 1996,
+      "height_m": 261.94,
+      "lat": -6.2037,
+      "lon": 106.8199,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/wisma-46/880",
+      "confidence": "documented"
+    },
+    {
+      "name": "Menara BCA",
+      "year": 2008,
+      "height_m": 230,
+      "lat": -6.1967,
+      "lon": 106.8225,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/menara-bca/1104",
+      "confidence": "documented"
+    },
+    {
+      "name": "Gama Tower",
+      "year": 2016,
+      "height_m": 285.5,
+      "lat": -6.224,
+      "lon": 106.8336,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/gama-tower/17562",
+      "confidence": "documented"
+    },
+    {
+      "name": "Treasury Tower",
+      "year": 2018,
+      "height_m": 279.5,
+      "lat": -6.228,
+      "lon": 106.8064,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/treasury-tower/15824",
+      "confidence": "documented"
+    },
+    {
+      "name": "Jakarta International Stadium",
+      "year": 2022,
+      "height_m": 73,
+      "lat": -6.1244,
+      "lon": 106.8603,
+      "kind": "stadium",
+      "source": "https://en.wikipedia.org/wiki/Jakarta_International_Stadium",
+      "confidence": "documented"
+    },
+    {
+      "name": "Autograph Tower",
+      "year": 2022,
+      "height_m": 382.9,
+      "lat": -6.199,
+      "lon": 106.8212,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/autograph-tower/39449",
+      "confidence": "documented"
+    },
+    {
+      "name": "Luminary Tower",
+      "year": 2023,
+      "height_m": 301.2,
+      "lat": -6.1984,
+      "lon": 106.8212,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/luminary-tower/31708",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/jakarta/",
+  "notes": "Start date: the site at the mouth of the Ciliwung was the Sunda Kingdom's port of Kalapa (Sunda Kelapa) before the events usually given as the city's founding. The earliest securely dated document that describes the port town itself is Tomé Pires's Suma Oriental (written 1512-1515; Portuguese ships called in 1513), so 1513 is used as the earliest documented settlement. The port is certainly older, but no dated source for its founding was found; the 13th-century Chinese Zhu Fan Zhi describes a harbour of Sunda that is not securely identified with Kalapa, and the mid-5th-century Tugu inscription found in North Jakarta documents river works in the area, not a town. The city's official anniversary is 22 June 1527 (conquest of Kalapa, traditionally the renaming to Jayakarta, although surviving records do not confirm who led it or the renaming), and the colonial city of Batavia dates from 1619. The start date is therefore contested between 1513 (used here), 1527 and 1619. Population: no figure was found for Kalapa or Jayakarta, so the series starts in 1673; the app should show no reliable estimate from 1513 to 1673. Figures for 1673-1850 are Chandler's estimates for Batavia. From 1880 the figures are colonial counts as reported in secondary sources, and they do not share one boundary: the 1920 figure (306,000) and the 1930 figure (533,000) are larger than the municipal totals quoted elsewhere (253,800 and 435,000), which suggests they include the adjoining Meester Cornelis area that was merged into Batavia in 1935, but the pages consulted do not say so explicitly. The original 1920 and 1930 census volumes were not consulted. Forbes (2004) also gives 823,000 for 1948, which conflicts with 847,483 for 1945 (Twang) and 1,340,625 for 1949 (Merrillees); it was left out. Chandler's 1893 (110,000), 1900 (115,000) and 1925 (290,000) estimates were left out in favour of the counts nearby. Landmarks: no sourced height was found for the pre-1800 buildings of Old Batavia (the 1710 Stadhuis, now the Jakarta History Museum; Gereja Sion, 1695; Kota Intan Bridge, 1628), for Hotel Indonesia or for Gelora Bung Karno Stadium, so they are omitted; the oldest landmark with a sourced height is the 1839 harbour tower. The Selamat Datang and Dirgantara monuments were omitted because the sources give inconsistent or partial heights. Skyscraper heights and years are from the CTBUH Skyscraper Center."
+}

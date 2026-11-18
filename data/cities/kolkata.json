@@ -1,0 +1,514 @@
+{
+  "slug": "kolkata",
+  "name": "Kolkata",
+  "country": "India",
+  "start_year": 1690,
+  "start_label": "East India Company settles at Sutanuti under Job Charnock",
+  "start_source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 263 (Calcutta, History), https://archive.org/details/in.ernet.dli.2015.460515",
+  "start_confidence": "documented",
+  "historic_core": {
+    "name": "Site of the first Fort William (General Post Office, B. B. D. Bagh)",
+    "lat": 22.5731,
+    "lon": 88.3456,
+    "source": "https://en.wikipedia.org/wiki/General_Post_Office,_Kolkata; the Gazetteer (vol. 9, p. 263) places the old fort between Fairlie Place and Koila Ghat Street, facing what is now Dalhousie Square"
+  },
+  "population": [
+    {
+      "year": 1710,
+      "value": 11000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1750,
+      "value": 110000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "note": "J. Z. Holwell calculated 409,000 for 1752; the Imperial Gazetteer (vol. 9, pp. 263-264) calls that probably an over-estimate, and Chandler's own figure for 1752 is 117,000.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1800,
+      "value": 162000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1821,
+      "value": 179917,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "note": "Exact figure as given by Chandler, presumably from an early enumeration of the town; original not seen.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1850,
+      "value": 413182,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "note": "Exact figure as given by Chandler, presumably from an enumeration; original not seen.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1876,
+      "value": 611784,
+      "confidence": "documented",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 267 (Calcutta, Population), https://archive.org/details/in.ernet.dli.2015.460515",
+      "note": "First complete census, 1876; figure for the area of the municipal town as bounded in 1901 (town, Fort William and port).",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1881,
+      "value": 612307,
+      "confidence": "documented",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 267, https://archive.org/details/in.ernet.dli.2015.460515",
+      "note": "Census of 1881, same area.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1891,
+      "value": 682305,
+      "confidence": "documented",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 267, https://archive.org/details/in.ernet.dli.2015.460515",
+      "note": "Census of 1891, same area.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1901,
+      "value": 1520721,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "note": "Kolkata urban agglomeration as recast by the Census of India for the 2011 extent: the city plus Howrah and the municipal towns along both banks of the Hooghly. This is a much wider area than the 19th-century points: on the earlier definition the 1901 census gave 847,796 for Calcutta town, and 1,106,738 with the suburbs and Howrah (Imperial Gazetteer, vol. 9, pp. 261, 267).",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1911,
+      "value": 1756805,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "note": "Kolkata urban agglomeration as recast by the Census of India for the 2011 extent: the city plus Howrah and the municipal towns along both banks of the Hooghly. Kolkata Municipal Corporation area as now bounded: 1,093,273.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1921,
+      "value": 1872737,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "note": "Kolkata urban agglomeration as recast by the Census of India for the 2011 extent: the city plus Howrah and the municipal towns along both banks of the Hooghly. Kolkata Municipal Corporation area as now bounded: 1,132,246.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1931,
+      "value": 2123128,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "note": "Kolkata urban agglomeration as recast by the Census of India for the 2011 extent: the city plus Howrah and the municipal towns along both banks of the Hooghly. Kolkata Municipal Corporation area as now bounded: 1,260,709.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1941,
+      "value": 3597595,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "note": "Kolkata urban agglomeration as recast by the Census of India for the 2011 extent: the city plus Howrah and the municipal towns along both banks of the Hooghly. Kolkata Municipal Corporation area as now bounded: 2,316,152.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 4604143,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Kolkata (Calcutta)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 5219086,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Kolkata (Calcutta)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 5910210,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Kolkata (Calcutta)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 6589384,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Kolkata (Calcutta)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 7329372,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Kolkata (Calcutta)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 10527605,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Low.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 11830220,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 13234849,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 14841167,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 16321060,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 18355286,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 19462171,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 20487403,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 21294623,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 22048672,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 22549738,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 22646412,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1690,
+      "title": "Charnock's settlement at Sutanuti",
+      "detail": "On 24 August 1690 the English returned to Sutanuti under Job Charnock at the Nawab's invitation, the event traditionally taken as the foundation of Calcutta.",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 263, https://archive.org/details/in.ernet.dli.2015.460515",
+      "confidence": "documented"
+    },
+    {
+      "year": 1698,
+      "title": "Three villages purchased",
+      "detail": "The East India Company bought the villages of Calcutta, Sutanuti and Gobindpur from the governor of Hooghly.",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 263, https://archive.org/details/in.ernet.dli.2015.460515",
+      "confidence": "documented"
+    },
+    {
+      "year": 1702,
+      "title": "First Fort William completed",
+      "detail": "The first fort, begun after the rebellion of 1696, was completed in 1702 beside the river at what is now Dalhousie Square (B. B. D. Bagh).",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 263, https://archive.org/details/in.ernet.dli.2015.460515",
+      "confidence": "documented"
+    },
+    {
+      "year": 1742,
+      "title": "Maratha Ditch dug",
+      "detail": "The inhabitants began an entrenchment round the settlement against Maratha raids; it followed the line of the later Circular Road and was never finished on the south.",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 263, https://archive.org/details/in.ernet.dli.2015.460515",
+      "confidence": "documented"
+    },
+    {
+      "year": 1756,
+      "title": "Captured by Siraj ud-Daula",
+      "detail": "The Nawab of Bengal took the town and fort in June 1756; Clive and Admiral Watson recaptured it early in 1757.",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 264, https://archive.org/details/in.ernet.dli.2015.460515",
+      "confidence": "documented"
+    },
+    {
+      "year": 1773,
+      "title": "New Fort William; seat of British India",
+      "detail": "The present Fort William was finished in 1773, and the clearing round it formed the Maidan. In the same year an Act of Parliament gave the Governor and Council of Bengal control over the Company's other Indian possessions.",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 264, https://archive.org/details/in.ernet.dli.2015.460515",
+      "confidence": "documented"
+    },
+    {
+      "year": 1876,
+      "title": "First complete census",
+      "detail": "The first complete census of Calcutta was taken in 1876 and counted 611,784 people in the area of the later municipal town.",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 267, https://archive.org/details/in.ernet.dli.2015.460515",
+      "confidence": "documented"
+    },
+    {
+      "year": 1888,
+      "title": "Suburbs added to the municipality",
+      "detail": "The municipal boundaries were extended to take in a large part of the suburbs south and east of the Circular Road, adding seven wards.",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 267, https://archive.org/details/in.ernet.dli.2015.460515",
+      "confidence": "documented"
+    },
+    {
+      "year": 1897,
+      "title": "Earthquake",
+      "detail": "The earthquake of 1897 destroyed the spire of St Paul's Cathedral, which was rebuilt the same year.",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 9, p. 280, https://archive.org/details/in.ernet.dli.2015.460515",
+      "confidence": "documented"
+    },
+    {
+      "year": 1905,
+      "title": "Partition of Bengal",
+      "detail": "The partition of Bengal in 1905 led to mass protests in the city.",
+      "source": "https://en.wikipedia.org/wiki/Kolkata",
+      "confidence": "documented"
+    },
+    {
+      "year": 1911,
+      "title": "Capital of India moves to Delhi",
+      "detail": "Calcutta ceased to be the capital of British India in 1911, when the capital was relocated to Delhi.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Kolkata",
+      "confidence": "documented"
+    },
+    {
+      "year": 1943,
+      "title": "Howrah Bridge opens; Bengal famine",
+      "detail": "The cantilever Howrah Bridge across the Hooghly opened on 3 February 1943, the year of the Bengal famine in which millions died.",
+      "source": "https://en.wikipedia.org/wiki/Howrah_Bridge and https://en.wikipedia.org/wiki/Kolkata",
+      "confidence": "documented"
+    },
+    {
+      "year": 1947,
+      "title": "Partition of Bengal at independence",
+      "detail": "Bengal was partitioned in 1947; the city, until then the premier centre of Indian commerce, entered decades of political violence and economic stagnation.",
+      "source": "https://en.wikipedia.org/wiki/Kolkata",
+      "confidence": "documented"
+    },
+    {
+      "year": 1984,
+      "title": "Metro opens; municipal area enlarged",
+      "detail": "The Kolkata Metro, India's first underground railway, began operation on 24 October 1984. In the same year the South Suburban, Garden Reach and Jadavpur municipalities were merged into the Kolkata Municipal Corporation.",
+      "source": "https://en.wikipedia.org/wiki/Kolkata_Metro; merger from Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "confidence": "documented"
+    },
+    {
+      "year": 1992,
+      "title": "Vidyasagar Setu opens",
+      "detail": "The cable-stayed second Hooghly bridge opened on 10 October 1992.",
+      "source": "https://en.wikipedia.org/wiki/Vidyasagar_Setu",
+      "confidence": "documented"
+    },
+    {
+      "year": 2001,
+      "title": "Calcutta officially renamed Kolkata",
+      "detail": "The official name was changed from Calcutta to Kolkata in 2001 to match the Bengali pronunciation.",
+      "source": "https://en.wikipedia.org/wiki/Kolkata",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "St. John's Church",
+      "year": 1787,
+      "height_m": 53,
+      "lat": 22.5699,
+      "lon": 88.3459,
+      "kind": "church",
+      "source": "https://en.wikipedia.org/wiki/St._John's_Church,_Kolkata (citing The Telegraph, 3 January 2010)",
+      "confidence": "documented",
+      "note": "Stone spire of 174 ft, converted to metres."
+    },
+    {
+      "name": "Shaheed Minar (Ochterlony Monument)",
+      "year": 1828,
+      "height_m": 48,
+      "lat": 22.5629,
+      "lon": 88.3492,
+      "kind": "monument",
+      "source": "https://en.wikipedia.org/wiki/Shaheed_Minar,_Kolkata (citing The Telegraph, 14 May 2012)",
+      "confidence": "documented",
+      "note": "The Imperial Gazetteer of 1908 (vol. 9) gives 165 ft, about 50 m."
+    },
+    {
+      "name": "St. Paul's Cathedral",
+      "year": 1847,
+      "height_m": 61.3,
+      "lat": 22.5442,
+      "lon": 88.3467,
+      "kind": "church",
+      "source": "https://en.wikipedia.org/wiki/St._Paul's_Cathedral,_Kolkata",
+      "confidence": "documented",
+      "note": "Central tower of 201 ft, converted to metres. Consecrated 1847; the spire was rebuilt after the 1897 earthquake and the tower reconstructed to a revised design after the 1934 earthquake. The Imperial Gazetteer of 1908 gives 207 ft for the tower and spire of its day."
+    },
+    {
+      "name": "Dakshineswar Kali Temple",
+      "year": 1855,
+      "height_m": 30.5,
+      "lat": 22.655,
+      "lon": 88.3578,
+      "kind": "temple",
+      "source": "https://en.wikipedia.org/wiki/Dakshineswar_Kali_Temple",
+      "confidence": "documented",
+      "note": "Described as rising over 100 ft; 100 ft converted to metres."
+    },
+    {
+      "name": "General Post Office",
+      "year": 1868,
+      "height_m": 67,
+      "lat": 22.5731,
+      "lon": 88.3456,
+      "kind": "other",
+      "source": "https://en.wikipedia.org/wiki/General_Post_Office,_Kolkata",
+      "confidence": "documented",
+      "note": "Dome described as rising over 220 ft; 220 ft converted to metres."
+    },
+    {
+      "name": "Victoria Memorial",
+      "year": 1921,
+      "height_m": 56.1,
+      "lat": 22.5449,
+      "lon": 88.3425,
+      "kind": "monument",
+      "source": "https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata",
+      "confidence": "documented",
+      "note": "184 ft, converted to metres."
+    },
+    {
+      "name": "Nakhoda Masjid",
+      "year": 1926,
+      "height_m": 46,
+      "lat": 22.5764,
+      "lon": 88.3558,
+      "kind": "mosque",
+      "source": "https://en.wikipedia.org/wiki/Nakhoda_Masjid",
+      "confidence": "documented",
+      "note": "Height of the two minarets, 151 ft."
+    },
+    {
+      "name": "Howrah Bridge",
+      "year": 1943,
+      "height_m": 82,
+      "lat": 22.5851,
+      "lon": 88.3469,
+      "kind": "bridge",
+      "source": "https://en.wikipedia.org/wiki/Howrah_Bridge",
+      "confidence": "documented"
+    },
+    {
+      "name": "Chatterjee International Centre",
+      "year": 1976,
+      "height_m": 91,
+      "lat": 22.5533,
+      "lon": 88.35,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/chatterji-international-centre/5126",
+      "confidence": "documented"
+    },
+    {
+      "name": "Vidyasagar Setu",
+      "year": 1992,
+      "height_m": 127.62,
+      "lat": 22.5571,
+      "lon": 88.3278,
+      "kind": "bridge",
+      "source": "https://en.wikipedia.org/wiki/Vidyasagar_Setu",
+      "confidence": "documented",
+      "note": "Height of the steel pylons."
+    },
+    {
+      "name": "Urbana Tower 2",
+      "year": 2015,
+      "height_m": 165,
+      "lat": 22.5123,
+      "lon": 88.4125,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/urbana-tower-2/10724",
+      "confidence": "documented"
+    },
+    {
+      "name": "The 42",
+      "year": 2019,
+      "height_m": 249,
+      "lat": 22.5484,
+      "lon": 88.3497,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/the-42/14870",
+      "confidence": "documented",
+      "note": "Architectural height from the CTBUH; the Wikipedia article quotes 260 m."
+    }
+  ],
+  "footprint_epochs": "footprints/kolkata/",
+  "notes": "Start date: contested. The start used is 24 August 1690, when the East India Company under Job Charnock settled at Sutanuti, as stated in the Imperial Gazetteer of 1908. The site was not empty: the Gazetteer itself says the village of Gobindpur was founded about the middle of the 16th century and that Sutanuti was already a cotton mart, and in 2003 the Calcutta High Court ruled, in response to a public petition, that the city does not have a founder (reported by BBC News, http://news.bbc.co.uk/2/hi/south_asia/3034419.stm, via https://en.wikipedia.org/wiki/Kolkata). No earlier dated record of the villages was seen in the sources opened, so 1690 is kept as the documented beginning of the town. Population: nothing reliable exists before the 18th century. Points for 1710-1850 are Chandler's estimates as digitised by Reba et al.; the Gazetteer warns that early estimates were 'partial and untrustworthy' until the first complete census of 1876. No figure for the 1872 census was seen, so it is not included. The 1876, 1881 and 1891 points cover the municipal town as bounded in 1901. From 1901 to 1941 the points are the Census of India's back-series for the Kolkata urban agglomeration (Table A-4, 2011), which fits the UN series from 1950 but covers a far wider area (Howrah and the riverside mill towns as well as the city). The step between 1891 and 1901 is therefore mostly a change of definition, not growth; like-for-like 1901 figures are in that point's note, and the city-only figures for 1911-1941 are in the notes of those points. The census table notes that the 1921-1941 agglomeration totals include the town of Rishra. Landmarks: heights for the 18th- and 19th-century buildings come from Wikipedia articles, some of which round loosely (for example 'over 220 ft' for the General Post Office dome). Left out because no height was found on the pages opened: Fort William, the Calcutta High Court, Writers' Building, Kalighat temple and Tata Centre. Only two modern towers and one 1976 office block are taken from the CTBUH Skyscraper Center."
+}

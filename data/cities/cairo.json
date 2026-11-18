@@ -1,0 +1,615 @@
+{
+  "slug": "cairo",
+  "name": "Cairo",
+  "country": "Egypt",
+  "start_year": 641,
+  "start_label": "Fustat founded by Amr ibn al-As beside the Babylon Fortress",
+  "start_source": "Raymond (1993), Le Caire, pp. 13-18; Kennedy (2007), The Great Arab Conquests, p. 161; Abu-Lughod (1971), Cairo: 1001 Years of the City Victorious, p. 7, via https://en.wikipedia.org/wiki/Cairo#Fustat_and_other_early_Islamic_settlements",
+  "start_confidence": "documented",
+  "historic_core": {
+    "name": "Fustat: Mosque of Amr ibn al-As, beside the Babylon Fortress in Old Cairo",
+    "lat": 30.01,
+    "lon": 31.2331,
+    "source": "https://en.wikipedia.org/wiki/Amr_ibn_al-As_Mosque"
+  },
+  "population": [
+    {
+      "year": 700,
+      "value": 100000,
+      "confidence": "estimated",
+      "source": "Modelski (2003), World Cities: -3000 to 2000, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file modelskiAncientV2.csv, https://doi.org/10.6084/m9.figshare.2059497.v2",
+      "note": "Fustat.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 800,
+      "value": 100000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "Fustat and al-Askar.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 884,
+      "value": 150000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "Fustat, al-Askar and Ibn Tulun's al-Qata'i.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 969,
+      "value": 100000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "At the Fatimid conquest, after the Abbasids razed al-Qata'i in 905.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1000,
+      "value": 135000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "Fustat with the new Fatimid palace-city of al-Qahira. Modelski gives 200,000.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1100,
+      "value": 150000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1200,
+      "value": 200000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "After the burning of Fustat in 1168 and Saladin's unification of Cairo and Fustat.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1250,
+      "value": 300000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1300,
+      "value": 400000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1348,
+      "value": 500000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "Mamluk peak on the eve of the Black Death; Shillington (2005) likewise gives close to half a million by 1340.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1350,
+      "value": 350000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "After the first wave of the Black Death.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1400,
+      "value": 360000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1500,
+      "value": 400000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "Shoshan (2002) puts the 15th-century population lower, between 150,000 and 300,000.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1550,
+      "value": 360000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1600,
+      "value": 200000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1700,
+      "value": 175000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1750,
+      "value": 175000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1798,
+      "value": 264000,
+      "confidence": "estimated",
+      "source": "Abu-Lughod (1971), Cairo: 1001 Years of the City Victorious, as tabulated in Encyclopedia of the Modern Middle East and North Africa, 'Cairo', https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/cairo",
+      "note": "Estimate of the French expedition. Chandler gives 186,000 for the same year.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1846,
+      "value": 257000,
+      "confidence": "estimated",
+      "source": "Abu-Lughod (1971), Cairo: 1001 Years of the City Victorious, as tabulated in Encyclopedia of the Modern Middle East and North Africa, 'Cairo', https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/cairo",
+      "note": "Based on the first Egyptian census of 1846-48; Chandler gives 254,000 for 1848.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1882,
+      "value": 374000,
+      "confidence": "documented",
+      "source": "Census of Egypt 1882, as reported in Encyclopaedia Britannica (1911), 'Cairo', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cairo_(Egypt)",
+      "note": "Rounded in the source. Raymond (2000) and the Wikipedia timeline give 347,000 / 347,838 for the same census, apparently a transposition one way or the other.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1897,
+      "value": 570062,
+      "confidence": "documented",
+      "source": "Census of Egypt 1897: Statesman's Year-Book 1899, p. 1107, https://en.wikisource.org/wiki/Page:Statesman%27s_Year-Book_1899_American_Edition.djvu/1463 ; also Encyclopaedia Britannica (1911), 'Cairo', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cairo_(Egypt)",
+      "note": "Cairo governorate.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1907,
+      "value": 654476,
+      "confidence": "documented",
+      "source": "Census of Egypt 1907, as reported in Encyclopaedia Britannica (1911), 'Cairo', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cairo_(Egypt)",
+      "note": "Includes Helwan and Mataria.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1917,
+      "value": 790939,
+      "confidence": "documented",
+      "source": "Census of Egypt, March 1917: Statesman's Year-Book 1921, https://en.wikisource.org/wiki/Page:Statesman%27s_Year-Book_1921.djvu/311",
+      "note": "Cairo governorate.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1927,
+      "value": 1065000,
+      "confidence": "documented",
+      "source": "Census of Egypt 1927, rounded, Abu-Lughod (1971), Cairo: 1001 Years of the City Victorious, as tabulated in Encyclopedia of the Modern Middle East and North Africa, 'Cairo', https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/cairo",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1937,
+      "value": 1300000,
+      "confidence": "estimated",
+      "source": "Raymond (2000), Cairo, p. 319, via https://en.wikipedia.org/wiki/Cairo#British_occupation_until_1956",
+      "note": "Rounded census figure ('1.3 million').",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1947,
+      "value": 2090654,
+      "confidence": "documented",
+      "source": "Census of Egypt 1947: UN Demographic Yearbook 1955, 'Population of capital city and cities of 100,000 or more inhabitants', https://unstats.un.org/unsd/demographic/products/dyb/1950_round.htm , via https://en.wikipedia.org/wiki/Timeline_of_Cairo",
+      "note": "City proper. Wikipedia's 'Census in Egypt' gives 2,100,486 for the governorate and Sims (2012) 2,986,280 for Greater Cairo.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 2493514,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Al-Qahirah (Cairo)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 3029198,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Al-Qahirah (Cairo)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 3680160,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Al-Qahirah (Cairo)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 4737968,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Al-Qahirah (Cairo)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 5584507,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Al-Qahirah (Cairo)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 7440914,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 8493679,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 9799452,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 11676131,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 13927904,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 15676619,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 17519921,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 19455095,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 21550926,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 24002054,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 25566102,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 25889876,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 641,
+      "title": "Fustat founded",
+      "detail": "After the Babylon Fortress fell in April 641, Amr ibn al-As founded a garrison town and capital beside it, with Egypt's first mosque. Historians trace present-day Cairo to this settlement.",
+      "source": "Raymond (1993), Le Caire, pp. 13-18; Kennedy (2007), p. 161, via https://en.wikipedia.org/wiki/Cairo#Fustat_and_other_early_Islamic_settlements",
+      "confidence": "documented"
+    },
+    {
+      "year": 750,
+      "title": "Abbasids found al-Askar",
+      "detail": "The new Abbasid rulers laid out their own quarter north-east of Fustat as the provincial capital.",
+      "source": "Raymond (1993), Le Caire, pp. 30-31, via https://en.wikipedia.org/wiki/Cairo#Fustat_and_other_early_Islamic_settlements",
+      "confidence": "documented"
+    },
+    {
+      "year": 870,
+      "title": "Ibn Tulun founds al-Qata'i",
+      "detail": "Ahmad ibn Tulun built a new capital north-east of al-Askar with a palace, parade ground, hospital and aqueduct; his great mosque was built in 876-879. The Abbasids razed the city in 905, sparing the mosque.",
+      "source": "Swelim (2015), Ibn Tulun: His Lost City and Great Mosque, pp. 32-37, via https://en.wikipedia.org/wiki/Cairo#Fustat_and_other_early_Islamic_settlements",
+      "confidence": "documented"
+    },
+    {
+      "year": 969,
+      "title": "Fatimids found al-Qahira",
+      "detail": "The general Jawhar laid out a fortified palace-city north-east of Fustat, with the al-Azhar Mosque. The caliph al-Mu'izz arrived in 973 and gave the city the name from which 'Cairo' derives.",
+      "source": "Glasse & Smith (2003), The New Encyclopedia of Islam, p. 96, via https://en.wikipedia.org/wiki/Cairo#Foundation_and_expansion_of_Cairo_under_the_Fatimids",
+      "confidence": "documented"
+    },
+    {
+      "year": 1087,
+      "title": "Badr al-Jamali rebuilds the city walls",
+      "detail": "The Fatimid vizier Badr al-Jamali rebuilt and extended the city walls in 1087. During his tenure (1073-1094) richer families from Fustat were first allowed to move into the palace-city.",
+      "source": "https://en.wikipedia.org/wiki/Al-Hakim_Mosque ; https://en.wikipedia.org/wiki/Cairo#Foundation_and_expansion_of_Cairo_under_the_Fatimids",
+      "confidence": "documented"
+    },
+    {
+      "year": 1168,
+      "title": "Fustat set on fire",
+      "detail": "The vizier Shawar burned unfortified Fustat to keep it from the Crusader king Amalric. The city survived but began a long decline as Cairo took over its trade.",
+      "source": "Daly & Petry (1998), The Cambridge History of Egypt, vol. 1, p. 213, via https://en.wikipedia.org/wiki/Cairo#Foundation_and_expansion_of_Cairo_under_the_Fatimids",
+      "confidence": "documented"
+    },
+    {
+      "year": 1176,
+      "title": "Saladin begins the Citadel",
+      "detail": "Saladin began the Citadel, seat of government until the 19th century, and a 20 km wall to enclose both Cairo and Fustat.",
+      "source": "https://en.wikipedia.org/wiki/Cairo_Citadel ; https://en.wikipedia.org/wiki/Cairo#Foundation_and_expansion_of_Cairo_under_the_Fatimids",
+      "confidence": "documented"
+    },
+    {
+      "year": 1250,
+      "title": "Mamluks take power",
+      "detail": "Under the Mamluk sultans (1250-1517) building pushed the city outward; it reached its medieval peak of close to half a million people around 1340.",
+      "source": "Raymond (1993), Le Caire; Shillington (2005), Encyclopedia of African History, p. 199, via https://en.wikipedia.org/wiki/Cairo#Further_expansion_and_decline_under_the_Ayyubids_and_Mamluks",
+      "confidence": "documented"
+    },
+    {
+      "year": 1348,
+      "title": "Black Death",
+      "detail": "The plague reached Cairo in 1348 and returned more than fifty times before 1517. The first waves are estimated to have killed about 200,000 people.",
+      "source": "Byrne (2004), The Black Death, pp. 104-105; Shoshan (2002), p. 4, via https://en.wikipedia.org/wiki/Cairo#Further_expansion_and_decline_under_the_Ayyubids_and_Mamluks",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1517,
+      "title": "Ottoman conquest",
+      "detail": "Selim I conquered Egypt and reduced Cairo from an imperial capital to a provincial one; it remained the second city of the Ottoman Empire.",
+      "source": "Shillington (2005), p. 447, via https://en.wikipedia.org/wiki/Cairo#Ottoman_rule",
+      "confidence": "documented"
+    },
+    {
+      "year": 1798,
+      "title": "French occupation",
+      "detail": "Napoleon's army occupied a city of fewer than 300,000 people from 1798 until the French surrender on 22 June 1801.",
+      "source": "Winter (1992), Egyptian Society under Ottoman Rule, pp. 226-227; Sicker (2001), p. 103, via https://en.wikipedia.org/wiki/Cairo#Ottoman_rule",
+      "confidence": "documented"
+    },
+    {
+      "year": 1863,
+      "title": "Isma'il Pasha's new city",
+      "detail": "Khedive Isma'il (r. 1863-1879) laid out a Paris-inspired quarter of squares and avenues west of the old city, now Downtown Cairo, with gas lighting and an opera house.",
+      "source": "Raymond (2000), Cairo, pp. 311-314, via https://en.wikipedia.org/wiki/Cairo#Modern_era",
+      "confidence": "documented"
+    },
+    {
+      "year": 1882,
+      "title": "British occupation",
+      "detail": "British forces occupied Egypt in 1882. Between 1882 and 1937 the built-up area grew from 10 to 163 square kilometres.",
+      "source": "Raymond (2000), Cairo, pp. 319-322, via https://en.wikipedia.org/wiki/Cairo#British_occupation_until_1956",
+      "confidence": "documented"
+    },
+    {
+      "year": 1906,
+      "title": "Heliopolis and Garden City begun",
+      "detail": "The Heliopolis Oasis Company built a new suburb ten kilometres from the centre, and Garden City and Zamalek were developed in the same years.",
+      "source": "Raymond (2000), Cairo, pp. 328-329, via https://en.wikipedia.org/wiki/Cairo#Modern_era",
+      "confidence": "documented"
+    },
+    {
+      "year": 1952,
+      "title": "Cairo Fire",
+      "detail": "Riots known as the Cairo Fire or Black Saturday destroyed nearly 700 shops, cinemas, casinos and hotels in the downtown area.",
+      "source": "http://www.ahram.org.eg/433/2011/02/04/457/55/Malafat.aspx via https://en.wikipedia.org/wiki/Cairo#British_occupation_until_1956",
+      "confidence": "documented"
+    },
+    {
+      "year": 1959,
+      "title": "Nasr City launched",
+      "detail": "A large state-sponsored extension to the east officially began in 1959 and was mainly built in the mid-1970s.",
+      "source": "Sims (2012), Understanding Cairo, pp. 52-53, via https://en.wikipedia.org/wiki/Cairo#After_1956",
+      "confidence": "documented"
+    },
+    {
+      "year": 1979,
+      "title": "Desert new towns programme",
+      "detail": "The New Urban Communities Authority was set up to build satellite cities on desert land around Cairo. In the same year Historic Cairo became a UNESCO World Heritage Site.",
+      "source": "https://en.wikipedia.org/wiki/Cairo#After_1956",
+      "confidence": "documented"
+    },
+    {
+      "year": 1987,
+      "title": "Cairo Metro opens",
+      "detail": "The first line of the Cairo Metro began operating on 27 September 1987.",
+      "source": "https://en.wikipedia.org/wiki/Cairo_Metro",
+      "confidence": "documented"
+    },
+    {
+      "year": 1992,
+      "title": "Cairo earthquake",
+      "detail": "An earthquake in 1992 caused 545 deaths, injured 6,512 and left about 50,000 people homeless.",
+      "source": "NOAA National Centers for Environmental Information, https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5339 , via https://en.wikipedia.org/wiki/Cairo#After_1956",
+      "confidence": "documented"
+    },
+    {
+      "year": 2015,
+      "title": "New Administrative Capital announced",
+      "detail": "Plans for a new capital in the desert 45 km east of Cairo were announced on 13 March 2015; its Iconic Tower was completed in 2024.",
+      "source": "https://en.wikipedia.org/wiki/The_New_Capital ; CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/cairo",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Al-Hakim Mosque",
+      "year": 1013,
+      "height_m": 33.7,
+      "lat": 30.0544,
+      "lon": 31.2639,
+      "kind": "mosque",
+      "source": "https://en.wikipedia.org/wiki/Al-Hakim_Mosque (northern minaret 33.7 m high; completed 1013)",
+      "confidence": "estimated",
+      "note": "Height of the northern minaret; the figure is flagged 'citation needed' on Wikipedia."
+    },
+    {
+      "name": "Mosque of al-Zahir Baybars",
+      "year": 1268,
+      "height_m": 12,
+      "lat": 30.0623,
+      "lon": 31.2634,
+      "kind": "mosque",
+      "source": "Behrens-Abouseif, p. 123, as cited at https://en.wikipedia.org/wiki/Mosque_of_al-Zahir_Baybars (12 m tall; completed 1268)",
+      "confidence": "estimated",
+      "note": "Height of the surviving walls; the dome and minarets are lost."
+    },
+    {
+      "name": "Mosque-Madrasa of Sultan Hasan",
+      "year": 1363,
+      "height_m": 84,
+      "lat": 30.0319,
+      "lon": 31.2567,
+      "kind": "mosque",
+      "source": "Behrens-Abouseif, as cited at https://en.wikipedia.org/wiki/Mosque-Madrasa_of_Sultan_Hasan (southern minaret summit 84 m above street level; completed 1363)",
+      "confidence": "estimated",
+      "note": "Height of the original southern minaret, the tallest in Mamluk architecture; the building itself is about 36 m high."
+    },
+    {
+      "name": "Muhammad Ali Mosque",
+      "year": 1848,
+      "height_m": 80,
+      "lat": 30.0286,
+      "lon": 31.2597,
+      "kind": "mosque",
+      "source": "https://en.wikipedia.org/wiki/Muhammad_Ali_Mosque (minarets c. 80 m, main dome 52 m; built 1830-1848, finished under Said Pasha in 1857)",
+      "confidence": "estimated",
+      "note": "Height of the two minarets (approximate); the dome apex is 52 m."
+    },
+    {
+      "name": "Cairo Tower",
+      "year": 1961,
+      "height_m": 187,
+      "lat": 30.0458,
+      "lon": 31.2244,
+      "kind": "tower",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/cairo-tower/10271 (187 m, completion 1961)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Cairo Plaza South Building (National Bank of Egypt)",
+      "year": 1986,
+      "height_m": 135,
+      "lat": 30.0613,
+      "lon": 31.2277,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/cairo (building id 4470: 135 m, completed 1986)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Ministry of Foreign Affairs",
+      "year": 1994,
+      "height_m": 143,
+      "lat": 30.0555,
+      "lon": 31.2298,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/cairo (building id 4226: 143 m, completed 1994)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Nile City North Tower",
+      "year": 2002,
+      "height_m": 142,
+      "lat": 30.0724,
+      "lon": 31.2282,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/cairo (building id 4263: 142 m, completed 2002)",
+      "confidence": "documented"
+    },
+    {
+      "name": "The St. Regis Cairo",
+      "year": 2021,
+      "height_m": 139.45,
+      "lat": 30.0628,
+      "lon": 31.2278,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/cairo (building id 26170: 139.45 m, completed 2021)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Iconic Tower",
+      "year": 2024,
+      "height_m": 393.8,
+      "lat": 30.0128,
+      "lon": 31.6939,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/cairo (building id 34420: 393.8 m, completed 2024)",
+      "confidence": "documented",
+      "note": "In the New Administrative Capital, about 45 km east of central Cairo; the Skyscraper Center lists it under Cairo."
+    }
+  ],
+  "footprint_epochs": "footprints/cairo/",
+  "notes": "Start date: the site has three candidate beginnings. (1) A trading post called Babylon is first mentioned in 50 BCE and the Roman Babylon Fortress, dated by excavation to Diocletian (c. 300 CE), still stands in Old Cairo; (2) Fustat was founded beside the fortress in 641; (3) the walled city of al-Qahira, which gives Cairo its name, was founded in 969. The file starts at Fustat in 641, following Abu-Lughod and Raymond, who trace present-day Cairo to it: it is the first foundation of a city (rather than a fort) on the site, it was the capital of Egypt, and Chandler's and Modelski's Cairo series begin with it. The fortress was partly deserted before the conquest and is treated as a predecessor. Ancient Memphis and Heliopolis lie inside today's metropolis but were separate cities. Population: figures to 1750 are Chandler's (one Modelski point for 700) and describe the whole agglomeration of Fustat, al-Askar, al-Qata'i and al-Qahira, not the walled city alone. There is no figure for 641-700. The decline after 1348, the long Ottoman-era low and the recovery are recorded as the sources give them; Shoshan's 15th-century range (150,000-300,000) is lower than Chandler's. Census figures from 1882 are for the Cairo governorate/city, not Greater Cairo, so Giza is excluded; the 1882 figure is disputed between 374,000 and 347,000 and the 1927 and 1937 figures could only be found rounded. Landmarks: structures older than 641 are left out because the timeline starts then; this excludes the Giza pyramids (c. 2560 BCE, inside the metropolis) and the Babylon Fortress. No sourced height could be found for the Mosque of Ibn Tulun (879), al-Azhar Mosque (972), Bab Zuwayla and Bab al-Futuh (1087-92), the Citadel, the Qalawun complex or al-Rifa'i Mosque, so they are omitted; the surviving medieval heights are minaret or wall heights from Wikipedia and are marked estimated. The Iconic Tower stands in the New Administrative Capital, which may fall outside the UN agglomeration boundary."
+}

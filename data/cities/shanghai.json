@@ -1,0 +1,516 @@
+{
+  "slug": "shanghai",
+  "name": "Shanghai",
+  "country": "China",
+  "start_year": 1074,
+  "start_label": "Shanghai raised from a village to a market town (Song dynasty)",
+  "start_source": "Danielson, Eric N. (2004), Shanghai and the Yangzi Delta, p. 9, via https://en.wikipedia.org/wiki/Shanghai#History",
+  "start_confidence": "estimated",
+  "historic_core": {
+    "name": "Old City of Shanghai (walled county town; City God Temple)",
+    "lat": 31.2279,
+    "lon": 121.4882,
+    "source": "https://en.wikipedia.org/wiki/Old_City_(Shanghai) ; point taken on the City God Temple from OpenStreetMap (WGS-84), https://www.openstreetmap.org/"
+  },
+  "population": [
+    {
+      "year": 1554,
+      "value": 25000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "note": "Walled county town, the year after the wall was built.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1700,
+      "value": 45000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1730,
+      "value": 48209,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1750,
+      "value": 60000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1800,
+      "value": 90000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1825,
+      "value": 115000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1845,
+      "value": 120000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1850,
+      "value": 185000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1859,
+      "value": 300000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "note": "Swollen by refugees from the Taiping war.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1875,
+      "value": 255000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1895,
+      "value": 411753,
+      "confidence": "estimated",
+      "source": "Encyclopaedia Britannica, 11th ed. (1911), 'Shanghai', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shanghai",
+      "note": "1895 census of the Chinese population of the foreign settlements (286,753) plus an estimate of 125,000 for the native city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1900,
+      "value": 619000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1915,
+      "value": 2000000,
+      "confidence": "estimated",
+      "source": "Christian Henriot, 'Shanghai', Encyclopedia of Modern China (2009), https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/shanghai",
+      "note": "Rounded figure ('2 million in 1915') for the whole city: Chinese-administered districts plus the International Settlement and French Concession. Chandler gives only 1,000,000 for 1914, apparently for a narrower area.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1948,
+      "value": 5500000,
+      "confidence": "estimated",
+      "source": "Christian Henriot, 'Shanghai', Encyclopedia of Modern China (2009), https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/shanghai",
+      "note": "Rounded figure ('5.5 million in 1948') for the Shanghai municipality. The same source gives 'close to 4 million' for 1937.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 4288091,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Shanghai\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 5712858,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Shanghai\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 6865312,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Shanghai\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 6428131,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Shanghai\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 6052468,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Shanghai\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 4542787,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 4922471,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 6276781,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 7783199,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 10567164,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 14034558,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 17111107,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 20525275,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 23830644,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 27654481,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 29558908,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 29906570,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1074,
+      "title": "Shanghai becomes a market town",
+      "detail": "The riverside village on the Huangpu was upgraded to a market town as the older port of Qinglong silted up. Some accounts instead date township status to 1267.",
+      "source": "Danielson (2004), Shanghai and the Yangzi Delta, p. 9, via https://en.wikipedia.org/wiki/Shanghai#History",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1292,
+      "title": "Shanghai County established",
+      "detail": "Five townships were split from Huating to form Shanghai County under Songjiang Prefecture, with its seat at Shanghai Town, the later Old City.",
+      "source": "https://en.wikipedia.org/wiki/Old_City_(Shanghai)#History ; https://en.wikipedia.org/wiki/History_of_Shanghai",
+      "confidence": "documented"
+    },
+    {
+      "year": 1553,
+      "title": "City wall built against pirate raids",
+      "detail": "A wall about 5 km round and 10 m high was raised around the county seat to resist wokou raids. Some sources give 1554.",
+      "source": "Chen Boyi (2023), 防海之道：明代南直隶海防研究, and Perry, Shanghai on Strike, p. 15, via https://en.wikipedia.org/wiki/Old_City_(Shanghai)",
+      "confidence": "documented"
+    },
+    {
+      "year": 1730,
+      "title": "Su-Song circuit intendant moves to Shanghai",
+      "detail": "The regional intendant and the Jiangsu customs were now based in the town, which by mid-century had outgrown its walls towards the Huangpu wharves.",
+      "source": "Johnson, Linda Cooke (1993), 'Shanghai: An Emerging Jiangnan Port, 1683-1840', in Cities of Jiangnan in Late Imperial China, via https://en.wikipedia.org/wiki/History_of_Shanghai",
+      "confidence": "documented"
+    },
+    {
+      "year": 1843,
+      "title": "Shanghai opens as a treaty port",
+      "detail": "Opened to foreign trade by the 1842 Treaty of Nanking; the first British consul, George Balfour, was appointed in 1843.",
+      "source": "Encyclopaedia Britannica, 11th ed. (1911), 'Shanghai', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shanghai",
+      "confidence": "documented"
+    },
+    {
+      "year": 1845,
+      "title": "British settlement laid out north of the walls",
+      "detail": "The British concession was established outside the Chinese city, followed by American (1848) and French (1849) areas.",
+      "source": "Encyclopaedia Britannica, 11th ed. (1911), 'Shanghai', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shanghai ; https://en.wikipedia.org/wiki/History_of_Shanghai",
+      "confidence": "documented"
+    },
+    {
+      "year": 1853,
+      "title": "Small Swords Society seizes the walled city",
+      "detail": "A Triad offshoot of the Taiping rebels occupied the Chinese city; refugees poured into the foreign settlements, which were left untouched.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Shanghai",
+      "confidence": "documented"
+    },
+    {
+      "year": 1863,
+      "title": "International Settlement formed",
+      "detail": "The British and American settlements merged into the Shanghai International Settlement, whose riverfront became the Bund.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Shanghai",
+      "confidence": "documented"
+    },
+    {
+      "year": 1876,
+      "title": "Woosung railway, China's first, opens",
+      "detail": "Jardine's built a line to Wusong; it was bought out by the Chinese authorities and dismantled in 1877.",
+      "source": "Pong, David (1973), 'Confucian Patriotism and the Destruction of the Woosung Railway, 1877', Modern Asian Studies 7(4), via https://en.wikipedia.org/wiki/History_of_Shanghai",
+      "confidence": "documented"
+    },
+    {
+      "year": 1912,
+      "title": "Old City walls dismantled",
+      "detail": "The Ming walls were pulled down because they blocked the city's expansion.",
+      "source": "https://sh.cctv.com/2021/10/25/ARTI453skr2sveNRhYx54j4u211025.shtml via https://en.wikipedia.org/wiki/Shanghai#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1927,
+      "title": "Shanghai becomes a special municipality",
+      "detail": "Shanghai was made a special city under the Nationalist government in 1927, and a municipality in May 1930.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Shanghai ; https://en.wikipedia.org/wiki/Timeline_of_Shanghai",
+      "confidence": "documented"
+    },
+    {
+      "year": 1937,
+      "title": "Battle of Shanghai",
+      "detail": "From 13 August to 26 November Chinese and Japanese forces fought for the city, which then fell under Japanese occupation.",
+      "source": "https://en.wikipedia.org/wiki/Timeline_of_Shanghai",
+      "confidence": "documented"
+    },
+    {
+      "year": 1949,
+      "title": "People's Liberation Army takes Shanghai",
+      "detail": "On 27 May 1949 the PLA took control of the city in the Shanghai Campaign.",
+      "source": "https://en.wikipedia.org/wiki/Shanghai#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1990,
+      "title": "Development of Pudong announced",
+      "detail": "On 18 April 1990 Premier Li Peng announced the opening and development of Pudong, the district east of the Huangpu; Pudong New Area was established in 1992-93.",
+      "source": "https://en.wikipedia.org/wiki/Pudong",
+      "confidence": "documented"
+    },
+    {
+      "year": 1993,
+      "title": "Shanghai Metro opens",
+      "detail": "The first metro line began operating on 28 May 1993.",
+      "source": "https://en.wikipedia.org/wiki/Shanghai_Metro",
+      "confidence": "documented"
+    },
+    {
+      "year": 2010,
+      "title": "Expo 2010",
+      "detail": "Shanghai hosted the 2010 World Expo.",
+      "source": "https://en.wikipedia.org/wiki/Timeline_of_Shanghai",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Longhua Pagoda",
+      "year": 977,
+      "height_m": 40.4,
+      "lat": 31.1756,
+      "lon": 121.4474,
+      "kind": "temple",
+      "source": "https://en.wikipedia.org/wiki/Longhua_Temple (citing Zi Yan 2012, pp. 78-79); position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Customs House (clock tower)",
+      "year": 1927,
+      "height_m": 90,
+      "lat": 31.2386,
+      "lon": 121.4856,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Customs_House,_Shanghai ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Peace Hotel (Sassoon House)",
+      "year": 1929,
+      "height_m": 77,
+      "lat": 31.2411,
+      "lon": 121.4846,
+      "kind": "other",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/fairmount-peace-hotel/13064",
+      "confidence": "documented"
+    },
+    {
+      "name": "Park Hotel",
+      "year": 1934,
+      "height_m": 83.8,
+      "lat": 31.2354,
+      "lon": 121.4671,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/shanghai-park-hotel/17780",
+      "confidence": "documented"
+    },
+    {
+      "name": "Broadway Mansions",
+      "year": 1934,
+      "height_m": 78,
+      "lat": 31.2463,
+      "lon": 121.4855,
+      "kind": "skyscraper",
+      "source": "https://en.wikipedia.org/wiki/Broadway_Mansions ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Shanghai Exhibition Centre",
+      "year": 1955,
+      "height_m": 110.4,
+      "lat": 31.2261,
+      "lon": 121.448,
+      "kind": "other",
+      "source": "https://en.wikipedia.org/wiki/Shanghai_Exhibition_Centre ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Oriental Pearl Tower",
+      "year": 1994,
+      "height_m": 468,
+      "lat": 31.2419,
+      "lon": 121.4953,
+      "kind": "tower",
+      "source": "贾宝良 (2005), 世纪韵律, 五洲传播出版社, via https://en.wikipedia.org/wiki/Oriental_Pearl_Tower ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Jin Mao Tower",
+      "year": 1999,
+      "height_m": 420.53,
+      "lat": 31.2372,
+      "lon": 121.5014,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/jin-mao-tower/189",
+      "confidence": "documented"
+    },
+    {
+      "name": "Plaza 66",
+      "year": 2001,
+      "height_m": 288.16,
+      "lat": 31.2299,
+      "lon": 121.4495,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/plaza-66/590",
+      "confidence": "documented"
+    },
+    {
+      "name": "Tomorrow Square",
+      "year": 2003,
+      "height_m": 284.6,
+      "lat": 31.2322,
+      "lon": 121.4653,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/tomorrow-square/610",
+      "confidence": "documented"
+    },
+    {
+      "name": "Shimao International Plaza",
+      "year": 2006,
+      "height_m": 333.3,
+      "lat": 31.2362,
+      "lon": 121.4714,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/shimao-international-plaza/370",
+      "confidence": "documented"
+    },
+    {
+      "name": "Shanghai World Financial Center",
+      "year": 2008,
+      "height_m": 492,
+      "lat": 31.2365,
+      "lon": 121.5031,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/shanghai-world-financial-center/131",
+      "confidence": "documented"
+    },
+    {
+      "name": "Shanghai Tower",
+      "year": 2015,
+      "height_m": 632,
+      "lat": 31.2356,
+      "lon": 121.5012,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/shanghai-tower/56",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/shanghai/",
+  "notes": "Start date: the date Shanghai became a market town is contested. 1074 (Song dynasty) is the commonly quoted date and is used here as 'estimated'; another account dates township status to 1267. The securely documented step is the creation of Shanghai County in 1292. Neolithic sites (Majiabang/Songze culture, Qingpu) lie in the wider municipality, not on the city site, and are not used. Population: no figure was found before 1554. 1554-1900 follow Chandler (1987) as digitised by Reba et al. (2016), which describes the walled town and, after 1843, the town plus foreign settlements. Chandler's 1853 (225,000) and 1865 (146,232) values were left out: the 1865 figure appears to cover a narrower area than its neighbours. The 20th century is thin: the detailed municipal series (Zou Yiren 1980; Henriot's source book) could not be opened, so only Henriot's rounded totals for 1915 and 1948 are recorded; they cover the whole municipality and are not directly comparable with Chandler's 1900 figure (Chandler himself gives 1,000,000 for 1914 and 1,500,000 for 1925). Landmarks: skyscraper heights, years and positions are from the CTBUH Skyscraper Center; positions of older buildings are from OpenStreetMap (WGS-84) because some Wikipedia coordinates for Chinese sites are GCJ-02 shifted. The 977 date for Longhua Pagoda is for the brick core; the timber exterior has been renewed. Left out for lack of a sourced height: HSBC Building (1923), St. Ignatius Cathedral (1910), Jing'an Temple, City God Temple, Nanpu Bridge."
+}

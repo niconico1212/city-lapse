@@ -1,0 +1,545 @@
+{
+  "slug": "buenos-aires",
+  "name": "Buenos Aires",
+  "country": "Argentina",
+  "start_year": 1536,
+  "start_label": "First founding of Buenos Aires by Pedro de Mendoza",
+  "start_source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires (first founding 2 February 1536, abandoned 1541; refounded by Juan de Garay 11 June 1580); https://en.wikipedia.org/wiki/Buenos_Aires",
+  "start_confidence": "documented",
+  "historic_core": {
+    "name": "Plaza de Mayo (the Plaza Mayor laid out at Garay's 1580 founding)",
+    "lat": -34.6083,
+    "lon": -58.3719,
+    "source": "https://en.wikipedia.org/wiki/Plaza_de_Mayo"
+  },
+  "population": [
+    {
+      "year": 1580,
+      "value": 65,
+      "confidence": "documented",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires",
+      "note": "Founding party of the permanent city: Juan de Garay, his wife and 63 companions, who received the land grants; excludes the Guaraní families assigned to them. The site had been unoccupied since the first settlement was abandoned in 1541.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1602,
+      "value": 500,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1700,
+      "value": 5000,
+      "confidence": "estimated",
+      "source": "Besio Moreno (1939), cited in Cuesta (2006), 'Evolución de la población y estructura ocupacional de Buenos Aires, 1700-1810', Papeles de Población 49, cuadro 1 (from the padrones published in Documentos para la Historia Argentina, vols X-XI), https://scielo.org.mx/pdf/pp/v12n49/v12n49a9.pdf",
+      "note": "'Approximately 5,000 inhabitants at the beginning of the 18th century'. Chandler gives a much lower 1,600 for 1700.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1744,
+      "value": 11600,
+      "confidence": "estimated",
+      "source": "Cuesta (2006), 'Evolución de la población y estructura ocupacional de Buenos Aires, 1700-1810', Papeles de Población 49, cuadro 1 (from the padrones published in Documentos para la Historia Argentina, vols X-XI), https://scielo.org.mx/pdf/pp/v12n49/v12n49a9.pdf",
+      "note": "Urban population at the padrón of 1744, using Johnson and Socolow's (1980) corrected estimate for the city; the countryside is counted separately at 6,033. Chandler gives 9,656.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1778,
+      "value": 24363,
+      "confidence": "estimated",
+      "source": "Cuesta (2006), 'Evolución de la población y estructura ocupacional de Buenos Aires, 1700-1810', Papeles de Población 49, cuadro 1 (from the padrones published in Documentos para la Historia Argentina, vols X-XI), https://scielo.org.mx/pdf/pp/v12n49/v12n49a9.pdf",
+      "note": "Urban population at the padrón of 1778 as calculated by Moreno (1989).",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1810,
+      "value": 42872,
+      "confidence": "estimated",
+      "source": "Cuesta (2006), 'Evolución de la población y estructura ocupacional de Buenos Aires, 1700-1810', Papeles de Población 49, cuadro 1 (from the padrones published in Documentos para la Historia Argentina, vols X-XI), https://scielo.org.mx/pdf/pp/v12n49/v12n49a9.pdf",
+      "note": "Urban population in 1810, taken by Cuesta from García Belsunce et al. (1976), Buenos Aires: su gente, 1800-1830.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1838,
+      "value": 65344,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1855,
+      "value": 92709,
+      "confidence": "documented",
+      "source": "Instituto de Estadística y Censos de la Ciudad Autónoma de Buenos Aires, 'Crecimiento de la población. Ciudad de Buenos Aires. Año 2022' (Informe de resultados 1984, October 2025), cuadro C.1, https://www.estadisticaciudad.gob.ar/eyc/wp-content/uploads/2025/10/ir_2025_1984.pdf",
+      "note": "City census of 1855.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1869,
+      "value": 187126,
+      "confidence": "documented",
+      "source": "Instituto de Estadística y Censos de la Ciudad Autónoma de Buenos Aires, 'Crecimiento de la población. Ciudad de Buenos Aires. Año 2022' (Informe de resultados 1984, October 2025), cuadro C.1, https://www.estadisticaciudad.gob.ar/eyc/wp-content/uploads/2025/10/ir_2025_1984.pdf",
+      "note": "First national census.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1887,
+      "value": 433375,
+      "confidence": "documented",
+      "source": "Instituto de Estadística y Censos de la Ciudad Autónoma de Buenos Aires, 'Crecimiento de la población. Ciudad de Buenos Aires. Año 2022' (Informe de resultados 1984, October 2025), cuadro C.1, https://www.estadisticaciudad.gob.ar/eyc/wp-content/uploads/2025/10/ir_2025_1984.pdf",
+      "note": "City census of 1887, the year Flores and Belgrano were annexed and the city reached its present limits.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1895,
+      "value": 663854,
+      "confidence": "documented",
+      "source": "Instituto de Estadística y Censos de la Ciudad Autónoma de Buenos Aires, 'Crecimiento de la población. Ciudad de Buenos Aires. Año 2022' (Informe de resultados 1984, October 2025), cuadro C.1, https://www.estadisticaciudad.gob.ar/eyc/wp-content/uploads/2025/10/ir_2025_1984.pdf",
+      "note": "Second national census.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1904,
+      "value": 950891,
+      "confidence": "documented",
+      "source": "Instituto de Estadística y Censos de la Ciudad Autónoma de Buenos Aires, 'Crecimiento de la población. Ciudad de Buenos Aires. Año 2022' (Informe de resultados 1984, October 2025), cuadro C.1, https://www.estadisticaciudad.gob.ar/eyc/wp-content/uploads/2025/10/ir_2025_1984.pdf",
+      "note": "City census.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1909,
+      "value": 1231698,
+      "confidence": "documented",
+      "source": "Instituto de Estadística y Censos de la Ciudad Autónoma de Buenos Aires, 'Crecimiento de la población. Ciudad de Buenos Aires. Año 2022' (Informe de resultados 1984, October 2025), cuadro C.1, https://www.estadisticaciudad.gob.ar/eyc/wp-content/uploads/2025/10/ir_2025_1984.pdf",
+      "note": "City census.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1914,
+      "value": 1576597,
+      "confidence": "documented",
+      "source": "Instituto de Estadística y Censos de la Ciudad Autónoma de Buenos Aires, 'Crecimiento de la población. Ciudad de Buenos Aires. Año 2022' (Informe de resultados 1984, October 2025), cuadro C.1, https://www.estadisticaciudad.gob.ar/eyc/wp-content/uploads/2025/10/ir_2025_1984.pdf",
+      "note": "Third national census (the INDEC series quoted on Wikipedia gives 1,575,814).",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1936,
+      "value": 2415142,
+      "confidence": "documented",
+      "source": "Instituto de Estadística y Censos de la Ciudad Autónoma de Buenos Aires, 'Crecimiento de la población. Ciudad de Buenos Aires. Año 2022' (Informe de resultados 1984, October 2025), cuadro C.1, https://www.estadisticaciudad.gob.ar/eyc/wp-content/uploads/2025/10/ir_2025_1984.pdf",
+      "note": "City census.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1947,
+      "value": 2982580,
+      "confidence": "documented",
+      "source": "Instituto de Estadística y Censos de la Ciudad Autónoma de Buenos Aires, 'Crecimiento de la población. Ciudad de Buenos Aires. Año 2022' (Informe de resultados 1984, October 2025), cuadro C.1, https://www.estadisticaciudad.gob.ar/eyc/wp-content/uploads/2025/10/ir_2025_1984.pdf",
+      "note": "Fourth national census. City proper (Capital Federal) only; the suburbs in Buenos Aires Province are not included.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 5166140,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Buenos Aires\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 5910271,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Buenos Aires\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 6761837,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Buenos Aires\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 7548511,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Buenos Aires\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 8416170,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Buenos Aires\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 8560900,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 9276947,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 9814790,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 10434266,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 11066641,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 11711634,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 12474463,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 13343013,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 13767054,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 13941208,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 14017736,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 14038483,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1536,
+      "title": "Pedro de Mendoza's first settlement",
+      "detail": "On 2 February 1536 (3 February according to some historians) Mendoza's expedition founded Puerto de Nuestra Señora Santa María del Buen Aire beside the Riachuelo.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires",
+      "confidence": "documented"
+    },
+    {
+      "year": 1541,
+      "title": "First settlement abandoned",
+      "detail": "Under constant threat from the indigenous population the inhabitants destroyed the fort and moved to Asunción.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires",
+      "confidence": "documented"
+    },
+    {
+      "year": 1580,
+      "title": "Juan de Garay refounds the city",
+      "detail": "On 11 June 1580 Garay, coming from Asunción, established the Ciudad de la Santísima Trinidad y Puerto de Santa María del Buen Ayre and distributed land among his 63 companions.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires",
+      "confidence": "documented"
+    },
+    {
+      "year": 1776,
+      "title": "Capital of the Viceroyalty of the Río de la Plata",
+      "detail": "The Spanish crown created the Viceroyalty of the Río de la Plata and made Buenos Aires its capital.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires",
+      "confidence": "documented"
+    },
+    {
+      "year": 1806,
+      "title": "British invasions",
+      "detail": "British forces occupied the city for some months in 1806 before being defeated by an army led by Santiago de Liniers; a second expedition followed in 1807.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires; https://en.wikipedia.org/wiki/Buenos_Aires",
+      "confidence": "documented"
+    },
+    {
+      "year": 1810,
+      "title": "May Revolution",
+      "detail": "The viceroy Baltasar Hidalgo de Cisneros was removed in the May Revolution, and the city became the seat of the United Provinces of the Río de la Plata.",
+      "source": "https://en.wikipedia.org/wiki/Buenos_Aires",
+      "confidence": "documented"
+    },
+    {
+      "year": 1857,
+      "title": "First railway in Argentina",
+      "detail": "On 29 August 1857 the first Argentine train ran from the Estación del Parque, near today's Plaza Lavalle, to La Floresta.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires",
+      "confidence": "documented"
+    },
+    {
+      "year": 1871,
+      "title": "Yellow fever epidemic",
+      "detail": "The 1871 yellow fever epidemic decimated the population and led to improvements in running water and living conditions.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires",
+      "confidence": "documented"
+    },
+    {
+      "year": 1880,
+      "title": "Federalisation of Buenos Aires",
+      "detail": "After the armed conflict of 1880 the city was federalised, split from Buenos Aires Province and made the seat of the national government.",
+      "source": "https://en.wikipedia.org/wiki/Buenos_Aires",
+      "confidence": "documented"
+    },
+    {
+      "year": 1887,
+      "title": "Flores and Belgrano annexed",
+      "detail": "Buenos Aires Province ceded the districts of Flores and Belgrano to the municipality, extending the city to the line of the future Avenida General Paz.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires",
+      "confidence": "documented"
+    },
+    {
+      "year": 1913,
+      "title": "First underground line opens",
+      "detail": "The first section of Subte Line A, from Plaza de Mayo to Plaza Miserere, opened in 1913, the first underground railway in Ibero-America.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires",
+      "confidence": "documented"
+    },
+    {
+      "year": 1936,
+      "title": "Obelisk and Kavanagh Building inaugurated",
+      "detail": "The Kavanagh Building opened on 3 January 1936 and the Obelisk on 23 May 1936, for the fourth centenary of the first founding; the first section of Avenida 9 de Julio followed on 12 October 1937.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires",
+      "confidence": "documented"
+    },
+    {
+      "year": 1941,
+      "title": "Avenida General Paz inaugurated",
+      "detail": "The ring avenue along the city limits drawn in 1887 was inaugurated, marking the boundary between the federal capital and its suburbs.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires",
+      "confidence": "documented"
+    },
+    {
+      "year": 1996,
+      "title": "Autonomous city elects its first head of government",
+      "detail": "Following the 1994 constitutional reform the city gained autonomy; on 30 June 1996 voters chose their first Jefe de Gobierno and on 1 October 1996 the city constitution was adopted.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_la_ciudad_de_Buenos_Aires; https://en.wikipedia.org/wiki/Buenos_Aires",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Buenos Aires Metropolitan Cathedral (dome)",
+      "year": 1791,
+      "height_m": 41,
+      "lat": -34.6074,
+      "lon": -58.3733,
+      "kind": "church",
+      "source": "https://es.wikipedia.org/wiki/Catedral_metropolitana_de_Buenos_Aires (dome over the crossing reaches 41 m); https://en.wikipedia.org/wiki/Buenos_Aires_Metropolitan_Cathedral",
+      "confidence": "documented"
+    },
+    {
+      "name": "Pirámide de Mayo",
+      "year": 1856,
+      "height_m": 19,
+      "lat": -34.6084,
+      "lon": -58.3722,
+      "kind": "monument",
+      "source": "https://es.wikipedia.org/wiki/Pir%C3%A1mide_de_Mayo (19 m; first built 1811 at about 13 m, rebuilt over the original in 1856)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Palace of the Argentine National Congress (dome)",
+      "year": 1906,
+      "height_m": 80,
+      "lat": -34.6097,
+      "lon": -58.3926,
+      "kind": "palace",
+      "source": "https://en.wikipedia.org/wiki/Palace_of_the_Argentine_National_Congress; https://es.wikipedia.org/wiki/Palacio_del_Congreso_de_la_Naci%C3%B3n_Argentina (dome reached 80 m)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Palacio Barolo",
+      "year": 1923,
+      "height_m": 100,
+      "lat": -34.6096,
+      "lon": -58.3859,
+      "kind": "skyscraper",
+      "source": "https://en.wikipedia.org/wiki/Palacio_Barolo; https://es.wikipedia.org/wiki/Palacio_Barolo (inaugurated 7 July 1923)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Kavanagh Building",
+      "year": 1936,
+      "height_m": 120,
+      "lat": -34.5954,
+      "lon": -58.3747,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/edificio-kavanagh/4753",
+      "confidence": "documented"
+    },
+    {
+      "name": "Obelisco de Buenos Aires",
+      "year": 1936,
+      "height_m": 67.5,
+      "lat": -34.6036,
+      "lon": -58.3817,
+      "kind": "monument",
+      "source": "https://es.wikipedia.org/wiki/Obelisco_de_Buenos_Aires (height 67.5 m)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Cabildo of Buenos Aires (tower as rebuilt in 1940)",
+      "year": 1940,
+      "height_m": 33,
+      "lat": -34.6089,
+      "lon": -58.3736,
+      "kind": "other",
+      "source": "https://es.wikipedia.org/wiki/Cabildo_de_Buenos_Aires (33 m, present form; original building 1725-1751)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Edificio Alas",
+      "year": 1950,
+      "height_m": 141,
+      "lat": -34.5992,
+      "lon": -58.3705,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/edificio-alas/4293",
+      "confidence": "documented"
+    },
+    {
+      "name": "Torre Espacial",
+      "year": 1985,
+      "height_m": 200,
+      "lat": -34.6725,
+      "lon": -58.4497,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Torre_Espacial (200 m not including antenna); https://es.wikipedia.org/wiki/Torre_Espacial (228 m to the pinnacle; opened 9 July 1985)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Torre Le Parc",
+      "year": 1996,
+      "height_m": 157.9,
+      "lat": -34.5751,
+      "lon": -58.4214,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-le-parc/3449",
+      "confidence": "documented"
+    },
+    {
+      "name": "Torre El Faro I",
+      "year": 2003,
+      "height_m": 160.04,
+      "lat": -34.6121,
+      "lon": -58.3594,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-el-faro-i/2738",
+      "confidence": "documented"
+    },
+    {
+      "name": "Torre YPF",
+      "year": 2008,
+      "height_m": 160,
+      "lat": -34.6055,
+      "lon": -58.3622,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-repsol-ypf/3358",
+      "confidence": "documented"
+    },
+    {
+      "name": "Torre Cavia",
+      "year": 2009,
+      "height_m": 172.8,
+      "lat": -34.5756,
+      "lon": -58.4051,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-cavia/2613",
+      "confidence": "documented"
+    },
+    {
+      "name": "Torre Renoir 2",
+      "year": 2012,
+      "height_m": 171.8,
+      "lat": -34.6105,
+      "lon": -58.3609,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-renoir-2/5257",
+      "confidence": "documented"
+    },
+    {
+      "name": "Alvear Tower",
+      "year": 2018,
+      "height_m": 235.22,
+      "lat": -34.6124,
+      "lon": -58.3603,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/alvear-tower-puerto-madero/13268",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/buenos-aires/",
+  "notes": "Start date is contested between two documented foundings. The brief's rule (earliest documented founding) gives 1536, when Pedro de Mendoza established a fort and settlement; it was abandoned in 1541 and the site lay empty until Juan de Garay founded the permanent city on 11 June 1580, a short distance away on what is now Plaza de Mayo. The continuous city therefore dates from 1580, the historic core point is Garay's plaza, and there is no population or built fabric to show for 1541-1580. No headcount was found for Mendoza's 1536-1541 settlement. Population: the 1580 point is the founding party only. Colonial figures are historians' corrected urban totals based on the padrones of 1744, 1778 and 1810, as tabulated by Cuesta (2006), who notes that the totals and the degree of under-registration are debated, so they are marked estimated; Chandler's figures for the same period differ (1,600 in 1700; 9,656 in 1744; 28,232 in 1778; 41,643 in 1810). 1602 and 1838 are Chandler estimates. From 1855 every value is a city or national census as published by the city's statistics institute. All figures are for the city proper (after 1887 the federal capital within its present limits). The UN series that takes over in 1950 measures the whole agglomeration (Greater Buenos Aires), so there is a definitional jump between the 1947 census point (2.98 million, city only) and the UN's 1950 value; the city proper has stayed near 3 million since 1947. Landmarks: tower heights and years from CTBUH. The cathedral entry uses the 41 m dome and the 1791 completion of the church body (the portico dates from the 1820s). The Congress was inaugurated in 1906 although finishing works continued until 1946. The Cabildo is entered at 1940, when its tower was rebuilt to the present 33 m; the original building dates from 1725-1751 and its earlier tower heights could not be sourced. Torre Espacial is entered at 200 m excluding its antenna. Left out: Torre Monumental (Spanish Wikipedia gives 59-60 m, English Wikipedia 75.5 m; no reliable figure), Casa Rosada, Teatro Colón and Puente de la Mujer (no sourced height), and Harbour Tower (192 m, listed by CTBUH as structurally topped out, not yet completed)."
+}

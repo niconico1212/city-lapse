@@ -1,0 +1,635 @@
+{
+  "slug": "moscow",
+  "name": "Moscow",
+  "country": "Russia",
+  "start_year": 1147,
+  "start_label": "First mention of Moscow in the chronicles",
+  "start_source": "Meyendorff, J. (1981), Byzantium and the Rise of Russia, Cambridge University Press, p. 147, https://archive.org/details/byzantiumriseofr0000meye , via https://en.wikipedia.org/wiki/History_of_Moscow and https://en.wikipedia.org/wiki/Moscow",
+  "start_confidence": "documented",
+  "historic_core": {
+    "name": "Moscow Kremlin (Cathedral Square, Borovitsky Hill)",
+    "lat": 55.7511,
+    "lon": 37.6169,
+    "source": "https://en.wikipedia.org/wiki/Dormition_Cathedral,_Moscow"
+  },
+  "population": [
+    {
+      "year": 1343,
+      "value": 35000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "note": "Chandler's figures are for the built-up city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1400,
+      "value": 30000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1500,
+      "value": 80000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1570,
+      "value": 120000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "note": "On the eve of the Crimean Tatar burning of the city in 1571.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1575,
+      "value": 60000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "note": "After the 1571 destruction.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1600,
+      "value": 80000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1650,
+      "value": 105000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1700,
+      "value": 114000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1750,
+      "value": 146000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1782,
+      "value": 213000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1800,
+      "value": 248000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1811,
+      "value": 270184,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "note": "Unrounded figure in Chandler; the Russian Wikipedia table gives 270,200 for 1811.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1813,
+      "value": 215000,
+      "confidence": "estimated",
+      "source": "Russian Wikipedia, 'Население Москвы', table 'Изменение численности населения', https://ru.wikipedia.org/wiki/Население_Москвы (the table's references include the 'Мой город' city encyclopedia, http://www.mojgorod.ru/gor_moskva/moskva/index.html , and Soviet statistical handbooks)",
+      "note": "After the 1812 occupation and fire. Rounded figure.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1825,
+      "value": 257000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1850,
+      "value": 373800,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "note": "The Russian Wikipedia table gives the same figure for 1852.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1871,
+      "value": 601969,
+      "confidence": "documented",
+      "source": "Russian Wikipedia, 'Население Москвы', table 'Изменение численности населения', https://ru.wikipedia.org/wiki/Население_Москвы (the table's references include the 'Мой город' city encyclopedia, http://www.mojgorod.ru/gor_moskva/moskva/index.html , and Soviet statistical handbooks)",
+      "note": "Unrounded count as tabulated.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1882,
+      "value": 753500,
+      "confidence": "documented",
+      "source": "Russian Wikipedia, 'Население Москвы', table 'Изменение численности населения', https://ru.wikipedia.org/wiki/Население_Москвы (the table's references include the 'Мой город' city encyclopedia, http://www.mojgorod.ru/gor_moskva/moskva/index.html , and Soviet statistical handbooks)",
+      "note": "Rounded to hundreds in the table.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1897,
+      "value": 1038591,
+      "confidence": "documented",
+      "source": "First General Census of the Russian Empire, 1897, present population of the city of Moscow, Demoscope Weekly, https://www.demoscope.ru/weekly/ssp/rus_gub_97.php?reg=24",
+      "note": "591,852 men and 446,739 women.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1902,
+      "value": 1174700,
+      "confidence": "documented",
+      "source": "Russian Wikipedia, 'Население Москвы', table 'Изменение численности населения', https://ru.wikipedia.org/wiki/Население_Москвы (the table's references include the 'Мой город' city encyclopedia, http://www.mojgorod.ru/gor_moskva/moskva/index.html , and Soviet statistical handbooks)",
+      "note": "Rounded to hundreds in the table.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1912,
+      "value": 1617157,
+      "confidence": "documented",
+      "source": "Russian Wikipedia, 'Население Москвы', table 'Изменение численности населения', https://ru.wikipedia.org/wiki/Население_Москвы (the table's references include the 'Мой город' city encyclopedia, http://www.mojgorod.ru/gor_moskva/moskva/index.html , and Soviet statistical handbooks)",
+      "note": "Unrounded count as tabulated.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1917,
+      "value": 1854400,
+      "confidence": "documented",
+      "source": "Russian Wikipedia, 'Население Москвы', table 'Изменение численности населения', https://ru.wikipedia.org/wiki/Население_Москвы (the table's references include the 'Мой город' city encyclopedia, http://www.mojgorod.ru/gor_moskva/moskva/index.html , and Soviet statistical handbooks)",
+      "note": "Rounded to hundreds in the table.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1920,
+      "value": 1028200,
+      "confidence": "documented",
+      "source": "Russian Wikipedia, 'Население Москвы', table 'Изменение численности населения', https://ru.wikipedia.org/wiki/Население_Москвы (the table's references include the 'Мой город' city encyclopedia, http://www.mojgorod.ru/gor_moskva/moskva/index.html , and Soviet statistical handbooks)",
+      "note": "Rounded to hundreds in the table, which shows a sharp fall from 1917.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1926,
+      "value": 2025947,
+      "confidence": "documented",
+      "source": "All-Union Census of 1926, city of Moscow (nationality table, vols. 9-17 of the 1928-29 TsSU edition), Demoscope Weekly, https://www.demoscope.ru/weekly/ssp/rus_nac_26.php?reg=209",
+      "note": "Sum of 2,017,141 Soviet citizens and 8,806 foreigners in the table. Wikipedia's tables give 1,995,252 for 1926, apparently a different population concept.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1931,
+      "value": 2781340,
+      "confidence": "documented",
+      "source": "Административное деление, территория и население Союза ССР (Moscow, 1931), via https://ru.wikipedia.org/wiki/Население_Москвы",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1939,
+      "value": 4131633,
+      "confidence": "documented",
+      "source": "All-Union Census of 1939, final results, city of Moscow, Demoscope Weekly, https://www.demoscope.ru/weekly/ssp/rus_pop_39_3.php",
+      "note": "Includes 104,387 added centrally as 'special contingent'.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1945,
+      "value": 3361000,
+      "confidence": "estimated",
+      "source": "Zhiromskaya, 'Население России 1939-1945', Vestnik RAN 90(9), 2020, via https://ru.wikipedia.org/wiki/Население_Москвы",
+      "note": "Rounded. The same table gives 4,345,400 for 1941 and 2,361,500 for 1942, after the wartime evacuation.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 5356392,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Moskva (Moscow)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 5748746,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Moskva (Moscow)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 6169961,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Moskva (Moscow)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 6621780,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Moskva (Moscow)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 7106457,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Moskva (Moscow)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 8520842,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 9107571,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 9678610,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 10169614,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 10386424,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 11194627,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 11992017,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 12790165,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 13480234,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 14268411,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 14524753,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 14571370,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1147,
+      "title": "First mention in the chronicles",
+      "detail": "Moscow is first recorded in 1147 as the place where Yuri Dolgorukiy met Sviatoslav Olgovich. It was then a minor town on the western border of Rostov-Suzdal.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    },
+    {
+      "year": 1150,
+      "title": "First Kremlin walls (1150s)",
+      "detail": "The town was turned into a fortified stronghold in the 1150s, when the first walls of the Kremlin were built.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1238,
+      "title": "Sacked in the Mongol invasion",
+      "detail": "During the Mongol invasions of 1237-1238 Moscow was sacked after the destruction of Ryazan.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    },
+    {
+      "year": 1263,
+      "title": "Daniel becomes the first prince of Moscow",
+      "detail": "Daniel, youngest son of Alexander Nevsky, received Moscow as hereditary land and founded its line of princes, the start of the Grand Principality of Moscow.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    },
+    {
+      "year": 1495,
+      "title": "Brick Kremlin walls completed",
+      "detail": "Italian architects, among them Pietro Antonio Solari and Marco Ruffo, rebuilt the Kremlin under Ivan III. The present walls, designed by Solari, were completed in 1495.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    },
+    {
+      "year": 1547,
+      "title": "Tsardom proclaimed; great fire",
+      "detail": "The Tsardom of Russia was proclaimed in 1547 with Moscow as its centre. Fires destroyed much of the town the same year.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    },
+    {
+      "year": 1571,
+      "title": "Crimean Tatars burn the city",
+      "detail": "In 1571 the Crimean Tatars captured Moscow and burned everything except the Kremlin.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    },
+    {
+      "year": 1612,
+      "title": "Polish-Lithuanian occupation ended",
+      "detail": "Troops of the Polish-Lithuanian Commonwealth held Moscow from 1610 until 1612, when forces from Nizhny Novgorod and other Russian cities, led by Dmitry Pozharsky and Kuzma Minin, besieged the Kremlin and expelled them.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    },
+    {
+      "year": 1712,
+      "title": "Capital moved to Saint Petersburg",
+      "detail": "Peter the Great moved his government to the newly built Saint Petersburg in 1712, and Moscow's importance declined through the imperial period.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    },
+    {
+      "year": 1812,
+      "title": "Napoleon's occupation and the fire of Moscow",
+      "detail": "Muscovites were evacuated when Napoleon invaded in 1812 and the city burned. Streets such as the Arbat were destroyed and rebuilt in the early 19th century.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    },
+    {
+      "year": 1918,
+      "title": "Capital returns to Moscow",
+      "detail": "The Soviet government moved the capital back to Moscow on 12 March 1918.",
+      "source": "Presidential Library, 'Moscow becomes the capital of the Soviet State', https://www.prlib.ru/en/history/619089 , via https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    },
+    {
+      "year": 1935,
+      "title": "Moscow Metro opens",
+      "detail": "The Metro started operating in 1935 and quickly became the centrepiece of the city's transport.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    },
+    {
+      "year": 1941,
+      "title": "Battle of Moscow",
+      "detail": "Between October 1941 and January 1942 the German Army Group Centre was stopped at the outskirts of the city and then pushed back. Many factories and much of the government were evacuated.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    },
+    {
+      "year": 1961,
+      "title": "Ring road becomes the city boundary",
+      "detail": "The 109 km Moscow Ring Road (MKAD) opened in 1961 and marked the city's administrative boundary until suburbs beyond it were incorporated in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    },
+    {
+      "year": 1980,
+      "title": "Summer Olympic Games",
+      "detail": "Moscow hosted the 1980 Summer Olympics, which the United States and other Western countries boycotted.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    },
+    {
+      "year": 2012,
+      "title": "New Moscow more than doubles the city's area",
+      "detail": "On 1 July 2012 territory to the south-west was annexed from Moscow Oblast, raising the city's area from 1,091 to 2,511 square kilometres and adding about 233,000 people.",
+      "source": "https://en.wikipedia.org/wiki/Moscow",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Saint Basil's Cathedral",
+      "year": 1561,
+      "height_m": 47.5,
+      "lat": 55.7525,
+      "lon": 37.6231,
+      "kind": "church",
+      "source": "https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral",
+      "confidence": "documented"
+    },
+    {
+      "name": "Ivan the Great Bell Tower",
+      "year": 1600,
+      "height_m": 81,
+      "lat": 55.7508,
+      "lon": 37.6181,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Ivan_the_Great_Bell_Tower",
+      "confidence": "documented",
+      "note": "Built 1505-1508 at about 60 m and raised to its present height in 1600."
+    },
+    {
+      "name": "Spasskaya Tower (Kremlin)",
+      "year": 1625,
+      "height_m": 71,
+      "lat": 55.7525,
+      "lon": 37.6214,
+      "kind": "gate",
+      "source": "https://en.wikipedia.org/wiki/Spasskaya_Tower",
+      "confidence": "documented",
+      "note": "Gate tower built in 1491; the hipped roof that gives the present height was added in 1624-1625. The 71 m includes the star."
+    },
+    {
+      "name": "Shukhov Radio Tower",
+      "year": 1922,
+      "height_m": 148.5,
+      "lat": 55.7172,
+      "lon": 37.6114,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Shukhov_Tower",
+      "confidence": "documented",
+      "note": "Height of the hyperboloid structure as built (the design was cut from 350 m)."
+    },
+    {
+      "name": "Kotelnicheskaya Embankment Building",
+      "year": 1952,
+      "height_m": 176,
+      "lat": 55.7471,
+      "lon": 37.643,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/kotelnicheskaya-naberezhnaya/2502",
+      "confidence": "documented"
+    },
+    {
+      "name": "Moscow State University main building",
+      "year": 1953,
+      "height_m": 239,
+      "lat": 55.7029,
+      "lon": 37.5307,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/mv-lomonosov-state-university/1015",
+      "confidence": "documented"
+    },
+    {
+      "name": "Radisson Royal Hotel (former Hotel Ukraina)",
+      "year": 1955,
+      "height_m": 206,
+      "lat": 55.7515,
+      "lon": 37.5657,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/radisson-royal-hotel/1761",
+      "confidence": "documented"
+    },
+    {
+      "name": "Ostankino Tower",
+      "year": 1967,
+      "height_m": 540.1,
+      "lat": 55.8197,
+      "lon": 37.6117,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Ostankino_Tower",
+      "confidence": "documented"
+    },
+    {
+      "name": "Cathedral of Christ the Saviour (rebuilt)",
+      "year": 2000,
+      "height_m": 103.4,
+      "lat": 55.7444,
+      "lon": 37.6056,
+      "kind": "church",
+      "source": "https://en.wikipedia.org/wiki/Cathedral_of_Christ_the_Saviour",
+      "confidence": "documented",
+      "note": "Height to the top cross. The 19th-century original on the site was dynamited on 5 December 1931; the rebuilt cathedral was consecrated on 19 August 2000."
+    },
+    {
+      "name": "Triumph Palace",
+      "year": 2005,
+      "height_m": 264.1,
+      "lat": 55.7986,
+      "lon": 37.521,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/triumph-palace/731",
+      "confidence": "documented"
+    },
+    {
+      "name": "Naberezhnaya Tower Block C",
+      "year": 2007,
+      "height_m": 268.4,
+      "lat": 55.7471,
+      "lon": 37.5369,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/naberezhnaya-tower-block-c/691",
+      "confidence": "documented"
+    },
+    {
+      "name": "Capital City Moscow Tower",
+      "year": 2010,
+      "height_m": 301.75,
+      "lat": 55.7479,
+      "lon": 37.539,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/capital-city-moscow-tower/599",
+      "confidence": "documented"
+    },
+    {
+      "name": "Mercury City Tower",
+      "year": 2013,
+      "height_m": 338.82,
+      "lat": 55.7507,
+      "lon": 37.5396,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/mercury-city-tower/265",
+      "confidence": "documented"
+    },
+    {
+      "name": "OKO Residential Tower",
+      "year": 2015,
+      "height_m": 354.18,
+      "lat": 55.7494,
+      "lon": 37.5341,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/oko-residential-tower/363",
+      "confidence": "documented"
+    },
+    {
+      "name": "Federation Tower",
+      "year": 2016,
+      "height_m": 373.7,
+      "lat": 55.7499,
+      "lon": 37.538,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/federation-tower/118",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/moscow/",
+  "notes": "Start date: 1147 is the first mention of Moscow in the chronicles and is the standard, uncontested date; the settlement itself is older but undated in the sources consulted, and the first fortification is put only in 'the 1150s' (entered as 1150, estimated). Population: there is no figure before 1343, so the app should show no reliable estimate for the first two centuries. Figures to 1850 are Chandler's estimates and are uncertain before about 1700 (his 1570 and 1575 values bracket the 1571 destruction; English Wikipedia cites annals that imply a much larger city before 1571). The 1897, 1926 and 1939 points are taken directly from census tables on Demoscope. The 1813, 1871, 1882, 1902, 1912, 1917, 1920 and 1931 points come from the population table on Russian Wikipedia, whose early entries rest on a web encyclopedia and Soviet handbooks that were not checked individually; several are rounded to hundreds there. English Wikipedia's census table gives slightly different values for 1897 (1,038,625) and 1939 (4,141,633) and 1,995,252 for 1926; the Demoscope figures were preferred. All figures are for the city within its boundaries of the time, which expanded repeatedly. Chandler's 1875, 1900, 1914 and 1925 estimates were dropped in favour of the counts. Landmarks: no sourced height was found for the Kremlin's Dormition Cathedral or the Sukharev Tower (1701, demolished 1934), and no completion year for the 72 m Novodevichy Convent bell tower, so they are omitted. The original Cathedral of Christ the Saviour (demolished 1931) is not entered separately because no height for the original was found. The Ivan the Great Bell Tower and Spasskaya Tower are dated to the year they reached their present height, not first construction. Stalin-era and modern towers use CTBUH heights and years; CTBUH gives 239 m for the Moscow State University building. Ostankino Tower's height is from Wikipedia."
+}

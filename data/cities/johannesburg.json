@@ -1,0 +1,460 @@
+{
+  "slug": "johannesburg",
+  "name": "Johannesburg",
+  "country": "South Africa",
+  "start_year": 1886,
+  "start_label": "Mining camp proclaimed and town founded after the Witwatersrand gold discovery (September 1886)",
+  "start_source": "Encyclopaedia Britannica (1911), 'Johannesburg', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Johannesburg; proclamation date from https://sahistory.org.za/dated-event/first-mines-are-proclaimed-johannesburg via https://en.wikipedia.org/wiki/History_of_Johannesburg",
+  "start_confidence": "documented",
+  "historic_core": {
+    "name": "Ferreirasdorp (Ferreira's Camp, the first diggers' camp of 1886)",
+    "lat": -26.208,
+    "lon": 28.033,
+    "source": "https://en.wikipedia.org/wiki/Ferreirasdorp"
+  },
+  "population": [
+    {
+      "year": 1887,
+      "value": 3000,
+      "confidence": "estimated",
+      "source": "Encyclopaedia Britannica (1911), 'Johannesburg', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Johannesburg",
+      "note": "'In 1887 the population was about 3000.' A contemporary estimate of the mining camp, not a count.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1890,
+      "value": 25000,
+      "confidence": "estimated",
+      "source": "Encyclopaedia Britannica (1911), 'Johannesburg', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Johannesburg",
+      "note": "'By the beginning of 1890 it had increased to over 25,000.' Lower bound of an estimate.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1896,
+      "value": 102078,
+      "confidence": "documented",
+      "source": "Encyclopaedia Britannica (1911), 'Johannesburg', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Johannesburg",
+      "note": "Census of July 1896, people living within three miles of Market Square; 50,907 were white.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1904,
+      "value": 155642,
+      "confidence": "documented",
+      "source": "Encyclopaedia Britannica (1911), 'Johannesburg', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Johannesburg",
+      "note": "Census of April 1904, municipal area (about 82 square miles); the city proper (about 6 square miles) had 99,022. The municipal figure is used so that the series is comparable with 1908 and 1911.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1908,
+      "value": 180687,
+      "confidence": "documented",
+      "source": "Encyclopaedia Britannica (1911), 'Johannesburg', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Johannesburg",
+      "note": "Municipal census of August 1908: 95,162 white, 78,781 'natives and coloured', 6,780 Asiatic.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1911,
+      "value": 237104,
+      "confidence": "documented",
+      "source": "Encyclopaedia Britannica (1922), 'Johannesburg', https://en.wikisource.org/wiki/1922_Encyclop%C3%A6dia_Britannica/Johannesburg",
+      "note": "1911 Union census, municipal area.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1919,
+      "value": 260000,
+      "confidence": "estimated",
+      "source": "Encyclopaedia Britannica (1922), 'Johannesburg', https://en.wikisource.org/wiki/1922_Encyclop%C3%A6dia_Britannica/Johannesburg",
+      "note": "Estimate for 1919, of whom 149,750 were white; area not stated.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1936,
+      "value": 519384,
+      "confidence": "documented",
+      "source": "E. G. Malherbe (1939), Official Year Book of the Union of South Africa, vol. 20, p. 1034, via https://en.wikipedia.org/wiki/1936_South_African_census",
+      "note": "1936 Union census, Johannesburg urban area, all races.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1946,
+      "value": 603470,
+      "confidence": "documented",
+      "source": "United Nations Demographic Yearbook 1955, 'Population of capital city and cities of 100,000 or more inhabitants', via https://en.wikipedia.org/wiki/Timeline_of_Johannesburg",
+      "note": "1946 Union census, city proper. The same source gives 762,910 for the urban agglomeration.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 910550,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Johannesburg\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 1022266,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Johannesburg\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 1147725,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Johannesburg\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 1288499,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Johannesburg\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 1443042,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Johannesburg\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 1180560,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 1210325,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 1299644,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 1439103,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 2031050,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 2767803,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 3912682,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 4684164,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 5425198,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 6518726,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 7077175,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 7173199,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1886,
+      "title": "Goldfield proclaimed and town laid out",
+      "detail": "After gold was found on the farm Langlaagte, President Kruger declared the area open for public diggings on 20 September 1886. A town was surveyed beside Ferreira's Camp and named Johannesburg.",
+      "source": "https://sahistory.org.za/dated-event/first-mines-are-proclaimed-johannesburg, via https://en.wikipedia.org/wiki/History_of_Johannesburg",
+      "confidence": "documented"
+    },
+    {
+      "year": 1887,
+      "title": "Health committee and stock exchange",
+      "detail": "A health committee, the town's first local authority, was instituted in November 1887, and the Johannesburg Stock Exchange was founded the same year. The camp already held about 3,000 people.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Johannesburg and Encyclopaedia Britannica (1911), 'Johannesburg'",
+      "confidence": "documented"
+    },
+    {
+      "year": 1892,
+      "title": "Railway from the Cape reaches the Rand",
+      "detail": "The Cape railway reached the Witwatersrand in September 1892. Lines from Lourenço Marques and Durban followed by 1895.",
+      "source": "Diana Cammack (1990), The Rand at War, p. 46, via https://en.wikipedia.org/wiki/History_of_Johannesburg",
+      "confidence": "documented"
+    },
+    {
+      "year": 1896,
+      "title": "Braamfontein dynamite explosion",
+      "detail": "On 19 February 1896 a train of 55 tons of dynamite exploded in the Braamfontein goods yard, leaving a crater 250 feet long. At least 78 people were killed and 1,500 injured.",
+      "source": "John R. Shorten (1970), The Saga of Johannesburg, p. 198, via https://en.wikipedia.org/wiki/History_of_Johannesburg",
+      "confidence": "documented"
+    },
+    {
+      "year": 1900,
+      "title": "British forces occupy the town",
+      "detail": "During the Second Boer War, Lord Roberts's troops marched into Johannesburg on 31 May 1900. Nearly 100,000 white residents had fled the district in the months before the war.",
+      "source": "Diana Cammack (1990), The Rand at War, via https://en.wikipedia.org/wiki/History_of_Johannesburg",
+      "confidence": "documented"
+    },
+    {
+      "year": 1904,
+      "title": "Plague scare: Brickfields burned",
+      "detail": "In April 1904 the council burned down the Brickfields slum after a plague scare and moved most of its African residents far out of town to Klipspruit, later called Pimville.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Johannesburg",
+      "confidence": "documented"
+    },
+    {
+      "year": 1906,
+      "title": "Electric trams begin running",
+      "detail": "Electric trams began operating in 1906, replacing the horse-drawn tramway of 1891.",
+      "source": "Encyclopaedia Britannica (1911), 'Johannesburg', via https://en.wikipedia.org/wiki/Timeline_of_Johannesburg",
+      "confidence": "documented"
+    },
+    {
+      "year": 1922,
+      "title": "Rand Revolt and a university",
+      "detail": "White miners' strikes from January to March 1922 turned into an armed revolt, with strikers holding Fordsburg and Jeppe. On 1 March 1922 the University of the Witwatersrand received full university status.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Johannesburg",
+      "confidence": "documented"
+    },
+    {
+      "year": 1928,
+      "title": "Johannesburg gains city status",
+      "detail": "Private Ordinance No. 15 of 1928 of the Transvaal Provincial Council turned the Town of Johannesburg into the City of Johannesburg.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Johannesburg",
+      "confidence": "documented"
+    },
+    {
+      "year": 1936,
+      "title": "Empire Exhibition",
+      "detail": "The Empire Exhibition opened on 15 September 1936 and ran until January 1937. The 1936 census counted over half a million people in the city.",
+      "source": "https://en.wikipedia.org/wiki/Timeline_of_Johannesburg",
+      "confidence": "documented"
+    },
+    {
+      "year": 1963,
+      "title": "South-western townships named Soweto",
+      "detail": "After a naming competition launched in 1959, the council's vast African housing area south-west of the city was given the name Soweto.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Johannesburg",
+      "confidence": "documented"
+    },
+    {
+      "year": 1973,
+      "title": "Carlton Centre completed",
+      "detail": "The fifty-storey Carlton Centre office tower opened as the tallest building in Africa, the peak of a high-rise boom in the central business district.",
+      "source": "https://www.skyscrapercenter.com/building/carlton-centre/1218 and https://en.wikipedia.org/wiki/History_of_Johannesburg",
+      "confidence": "documented"
+    },
+    {
+      "year": 1976,
+      "title": "Soweto uprising",
+      "detail": "On 16 June 1976 about 20,000 school students marched in Soweto against teaching in Afrikaans. Police opened fire and the protests spread across the country.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Johannesburg",
+      "confidence": "documented"
+    },
+    {
+      "year": 1994,
+      "title": "Seat of the new Gauteng province",
+      "detail": "With the end of apartheid, Johannesburg became the capital of the new province of Gauteng.",
+      "source": "https://en.wikipedia.org/wiki/Timeline_of_Johannesburg",
+      "confidence": "documented"
+    },
+    {
+      "year": 2000,
+      "title": "Single metropolitan municipality created",
+      "detail": "The City of Johannesburg Metropolitan Municipality was created in 2000, putting the city and its neighbouring municipalities under one council. Soweto became part of the city in 2002.",
+      "source": "https://en.wikipedia.org/wiki/Timeline_of_Johannesburg",
+      "confidence": "documented"
+    },
+    {
+      "year": 2010,
+      "title": "World Cup final and Gautrain",
+      "detail": "The rebuilt Soccer City (FNB Stadium) hosted the 2010 FIFA World Cup final. The Gautrain rapid rail link to Sandton, the airport and Pretoria, begun in 2006, was completed in June 2012.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Johannesburg and https://en.wikipedia.org/wiki/Johannesburg",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Sentech Tower (Brixton Tower)",
+      "year": 1962,
+      "height_m": 237,
+      "lat": -26.1925,
+      "lon": 28.0067,
+      "kind": "tower",
+      "source": "Structurae, 'Sentech Tower (Johannesburg, 1962)', via https://en.wikipedia.org/wiki/Sentech_Tower",
+      "confidence": "documented",
+      "note": "Some sources give 234 m."
+    },
+    {
+      "name": "Standard Bank Centre",
+      "year": 1968,
+      "height_m": 139,
+      "lat": -26.2066,
+      "lon": 28.0394,
+      "kind": "skyscraper",
+      "source": "https://www.skyscrapercenter.com/building/standard-bank-centre/4368",
+      "confidence": "documented"
+    },
+    {
+      "name": "Trust Bank Building",
+      "year": 1970,
+      "height_m": 140,
+      "lat": -26.2061,
+      "lon": 28.0447,
+      "kind": "skyscraper",
+      "source": "https://www.skyscrapercenter.com/building/trust-bank-centre/4357",
+      "confidence": "documented"
+    },
+    {
+      "name": "Hillbrow Tower (Telkom Joburg Tower)",
+      "year": 1971,
+      "height_m": 269,
+      "lat": -26.1869,
+      "lon": 28.0492,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Hillbrow_Tower",
+      "confidence": "documented",
+      "note": "269 m to the top of the antenna spire; the top floor is at 204 m."
+    },
+    {
+      "name": "Carlton Centre",
+      "year": 1973,
+      "height_m": 201.2,
+      "lat": -26.2056,
+      "lon": 28.0463,
+      "kind": "skyscraper",
+      "source": "https://www.skyscrapercenter.com/building/carlton-centre/1218",
+      "confidence": "documented",
+      "note": "CTBUH gives an architectural height of 201.2 m. Wikipedia and most popular sources give 223 m."
+    },
+    {
+      "name": "Marble Towers",
+      "year": 1973,
+      "height_m": 152.1,
+      "lat": -26.202,
+      "lon": 28.0475,
+      "kind": "skyscraper",
+      "source": "https://www.skyscrapercenter.com/building/marble-towers/3876",
+      "confidence": "documented"
+    },
+    {
+      "name": "Ponte City (Ponte Tower)",
+      "year": 1975,
+      "height_m": 172.8,
+      "lat": -26.1906,
+      "lon": 28.0573,
+      "kind": "skyscraper",
+      "source": "https://www.skyscrapercenter.com/building/ponte-tower/2610",
+      "confidence": "documented"
+    },
+    {
+      "name": "Nelson Mandela Bridge (north pylon)",
+      "year": 2003,
+      "height_m": 42,
+      "lat": -26.1967,
+      "lon": 28.0342,
+      "kind": "bridge",
+      "source": "South African History Online, via https://en.wikipedia.org/wiki/Nelson_Mandela_Bridge",
+      "confidence": "documented",
+      "note": "Cable-stayed bridge 284 m long, opened 20 July 2003; the north pylon is 42 m and the south pylon 27 m."
+    },
+    {
+      "name": "Michelangelo Towers, Sandton",
+      "year": 2005,
+      "height_m": 140,
+      "lat": -26.1065,
+      "lon": 28.0541,
+      "kind": "skyscraper",
+      "source": "https://www.skyscrapercenter.com/building/michelangelo-tower/4345",
+      "confidence": "documented"
+    },
+    {
+      "name": "The Leonardo, Sandton",
+      "year": 2019,
+      "height_m": 227.9,
+      "lat": -26.1042,
+      "lon": 28.0556,
+      "kind": "skyscraper",
+      "source": "https://www.skyscrapercenter.com/building/the-leonardo/22606",
+      "confidence": "documented",
+      "note": "CTBUH gives 227.9 m; Wikipedia gives 234 m."
+    }
+  ],
+  "footprint_epochs": "footprints/johannesburg/",
+  "notes": "Start date: 1886 is well documented and not contested. The goldfield was proclaimed on 20 September 1886 and the 1911 Britannica dates the town's founding to September 1886; the first tents at Ferreira's Camp went up a little earlier that year. The area had earlier Iron Age and Boer farm occupation but no town. Population: nine points before 1950. The 1887 and 1890 figures are contemporary estimates. The censuses of 1896, 1904, 1908, 1911, 1936 and 1946 use different areas (three-mile radius, municipal area, urban area, city proper), which is stated on each point; 1904 has two published figures (99,022 for the city proper, 155,642 for the municipal area) and the municipal one is used. No figure was found for the 1921 census, so 1911-1936 is covered only by a 1919 estimate. The 1946 city figure excludes much of the African township population counted in the urban agglomeration (762,910). Landmarks: the ten entries all date from 1962 or later. No sourced height was found for the early city's buildings, so these were left out: the Old Fort (1899), Rissik Street Post Office (1897), City Hall (1914), Corner House, Anstey's Building, Escom House (1937, demolished), Ellis Park and FNB Stadium. Wikipedia gives the Rissik Street Post Office a height of 102 m, which cannot be right for a four-storey building and was not used. Skyscraper heights follow CTBUH, which differs from Wikipedia for the Carlton Centre (201.2 m against 223 m) and The Leonardo (227.9 m against 234 m). Coordinates are from Wikipedia and OpenStreetMap. The 2000 date for the metropolitan municipality follows the Wikipedia timeline; another Wikipedia article says 2002."
+}

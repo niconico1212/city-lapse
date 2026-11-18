@@ -121,9 +121,13 @@ def validate(slug, city_index, allow_post_1950=False):
         errs.append("milestones must be in chronological order")
 
     lms = d["landmarks"]
-    if not isinstance(lms, list) or len(lms) < 5:
-        errs.append("need at least 5 landmarks")
-        lms = lms if isinstance(lms, list) else []
+    if not isinstance(lms, list):
+        errs.append("landmarks must be a list")
+        lms = []
+    elif len(lms) < 5:
+        # Not an error: a landmark without a sourced height is left out rather than guessed,
+        # and for some cities that leaves very few. The city is then flagged "partial".
+        warns.append(f"only {len(lms)} landmarks with a sourced height")
     for i, l in enumerate(lms):
         w = f"landmarks[{i}] ({l.get('name')!r})"
         if not isinstance(l.get("year"), int) or l["year"] == 0 or l["year"] > END_YEAR:

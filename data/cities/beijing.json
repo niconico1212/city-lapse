@@ -1,0 +1,608 @@
+{
+  "slug": "beijing",
+  "name": "Beijing",
+  "country": "China",
+  "start_year": -1045,
+  "start_label": "City of Ji (Jicheng) established as seat of the Zhou vassal state of Ji",
+  "start_source": "Liji (Book of Rites), 'Yueji', and Beijing Municipal Government's designation of 1045 BC as the city's first year (http://www.visitbeijing.com.cn/jdjq/jdjqtj/msgj/128760.html), via https://en.wikipedia.org/wiki/Jicheng_(Beijing)",
+  "start_confidence": "estimated",
+  "historic_core": {
+    "name": "Forbidden City, centre of the Yuan-Ming-Qing walled city",
+    "lat": 39.9163,
+    "lon": 116.3972,
+    "source": "https://en.wikipedia.org/wiki/Forbidden_City ; https://en.wikipedia.org/wiki/Beijing_city_fortifications"
+  },
+  "population": [
+    {
+      "year": 938,
+      "value": 22000,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "Walled city of Liao Nanjing (on the old Ji/Youzhou site in today's south-west Xicheng).",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1113,
+      "value": 150000,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "Walled city of Liao Nanjing.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1125,
+      "value": 82000,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "After the Jin conquest of the Liao city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1207,
+      "value": 400000,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "Jin capital Zhongdu.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1216,
+      "value": 91000,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "After the Mongol siege and sack of Zhongdu in 1215.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1270,
+      "value": 418000,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "Yuan Dadu (Khanbaliq) under construction beside the old city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1327,
+      "value": 952000,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "Yuan Dadu.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1369,
+      "value": 95000,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "After the Ming capture of Dadu in 1368; the northern part of the city was abandoned.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1448,
+      "value": 960000,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "Ming capital, on the eve of the Tumu Crisis.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1500,
+      "value": 672000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "note": "Chandler's series runs lower than Han Guanghui's for the Ming period; shown to mark the 150-year gap in Han's figures.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1600,
+      "value": 706000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "note": "Chandler's series; see the 1500 note.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1644,
+      "value": 144000,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "At the fall of the Ming.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1647,
+      "value": 539000,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "After resettlement by the Qing banner population.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1781,
+      "value": 776242,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "Population inside the city walls; the surrounding region is counted separately by the source.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1882,
+      "value": 776111,
+      "confidence": "documented",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "Census of 1881-82, population inside the city walls.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1910,
+      "value": 785442,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, pp. 137, 212, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "Population inside the city walls; the surrounding region is counted separately by the source.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1913,
+      "value": 670000,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, pp. 137, 212, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "Population inside the city walls; the surrounding region is counted separately by the source.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1917,
+      "value": 811566,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, pp. 137, 212, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "Population inside the city walls; the surrounding region is counted separately by the source.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1935,
+      "value": 1110000,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "Rounded in the source (1.11 million) for the city proper; 3.485 million more in the surrounding region.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1948,
+      "value": 1500000,
+      "confidence": "estimated",
+      "source": "Han Guanghui (1996), 北京历史人口地理 [History of the Population and Geography of Beijing], Peking University Press, p. 137, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "note": "Rounded in the source (1.5 million) for the city proper; 4.1 million more in the surrounding region.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 1671365,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Beijing\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 2364625,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Beijing\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 3900441,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Beijing\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 4582017,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Beijing\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 4426045,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Beijing\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 5154971,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 5564199,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 6001087,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 6615743,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 7970314,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 9635380,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 11731870,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 14332332,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 15431938,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 16484278,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 17013303,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 17127344,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": -1045,
+      "title": "City of Ji founded",
+      "detail": "After the Zhou conquest of the Shang, King Wu enfeoffed a vassal state at Ji, in today's south-west Beijing near Guang'anmen. The city later became the capital of the state of Yan.",
+      "source": "Liji, 'Yueji', via https://en.wikipedia.org/wiki/Jicheng_(Beijing)",
+      "confidence": "estimated"
+    },
+    {
+      "year": 938,
+      "title": "Liao dynasty makes the city its Southern Capital",
+      "detail": "The Liao renamed Youzhou 'Nanjing' and made it one of their secondary capitals.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    },
+    {
+      "year": 1153,
+      "title": "Jin capital Zhongdu",
+      "detail": "Emperor Wanyan Liang moved the Jin capital here and renamed the city Zhongdu, its first time as the capital of a major dynasty.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    },
+    {
+      "year": 1215,
+      "title": "Mongols take and burn Zhongdu",
+      "detail": "After a long siege the city surrendered to Genghis Khan's army and was looted and burned.",
+      "source": "Ratchnevsky (1993), Genghis Khan: His Life and Legacy, pp. 114-115, via https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    },
+    {
+      "year": 1267,
+      "title": "Kublai Khan begins building Dadu",
+      "detail": "Construction of a new capital, Dadu (Khanbaliq), began in 1267; the palace complex was complete by 1274 and the rest of the city by 1285.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    },
+    {
+      "year": 1368,
+      "title": "Ming army captures Dadu",
+      "detail": "General Xu Da took the Yuan capital, which was renamed Beiping; the palace was razed and the northern part of the city abandoned.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    },
+    {
+      "year": 1420,
+      "title": "Forbidden City completed; capital moves north",
+      "detail": "The Yongle Emperor's palace was built from 1406 to 1420, and in 1421 the Ming capital moved from Nanjing to Beijing.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    },
+    {
+      "year": 1553,
+      "title": "Outer City wall built",
+      "detail": "A wall with seven gates was added to protect the southern suburbs, including the Temple of Heaven.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    },
+    {
+      "year": 1644,
+      "title": "Fall of the Ming; Qing capital",
+      "detail": "The Manchus seized Beijing in May 1644 and made it the Qing capital.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    },
+    {
+      "year": 1860,
+      "title": "Anglo-French forces occupy the city",
+      "detail": "In the Second Opium War the allied expedition captured Beijing, and Lord Elgin ordered the Old Summer Palace burned.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    },
+    {
+      "year": 1900,
+      "title": "Boxer siege of the Legation Quarter",
+      "detail": "Qing troops and Boxers besieged the foreign legations from June 1900.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    },
+    {
+      "year": 1928,
+      "title": "Capital moves to Nanjing; city renamed Beiping",
+      "detail": "After the Northern Expedition the Nationalists moved the capital to Nanjing and renamed Beijing 'Beiping'.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    },
+    {
+      "year": 1937,
+      "title": "Japanese occupation",
+      "detail": "After the Marco Polo Bridge clash of 7 July 1937 Japanese forces captured Beiping, which they held until 1945.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    },
+    {
+      "year": 1949,
+      "title": "Capital of the People's Republic",
+      "detail": "The city passed peacefully to Communist control in 1949, was renamed Beijing and became the national capital.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    },
+    {
+      "year": 1969,
+      "title": "First subway line; city walls pulled down",
+      "detail": "The Beijing Subway's first line began trial operations in 1969. Nearly all of the Ming walls were demolished in the 1960s to build it and the 2nd Ring Road.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    },
+    {
+      "year": 2008,
+      "title": "Summer Olympics",
+      "detail": "The 2008 Summer Olympics opened on 8 August at the National Stadium (the 'Bird's Nest').",
+      "source": "https://en.wikipedia.org/wiki/History_of_Beijing",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Pagoda of Tianning Temple",
+      "year": 1120,
+      "height_m": 57.8,
+      "lat": 39.8937,
+      "lon": 116.3398,
+      "kind": "temple",
+      "source": "https://en.wikipedia.org/wiki/Pagoda_of_Tianning_Temple_(Beijing) ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "White Stupa of Miaoying Temple",
+      "year": 1279,
+      "height_m": 51,
+      "lat": 39.9236,
+      "lon": 116.357,
+      "kind": "temple",
+      "source": "https://zh.wikipedia.org/wiki/妙应寺白塔 (height 51 m; 50.9 m in another account) ; https://en.wikipedia.org/wiki/Miaoying_Temple ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Zhengyangmen (Qianmen) gatehouse",
+      "year": 1419,
+      "height_m": 42,
+      "lat": 39.8992,
+      "lon": 116.3916,
+      "kind": "gate",
+      "source": "https://en.wikipedia.org/wiki/Zhengyangmen ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented",
+      "note": "First built 1419; the gate complex was extensively reconstructed in 1914."
+    },
+    {
+      "name": "Drum Tower",
+      "year": 1420,
+      "height_m": 47,
+      "lat": 39.9393,
+      "lon": 116.3897,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Drum_Tower_and_Bell_Tower_of_Beijing ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented",
+      "note": "Yuan tower of 1272 rebuilt on the present site in 1420."
+    },
+    {
+      "name": "Hall of Prayer for Good Harvests, Temple of Heaven",
+      "year": 1420,
+      "height_m": 38,
+      "lat": 39.8822,
+      "lon": 116.4066,
+      "kind": "temple",
+      "source": "https://en.wikipedia.org/wiki/Temple_of_Heaven ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented",
+      "note": "Temple of Heaven built 1406-1420; the hall burned in 1889 and was rebuilt a few years later."
+    },
+    {
+      "name": "Tiananmen",
+      "year": 1651,
+      "height_m": 32,
+      "lat": 39.9074,
+      "lon": 116.3913,
+      "kind": "gate",
+      "source": "https://en.wikipedia.org/wiki/Tiananmen ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented",
+      "note": "First built 1420; rebuilt 1645-1651 and reconstructed again in 1969-1970."
+    },
+    {
+      "name": "White Dagoba, Beihai Park",
+      "year": 1651,
+      "height_m": 40,
+      "lat": 39.9244,
+      "lon": 116.383,
+      "kind": "temple",
+      "source": "https://en.wikipedia.org/wiki/Beihai_Park ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Hall of Supreme Harmony, Forbidden City",
+      "year": 1697,
+      "height_m": 35.05,
+      "lat": 39.9159,
+      "lon": 116.3908,
+      "kind": "palace",
+      "source": "https://zh.wikipedia.org/wiki/太和殿 (hall 26.92 m, 35.05 m including the three-tier terrace) ; https://en.wikipedia.org/wiki/Hall_of_Supreme_Harmony ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented",
+      "note": "Original hall of 1421; rebuilt for the last time in 1695-1697."
+    },
+    {
+      "name": "Monument to the People's Heroes",
+      "year": 1958,
+      "height_m": 37.94,
+      "lat": 39.9032,
+      "lon": 116.3914,
+      "kind": "monument",
+      "source": "https://en.wikipedia.org/wiki/Monument_to_the_People%27s_Heroes ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Great Hall of the People",
+      "year": 1959,
+      "height_m": 46.5,
+      "lat": 39.9035,
+      "lon": 116.3871,
+      "kind": "other",
+      "source": "https://en.wikipedia.org/wiki/Great_Hall_of_the_People ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Jing Guang Center",
+      "year": 1990,
+      "height_m": 208,
+      "lat": 39.919,
+      "lon": 116.4544,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/jing-guang-center/1519",
+      "confidence": "documented"
+    },
+    {
+      "name": "Central Radio & TV Tower",
+      "year": 1992,
+      "height_m": 405,
+      "lat": 39.9182,
+      "lon": 116.3003,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Central_Radio_%26_TV_Tower ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Beijing National Stadium (Bird's Nest)",
+      "year": 2008,
+      "height_m": 69.21,
+      "lat": 39.9914,
+      "lon": 116.3903,
+      "kind": "stadium",
+      "source": "https://zh.wikipedia.org/wiki/国家体育场_(北京) (citing http://sports.enorth.com.cn/system/2013/01/08/010496463.shtml) ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "China World Tower",
+      "year": 2010,
+      "height_m": 330,
+      "lat": 39.9109,
+      "lon": 116.4523,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/china-world-tower/379",
+      "confidence": "documented"
+    },
+    {
+      "name": "CCTV Headquarters",
+      "year": 2012,
+      "height_m": 234,
+      "lat": 39.9139,
+      "lon": 116.4576,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/cctv-headquarters/1068",
+      "confidence": "documented"
+    },
+    {
+      "name": "CITIC Tower (China Zun)",
+      "year": 2018,
+      "height_m": 527.7,
+      "lat": 39.9116,
+      "lon": 116.4604,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/citic-tower/11116",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/beijing/",
+  "notes": "Start date: 1045 BC is the date the Beijing Municipal Government uses for the founding of Ji (Jicheng), following the Liji account of King Wu of Zhou enfeoffing Ji after conquering the Shang. It rests on later texts, not on a dated foundation, so it is marked 'estimated'; archaeological remains on the Ji site (south and west of Guang'anmen, Xicheng/Fengtai) are dated only from the Spring and Autumn and Warring States periods (roughly 8th-5th century BC onward). Historic core: Ji, Tang Youzhou, Liao Nanjing and Jin Zhongdu stood around Guang'anmen (about 39.890 N, 116.344 E), some 5 km south-west of the Forbidden City. Kublai's Dadu (1267) moved the centre to the present axis, and the Ming-Qing walled city grew from there, so the Forbidden City is used as the core for the footprint reconstruction. Population: no city figure was found before 938; Han-to-Tang figures in the sources are for whole commanderies and were not used. The series is Han Guanghui (1996) as quoted in Wikipedia's History of Beijing, and counts people inside the walls only. Two Chandler (1987) points (1500, 1600) fill the 1448-1644 gap but belong to a lower series (Chandler gives 600,000 for 1450 where Han gives 960,000 for 1448; for the 19th century Chandler is higher, 1,648,000 in 1850). Values for 1935 and 1948 are rounded in the source. Landmarks: skyscrapers are from the CTBUH Skyscraper Center; older structures take heights from Wikipedia articles (English or Chinese) and positions from OpenStreetMap. Several old structures are rebuilds, as noted on each. Left out for lack of a sourced height: Bell Tower (sources disagree), Meridian Gate, Deshengmen arrow tower, Olympic Tower."
+}

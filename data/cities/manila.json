@@ -1,0 +1,520 @@
+{
+  "slug": "manila",
+  "name": "Manila",
+  "country": "Philippines",
+  "start_year": 900,
+  "start_label": "Tondo named in the Laguna Copperplate Inscription",
+  "start_source": "Postma, A. (1992), 'The Laguna Copper-Plate Inscription: Text and Commentary', Philippine Studies 40(2): 182-203, http://www.philippinestudies.net/ojs/index.php/ps/article/download/1033/1018 , via https://en.wikipedia.org/wiki/Laguna_Copperplate_Inscription and https://en.wikipedia.org/wiki/Tondo_(historical_polity)",
+  "start_confidence": "documented",
+  "historic_core": {
+    "name": "Fort Santiago, Intramuros (mouth of the Pasig River, site of pre-Hispanic Maynila)",
+    "lat": 14.595,
+    "lon": 120.9694,
+    "source": "https://en.wikipedia.org/wiki/Fort_Santiago"
+  },
+  "population": [
+    {
+      "year": 1591,
+      "value": 28000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "note": "Chandler's figures are for the built-up city including the suburbs outside the walls.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1700,
+      "value": 30000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1750,
+      "value": 50000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1800,
+      "value": 77000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1825,
+      "value": 90000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1850,
+      "value": 114000,
+      "confidence": "estimated",
+      "source": "Chandler, T. (1987), Four Thousand Years of Urban Growth: An Historical Census, as digitised by Reba, Reitsma & Seto (2016), chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1887,
+      "value": 176777,
+      "confidence": "documented",
+      "source": "Encyclopaedia Britannica, 11th ed. (1911), 'Manila', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Manila",
+      "note": "Spanish census of 1887 as reported in the 1911 Britannica.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1903,
+      "value": 219928,
+      "confidence": "documented",
+      "source": "Philippine census figure as tabulated by Stinner & Bacol-Montilla (1981), 'Population Deconcentration in Metropolitan Manila in the Twentieth Century', Journal of Developing Areas 16(1): 3-16, https://www.jstor.org/stable/4190969 , via https://en.wikipedia.org/wiki/Timeline_of_Manila ; same figure in the Philippine Statistics Authority census table at https://en.wikipedia.org/wiki/Manila",
+      "note": "City of Manila, first US census. The surrounding area later called Metro Manila had 330,345.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1918,
+      "value": 285306,
+      "confidence": "documented",
+      "source": "Philippine census figure as tabulated by Stinner & Bacol-Montilla (1981), 'Population Deconcentration in Metropolitan Manila in the Twentieth Century', Journal of Developing Areas 16(1): 3-16, https://www.jstor.org/stable/4190969 , via https://en.wikipedia.org/wiki/Timeline_of_Manila ; same figure in the Philippine Statistics Authority census table at https://en.wikipedia.org/wiki/Manila",
+      "note": "City of Manila. Metro Manila area: 469,955.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1939,
+      "value": 623492,
+      "confidence": "documented",
+      "source": "Philippine census figure as tabulated by Stinner & Bacol-Montilla (1981), 'Population Deconcentration in Metropolitan Manila in the Twentieth Century', Journal of Developing Areas 16(1): 3-16, https://www.jstor.org/stable/4190969 , via https://en.wikipedia.org/wiki/Timeline_of_Manila ; same figure in the Philippine Statistics Authority census table at https://en.wikipedia.org/wiki/Manila",
+      "note": "City of Manila.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1948,
+      "value": 983906,
+      "confidence": "documented",
+      "source": "Philippine census figure as tabulated by Stinner & Bacol-Montilla (1981), 'Population Deconcentration in Metropolitan Manila in the Twentieth Century', Journal of Developing Areas 16(1): 3-16, https://www.jstor.org/stable/4190969 , via https://en.wikipedia.org/wiki/Timeline_of_Manila ; same figure in the Philippine Statistics Authority census table at https://en.wikipedia.org/wiki/Manila",
+      "note": "City of Manila. Metro Manila area: 1,569,148.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 1543666,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Manila\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 1871605,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Manila\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 2273734,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Manila\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 2828883,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Manila\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 3534309,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Manila\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 8329012,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 9884349,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 11682238,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 13905472,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 16293501,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 17799064,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 19347220,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 21072115,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 22677351,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 24013676,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 24735305,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 24893838,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 900,
+      "title": "Tondo recorded in a copperplate inscription",
+      "detail": "A debt-acquittance document dated Saka year 822 (21 April 900) names the chief and commander of Tundun, generally identified with Tondo on the north bank of the Pasig. It is the oldest written document found in the Philippines.",
+      "source": "Postma (1992), Philippine Studies 40(2), via https://en.wikipedia.org/wiki/Laguna_Copperplate_Inscription",
+      "confidence": "documented"
+    },
+    {
+      "year": 1571,
+      "title": "Legazpi founds Spanish Manila",
+      "detail": "On 24 June 1571 Miguel López de Legazpi declared Manila a Spanish city and set up a city council on the site of Rajah Sulayman's defeated settlement, the future Intramuros.",
+      "source": "https://en.wikipedia.org/wiki/Manila",
+      "confidence": "documented"
+    },
+    {
+      "year": 1574,
+      "title": "Limahong's attack",
+      "detail": "A Chinese force of about 3,000 men and 62 ships under Limahong attacked the new city and was beaten off.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Manila",
+      "confidence": "documented"
+    },
+    {
+      "year": 1590,
+      "title": "Stone walls of Intramuros begun",
+      "detail": "Construction of the city walls and other defences began in 1590. Fort Santiago at the river mouth was completed in stone in 1593.",
+      "source": "Encyclopaedia Britannica 11th ed. (1911), 'Manila', via https://en.wikipedia.org/wiki/Timeline_of_Manila ; https://en.wikipedia.org/wiki/Fort_Santiago",
+      "confidence": "documented"
+    },
+    {
+      "year": 1645,
+      "title": "Luzon earthquake destroys the stone city",
+      "detail": "The earthquakes of 1645 and 1677 destroyed the stone-and-brick city, including the cathedral completed in 1614.",
+      "source": "Bankoff, 'Fire and Quake in the construction of old Manila', via https://en.wikipedia.org/wiki/Manila ; https://en.wikipedia.org/wiki/Manila_Cathedral",
+      "confidence": "documented"
+    },
+    {
+      "year": 1762,
+      "title": "British occupation",
+      "detail": "British forces captured Manila in 1762 during the Seven Years' War and held it until 1764.",
+      "source": "Encyclopaedia Britannica, 11th ed. (1911), 'Manila', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Manila , via https://en.wikipedia.org/wiki/Timeline_of_Manila",
+      "confidence": "documented"
+    },
+    {
+      "year": 1837,
+      "title": "Port opened to foreign trade",
+      "detail": "Manila's port was opened to foreign trade in 1837.",
+      "source": "Encyclopaedia Britannica, 11th ed. (1911), 'Manila', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Manila , via https://en.wikipedia.org/wiki/Timeline_of_Manila",
+      "confidence": "documented"
+    },
+    {
+      "year": 1863,
+      "title": "Earthquake of 3 June 1863",
+      "detail": "The earthquake destroyed the cathedral built in 1854-1858 and Quiapo Church.",
+      "source": "https://en.wikipedia.org/wiki/Manila_Cathedral ; https://en.wikipedia.org/wiki/Quiapo_Church",
+      "confidence": "documented"
+    },
+    {
+      "year": 1892,
+      "title": "Manila-Dagupan railway opens",
+      "detail": "The railway from Manila to Dagupan began operating in 1892.",
+      "source": "Chambers's Encyclopaedia (1901), via https://en.wikipedia.org/wiki/Timeline_of_Manila",
+      "confidence": "documented"
+    },
+    {
+      "year": 1898,
+      "title": "Battle of Manila; United States takes control",
+      "detail": "After the battle of 25 July-13 August 1898 the United States took over the government of the city from Spain.",
+      "source": "Encyclopaedia Britannica, 11th ed. (1911), 'Manila', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Manila , via https://en.wikipedia.org/wiki/Timeline_of_Manila",
+      "confidence": "documented"
+    },
+    {
+      "year": 1901,
+      "title": "City of Manila chartered",
+      "detail": "The charter of 31 July 1901 defined Manila as Intramuros plus the surrounding districts, eleven municipal districts in all.",
+      "source": "https://en.wikipedia.org/wiki/Manila",
+      "confidence": "documented"
+    },
+    {
+      "year": 1905,
+      "title": "Burnham Plan of Manila",
+      "detail": "Daniel Burnham's plan proposed diagonal arteries radiating from a new civic district, waterfront improvements, parks and parkways.",
+      "source": "Moore (1921), p. 162, via https://en.wikipedia.org/wiki/Manila",
+      "confidence": "documented"
+    },
+    {
+      "year": 1945,
+      "title": "Battle of Manila",
+      "detail": "In the battle of 3 February-3 March 1945 the city was largely razed by Japanese forces and American shelling, and about 100,000 civilians were killed by retreating Japanese forces.",
+      "source": "https://en.wikipedia.org/wiki/Manila",
+      "confidence": "documented"
+    },
+    {
+      "year": 1948,
+      "title": "Capital moved to Quezon City",
+      "detail": "The national capital was moved from Manila to Quezon City in 1948. It returned to Manila in 1976.",
+      "source": "World Book, via https://en.wikipedia.org/wiki/Timeline_of_Manila",
+      "confidence": "documented"
+    },
+    {
+      "year": 1975,
+      "title": "Metropolitan Manila Commission created",
+      "detail": "A single commission was created to administer Manila together with the surrounding cities and municipalities as Metro Manila.",
+      "source": "https://en.wikipedia.org/wiki/Timeline_of_Manila",
+      "confidence": "documented"
+    },
+    {
+      "year": 1984,
+      "title": "First light-rail line opens",
+      "detail": "Manila Light Rail Transit System Line 1 began operating in 1984. Metro Rail Transit Line 3 followed in 1999.",
+      "source": "https://en.wikipedia.org/wiki/Timeline_of_Manila",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Fort Santiago (gate)",
+      "year": 1593,
+      "height_m": 12.2,
+      "lat": 14.595,
+      "lon": 120.9694,
+      "kind": "fort",
+      "source": "https://en.wikipedia.org/wiki/Fort_Santiago",
+      "confidence": "documented",
+      "note": "Height of the front gateway facade (40 ft); the walls are 22 ft high. The gate was rebuilt after 1945."
+    },
+    {
+      "name": "San Sebastian Church",
+      "year": 1891,
+      "height_m": 32,
+      "lat": 14.5997,
+      "lon": 120.9889,
+      "kind": "church",
+      "source": "https://en.wikipedia.org/wiki/San_Sebastian_Church_(Manila)",
+      "confidence": "documented",
+      "note": "Height to the tips of the twin spires."
+    },
+    {
+      "name": "Rizal Monument",
+      "year": 1913,
+      "height_m": 12.7,
+      "lat": 14.5817,
+      "lon": 120.9767,
+      "kind": "monument",
+      "source": "https://en.wikipedia.org/wiki/Rizal_Monument",
+      "confidence": "documented"
+    },
+    {
+      "name": "Manila City Hall clock tower",
+      "year": 1941,
+      "height_m": 30.5,
+      "lat": 14.5898,
+      "lon": 120.9816,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Manila_City_Hall",
+      "confidence": "estimated",
+      "note": "The source says the tower reaches 'close to 100 feet'."
+    },
+    {
+      "name": "Quezon Memorial Shrine",
+      "year": 1978,
+      "height_m": 66,
+      "lat": 14.6508,
+      "lon": 121.0482,
+      "kind": "monument",
+      "source": "https://en.wikipedia.org/wiki/Quezon_Memorial_Shrine",
+      "confidence": "documented"
+    },
+    {
+      "name": "Pacific Plaza Condominiums",
+      "year": 1992,
+      "height_m": 150.03,
+      "lat": 14.5523,
+      "lon": 121.0281,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/pacific-plaza-condominiums/3995",
+      "confidence": "documented"
+    },
+    {
+      "name": "Robinsons Equitable Tower",
+      "year": 1997,
+      "height_m": 175,
+      "lat": 14.5895,
+      "lon": 121.06,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/robinsons-equitable-tower/9144",
+      "confidence": "documented"
+    },
+    {
+      "name": "PBCom Tower (Philippine Bank of Communications)",
+      "year": 2000,
+      "height_m": 258.6,
+      "lat": 14.5584,
+      "lon": 121.0193,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/philippine-bank-of-communications/784",
+      "confidence": "documented"
+    },
+    {
+      "name": "1322 Golden Empire Tower",
+      "year": 2002,
+      "height_m": 203,
+      "lat": 14.5763,
+      "lon": 120.9801,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/1322-golden-empire-tower/1601",
+      "confidence": "documented"
+    },
+    {
+      "name": "Gramercy Residences",
+      "year": 2013,
+      "height_m": 243.92,
+      "lat": 14.5655,
+      "lon": 121.0285,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/gramercy-residences/497",
+      "confidence": "documented"
+    },
+    {
+      "name": "Grand Riviera Suites",
+      "year": 2014,
+      "height_m": 230,
+      "lat": 14.5767,
+      "lon": 120.9799,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/grand-riviera-suites/13722",
+      "confidence": "documented"
+    },
+    {
+      "name": "Grand Hyatt Metrocenter (Metrobank Center)",
+      "year": 2016,
+      "height_m": 259.11,
+      "lat": 14.5564,
+      "lon": 121.052,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/grand-hyatt-metrocenter/5208",
+      "confidence": "documented",
+      "note": "Architectural height as listed by CTBUH."
+    },
+    {
+      "name": "Trump Tower at Century City",
+      "year": 2017,
+      "height_m": 250.66,
+      "lat": 14.5652,
+      "lon": 121.0283,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/trump-tower-at-century-city/13042",
+      "confidence": "documented"
+    },
+    {
+      "name": "The Mega Tower",
+      "year": 2021,
+      "height_m": 249.67,
+      "lat": 14.5829,
+      "lon": 121.0557,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/the-mega-tower/22870",
+      "confidence": "documented"
+    },
+    {
+      "name": "Park Central North Tower",
+      "year": 2025,
+      "height_m": 276,
+      "lat": 14.5595,
+      "lon": 121.0274,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/park-central-north-tower/32058",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/manila/",
+  "notes": "Start date (contested): the earliest dated document for a settlement inside today's city is the Laguna Copperplate Inscription of 900 CE, which names Tundun, identified by Postma and most later writers with Tondo, now a district of Manila on the north bank of the Pasig. That identification is the standard reading but is an interpretation of a place name, and the plate itself was found in Laguna province. Maynila, on the south bank where Intramuros stands, is said by oral tradition and genealogies (Henson) to have existed by 1258; that date is tradition, not a contemporary record, and the earliest archaeological evidence of organised settlement at the Maynila site is put around the 1500s. The Spanish city was founded on 24 June 1571. So the candidates are 900 (used here), about 1258 (tradition) and 1571 (securely documented Spanish foundation); if the site prefers a start that needs no interpretation, 1571 is the fallback. Population: no figure exists for 900-1571 and none was invented; the series starts in 1591. Figures to 1850 are Chandler's estimates for the city with its suburbs. From 1887 they are census counts for the City of Manila, not the metropolitan area; the Metro Manila totals given by Stinner are in the notes of each point, and the 1948 city figure (983,906) is well below the UN agglomeration figure for 1950. Left out because they do not fit one boundary: the 1876 census figure of 93,595 (1911 Britannica), which is lower than Chandler's 129,582 for 1870, and Morse's 38,000 for 1823. Chandler's 1900 (190,000) and 1925 (325,000) estimates were dropped in favour of the 1903 and 1918 censuses. Landmarks: no sourced height was found for the oldest surviving buildings (San Agustin Church, 1607; Manila Cathedral, rebuilt 1958; Binondo and Quiapo churches; the Central Post Office), so they are omitted; only Fort Santiago's gate represents the Spanish walled city, and its 40 ft height is for the gateway. The Manila City Hall tower height is approximate. Towers are spread across Metro Manila (Manila, Makati, Mandaluyong, Pasig, Taguig) and use CTBUH architectural heights; CTBUH lists Metrobank Center (Grand Hyatt) at 259.11 m, lower than the figure often quoted elsewhere."
+}

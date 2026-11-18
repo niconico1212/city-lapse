@@ -1,0 +1,436 @@
+{
+  "slug": "bengaluru",
+  "name": "Bengaluru",
+  "country": "India",
+  "start_year": 1537,
+  "start_label": "Kempe Gowda founds Bangalore and builds its mud fort",
+  "start_source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 6, p. 368 (Bangalore), https://archive.org/details/in.ernet.dli.2015.120384; https://en.wikipedia.org/wiki/Bengaluru",
+  "start_confidence": "documented",
+  "historic_core": {
+    "name": "Bangalore Fort, at the southern edge of the old Pete",
+    "lat": 12.9629,
+    "lon": 77.576,
+    "source": "https://en.wikipedia.org/wiki/Bangalore_Fort"
+  },
+  "population": [
+    {
+      "year": 1800,
+      "value": 50000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1820,
+      "value": 50000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1852,
+      "value": 134628,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494",
+      "note": "Exact figure as given by Chandler, presumably from a local enumeration; original not seen. Chandler gives 130,000 for 1850.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1871,
+      "value": 142513,
+      "confidence": "documented",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 6, pp. 368, 370 (Bangalore), https://archive.org/details/in.ernet.dli.2015.120384",
+      "note": "Sum of the two census figures printed in the Gazetteer: Bangalore city (the Pete, under Mysore State) and the Civil and Military Station (the British cantonment). City 60,703; Station 81,810.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1891,
+      "value": 180366,
+      "confidence": "documented",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 6, pp. 368, 370, https://archive.org/details/in.ernet.dli.2015.120384",
+      "note": "Sum of the two census figures printed in the Gazetteer: Bangalore city (the Pete, under Mysore State) and the Civil and Military Station (the British cantonment). City 80,285; Station 100,081.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1901,
+      "value": 163091,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "note": "Bengaluru urban agglomeration (Bruhat Bengaluru Mahanagara Palike area) as recast by the Census of India for the 2011 extent. The Imperial Gazetteer gives 159,046 for the city and Station as bounded in 1901 (69,447 and 89,599); the fall since 1891 was due to plague.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1911,
+      "value": 189485,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "note": "Bengaluru urban agglomeration (Bruhat Bengaluru Mahanagara Palike area) as recast by the Census of India for the 2011 extent.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1921,
+      "value": 240054,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "note": "Bengaluru urban agglomeration (Bruhat Bengaluru Mahanagara Palike area) as recast by the Census of India for the 2011 extent.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1931,
+      "value": 309785,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "note": "Bengaluru urban agglomeration (Bruhat Bengaluru Mahanagara Palike area) as recast by the Census of India for the 2011 extent.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1941,
+      "value": 410967,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4: Towns and urban agglomerations classified by population size class in 2011 with variation since 1901 (Class I), https://censusindia.gov.in/nada/index.php/catalog/42876/download/46544/CLASS_I.xlsx",
+      "note": "Bengaluru urban agglomeration (Bruhat Bengaluru Mahanagara Palike area) as recast by the Census of India for the 2011 extent.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 745999,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Bangalore\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 939396,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Bangalore\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 1165978,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Bangalore\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 1377314,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Bangalore\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 1614756,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Bangalore\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 2369541,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 3095305,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 3729483,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 4441591,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 5183009,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 6051928,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 7332774,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 8904750,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 10749239,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 12905733,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 13187098,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 13261056,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1537,
+      "title": "Kempe Gowda founds Bangalore",
+      "detail": "Kempe Gowda, chief of Yelahanka and a feudatory of the Vijayanagara Empire, founded the town in 1537 and built a mud fort; a watch-tower at each cardinal point marked the limits to which he expected it to grow.",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 6, p. 368, https://archive.org/details/in.ernet.dli.2015.120384; https://en.wikipedia.org/wiki/Bengaluru",
+      "confidence": "documented"
+    },
+    {
+      "year": 1638,
+      "title": "Conquered by Bijapur",
+      "detail": "An Adil Shahi army defeated Kempe Gowda III and the town became a jagir of Shahaji.",
+      "source": "https://en.wikipedia.org/wiki/Bengaluru",
+      "confidence": "documented"
+    },
+    {
+      "year": 1687,
+      "title": "Taken by the Mughals, passed to Mysore",
+      "detail": "The Mughal general Kasim Khan took the town in 1687, and it then passed to Chikka Devaraja Wodeyar of Mysore.",
+      "source": "https://en.wikipedia.org/wiki/Bengaluru",
+      "confidence": "documented"
+    },
+    {
+      "year": 1761,
+      "title": "Fort rebuilt in stone",
+      "detail": "Under Haidar Ali the mud fort south of the town was enlarged and rebuilt in stone.",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 6, p. 369, https://archive.org/details/in.ernet.dli.2015.120384",
+      "confidence": "documented"
+    },
+    {
+      "year": 1791,
+      "title": "Captured by Cornwallis",
+      "detail": "British forces under Cornwallis captured the fort on 21 March 1791 during the Third Anglo-Mysore War.",
+      "source": "https://en.wikipedia.org/wiki/Bengaluru",
+      "confidence": "documented"
+    },
+    {
+      "year": 1799,
+      "title": "Returned to the Mysore kingdom",
+      "detail": "After Tipu Sultan's death in 1799 the town was incorporated into the princely state of Mysore; the fort, dismantled by Tipu, was restored.",
+      "source": "https://en.wikipedia.org/wiki/Bengaluru; Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 6, p. 369, https://archive.org/details/in.ernet.dli.2015.120384",
+      "confidence": "documented"
+    },
+    {
+      "year": 1809,
+      "title": "British cantonment established",
+      "detail": "The British garrison was moved from Seringapatam in 1809 and a cantonment laid out beside the old town; the two grew as separate settlements.",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 6, p. 370, https://archive.org/details/in.ernet.dli.2015.120384; https://en.wikipedia.org/wiki/Bengaluru",
+      "confidence": "documented"
+    },
+    {
+      "year": 1864,
+      "title": "Railway to Madras",
+      "detail": "A rail connection to Madras opened in 1864.",
+      "source": "https://en.wikipedia.org/wiki/Bengaluru",
+      "confidence": "documented"
+    },
+    {
+      "year": 1892,
+      "title": "First planned extension",
+      "detail": "Chamrajpet, laid out westward from the fort in 1892, was the first extension of the old town.",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 6, p. 369, https://archive.org/details/in.ernet.dli.2015.120384",
+      "confidence": "documented"
+    },
+    {
+      "year": 1898,
+      "title": "Plague and the new extensions",
+      "detail": "Plague broke out in 1898 and killed nearly 3,500 people. The Basavangudi and Malleswaram extensions were added in 1899, and the Gazetteer notes that the city was largely extended after the outbreak.",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 6, pp. 368-369, https://archive.org/details/in.ernet.dli.2015.120384; https://en.wikipedia.org/wiki/Bengaluru",
+      "confidence": "documented"
+    },
+    {
+      "year": 1905,
+      "title": "Electric lighting",
+      "detail": "From 1905 the city was lit by electricity transmitted from the Cauvery Falls at Sivasamudram.",
+      "source": "Imperial Gazetteer of India, new edition (Oxford, 1908), vol. 6, p. 369, https://archive.org/details/in.ernet.dli.2015.120384",
+      "confidence": "documented"
+    },
+    {
+      "year": 1949,
+      "title": "City and cantonment merged",
+      "detail": "The old city and the former cantonment, which had developed as independent settlements, were merged under a single urban administration in 1949.",
+      "source": "https://en.wikipedia.org/wiki/Bengaluru",
+      "confidence": "documented"
+    },
+    {
+      "year": 1956,
+      "title": "Capital of the unified Mysore State",
+      "detail": "Bangalore remained the capital when Mysore State was enlarged and unified in 1956 (renamed Karnataka in 1973); the Vidhana Soudha was completed the same year.",
+      "source": "https://en.wikipedia.org/wiki/Bengaluru; https://en.wikipedia.org/wiki/Vidhana_Soudha",
+      "confidence": "documented"
+    },
+    {
+      "year": 2008,
+      "title": "New international airport",
+      "detail": "Bengaluru International Airport opened at Devanahalli, 31 km from the city, replacing the HAL airport for commercial flights.",
+      "source": "https://en.wikipedia.org/wiki/Bengaluru",
+      "confidence": "documented"
+    },
+    {
+      "year": 2011,
+      "title": "Namma Metro opens",
+      "detail": "The Namma Metro, the first operational metro in South India, opened in 2011.",
+      "source": "https://en.wikipedia.org/wiki/Bengaluru",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Vidhana Soudha",
+      "year": 1956,
+      "height_m": 45.7,
+      "lat": 12.9796,
+      "lon": 77.5906,
+      "kind": "other",
+      "source": "https://en.wikipedia.org/wiki/Vidhana_Soudha",
+      "confidence": "documented",
+      "note": "150 ft, converted to metres; height from the Wikipedia infobox."
+    },
+    {
+      "name": "Public Utility Building (Subhas Chandra Bose Tower)",
+      "year": 1973,
+      "height_m": 106,
+      "lat": 12.9741,
+      "lon": 77.6099,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/subhas-chandra-bose-tower/4991",
+      "confidence": "documented"
+    },
+    {
+      "name": "Shivoham Shiva statue",
+      "year": 1995,
+      "height_m": 19.8,
+      "lat": 12.9578,
+      "lon": 77.6564,
+      "kind": "monument",
+      "source": "https://en.wikipedia.org/wiki/Shivoham_Shiva_Temple",
+      "confidence": "documented",
+      "note": "Statue of 65 ft, converted to metres. Position from OpenStreetMap (way 323121670)."
+    },
+    {
+      "name": "UB Tower",
+      "year": 2007,
+      "height_m": 123,
+      "lat": 12.9729,
+      "lon": 77.5958,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/ub-tower/13883",
+      "confidence": "documented"
+    },
+    {
+      "name": "World Trade Center Bangalore",
+      "year": 2010,
+      "height_m": 128,
+      "lat": 13.0121,
+      "lon": 77.5562,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/world-trade-center/9195",
+      "confidence": "documented"
+    },
+    {
+      "name": "Zenith Residence Tower 1",
+      "year": 2013,
+      "height_m": 116,
+      "lat": 13.0472,
+      "lon": 77.6162,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/zenith-residence-tower-1/35755",
+      "confidence": "documented"
+    },
+    {
+      "name": "Mantri Pinnacle",
+      "year": 2016,
+      "height_m": 153,
+      "lat": 12.8759,
+      "lon": 77.598,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/mantri-pinnacle/14522",
+      "confidence": "documented"
+    },
+    {
+      "name": "Four Seasons Hotel Bengaluru",
+      "year": 2019,
+      "height_m": 105,
+      "lat": 13.0194,
+      "lon": 77.5852,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/four-seasons-hotel-bengaluru/34867",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/bengaluru/",
+  "notes": "Start date: 1537, when Kempe Gowda founded the town and built its mud fort, is given by both the Imperial Gazetteer of 1908 and current references and is not seriously contested as the founding of the city. The name is older: an inscription of about 890 CE at the Nageshwara temple in Begur is the first mention of 'Bengaluru', and the Gazetteer records a legend of the Hoysala king Vira Ballala and an 'Old Bengaluru' to the north. Those refer to earlier villages, not to the town that became the city. Population: this series is thin. No estimate at all was found for 1537-1800. Chandler supplies 1800, 1820 and 1852. The city was two municipalities until 1949, so the 1871 and 1891 points are sums of the two census figures the Gazetteer prints for Bangalore city and the Civil and Military Station. The 1881 point is missing on purpose: the Gazetteer prints 62,317 for the city but an obviously misprinted figure for the Station (839,540, confirmed on the page image), so no reliable total could be formed. The 1901-1941 points are the Census of India's back-series for the present municipal area (Table A-4, 2011), which fits the UN series from 1950. Landmarks: there is no landmark before 1956, because no sourced height was found for any of the older monuments: Bangalore Fort (stone fort of 1761), Tipu Sultan's Summer Palace (1791), the Attara Kacheri or High Court (1868), Bangalore Palace (1878), St. Mary's Basilica (1882; a 160 ft tower is quoted on travel sites but could not be confirmed on a page opened), the Bull Temple and Kempe Gowda's watch-towers. The modern towers are from the CTBUH Skyscraper Center, which lists the 161 m Presidential Tower as still under construction, so it is left out."
+}

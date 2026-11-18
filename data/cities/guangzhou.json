@@ -1,0 +1,584 @@
+{
+  "slug": "guangzhou",
+  "name": "Guangzhou",
+  "country": "China",
+  "start_year": -214,
+  "start_label": "Panyu founded as seat of the Qin empire's Nanhai Commandery",
+  "start_source": "https://en.wikipedia.org/wiki/Guangzhou#History ; Taylor, Keith Weller (1983), The Birth of Vietnam (cited there for the Qin-Nanyue period)",
+  "start_confidence": "documented",
+  "historic_core": {
+    "name": "Site of the Nanyue Kingdom palace (Panyu), Zhongshan 4th Road",
+    "lat": 23.1296,
+    "lon": 113.2644,
+    "source": "https://en.wikipedia.org/wiki/Panyu_(ancient_city) ; point on the Nanyue Kingdom Palace Museum from OpenStreetMap (WGS-84), https://www.openstreetmap.org/"
+  },
+  "population": [
+    {
+      "year": 700,
+      "value": 200000,
+      "confidence": "estimated",
+      "source": "Modelski (2003), World Cities: -3000 to 2000, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (modelskiAncientV2.csv)",
+      "note": "Tang-era port city. Modelski's series; much higher than Chandler's figure for 1000, so the two are not directly comparable.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 800,
+      "value": 200000,
+      "confidence": "estimated",
+      "source": "Modelski (2003), World Cities: -3000 to 2000, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (modelskiAncientV2.csv)",
+      "note": "Modelski's series; see the 700 note.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1000,
+      "value": 40000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1100,
+      "value": 55000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1200,
+      "value": 110000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1300,
+      "value": 150000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1400,
+      "value": 150000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1500,
+      "value": 150000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1600,
+      "value": 180000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1650,
+      "value": 200000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "note": "Chandler gives 116,000 for 1665, after the Qing siege of 1650 and the coastal evacuation.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1700,
+      "value": 200000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1750,
+      "value": 400000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1800,
+      "value": 800000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1850,
+      "value": 875000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1875,
+      "value": 670000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1900,
+      "value": 585000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1914,
+      "value": 700000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1925,
+      "value": 789000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1936,
+      "value": 1122600,
+      "confidence": "estimated",
+      "source": "Webster's Geographical Dictionary (1960), G. & C. Merriam Co., via https://en.wikipedia.org/wiki/Timeline_of_Guangzhou",
+      "note": "Listed as an estimate in the source.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 1048975,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Guangzhou, Guangdong\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 1155063,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Guangzhou, Guangdong\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 1271914,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Guangzhou, Guangdong\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 1400511,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Guangzhou, Guangdong\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 1542151,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Guangzhou, Guangdong\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 1644240,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 2086190,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 2746863,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 4135425,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 9101542,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 18970258,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 22306405,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 24200998,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 25320819,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 26508282,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 27563372,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 27739195,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": -214,
+      "title": "Panyu founded by the Qin",
+      "detail": "Panyu was established on the Pearl River as the seat of Nanhai Commandery during the Qin conquest of the Baiyue lands.",
+      "source": "https://en.wikipedia.org/wiki/Guangzhou#History",
+      "confidence": "documented"
+    },
+    {
+      "year": -204,
+      "title": "Capital of the Nanyue kingdom",
+      "detail": "After the fall of the Qin, General Zhao Tuo founded the kingdom of Nanyue and made Panyu its capital.",
+      "source": "Taylor (1983), The Birth of Vietnam, via https://en.wikipedia.org/wiki/Guangzhou#History",
+      "confidence": "documented"
+    },
+    {
+      "year": -111,
+      "title": "Han conquest of Nanyue",
+      "detail": "Han armies under Lu Bode and Yang Pu took Panyu and annexed Nanyue; the city became a Han provincial capital.",
+      "source": "Morton & Lewis, China: Its History and Culture, via https://en.wikipedia.org/wiki/Guangzhou#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 226,
+      "title": "Seat of Guang Prefecture",
+      "detail": "Panyu became the seat of the new Guang Prefecture (Guangzhou), which gave the city its modern name.",
+      "source": "https://en.wikipedia.org/wiki/Guangzhou#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 758,
+      "title": "Port sacked by Arab and Persian raiders",
+      "detail": "With China distracted by the An Lushan Rebellion, Arab and Persian pirates sacked the city on 30 October 758.",
+      "source": "https://en.wikipedia.org/wiki/Guangzhou#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 917,
+      "title": "Capital of the Southern Han",
+      "detail": "Liu Yan made the city the capital of his 'Great Yue' or Southern Han state, which lasted from 917 to 971.",
+      "source": "https://en.wikipedia.org/wiki/Guangzhou#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1650,
+      "title": "Qing siege and massacre",
+      "detail": "On 24 November 1650 Shang Kexi's forces took the city after a prolonged siege and killed up to 70,000 people.",
+      "source": "https://en.wikipedia.org/wiki/Guangzhou#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1757,
+      "title": "Canton System: China's only port for Western trade",
+      "detail": "From 1757 to 1842 the Thirteen Factories on the riverfront were the only legal place for foreign trade with China.",
+      "source": "Chatwin, Jonathan, The Southern Tour, p. xviii, via https://en.wikipedia.org/wiki/Guangzhou#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1841,
+      "title": "British capture Canton in the First Opium War",
+      "detail": "British forces captured the city on 18 March 1841; the 1842 treaty ended its trade monopoly as other treaty ports opened.",
+      "source": "https://en.wikipedia.org/wiki/Guangzhou#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1856,
+      "title": "Arrow War: factories burned, city occupied",
+      "detail": "The foreign factories were destroyed in 1856 and British and French forces occupied the city until 1861; Shamian Island was divided into British and French concessions in 1859.",
+      "source": "Webster's Geographical Dictionary (1960) and Farris (2007), via https://en.wikipedia.org/wiki/Timeline_of_Guangzhou",
+      "confidence": "documented"
+    },
+    {
+      "year": 1911,
+      "title": "Kowloon-Canton Railway; Second Guangzhou Uprising",
+      "detail": "The railway to Kowloon began operating, and an uprising in the city that year was a forerunner of the 1911 Revolution.",
+      "source": "https://en.wikipedia.org/wiki/Timeline_of_Guangzhou ; https://en.wikipedia.org/wiki/Guangzhou#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1919,
+      "title": "City walls demolished",
+      "detail": "Work began in June 1919 on demolishing the city wall to make way for wider streets and tramways; it took three years.",
+      "source": "Lee, Edward Bing-Shuey (1936), Modern Canton, via https://en.wikipedia.org/wiki/Guangzhou#Transportation",
+      "confidence": "documented"
+    },
+    {
+      "year": 1938,
+      "title": "Japanese occupation",
+      "detail": "Japanese forces occupied the city from 21 October 1938 until 16 September 1945.",
+      "source": "Webster's Geographical Dictionary (1960), via https://en.wikipedia.org/wiki/Timeline_of_Guangzhou",
+      "confidence": "documented"
+    },
+    {
+      "year": 1949,
+      "title": "People's Liberation Army enters Guangzhou",
+      "detail": "The city, briefly the seat of the Nationalist government, was captured on 14 October 1949; retreating forces blew up the Haizhu Bridge.",
+      "source": "https://en.wikipedia.org/wiki/Guangzhou#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1997,
+      "title": "Guangzhou Metro opens",
+      "detail": "The first metro line opened in 1997, making Guangzhou the fourth mainland Chinese city with an underground railway.",
+      "source": "https://en.wikipedia.org/wiki/Guangzhou#Transportation",
+      "confidence": "documented"
+    },
+    {
+      "year": 2010,
+      "title": "Asian Games and Canton Tower",
+      "detail": "Guangzhou hosted the 2010 Asian Games in November; the Canton Tower and the International Finance Center were completed the same year.",
+      "source": "https://en.wikipedia.org/wiki/Timeline_of_Guangzhou",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Huaisheng Mosque minaret (Guangta)",
+      "year": 627,
+      "height_m": 36,
+      "lat": 23.126,
+      "lon": 113.2537,
+      "kind": "mosque",
+      "source": "https://en.wikipedia.org/wiki/Huaisheng_Mosque ; position from OpenStreetMap (WGS-84)",
+      "confidence": "estimated",
+      "note": "Date disputed: traditionally about 627 (Tang, Zhenguan era); other scholars date the minaret to the later Tang or the Song dynasty."
+    },
+    {
+      "name": "Flower Pagoda, Temple of the Six Banyan Trees",
+      "year": 1097,
+      "height_m": 57.6,
+      "lat": 23.1309,
+      "lon": 113.2547,
+      "kind": "temple",
+      "source": "https://zh.wikipedia.org/wiki/六榕寺 (height 57.6 m with finial) ; https://en.wikipedia.org/wiki/Temple_of_the_Six_Banyan_Trees ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented",
+      "note": "Built 1097; rebuilt 1373 after a fire and restored in 1900."
+    },
+    {
+      "name": "Zhenhai Tower",
+      "year": 1380,
+      "height_m": 28,
+      "lat": 23.1406,
+      "lon": 113.2603,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Zhenhai_Tower_(Guangzhou) (92 ft) ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Pazhou Pagoda",
+      "year": 1600,
+      "height_m": 59,
+      "lat": 23.1017,
+      "lon": 113.3703,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Pazhou_Pagoda ; position from OpenStreetMap (WGS-84)",
+      "confidence": "estimated",
+      "note": "Source gives 'about 59 m'."
+    },
+    {
+      "name": "Chigang Pagoda",
+      "year": 1619,
+      "height_m": 53.7,
+      "lat": 23.1043,
+      "lon": 113.3173,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Chigang_Pagoda ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Sacred Heart Cathedral",
+      "year": 1888,
+      "height_m": 52.76,
+      "lat": 23.1174,
+      "lon": 113.2547,
+      "kind": "church",
+      "source": "https://en.wikipedia.org/wiki/Sacred_Heart_Cathedral_(Guangzhou) ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Sun Yat-sen Memorial Hall",
+      "year": 1931,
+      "height_m": 49,
+      "lat": 23.1356,
+      "lon": 113.2593,
+      "kind": "monument",
+      "source": "https://en.wikipedia.org/wiki/Sun_Yat-sen_Memorial_Hall_(Guangzhou) ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Aiqun (Oi Kwan) Hotel",
+      "year": 1937,
+      "height_m": 64,
+      "lat": 23.1121,
+      "lon": 113.2516,
+      "kind": "skyscraper",
+      "source": "https://en.wikipedia.org/wiki/Aiqun_Hotel ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Baiyun Hotel",
+      "year": 1976,
+      "height_m": 93.5,
+      "lat": 23.1407,
+      "lon": 113.2807,
+      "kind": "skyscraper",
+      "source": "https://en.wikipedia.org/wiki/Baiyun_Hotel (citing http://www.baiyun-hotel.com/a94.html) ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented",
+      "note": "93.5 m to roof; 117 m with antenna."
+    },
+    {
+      "name": "Guangdong International Building",
+      "year": 1990,
+      "height_m": 200.25,
+      "lat": 23.141,
+      "lon": 113.2776,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/guangdong-international-building/1656",
+      "confidence": "documented"
+    },
+    {
+      "name": "Guangzhou TV Tower",
+      "year": 1991,
+      "height_m": 217,
+      "lat": 23.1472,
+      "lon": 113.2631,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Guangzhou_TV_Tower ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "CITIC Plaza",
+      "year": 1996,
+      "height_m": 390.2,
+      "lat": 23.1443,
+      "lon": 113.3195,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/citic-plaza/242",
+      "confidence": "documented"
+    },
+    {
+      "name": "Guangzhou International Finance Center",
+      "year": 2010,
+      "height_m": 438.6,
+      "lat": 23.1203,
+      "lon": 113.3181,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/guangzhou-international-finance-center/174",
+      "confidence": "documented"
+    },
+    {
+      "name": "Canton Tower",
+      "year": 2010,
+      "height_m": 604,
+      "lat": 23.109,
+      "lon": 113.3191,
+      "kind": "tower",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/canton-tower/9385 ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Pearl River Tower",
+      "year": 2013,
+      "height_m": 309.6,
+      "lat": 23.1268,
+      "lon": 113.3176,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/pearl-river-tower/454",
+      "confidence": "documented"
+    },
+    {
+      "name": "Guangzhou CTF Finance Centre",
+      "year": 2016,
+      "height_m": 530,
+      "lat": 23.1203,
+      "lon": 113.3206,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/guangzhou-ctf-finance-centre/176",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/guangzhou/",
+  "notes": "Start date: the Qin foundation of Panyu in 214 BC as seat of Nanhai Commandery is the standard documented date and is the date used by the sources consulted. The historic core point is the Nanyue Kingdom Palace Museum on Zhongshan 4th Road, located via OpenStreetMap. Older tradition speaks of a settlement called Nanwucheng (said to exist by 1100 BC, or founded under King Nan of Zhou, 314-256 BC); this is treated as legend and not used. Population: nothing was found before AD 700. The 700 and 800 points are Modelski's (200,000) and the series from 1000 to 1925 is Chandler's, both as digitised by Reba et al. (2016); the two series do not join smoothly (Chandler has 40,000 for 1000). All are scholarly estimates for the walled city and suburbs, not counts. The 1936 figure is an estimate from Webster's Geographical Dictionary. Another estimate of 400,000 for 1879 (Lo et al. 1977, via Wikipedia's timeline) conflicts with Chandler's 670,000 for 1875 and was left out. No census figure before 1950 was found. Landmarks: skyscrapers and the Canton Tower are from the CTBUH Skyscraper Center; older structures take heights from Wikipedia (English or Chinese) and positions from OpenStreetMap. The Huaisheng minaret's date is disputed and Pazhou Pagoda's height is approximate; both are marked 'estimated'. The cathedral's tower height is as given on Wikipedia (52.76 m); other figures circulate. Left out: Guangzhou Hotel (1968), whose CTBUH height (104 m) conflicts with other accounts; Haizhu Bridge, Chen Clan Ancestral Hall and Guangxiao Temple (no sourced height)."
+}

@@ -1,0 +1,571 @@
+{
+  "slug": "tokyo",
+  "name": "Tokyo",
+  "country": "Japan",
+  "start_year": 1457,
+  "start_label": "Edo Castle built by Ōta Dōkan",
+  "start_source": "https://en.wikipedia.org/wiki/Edo_Castle (built 1457 by Ōta Dōkan; cites World Digital Library, 'Map of Bushū Toshima District, Edo', http://www.wdl.org/en/item/9931)",
+  "start_confidence": "documented",
+  "historic_core": {
+    "name": "Edo Castle keep base (Tenshudai), Imperial Palace East Gardens",
+    "lat": 35.6883,
+    "lon": 139.7544,
+    "source": "OpenStreetMap Nominatim, '天守台, 千代田, 千代田区' (https://nominatim.openstreetmap.org/); site described at https://www.mlit.go.jp/tagengo-db/en/H30-00468.html"
+  },
+  "population": [
+    {
+      "year": 1600,
+      "value": 60000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), https://doi.org/10.1038/sdata.2016.34",
+      "note": "Chandler's estimate for Edo ten years after Tokugawa Ieyasu made it his base. Contemporary accounts describe only about a hundred thatched houses outside the castle in 1590.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1609,
+      "value": 150000,
+      "confidence": "estimated",
+      "source": "Rodrigo de Vivero's report of his 1609 visit, as given in https://ja.wikipedia.org/wiki/江戸の人口 ; the same figure is used by Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), https://doi.org/10.1038/sdata.2016.34",
+      "note": "A visitor's contemporary estimate for the whole of Edo, six years after it became the shogun's seat. Not a count.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1650,
+      "value": 430000,
+      "confidence": "estimated",
+      "source": "Saitō Seiji (1984), '江戸時代の都市人口', 地域開発 (September), pp. 48-63, via https://ja.wikipedia.org/wiki/江戸の人口",
+      "note": "Estimated total population of Edo including samurai. Chandler (1987) gives 500,000 for the same year.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1721,
+      "value": 1000000,
+      "confidence": "estimated",
+      "source": "Kitō Hiroshi (1989), '江戸＝東京の人口発展：明治維新の前と後', 上智経済論集 34(1-2), pp. 48-69, via https://ja.wikipedia.org/wiki/江戸の人口",
+      "note": "The first regular shogunate count (November 1721) recorded 501,394 townspeople only; samurai, their retainers and clergy were never counted. Kitō doubles the townspeople figure and concludes the total had passed one million. Chandler's much lower method gives 700,000.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1750,
+      "value": 1220000,
+      "confidence": "estimated",
+      "source": "Saitō Seiji (1984), '江戸時代の都市人口', 地域開発 (September), pp. 48-63, via https://ja.wikipedia.org/wiki/江戸の人口",
+      "note": "Estimated total population of Edo including samurai. Chandler (1987) gives 694,000.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1850,
+      "value": 1150000,
+      "confidence": "estimated",
+      "source": "Saitō Seiji (1984), '江戸時代の都市人口', 地域開発 (September), pp. 48-63, via https://ja.wikipedia.org/wiki/江戸の人口",
+      "note": "Estimated total including samurai. The counted townspeople population was 575,091 in September 1853. Chandler (1987) gives 780,000 for 1850; Japanese estimates for the late Edo peak range from about 1.1 to 1.3 million.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1872,
+      "value": 859345,
+      "confidence": "documented",
+      "source": "Tokyo Metropolitan Government, Tokyo Statistical Yearbook 2023, table 2-1 'Population trend', https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm",
+      "note": "Resident population of Tokyo Prefecture (Tōkyō-fu) as it then was, slightly larger than the former city of Edo. The fall from the Edo-period peak reflects the departure of the samurai households after 1868.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1880,
+      "value": 1084745,
+      "confidence": "documented",
+      "source": "Tokyo Metropolitan Government, Tokyo Statistical Yearbook 2023, table 2-1 'Population trend', https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm",
+      "note": "Tokyo Prefecture.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1890,
+      "value": 1385700,
+      "confidence": "documented",
+      "source": "Tokyo Metropolitan Government, Tokyo Statistical Yearbook 2023, table 2-1 'Population trend', https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm",
+      "note": "Tokyo Prefecture.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1900,
+      "value": 1947300,
+      "confidence": "documented",
+      "source": "Tokyo Metropolitan Government, Tokyo Statistical Yearbook 2023, table 2-1 'Population trend', https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm",
+      "note": "Tokyo Prefecture. The prefecture had been enlarged in the 1890s (the official series jumps 18.6% between 1893 and 1894).",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1910,
+      "value": 2706800,
+      "confidence": "documented",
+      "source": "Tokyo Metropolitan Government, Tokyo Statistical Yearbook 2023, table 2-1 'Population trend', https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm",
+      "note": "Tokyo Prefecture.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1920,
+      "value": 3699428,
+      "confidence": "documented",
+      "source": "Tokyo Metropolitan Government, Tokyo Statistical Yearbook 2023, table 2-1 'Population trend', https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm",
+      "note": "Tokyo Prefecture, first national census (1 October 1920). Tokyo City proper (15 wards) held about 2.17 million of these.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1930,
+      "value": 5408678,
+      "confidence": "documented",
+      "source": "Tokyo Metropolitan Government, Tokyo Statistical Yearbook 2023, table 2-1 'Population trend', https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm",
+      "note": "Tokyo Prefecture, national census.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1940,
+      "value": 7354971,
+      "confidence": "documented",
+      "source": "Tokyo Metropolitan Government, Tokyo Statistical Yearbook 2023, table 2-1 'Population trend', https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm",
+      "note": "Tokyo Prefecture, national census. Tokyo City (35 wards) held 6,778,804 of these.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1945,
+      "value": 3488284,
+      "confidence": "documented",
+      "source": "Tokyo Metropolitan Government, Tokyo Statistical Yearbook 2023, table 2-1 'Population trend', https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm",
+      "note": "Tokyo Metropolis after the air raids and wartime evacuation; down 52% on 1944.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 11274641,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Tokyo\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 13712679,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Tokyo\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 16678821,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Tokyo\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 20284371,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Tokyo\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 23297503,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Tokyo\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 24281618,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 25912201,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 27209324,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 28588983,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 29222295,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 30302560,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 31352582,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 32558339,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 33103603,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 33698874,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 33412512,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 33338852,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1457,
+      "title": "Ōta Dōkan builds Edo Castle",
+      "detail": "A retainer of the Uesugi clan builds a castle on the former fortified residence of the Edo clan. A small castle town grows beside it along the Hirakawa River.",
+      "source": "https://en.wikipedia.org/wiki/Edo_Castle ; https://en.wikipedia.org/wiki/Edo",
+      "confidence": "documented"
+    },
+    {
+      "year": 1590,
+      "title": "Tokugawa Ieyasu enters Edo",
+      "detail": "After the siege of Odawara, Ieyasu is given the Kantō region and makes the small, run-down castle his base. He begins laying out a castle town and filling in the tidal inlets.",
+      "source": "https://en.wikipedia.org/wiki/Edo ; https://ja.wikipedia.org/wiki/江戸の人口",
+      "confidence": "documented"
+    },
+    {
+      "year": 1603,
+      "title": "Edo becomes the shogunate's capital",
+      "detail": "Ieyasu is appointed shogun and governs Japan from Edo Castle. He orders the daimyo to build out the city, cutting down Kanda hill to fill Hibiya inlet.",
+      "source": "https://en.wikipedia.org/wiki/Edo ; https://ja.wikipedia.org/wiki/江戸の人口",
+      "confidence": "documented"
+    },
+    {
+      "year": 1635,
+      "title": "Alternate attendance fills Edo with daimyo estates",
+      "detail": "The sankin-kōtai system requires every daimyo to keep a residence in Edo. Samurai districts come to occupy about 70 percent of the city's area.",
+      "source": "https://ja.wikipedia.org/wiki/江戸の人口 ; https://en.wikipedia.org/wiki/Edo",
+      "confidence": "documented"
+    },
+    {
+      "year": 1657,
+      "title": "Great Fire of Meireki",
+      "detail": "Fire destroys most of Edo, including the castle keep, with a death toll put at around 100,000. The rebuilt city has wider streets and firebreaks and spreads east across the Sumida River.",
+      "source": "https://en.wikipedia.org/wiki/Edo ; https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/edojoh/page2-1.html",
+      "confidence": "documented"
+    },
+    {
+      "year": 1721,
+      "title": "First regular census; Edo passes one million",
+      "detail": "The shogunate's first regular count records 501,394 townspeople. With the uncounted samurai population, historians put the total above one million, among the largest cities in the world.",
+      "source": "https://ja.wikipedia.org/wiki/江戸の人口 ; https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/machi/page3-1.html",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1868,
+      "title": "Edo renamed Tokyo, the Eastern Capital",
+      "detail": "After the fall of the shogunate, Edo is renamed Tokyo on 3 September 1868 and the emperor moves from Kyoto. Edo Castle becomes the Imperial Palace.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1872,
+      "title": "Japan's first railway reaches Tokyo",
+      "detail": "The country's first railway opens between Shimbashi in Tokyo and Yokohama.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Tokyo ; https://en.wikipedia.org/wiki/Tokyo#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1889,
+      "title": "Tokyo City established",
+      "detail": "The 15 wards of the old city are incorporated as Tokyo City on 1 May 1889, within Tokyo Prefecture.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_City",
+      "confidence": "documented"
+    },
+    {
+      "year": 1923,
+      "title": "Great Kantō earthquake",
+      "detail": "The earthquake of 1 September 1923 and the fires that follow kill an estimated 105,000 people and level much of the low city. Rebuilding shifts construction from timber and brick to reinforced concrete.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1927,
+      "title": "First subway opens between Ueno and Asakusa",
+      "detail": "The first section of what is now the Ginza Line opens on 30 December 1927, the first underground railway built outside Europe and the Americas.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1932,
+      "title": "Greater Tokyo: 82 towns and villages absorbed",
+      "detail": "Tokyo City annexes 82 surrounding municipalities on 1 October 1932, growing from 15 to 35 wards and reaching roughly the extent of today's 23 special wards.",
+      "source": "https://ja.wikipedia.org/wiki/東京市 ; https://en.wikipedia.org/wiki/Tokyo_City",
+      "confidence": "documented"
+    },
+    {
+      "year": 1943,
+      "title": "Tokyo Metropolis created",
+      "detail": "Tokyo City and Tokyo Prefecture are merged into a single Tokyo Metropolis (Tōkyō-to) on 1 July 1943.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_City",
+      "confidence": "documented"
+    },
+    {
+      "year": 1945,
+      "title": "Firebombing destroys half the city",
+      "detail": "The air raid of 9-10 March 1945 burns out two-fifths of the city, destroys more than 276,000 buildings and kills about 100,000 civilians. The metropolis's population falls by half within a year.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo#History ; https://www.toukei.metro.tokyo.lg.jp/tnenkan/2023/tn23q3i002.htm",
+      "confidence": "documented"
+    },
+    {
+      "year": 1964,
+      "title": "Olympic Games and the first Shinkansen",
+      "detail": "Tokyo hosts the first Olympic Games held in Asia. The Tōkaidō Shinkansen to Osaka and the Shuto Expressway open the same year.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1968,
+      "title": "Kasumigaseki Building starts the skyscraper era",
+      "detail": "With the 31-metre building height limit relaxed, the Kasumigaseki Building becomes Tokyo's first modern skyscraper. Towers over 200 metres follow in West Shinjuku in the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo#History ; https://www.skyscrapercenter.com/city/tokyo",
+      "confidence": "documented"
+    },
+    {
+      "year": 2021,
+      "title": "Second Tokyo Olympics",
+      "detail": "The 2020 Summer Olympics, postponed by the COVID-19 pandemic, are held from 23 July to 8 August 2021. Tokyo is the first Asian city to host the Games twice.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo#History",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Zōjō-ji Sangedatsumon gate",
+      "year": 1622,
+      "height_m": 21,
+      "lat": 35.6575,
+      "lon": 139.7484,
+      "kind": "gate",
+      "source": "https://en.wikipedia.org/wiki/Zōjō-ji (21 m two-storied main gate, constructed 1622, the oldest wooden building in Tokyo; cites the temple pamphlet)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Edo Castle keep (Kan'ei tenshu)",
+      "year": 1638,
+      "height_m": 51,
+      "lat": 35.6883,
+      "lon": 139.7544,
+      "kind": "fort",
+      "demolished_year": 1657,
+      "source": "https://en.wikipedia.org/wiki/Edo_Castle (five-story keep 51 m in height; third keep completed 1638, destroyed in the 1657 Meireki fire); dates confirmed at https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/edojoh/page2-1.html",
+      "confidence": "estimated"
+    },
+    {
+      "name": "National Diet Building",
+      "year": 1936,
+      "height_m": 65.45,
+      "lat": 35.6758,
+      "lon": 139.7447,
+      "kind": "other",
+      "source": "https://en.wikipedia.org/wiki/National_Diet_Building (completed 7 November 1936; height 65.45 m; tallest building in Japan 1936-1964)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Tokyo Tower",
+      "year": 1958,
+      "height_m": 333,
+      "lat": 35.6586,
+      "lon": 139.7456,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Tower (completed 1958; architectural height 333 m)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Kaminarimon (Sensō-ji outer gate, current structure)",
+      "year": 1960,
+      "height_m": 11.7,
+      "lat": 35.7111,
+      "lon": 139.7964,
+      "kind": "gate",
+      "source": "https://en.wikipedia.org/wiki/Kaminarimon (first built 941; current gate 1960; 11.7 m tall)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Hōzōmon (Sensō-ji inner gate, current structure)",
+      "year": 1964,
+      "height_m": 22.7,
+      "lat": 35.7139,
+      "lon": 139.7967,
+      "kind": "gate",
+      "source": "https://en.wikipedia.org/wiki/Hōzōmon (first built 942, rebuilt 1636, burned 1945; present reinforced-concrete gate built 1964, 22.7 m tall)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Kasumigaseki Building",
+      "year": 1968,
+      "height_m": 156,
+      "lat": 35.6711,
+      "lon": 139.7469,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/tokyo (Kasumigaseki Building, building id 3615)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Sensō-ji five-storey pagoda (current structure)",
+      "year": 1973,
+      "height_m": 53,
+      "lat": 35.7143,
+      "lon": 139.796,
+      "kind": "temple",
+      "source": "https://ja.wikipedia.org/wiki/浅草寺 (rebuilt 1973 in reinforced concrete; podium about 5 m high, tower itself about 48 m). The earlier pagoda of 1648 burned in the 1945 air raid.",
+      "confidence": "estimated"
+    },
+    {
+      "name": "Sunshine 60",
+      "year": 1978,
+      "height_m": 240,
+      "lat": 35.7294,
+      "lon": 139.718,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/sunshine-60-tower/990",
+      "confidence": "documented"
+    },
+    {
+      "name": "Tokyo Metropolitan Government Building",
+      "year": 1991,
+      "height_m": 243.39,
+      "lat": 35.6895,
+      "lon": 139.6917,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/tokyo (Tokyo Metropolitan Government Building, building id 945)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Rainbow Bridge",
+      "year": 1993,
+      "height_m": 126,
+      "lat": 35.6364,
+      "lon": 139.7636,
+      "kind": "bridge",
+      "source": "https://en.wikipedia.org/wiki/Rainbow_Bridge_(Tokyo) (completed 1993; towers 126 m)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Roppongi Hills Mori Tower",
+      "year": 2003,
+      "height_m": 238.06,
+      "lat": 35.6604,
+      "lon": 139.7291,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/tokyo (Roppongi Hills Mori Tower, building id 1022)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Midtown Tower",
+      "year": 2007,
+      "height_m": 247.9,
+      "lat": 35.6661,
+      "lon": 139.7313,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/midtown-tower/901",
+      "confidence": "documented"
+    },
+    {
+      "name": "Tokyo Skytree",
+      "year": 2012,
+      "height_m": 634,
+      "lat": 35.7101,
+      "lon": 139.8107,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Skytree (completed 29 February 2012; height 634.0 m)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Toranomon Hills Mori Tower",
+      "year": 2014,
+      "height_m": 255.5,
+      "lat": 35.6663,
+      "lon": 139.7497,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/toranomon-hills-mori-tower/12388",
+      "confidence": "documented"
+    },
+    {
+      "name": "Azabudai Hills Mori JP Tower",
+      "year": 2023,
+      "height_m": 327.2,
+      "lat": 35.6608,
+      "lon": 139.7404,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/mori-jp-tower/35022",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/tokyo/",
+  "notes": "Start date: 1457 is the conventional founding date (Ōta Dōkan's castle). The site was fortified earlier by the Edo clan around the end of the 12th century, but no dated record fixes that; Sensō-ji in Asakusa has a traditional founding of 628/645, which is temple legend, and its first documentary mention is 1181. Population before 1872: the shogunate only ever counted townspeople (about 500,000 from 1721, peaking at 575,091 in 1853); samurai, retainers and clergy were not counted, so every total is a scholarly estimate and they disagree widely. This file uses the Japanese estimates (Saitō 1984, Kitō 1989) of about 1.0-1.2 million for 1721-1850; Chandler (1987) assumes a much smaller samurai population and gives only 685,000-788,000 for the same period, and other Japanese estimates run to 1.3 million. No estimate was found for 1457-1599, so the series starts with Chandler's figure for 1600. Population 1872-1945 is the official Tokyo Metropolitan Government series for Tokyo Prefecture (later Metropolis), not the city proper; the prefecture was enlarged in the 1890s. The UN series from 1950 covers the whole multi-prefecture urban agglomeration and is far larger than the prefecture figure, so expect a step at 1950. Landmarks: the Edo Castle keep height (51 m) and the Sensō-ji pagoda height (podium plus tower) come from Wikipedia rather than a survey, and are marked estimated; coordinates for the Zōjō-ji gate and the Sensō-ji pagoda are those of the temple compounds, accurate to roughly 100 m. Left out for lack of a consistent sourced height: Ryōunkaku (the 1890 Asakusa twelve-storey tower; sources give 52 m and 68.58 m), Tokyo Station (1914), the Kan'ei-ji pagoda and Meiji Shrine. The Japan National Stadium (2019) was also left out because no height was found."
+}

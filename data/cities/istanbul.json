@@ -1,0 +1,707 @@
+{
+  "slug": "istanbul",
+  "name": "Istanbul",
+  "country": "Türkiye",
+  "start_year": -660,
+  "start_label": "Byzantion founded by Greek colonists from Megara",
+  "start_source": "Bloom & Blair (2009), The Grove Encyclopedia of Islamic Art and Architecture, p. 1, and Herodotus, Histories 4.144, via https://en.wikipedia.org/wiki/Istanbul#History",
+  "start_confidence": "estimated",
+  "historic_core": {
+    "name": "Acropolis of Byzantion on Seraglio Point (Sarayburnu), site of Topkapı Palace",
+    "lat": 41.013,
+    "lon": 28.984,
+    "source": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace ; https://en.wikipedia.org/wiki/Istanbul#History"
+  },
+  "population": [
+    {
+      "year": -100,
+      "value": 36000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "Greek and Roman Byzantium, before Constantine's refoundation.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 400,
+      "value": 400000,
+      "confidence": "estimated",
+      "source": "Modelski (2003), World Cities: -3000 to 2000, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file modelskiAncientV2.csv, https://doi.org/10.6084/m9.figshare.2059497.v2",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 500,
+      "value": 400000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "Modelski gives 500,000 for the same year.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 622,
+      "value": 400000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "Modelski gives 600,000 for 600 and 400,000 for 700.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 800,
+      "value": 250000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "After the plagues and Arab sieges of the 6th-8th centuries. Modelski gives 400,000.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 900,
+      "value": 300000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "Modelski gives 500,000.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1000,
+      "value": 300000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "Modelski gives 600,000.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1100,
+      "value": 200000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1200,
+      "value": 150000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "On the eve of the Fourth Crusade.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1261,
+      "value": 100000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "At the Byzantine recovery of the city from the Latin Empire.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1350,
+      "value": 80000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1400,
+      "value": 75000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1453,
+      "value": 45000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "At the Ottoman conquest. Other estimates run from 30,000 to 50,000.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1477,
+      "value": 98000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "After Mehmed II's repopulation of the city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1500,
+      "value": 200000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1550,
+      "value": 660000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1600,
+      "value": 700000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1700,
+      "value": 700000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1750,
+      "value": 625000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1800,
+      "value": 570000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1850,
+      "value": 785000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1885,
+      "value": 873565,
+      "confidence": "documented",
+      "source": "Ottoman census of 1885, as tabulated by K.H. Karpat, 'The Population of Istanbul: from the end of the eighteenth century to the early twentieth century', History of Istanbul (ISAM/IBB Kultur A.S.), https://istanbultarihi.ist/462-the-population-of-istanbul-in-the-ottoman-period",
+      "note": "The first complete Ottoman census of the capital; includes Uskudar, Kadikoy and the Bosphorus suburbs, with foreigners.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1900,
+      "value": 900000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "Karpat's compilation gives higher figures for the wider metropolis (1,116,946 in 1896-97; 1,159,000 in 1901).",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1914,
+      "value": 1125000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, file chandlerV2.csv, https://doi.org/10.6084/m9.figshare.2059494.v3",
+      "note": "Wartime peak. The 1914 Ottoman census counted 909,978 in the Istanbul administrative area; the History of Istanbul gives about 1,200,000 during World War I.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1927,
+      "value": 691000,
+      "confidence": "documented",
+      "source": "First census of the Turkish Republic (1927), as reported in 'The Demography of Istanbul after the Foundation of the Republic', History of Istanbul, https://istanbultarihi.ist/464-the-demography-of-istanbul-after-the-foundation-of-the-republic",
+      "note": "Population within the municipal boundaries, rounded to the nearest thousand in the source. The province as a whole had 794,444.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 967497,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Istanbul\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 1248709,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Istanbul\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 1453353,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Istanbul\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 2001192,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Istanbul\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 2772095,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Istanbul\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 5305193,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 6232218,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 7472439,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 8765208,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 9801443,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 10633602,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 11792604,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 12999813,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 13843301,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 14609817,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 15014763,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 15089414,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": -660,
+      "title": "Megarian Greeks found Byzantion",
+      "detail": "Settlers from Megara established a colony with an acropolis beside the Golden Horn. Ancient sources give dates between 667 and 657 BCE.",
+      "source": "Bloom & Blair (2009), p. 1, via https://en.wikipedia.org/wiki/Istanbul#History ; https://en.wikipedia.org/wiki/Byzantium",
+      "confidence": "estimated"
+    },
+    {
+      "year": 196,
+      "title": "Septimius Severus besieges and rebuilds Byzantium",
+      "detail": "Having backed the losing side in a Roman civil war, the city was besieged and badly damaged in 196. Severus then rebuilt it.",
+      "source": "https://books.google.com/books?id=k1thG1smoSMC&pg=PA8 via https://en.wikipedia.org/wiki/Byzantium",
+      "confidence": "documented"
+    },
+    {
+      "year": 330,
+      "title": "Constantinople dedicated as the Roman capital",
+      "detail": "Constantine rebuilt and enlarged the city from 324 and inaugurated it as 'New Rome' on 11 May 330.",
+      "source": "Barnes (1981), Constantine and Eusebius, pp. 212, 222, via https://en.wikipedia.org/wiki/Istanbul#Byzantine_era",
+      "confidence": "documented"
+    },
+    {
+      "year": 413,
+      "title": "Theodosian Walls completed",
+      "detail": "A new land wall about 2 km west of Constantine's wall, finished in 413 according to the Codex Theodosianus, more than doubled the enclosed area to about 14 square kilometres.",
+      "source": "https://en.wikipedia.org/wiki/Walls_of_Constantinople ; https://en.wikipedia.org/wiki/Constantinople",
+      "confidence": "documented"
+    },
+    {
+      "year": 537,
+      "title": "Hagia Sophia consecrated",
+      "detail": "The earlier cathedral burned down in the Nika revolt of January 532; Justinian I built the present domed basilica between 532 and 537.",
+      "source": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+      "confidence": "documented"
+    },
+    {
+      "year": 542,
+      "title": "Plague of Justinian",
+      "detail": "The plague of 541-542 is said to have killed 20 to 40 per cent of the city's inhabitants, though some historians argue the toll was lower.",
+      "source": "https://en.wikipedia.org/wiki/Constantinople",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1204,
+      "title": "Fourth Crusade sacks the city",
+      "detail": "Crusaders captured and pillaged Constantinople in April 1204 and set up the Latin Empire. The city was badly depopulated.",
+      "source": "Gregory (2010), A History of Byzantium, pp. 324-333, via https://en.wikipedia.org/wiki/Istanbul#Byzantine_era",
+      "confidence": "documented"
+    },
+    {
+      "year": 1261,
+      "title": "Byzantine rule restored",
+      "detail": "The Byzantines recovered a city whose churches, defences and services were in disrepair and whose population had fallen to about a hundred thousand.",
+      "source": "Gregory (2010), A History of Byzantium, pp. 340-342, via https://en.wikipedia.org/wiki/Istanbul#Byzantine_era",
+      "confidence": "documented"
+    },
+    {
+      "year": 1453,
+      "title": "Ottoman conquest",
+      "detail": "Mehmed II took the city on 29 May 1453 after a 55-day siege, made it the Ottoman capital and set about repopulating and rebuilding it.",
+      "source": "https://www.britannica.com/event/Fall-of-Constantinople-1453 via https://en.wikipedia.org/wiki/Istanbul#Byzantine_era",
+      "confidence": "documented"
+    },
+    {
+      "year": 1509,
+      "title": "Constantinople earthquake",
+      "detail": "A major earthquake in 1509 destroyed more than a thousand houses and damaged the fortifications, including the Galata Tower; death-toll estimates range from 1,000 to 13,000.",
+      "source": "https://en.wikipedia.org/wiki/1509_Constantinople_earthquake ; https://en.wikipedia.org/wiki/Galata_Tower",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1557,
+      "title": "Süleymaniye Mosque completed",
+      "detail": "The mosque complex built for Suleiman the Magnificent on the site of the old Ottoman palace was completed in 1557, at the height of Ottoman building in the capital.",
+      "source": "https://en.wikipedia.org/wiki/S%C3%BCleymaniye_Mosque",
+      "confidence": "documented"
+    },
+    {
+      "year": 1660,
+      "title": "Great Fire of 1660",
+      "detail": "The Great Fire of 24-26 July 1660 swept the city.",
+      "source": "https://en.wikipedia.org/wiki/Timeline_of_Istanbul",
+      "confidence": "documented"
+    },
+    {
+      "year": 1845,
+      "title": "First Galata Bridge",
+      "detail": "The first Galata Bridge was built in 1845, one of several bridges across the Golden Horn built in the reform era to join the old city to Galata.",
+      "source": "Celik (1993), The Remaking of Istanbul, pp. 87-89, via https://en.wikipedia.org/wiki/Istanbul ; https://en.wikipedia.org/wiki/Timeline_of_Istanbul",
+      "confidence": "documented"
+    },
+    {
+      "year": 1875,
+      "title": "Tünel underground railway opens",
+      "detail": "The funicular between Karaköy and Beyoğlu opened on 17 January 1875. The city was linked to the European railway network in the 1880s.",
+      "source": "https://en.wikipedia.org/wiki/Timeline_of_Istanbul ; Harter (2005), World Railways of the Nineteenth Century, p. 251, via https://en.wikipedia.org/wiki/Istanbul",
+      "confidence": "documented"
+    },
+    {
+      "year": 1923,
+      "title": "Capital moves to Ankara",
+      "detail": "The Turkish Republic was proclaimed on 29 October 1923 with Ankara as capital. By the 1927 census the municipality held about 691,000 people, little more than half its wartime peak.",
+      "source": "Landau (1984), p. 50, via https://en.wikipedia.org/wiki/Istanbul#Turkish_Republic ; https://istanbultarihi.ist/464-the-demography-of-istanbul-after-the-foundation-of-the-republic",
+      "confidence": "documented"
+    },
+    {
+      "year": 1936,
+      "title": "Henri Prost's master plan",
+      "detail": "Planning led by Henri Prost between 1936 and 1950 cut new boulevards, squares and parks through the historic fabric, including Taksim Square and Atatürk Boulevard.",
+      "source": "Keyder (1999), Istanbul: Between the Global and the Local, via https://en.wikipedia.org/wiki/Istanbul#Turkish_Republic",
+      "confidence": "documented"
+    },
+    {
+      "year": 1973,
+      "title": "Bosphorus Bridge opens",
+      "detail": "The first bridge between the European and Asian sides was completed on 30 October 1973 and accelerated migration and the city's spread into Anatolia.",
+      "source": "https://en.wikipedia.org/wiki/Bosphorus_Bridge ; https://en.wikipedia.org/wiki/Istanbul#Turkish_Republic",
+      "confidence": "documented"
+    },
+    {
+      "year": 1989,
+      "title": "Istanbul Metro begins operating",
+      "detail": "The M1 line opened on 3 September 1989, the first of a network that had ten lines by 2023.",
+      "source": "https://en.wikipedia.org/wiki/Timeline_of_Istanbul ; https://en.wikipedia.org/wiki/Istanbul#Turkish_Republic",
+      "confidence": "documented"
+    },
+    {
+      "year": 1999,
+      "title": "İzmit earthquake",
+      "detail": "The magnitude 7.6 earthquake of 17 August 1999 struck neighbouring Kocaeli Province and killed more than 17,000 people in the region.",
+      "source": "https://en.wikipedia.org/wiki/1999_%C4%B0zmit_earthquake ; https://en.wikipedia.org/wiki/Timeline_of_Istanbul",
+      "confidence": "documented"
+    },
+    {
+      "year": 2013,
+      "title": "Marmaray rail tunnel opens",
+      "detail": "The rail tunnel under the Bosphorus opened on 29 October 2013, linking the European and Asian rail systems.",
+      "source": "https://en.wikipedia.org/wiki/Marmaray",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Column of Constantine",
+      "year": 330,
+      "height_m": 34.8,
+      "lat": 41.0086,
+      "lon": 28.9711,
+      "kind": "monument",
+      "source": "https://en.wikipedia.org/wiki/Column_of_Constantine (top is 34.8 m above present ground level; dedicated 11 May 330)",
+      "confidence": "estimated",
+      "note": "Height as it survives; the original column with its statue is estimated at nearly 50 m."
+    },
+    {
+      "name": "Aqueduct of Valens (Bozdoğan Kemeri)",
+      "year": 368,
+      "height_m": 29,
+      "lat": 41.0159,
+      "lon": 28.9556,
+      "kind": "bridge",
+      "source": "Müller-Wiener (1977), Bildlexikon zur Topographie Istanbuls, p. 273, via https://en.wikipedia.org/wiki/Aqueduct_of_Valens (maximum height about 29 m; completed 368)",
+      "confidence": "estimated"
+    },
+    {
+      "name": "Obelisk of Theodosius",
+      "year": 390,
+      "height_m": 25.6,
+      "lat": 41.0059,
+      "lon": 28.9754,
+      "kind": "monument",
+      "source": "https://en.wikipedia.org/wiki/Obelisk_of_Theodosius (25.6 m including the base; re-erected in the Hippodrome in 390)",
+      "confidence": "documented",
+      "note": "An Egyptian obelisk of about 1450 BCE; the year is its erection in Constantinople."
+    },
+    {
+      "name": "Theodosian Walls (Golden Gate)",
+      "year": 413,
+      "height_m": 12,
+      "lat": 40.9934,
+      "lon": 28.9231,
+      "kind": "fort",
+      "source": "https://en.wikipedia.org/wiki/Walls_of_Constantinople (inner wall 12 m high; first phase finished in 413)",
+      "confidence": "estimated",
+      "note": "Height of the inner curtain wall; the point is the Golden Gate at Yedikule."
+    },
+    {
+      "name": "Hagia Sophia",
+      "year": 537,
+      "height_m": 55.6,
+      "lat": 41.0083,
+      "lon": 28.98,
+      "kind": "church",
+      "source": "https://en.wikipedia.org/wiki/Hagia_Sophia (central dome 55.6 m above floor level; built 532-537)",
+      "confidence": "documented",
+      "note": "Built as a cathedral, now a mosque. The dome of 537 was about 6 m lower; after earthquake damage in 558 the vault was rebuilt to the present 55.6 m."
+    },
+    {
+      "name": "Galata Tower",
+      "year": 1348,
+      "height_m": 62.59,
+      "lat": 41.0257,
+      "lon": 28.9742,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Galata_Tower (62.59 m to the tip of its roof; completed 1348)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Süleymaniye Mosque",
+      "year": 1557,
+      "height_m": 76,
+      "lat": 41.0161,
+      "lon": 28.9639,
+      "kind": "mosque",
+      "source": "https://en.wikipedia.org/wiki/S%C3%BCleymaniye_Mosque (minarets 76 m, dome 53 m; completed 1557)",
+      "confidence": "estimated",
+      "note": "Height is that of the taller minarets; the dome is 53 m."
+    },
+    {
+      "name": "Sultan Ahmed (Blue) Mosque",
+      "year": 1617,
+      "height_m": 64,
+      "lat": 41.0054,
+      "lon": 28.9768,
+      "kind": "mosque",
+      "source": "https://en.wikipedia.org/wiki/Blue_Mosque,_Istanbul (minarets 64 m, dome 43 m; completed 1617)",
+      "confidence": "estimated",
+      "note": "Height is that of the minarets; the dome is 43 m."
+    },
+    {
+      "name": "Beyazıt Tower",
+      "year": 1828,
+      "height_m": 85,
+      "lat": 41.0128,
+      "lon": 28.9649,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Beyaz%C4%B1t_Tower (85 m stone fire-watch tower built in 1828)",
+      "confidence": "estimated"
+    },
+    {
+      "name": "Dolmabahçe Clock Tower",
+      "year": 1895,
+      "height_m": 27,
+      "lat": 41.0376,
+      "lon": 28.9964,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Dolmabah%C3%A7e_Clock_Tower (27 m; completed 1895)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Bosphorus Bridge",
+      "year": 1973,
+      "height_m": 165,
+      "lat": 41.0453,
+      "lon": 29.0344,
+      "kind": "bridge",
+      "source": "General Directorate of Highways (KGM) project data, http://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Bolgeler/17Bolge/BogaziciKoprusuProjeBilgileri.pdf , via https://en.wikipedia.org/wiki/Bosphorus_Bridge (tower height 165 m; completed 30 October 1973)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Fatih Sultan Mehmet Bridge",
+      "year": 1988,
+      "height_m": 105,
+      "lat": 41.0913,
+      "lon": 29.062,
+      "kind": "bridge",
+      "source": "https://en.wikipedia.org/wiki/Fatih_Sultan_Mehmet_Bridge (height 105 m; completed 1988)",
+      "confidence": "estimated"
+    },
+    {
+      "name": "Akbank Tower",
+      "year": 1993,
+      "height_m": 157.25,
+      "lat": 41.0847,
+      "lon": 29.0105,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/istanbul (building id 3527: 157.25 m, completed 1993)",
+      "confidence": "documented"
+    },
+    {
+      "name": "İş Bankası Tower 1",
+      "year": 2000,
+      "height_m": 181.2,
+      "lat": 41.083,
+      "lon": 29.0113,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/istanbul (building id 2261: 181.2 m, completed 2000)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Istanbul Sapphire",
+      "year": 2010,
+      "height_m": 261,
+      "lat": 41.0849,
+      "lon": 29.0059,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/istanbul (building id 748, 'Sapphire Tower': 261 m, completed 2010)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Skyland Office Tower",
+      "year": 2017,
+      "height_m": 284,
+      "lat": 41.1029,
+      "lon": 28.9867,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/istanbul (building id 15988: 284 m, completed 2017)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Metropol Tower Istanbul",
+      "year": 2017,
+      "height_m": 280,
+      "lat": 40.9947,
+      "lon": 29.1217,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/istanbul (building id 13894: 280 m, completed 2017)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Grand Çamlıca Mosque",
+      "year": 2019,
+      "height_m": 107.1,
+      "lat": 41.0347,
+      "lon": 29.0708,
+      "kind": "mosque",
+      "source": "https://en.wikipedia.org/wiki/%C3%87aml%C4%B1ca_Mosque (minarets 107.1 m, dome 72 m; opened 7 March 2019)",
+      "confidence": "documented",
+      "note": "Height is that of the tallest minarets."
+    },
+    {
+      "name": "Çamlıca Tower",
+      "year": 2020,
+      "height_m": 369,
+      "lat": 41.0164,
+      "lon": 29.0655,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/%C3%87aml%C4%B1ca_Tower (total height 369 m; completed September 2020), citing Anadolu Agency; coordinates from OpenStreetMap",
+      "confidence": "documented"
+    },
+    {
+      "name": "Central Bank of the Republic of Türkiye Tower",
+      "year": 2024,
+      "height_m": 353.9,
+      "lat": 41.0021,
+      "lon": 29.1105,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/istanbul (building id 41146: 353.9 m, completed 2024)",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/istanbul/",
+  "notes": "Start date: the Greek colony of Byzantion is the city's first documented foundation, but its date is not agreed. Herodotus puts it 17 years after Chalcedon, which gives 667 BCE when Chalcedon is dated 685; Eusebius gives 659 or 656 BCE; some modern historians prefer the 640s or later. The file uses about 660 BCE and marks it 'estimated'. Neolithic remains at Yenikapı (6th millennium BCE) and a Thracian settlement (Lygos) on the same point are older but are not a continuous city. Population: there is no figure between the founding and 100 BCE, and none between 100 BCE and 400 CE (so the Severan destruction of 196 and the growth after 330 are not resolved). The medieval series is Chandler's; Modelski's estimates for 500-1000 are much higher (500,000-600,000) and Morris (2010) argues Chandler's are themselves too high, so the Byzantine peak is uncertain by a factor of about two. The declines after the plagues, after 1204 and to 1453 are recorded as Chandler gives them. Ottoman-era figures to 1850 are Chandler's estimates; 1885 is the first complete Ottoman census. Figures for 1885-1914 cover the city with its Bosphorus and Asian suburbs, while 1927 is the municipality only, which exaggerates the real post-war fall slightly. The Republican censuses of 1935, 1940 and 1945 could be found only as province totals (883,599, 991,237 and 1,078,399 on Wikipedia), so they are left out. Landmarks: mosque heights are minaret heights, with dome heights in the notes. Heights could not be sourced for Topkapı Palace, Rumeli Hisarı, the Maiden's Tower or Haydarpaşa station; the Yavuz Sultan Selim Bridge (322 m towers, 2016) is omitted because no coordinates were found on the pages consulted."
+}

@@ -1,0 +1,604 @@
+{
+  "slug": "mexico-city",
+  "name": "Mexico City",
+  "country": "Mexico",
+  "start_year": 1325,
+  "start_label": "Tenochtitlan founded by the Mexica on an island in Lake Texcoco (traditional date)",
+  "start_source": "Castillo Ledón, Luis (1925), La Fundación de la Ciudad de México 1325-1925, Editorial Cvltura, via https://en.wikipedia.org/wiki/Tenochtitlan",
+  "start_confidence": "estimated",
+  "historic_core": {
+    "name": "Zócalo (Plaza de la Constitución), on the sacred precinct of Tenochtitlan beside the Templo Mayor",
+    "lat": 19.4328,
+    "lon": -99.1331,
+    "source": "https://en.wikipedia.org/wiki/Z%C3%B3calo"
+  },
+  "population": [
+    {
+      "year": 1519,
+      "value": 212500,
+      "confidence": "estimated",
+      "source": "Smith, Michael E. (2005), 'City Size in Late Postclassic Mesoamerica', Journal of Urban History 31(4): 403-434, p. 411, https://doi.org/10.1177/0096144204274396, via https://en.wikipedia.org/wiki/Tenochtitlan",
+      "note": "Tenochtitlan on the eve of the Spanish conquest, 212,500 people on 13.5 km2. Published estimates range from about 80,000 (Chandler) to 400,000; see notes.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1524,
+      "value": 30000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv), https://doi.org/10.1038/sdata.2016.34",
+      "note": "Three years after the siege and destruction of Tenochtitlan (1521) and the 1520 smallpox epidemic.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1550,
+      "value": 50000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv), https://doi.org/10.1038/sdata.2016.34",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1600,
+      "value": 58500,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv), https://doi.org/10.1038/sdata.2016.34",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1634,
+      "value": 40000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv), https://doi.org/10.1038/sdata.2016.34",
+      "note": "After the great flood of 1629, whose waters stayed in the city for several years.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1689,
+      "value": 57000,
+      "confidence": "estimated",
+      "source": "Rubio Mañé, J. Ignacio (1966), 'Gente de España en la ciudad de México, año de 1689', Boletín del Archivo General de la Nación 2nd series 7, p. 13, via https://en.wikipedia.org/wiki/History_of_Mexico_City",
+      "note": "Contemporary estimate of residents.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1753,
+      "value": 70000,
+      "confidence": "estimated",
+      "source": "Báez Macías, Eduardo (1966), 'Planos y censos de la ciudad de México, 1753', Boletín del Archivo General de la Nación 2nd series 7, p. 424, via https://en.wikipedia.org/wiki/History_of_Mexico_City",
+      "note": "Estimate based on a partial census ordered by the Audiencia.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1790,
+      "value": 112926,
+      "confidence": "documented",
+      "source": "Valdés, Dennis N. (1978), The Decline of the Sociedad de Castas in Mexico City (PhD dissertation, University of Michigan), Table 2.1, via https://en.wikipedia.org/wiki/History_of_Mexico_City",
+      "note": "Revillagigedo census of the city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1811,
+      "value": 168811,
+      "confidence": "documented",
+      "source": "Valdés, Dennis N. (1978), The Decline of the Sociedad de Castas in Mexico City (PhD dissertation, University of Michigan), Table 2.1, via https://en.wikipedia.org/wiki/History_of_Mexico_City",
+      "note": "Census by the Juzgado de Policía; inflated by refugees from the independence insurgency in the countryside.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1813,
+      "value": 123907,
+      "confidence": "documented",
+      "source": "Valdés, Dennis N. (1978), The Decline of the Sociedad de Castas in Mexico City (PhD dissertation, University of Michigan), Table 2.1, via https://en.wikipedia.org/wiki/History_of_Mexico_City",
+      "note": "Census by the city council (Ayuntamiento), after refugees returned home and an epidemic of 'fevers'.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1850,
+      "value": 170000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv), https://doi.org/10.1038/sdata.2016.34",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1875,
+      "value": 250000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv), https://doi.org/10.1038/sdata.2016.34",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1895,
+      "value": 476413,
+      "confidence": "documented",
+      "source": "INEGI, Censos Generales de Población (entidad Distrito Federal), as tabulated at https://es.wikipedia.org/wiki/Demograf%C3%ADa_de_la_Ciudad_de_M%C3%A9xico",
+      "note": "Census count for the whole Federal District (the entity that is today's Mexico City, 1,479 km2), which then still included separate towns and villages outside the built-up city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1900,
+      "value": 541516,
+      "confidence": "documented",
+      "source": "INEGI, Censos Generales de Población (entidad Distrito Federal), as tabulated at https://es.wikipedia.org/wiki/Demograf%C3%ADa_de_la_Ciudad_de_M%C3%A9xico",
+      "note": "Census count for the whole Federal District (the entity that is today's Mexico City, 1,479 km2), which then still included separate towns and villages outside the built-up city. Chandler puts the city itself at 368,000 in 1900.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1910,
+      "value": 720753,
+      "confidence": "documented",
+      "source": "INEGI, Censos Generales de Población (entidad Distrito Federal), as tabulated at https://es.wikipedia.org/wiki/Demograf%C3%ADa_de_la_Ciudad_de_M%C3%A9xico",
+      "note": "Census count for the whole Federal District (the entity that is today's Mexico City, 1,479 km2), which then still included separate towns and villages outside the built-up city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1921,
+      "value": 906063,
+      "confidence": "documented",
+      "source": "INEGI, Censos Generales de Población (entidad Distrito Federal), as tabulated at https://es.wikipedia.org/wiki/Demograf%C3%ADa_de_la_Ciudad_de_M%C3%A9xico",
+      "note": "Census count for the whole Federal District (the entity that is today's Mexico City, 1,479 km2), which then still included separate towns and villages outside the built-up city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1930,
+      "value": 1229576,
+      "confidence": "documented",
+      "source": "INEGI, Censos Generales de Población (entidad Distrito Federal), as tabulated at https://es.wikipedia.org/wiki/Demograf%C3%ADa_de_la_Ciudad_de_M%C3%A9xico",
+      "note": "Census count for the whole Federal District (the entity that is today's Mexico City, 1,479 km2), which then still included separate towns and villages outside the built-up city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1940,
+      "value": 1757530,
+      "confidence": "documented",
+      "source": "INEGI, Censos Generales de Población (entidad Distrito Federal), as tabulated at https://es.wikipedia.org/wiki/Demograf%C3%ADa_de_la_Ciudad_de_M%C3%A9xico",
+      "note": "Census count for the whole Federal District (the entity that is today's Mexico City, 1,479 km2), which then still included separate towns and villages outside the built-up city.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 3365081,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Ciudad de México (Mexico City)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 4293878,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Ciudad de México (Mexico City)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 5479184,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Ciudad de México (Mexico City)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 6969157,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Ciudad de México (Mexico City)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 8830947,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Ciudad de México (Mexico City)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 11119402,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 13216145,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 14354636,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 15602020,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 16617208,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 17598162,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 17873392,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 18329145,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 18955463,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 17610488,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 17734212,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 17753192,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1325,
+      "title": "Tenochtitlan founded on Lake Texcoco",
+      "detail": "The Mexica settle an island in Lake Texcoco. The exact date is unclear; 13 March 1325 is the traditional date adopted for the city's 600th anniversary in 1925.",
+      "source": "https://en.wikipedia.org/wiki/Tenochtitlan",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1487,
+      "title": "Great Temple rededicated in its final form",
+      "detail": "The Templo Mayor, rebuilt six times since the founding, is dedicated in December 1487 and dominates the walled sacred precinct at the centre of the island city.",
+      "source": "https://en.wikipedia.org/wiki/Templo_Mayor",
+      "confidence": "documented"
+    },
+    {
+      "year": 1519,
+      "title": "Cortés enters Tenochtitlan",
+      "detail": "Hernán Cortés arrives on 8 November 1519 and meets Moctezuma II in a city of perhaps 200,000 people, among the largest in the world at the time.",
+      "source": "https://en.wikipedia.org/wiki/Tenochtitlan",
+      "confidence": "documented"
+    },
+    {
+      "year": 1521,
+      "title": "Fall of Tenochtitlan",
+      "detail": "After a siege the city surrenders on 13 August 1521. It is nearly destroyed, and the Spanish rebuild it on the same site as Mexico City.",
+      "source": "https://en.wikipedia.org/wiki/Mexico_City",
+      "confidence": "documented"
+    },
+    {
+      "year": 1535,
+      "title": "Capital of the Viceroyalty of New Spain",
+      "detail": "The Crown makes New Spain a viceroyalty and Mexico City its capital, with the viceroy's palace on the main square.",
+      "source": "https://en.wikipedia.org/wiki/New_Spain",
+      "confidence": "documented"
+    },
+    {
+      "year": 1573,
+      "title": "Work begins on the Metropolitan Cathedral",
+      "detail": "Construction of the cathedral starts on the former Aztec sacred precinct; it is built in sections until 1813.",
+      "source": "https://en.wikipedia.org/wiki/Mexico_City_Metropolitan_Cathedral",
+      "confidence": "documented"
+    },
+    {
+      "year": 1629,
+      "title": "The great flood",
+      "detail": "Rains inundate the capital in 1629 and flood waters stay for several years, prompting debate about moving the city and new drainage works (the Desagüe).",
+      "source": "Hoberman, Louisa Schell (1974), 'Bureaucracy and Disaster: Mexico City and the Flood of 1629', Journal of Latin American Studies 6(2), via https://en.wikipedia.org/wiki/History_of_Mexico_City",
+      "confidence": "documented"
+    },
+    {
+      "year": 1790,
+      "title": "Revillagigedo census counts 112,926 residents",
+      "detail": "The most detailed colonial census of the city, ordered by Viceroy Revillagigedo, records 112,926 inhabitants.",
+      "source": "Valdés, Dennis N. (1978), The Decline of the Sociedad de Castas in Mexico City (PhD dissertation, University of Michigan), Table 2.1, via https://en.wikipedia.org/wiki/History_of_Mexico_City",
+      "confidence": "documented"
+    },
+    {
+      "year": 1821,
+      "title": "Independence: the Trigarante Army enters",
+      "detail": "The Army of the Three Guarantees enters Mexico City on 27 September 1821, ending Spanish rule; the city becomes the capital of independent Mexico.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Mexico_City",
+      "confidence": "documented"
+    },
+    {
+      "year": 1824,
+      "title": "Federal District created",
+      "detail": "On 18 November 1824 the territory around the city is organised as the Federal District; the urban area then covers roughly today's Cuauhtémoc borough.",
+      "source": "https://en.wikipedia.org/wiki/Mexico_City",
+      "confidence": "documented"
+    },
+    {
+      "year": 1847,
+      "title": "Occupied by the United States Army",
+      "detail": "After the battles of Molino del Rey and Chapultepec (8-15 September 1847) the US Army under Winfield Scott takes the capital and occupies it for about a year.",
+      "source": "https://en.wikipedia.org/wiki/Mexico_City",
+      "confidence": "documented"
+    },
+    {
+      "year": 1873,
+      "title": "Railway to Veracruz opens",
+      "detail": "The Mexican Railway main line from Mexico City to the port of Veracruz is dedicated on 1 January 1873 by President Lerdo de Tejada.",
+      "source": "https://en.wikipedia.org/wiki/Mexican_Railway",
+      "confidence": "documented"
+    },
+    {
+      "year": 1900,
+      "title": "Grand drainage canal inaugurated",
+      "detail": "The Desagüe, draining the closed Valley of Mexico, is inaugurated in 1900 under Porfirio Díaz, reducing the flooding that had plagued the city since Aztec times.",
+      "source": "https://en.wikipedia.org/wiki/Desag%C3%BCe",
+      "confidence": "documented"
+    },
+    {
+      "year": 1913,
+      "title": "The Ten Tragic Days",
+      "detail": "A coup d'état against President Francisco I. Madero is fought out in the city between 9 and 22 February 1913, the one major episode of the Mexican Revolution inside the capital.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Mexico_City",
+      "confidence": "documented"
+    },
+    {
+      "year": 1968,
+      "title": "Summer Olympic Games",
+      "detail": "Mexico City becomes the first Latin American city to host the Olympics, which bring large new sporting facilities.",
+      "source": "https://en.wikipedia.org/wiki/Mexico_City",
+      "confidence": "documented"
+    },
+    {
+      "year": 1969,
+      "title": "Metro opens",
+      "detail": "The first metro line opens on 4 September 1969 with 12.7 km of route and 16 stations.",
+      "source": "https://en.wikipedia.org/wiki/Mexico_City_Metro",
+      "confidence": "documented"
+    },
+    {
+      "year": 1985,
+      "title": "Earthquake devastates the centre",
+      "detail": "A magnitude 8.0 earthquake on 19 September 1985 causes serious damage across Greater Mexico City and kills at least 5,000 people.",
+      "source": "https://en.wikipedia.org/wiki/1985_Mexico_City_earthquake",
+      "confidence": "documented"
+    },
+    {
+      "year": 2016,
+      "title": "Federal District renamed Ciudad de México",
+      "detail": "On 29 January 2016 the Federal District officially becomes Ciudad de México (CDMX), with greater autonomy.",
+      "source": "https://en.wikipedia.org/wiki/Mexico_City",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Templo Mayor (Great Temple of Tenochtitlan)",
+      "year": 1487,
+      "height_m": 60,
+      "lat": 19.4333,
+      "lon": -99.1328,
+      "kind": "temple",
+      "source": "World History Encyclopedia, 'Templo Mayor', https://www.worldhistory.org/Templo_Mayor/, via https://en.wikipedia.org/wiki/Templo_Mayor",
+      "confidence": "estimated",
+      "demolished_year": 1521,
+      "note": "Height of pyramid plus twin shrines is a reconstruction; about 60 m is the figure cited, and some reconstructions are lower."
+    },
+    {
+      "name": "Mexico City Metropolitan Cathedral",
+      "year": 1813,
+      "height_m": 67,
+      "lat": 19.4344,
+      "lon": -99.1331,
+      "kind": "church",
+      "source": "https://en.wikipedia.org/wiki/Mexico_City_Metropolitan_Cathedral",
+      "confidence": "estimated",
+      "note": "67 m to the tip of the bell towers; built 1573-1813."
+    },
+    {
+      "name": "Angel of Independence",
+      "year": 1910,
+      "height_m": 45,
+      "lat": 19.427,
+      "lon": -99.1677,
+      "kind": "monument",
+      "source": "https://es.wikipedia.org/wiki/Monumento_a_la_Independencia",
+      "confidence": "estimated",
+      "note": "45 m including the Winged Victory statue, excluding steps added later."
+    },
+    {
+      "name": "Edificio La Nacional",
+      "year": 1932,
+      "height_m": 56,
+      "lat": 19.4342,
+      "lon": -99.1411,
+      "kind": "skyscraper",
+      "source": "https://en.wikipedia.org/wiki/Edificio_La_Nacional",
+      "confidence": "estimated",
+      "note": "Tallest building in Mexico City until 1937."
+    },
+    {
+      "name": "Palacio de Bellas Artes",
+      "year": 1934,
+      "height_m": 53,
+      "lat": 19.4353,
+      "lon": -99.1414,
+      "kind": "palace",
+      "source": "https://es.wikipedia.org/wiki/Palacio_de_Bellas_Artes_(Ciudad_de_M%C3%A9xico)",
+      "confidence": "estimated",
+      "note": "53 m to the top of the dome finial; 42.5 m to the roof."
+    },
+    {
+      "name": "Monumento a la Revolución",
+      "year": 1938,
+      "height_m": 67,
+      "lat": 19.4362,
+      "lon": -99.1546,
+      "kind": "monument",
+      "source": "Göbel, Christof (2016), 'Staging of Memory: The Recovery of Public Spaces and the Bicentenary Celebrations in Mexico City', TRIALOG 118/119, p. 40, via https://en.wikipedia.org/wiki/Monumento_a_la_Revoluci%C3%B3n",
+      "confidence": "documented"
+    },
+    {
+      "name": "Torre Latinoamericana",
+      "year": 1956,
+      "height_m": 166.0,
+      "lat": 19.4339,
+      "lon": -99.1406,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-latinoamerica/2246",
+      "confidence": "documented"
+    },
+    {
+      "name": "Torre Insignia (Torre Banobras)",
+      "year": 1962,
+      "height_m": 127.4,
+      "lat": 19.4546,
+      "lon": -99.151,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-insignia/22219",
+      "confidence": "documented"
+    },
+    {
+      "name": "Basilica of Our Lady of Guadalupe (new basilica)",
+      "year": 1976,
+      "height_m": 42,
+      "lat": 19.484,
+      "lon": -99.117,
+      "kind": "church",
+      "source": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Guadalupe",
+      "confidence": "estimated"
+    },
+    {
+      "name": "Torre Ejecutiva Pemex",
+      "year": 1984,
+      "height_m": 211.3,
+      "lat": 19.4391,
+      "lon": -99.1748,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-ejecutiva-pemex/1369",
+      "confidence": "documented"
+    },
+    {
+      "name": "World Trade Center Mexico City (former Hotel de México)",
+      "year": 1994,
+      "height_m": 193.2,
+      "lat": 19.3946,
+      "lon": -99.1737,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/world-trade-center/2623",
+      "confidence": "documented",
+      "note": "Opened unfinished as the Hotel de México in 1972; CTBUH gives 1994 as completion in its present form."
+    },
+    {
+      "name": "Torre Mayor",
+      "year": 2003,
+      "height_m": 225,
+      "lat": 19.4242,
+      "lon": -99.1753,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-mayor/1185",
+      "confidence": "documented"
+    },
+    {
+      "name": "Torre BBVA México",
+      "year": 2015,
+      "height_m": 234.9,
+      "lat": 19.4229,
+      "lon": -99.1748,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-bbva-mexico/8713",
+      "confidence": "documented"
+    },
+    {
+      "name": "Torre Reforma",
+      "year": 2016,
+      "height_m": 246,
+      "lat": 19.4245,
+      "lon": -99.1744,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-reforma/942",
+      "confidence": "documented"
+    },
+    {
+      "name": "Chapultepec Uno",
+      "year": 2019,
+      "height_m": 240.5,
+      "lat": 19.424,
+      "lon": -99.1758,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/chapultepec-uno-r-509/15117",
+      "confidence": "documented"
+    },
+    {
+      "name": "Torre Mitikah",
+      "year": 2022,
+      "height_m": 265.8,
+      "lat": 19.3593,
+      "lon": -99.1685,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-mitikah/14915",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/mexico-city/",
+  "notes": "Start date: 1325 is the traditional founding date of Tenochtitlan, fixed in 1925 for the 600th anniversary; the exact year is not securely documented, so it is marked estimated. Mexico City is the same continuously occupied site. Pre-conquest population is contested: published estimates for Tenochtitlan in 1519 run from 80,000 (Chandler 1987) through 100,000-200,000 (Berdan 1982) and 212,500 (Smith 2005, used here) to 200,000-400,000 (Denevan 1992); no count exists. No estimate is given for 1325-1518. The post-conquest collapse (about 30,000 in 1524) and the dip after the 1629 flood are Chandler's estimates. An alternative figure from Gibson (The Aztecs under Spanish Rule, 1964) is perhaps 22,000 indigenous inhabitants plus 150 Spanish households in 1525. Colonial figures for 1689 and 1753 are contemporary estimates; 1790, 1811 and 1813 are city censuses. Definitions change in 1895: figures from 1895 to 1940 are national census counts for the whole Federal District (entity), not the built-up city, so the step from 250,000 (1875, Chandler, city) to 476,413 (1895) is partly definitional; Chandler's city-only figures are 368,000 (1900), 600,000 (1914) and 772,000 (1925). The census table was read from Spanish Wikipedia, which cites INEGI; INEGI's own tables were not opened. Landmarks: skyscraper heights and years are from the CTBUH Skyscraper Center. Heights for the cathedral, Angel of Independence, Palacio de Bellas Artes, La Nacional and the new Basilica are taken from Wikipedia articles without a primary citation and are marked estimated. Left out for lack of a sourced height: National Palace, Chapultepec Castle, Estadio Azteca, Torre Lotería Nacional (El Moro; CTBUH and other sources disagree)."
+}

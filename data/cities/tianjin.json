@@ -1,0 +1,515 @@
+{
+  "slug": "tianjin",
+  "name": "Tianjin",
+  "country": "China",
+  "start_year": 1214,
+  "start_label": "Zhigu fort (Zhiguzhai) set up by the Jin dynasty at the Sanchakou river junction",
+  "start_source": "天津通志 (Tianjin Gazetteer, 2007) and 郭蕴静 (1989), 天津古代城市发展史, via https://zh.wikipedia.org/wiki/天津历史 and https://zh.wikipedia.org/wiki/天津市",
+  "start_confidence": "documented",
+  "historic_core": {
+    "name": "Old walled city of Tianjin (Drum Tower), south-west of the Sanchakou river junction",
+    "lat": 39.1406,
+    "lon": 117.1748,
+    "source": "https://zh.wikipedia.org/wiki/天津城 ; point on the Drum Tower from OpenStreetMap (WGS-84), https://www.openstreetmap.org/"
+  },
+  "population": [
+    {
+      "year": 1700,
+      "value": 70000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1730,
+      "value": 92369,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1750,
+      "value": 80000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1800,
+      "value": 130000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1825,
+      "value": 155000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1842,
+      "value": 193000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1850,
+      "value": 195000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1867,
+      "value": 200000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1875,
+      "value": 250000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1890,
+      "value": 569445,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "note": "More than double Chandler's 1875 figure; probably a wider area (city plus suburbs and settlements).",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1900,
+      "value": 700000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1907,
+      "value": 750000,
+      "confidence": "estimated",
+      "source": "Encyclopaedia Britannica, 11th ed. (1911), 'Tientsin', https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Tientsin",
+      "note": "'Pop. (1907), about 750,000.'",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1914,
+      "value": 785000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1925,
+      "value": 800000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised by Reba, Reitsma & Seto (2016), Scientific Data 3:160034, https://doi.org/10.1038/sdata.2016.34 (chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 2467096,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Tianjin\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 2760676,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Tianjin\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 2935185,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Tianjin\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 3120620,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Tianjin\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 3317826,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Tianjin\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 2567069,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 2629780,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 2802082,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 3002887,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 3617716,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 4302429,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 4999108,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 5717356,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 6769579,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 7042294,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 7285342,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 7318511,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1214,
+      "title": "Jin dynasty fort at Zhigu",
+      "detail": "The Jin set up the fort of Zhiguzhai where the Grand Canal's northern and southern branches meet the Hai River at Sanchakou, the earliest administrative post on the city site.",
+      "source": "https://zh.wikipedia.org/wiki/天津历史 ; https://zh.wikipedia.org/wiki/天津市",
+      "confidence": "documented"
+    },
+    {
+      "year": 1316,
+      "title": "Zhigu becomes Haijin Town",
+      "detail": "Under the Yuan, Zhigu was made Haijin Town, a garrison and the transfer point for grain shipped north by sea and canal to the capital.",
+      "source": "https://zh.wikipedia.org/wiki/天津市",
+      "confidence": "documented"
+    },
+    {
+      "year": 1404,
+      "title": "Tianjin named, garrisoned and walled",
+      "detail": "On 23 December 1404 the Yongle Emperor set up the Tianjin Guard and ordered a walled city built south-west of Sanchakou; the name means 'the emperor's ford'.",
+      "source": "明太宗实录 (Ming Veritable Records), 卷三十六, via https://zh.wikipedia.org/wiki/天津城 ; https://en.wikipedia.org/wiki/Tianjin#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1725,
+      "title": "Tianjin becomes a civil prefecture",
+      "detail": "The military guard was converted to Tianjin Prefecture in 1725, and Tianjin County was established within it in 1731.",
+      "source": "https://en.wikipedia.org/wiki/Tianjin#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1860,
+      "title": "Opened as a treaty port",
+      "detail": "The 1858 Treaty of Tientsin was ratified in 1860, opening Tianjin to foreign trade. Britain and France set up concessions, joined between 1895 and 1900 by Japan, Germany, Russia and others.",
+      "source": "https://en.wikipedia.org/wiki/Tianjin#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1870,
+      "title": "Tianjin Church Massacre",
+      "detail": "In June 1870 a crowd burned the Wanghailou Church and the French consulate, killing eighteen foreigners.",
+      "source": "https://en.wikipedia.org/wiki/Tianjin#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1888,
+      "title": "Railway reaches Tianjin",
+      "detail": "The line from Tangshan was extended to Tianjin and the city's first railway station opened in October 1888.",
+      "source": "https://zh.wikipedia.org/wiki/天津站 ; https://en.wikipedia.org/wiki/Tianjin_railway_station",
+      "confidence": "documented"
+    },
+    {
+      "year": 1900,
+      "title": "Boxer War: Eight-Nation Alliance takes the city",
+      "detail": "The Boxers besieged the concessions in June; the allied armies captured Tianjin in July and governed it through a provisional government until August 1902.",
+      "source": "https://en.wikipedia.org/wiki/Tianjin#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1901,
+      "title": "City walls demolished",
+      "detail": "The allied Tianjin Provisional Government ordered the Ming walls pulled down; the four ring avenues (East, South, West and North Roads) were built on their line.",
+      "source": "https://zh.wikipedia.org/wiki/天津城",
+      "confidence": "documented"
+    },
+    {
+      "year": 1927,
+      "title": "Tianjin made a municipality",
+      "detail": "With the growth of industry, commerce and finance, Tianjin was established as a municipality; from 1930 to 1935 it also served as capital of Hebei province.",
+      "source": "https://en.wikipedia.org/wiki/Tianjin#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1937,
+      "title": "Falls to Japan",
+      "detail": "Tianjin fell to Japanese forces on 30 July 1937; the foreign concessions were not occupied until 1941.",
+      "source": "https://en.wikipedia.org/wiki/Tianjin#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1949,
+      "title": "Communist forces take Tianjin",
+      "detail": "The city was captured on 15 January 1949 after 29 hours of fighting in the Pingjin Campaign.",
+      "source": "https://en.wikipedia.org/wiki/Tianjin#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1976,
+      "title": "Tangshan earthquake",
+      "detail": "The earthquake of 28 July 1976 killed 24,345 people in Tianjin and destroyed 60% of the city's buildings.",
+      "source": "https://en.wikipedia.org/wiki/Tianjin#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1984,
+      "title": "Metro opens; named an open coastal city",
+      "detail": "The first Tianjin Metro line opened on 28 December 1984, the second subway in China after Beijing's. The same year Tianjin became one of 14 open coastal cities and its development zone (TEDA) began to grow.",
+      "source": "https://en.wikipedia.org/wiki/Tianjin_Metro ; https://en.wikipedia.org/wiki/Tianjin#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 2008,
+      "title": "China's first high-speed railway",
+      "detail": "The Beijing-Tianjin Intercity Railway opened in August 2008, and Tianjin co-hosted the Olympic Games.",
+      "source": "https://en.wikipedia.org/wiki/Tianjin#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 2015,
+      "title": "Tianjin Port explosions",
+      "detail": "On 12 August 2015 a fire and explosions at a chemical warehouse in Tianjin Port killed 173 people.",
+      "source": "https://en.wikipedia.org/wiki/Tianjin#History",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "St. Joseph's (Xikai) Cathedral",
+      "year": 1916,
+      "height_m": 45,
+      "lat": 39.1168,
+      "lon": 117.1881,
+      "kind": "church",
+      "source": "https://zh.wikipedia.org/wiki/西开教堂 ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Quanyechang department store",
+      "year": 1928,
+      "height_m": 33,
+      "lat": 39.1256,
+      "lon": 117.1942,
+      "kind": "other",
+      "source": "https://zh.wikipedia.org/wiki/天津劝业场 ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Bohai Building",
+      "year": 1936,
+      "height_m": 47.47,
+      "lat": 39.1254,
+      "lon": 117.1974,
+      "kind": "skyscraper",
+      "source": "https://zh.wikipedia.org/wiki/渤海大楼 ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Tianjin Radio and Television Tower",
+      "year": 1991,
+      "height_m": 415.2,
+      "lat": 39.0919,
+      "lon": 117.1753,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Tianjin_Radio_and_Television_Tower ; https://zh.wikipedia.org/wiki/天津广播电视塔 (citing 天津通志) ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Post and Communications Network Center",
+      "year": 1997,
+      "height_m": 182.58,
+      "lat": 39.1176,
+      "lon": 117.1754,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/post-and-communications-network-center/2230",
+      "confidence": "documented"
+    },
+    {
+      "name": "Drum Tower (reconstruction)",
+      "year": 2001,
+      "height_m": 27,
+      "lat": 39.1406,
+      "lon": 117.1748,
+      "kind": "tower",
+      "source": "https://zh.wikipedia.org/wiki/天津鼓楼 ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented",
+      "note": "Reinforced-concrete rebuild of the Ming tower at the centre of the old city; the earlier tower was demolished in 1952."
+    },
+    {
+      "name": "Tianjin Eye",
+      "year": 2007,
+      "height_m": 120,
+      "lat": 39.1532,
+      "lon": 117.1805,
+      "kind": "other",
+      "source": "https://en.wikipedia.org/wiki/Tianjin_Eye ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented",
+      "note": "Ferris wheel built on the Yongle Bridge."
+    },
+    {
+      "name": "Tianjin Olympic Center Stadium",
+      "year": 2007,
+      "height_m": 53,
+      "lat": 39.0736,
+      "lon": 117.1695,
+      "kind": "stadium",
+      "source": "https://en.wikipedia.org/wiki/Tianjin_Olympic_Center_Stadium ; position from OpenStreetMap (WGS-84)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Tianjin World Financial Center",
+      "year": 2011,
+      "height_m": 336.9,
+      "lat": 39.1287,
+      "lon": 117.1964,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/tianjin-world-financial-center/360",
+      "confidence": "documented"
+    },
+    {
+      "name": "Bohai Bank Tower",
+      "year": 2015,
+      "height_m": 270,
+      "lat": 39.1277,
+      "lon": 117.2092,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/bohai-bank-tower/11155",
+      "confidence": "documented"
+    },
+    {
+      "name": "Tianjin Modern City Office Tower",
+      "year": 2016,
+      "height_m": 338,
+      "lat": 39.119,
+      "lon": 117.1917,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/tianjin-modern-city-office-tower/9692",
+      "confidence": "documented"
+    },
+    {
+      "name": "Jin Wan Plaza 9",
+      "year": 2017,
+      "height_m": 299.65,
+      "lat": 39.1294,
+      "lon": 117.2033,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/jin-wan-plaza-9/5225",
+      "confidence": "documented"
+    },
+    {
+      "name": "Tianjin CTF Finance Centre",
+      "year": 2019,
+      "height_m": 530,
+      "lat": 39.0213,
+      "lon": 117.6984,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/tianjin-ctf-finance-centre/310",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/tianjin/",
+  "notes": "Start date: 1214 is the Jin-dynasty fort of Zhiguzhai at Sanchakou, described in Chinese sources as Tianjin's earliest administrative establishment (one passage has troops posted to the fort in 1213, so it may be a year older). It became Haijin Town in 1316. The name Tianjin and the walled city date from 23 December 1404, which Chinese sources call the city's exactly recorded founding date; that is the alternative start if a stricter 'founding of the city' is wanted. Sui-Tang canal-junction settlement at 'Sanhui Haikou' is mentioned in gazetteers but not dated closely enough to use. Population: nothing was found before 1700. The series is Chandler (1987) as digitised by Reba et al. (2016), plus the 1911 Britannica's estimate for 1907. Chandler's 1734 value (64,912) was left out and his 1890 value looks like a change of area. No census figures for the 1920s-1940s could be sourced, so the series stops at 1925 and the next point is the UN's 1950. Landmarks: the old city was largely demolished around 2000-2003 and the surviving old temples (Tianhou Palace, 1326; Confucius Temple; Dabei Monastery) have no sourced heights, so the list starts in 1916. Also left out for that reason: Wanghailou Church, Jiefang Bridge (1927), Tianjin railway station. Tianjin 117 (596.55 m) is listed by CTBUH as topped out but not completed, so it is not included. The Tianjin CTF Finance Centre stands in Binhai, about 45 km east of the old city. Skyscrapers are from the CTBUH Skyscraper Center; other heights are from Wikipedia (English or Chinese) and positions from OpenStreetMap."
+}

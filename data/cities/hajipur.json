@@ -1,0 +1,271 @@
+{
+  "slug": "hajipur",
+  "name": "Hajipur",
+  "country": "India",
+  "start_year": 1350,
+  "start_label": "Hajipur founded as a fortified town by Haji Ilyas (Shamsuddin Ilyas Shah), king of Bengal",
+  "start_source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879",
+  "start_confidence": "estimated",
+  "historic_core": {
+    "name": "Old fort of Haji Ilyas on the Gandak bank (site of the stone Jama Masjid)",
+    "lat": 25.6875,
+    "lon": 85.1978,
+    "source": "OpenStreetMap node 4883158347 (Sangi Jama Masjid), https://www.openstreetmap.org/node/4883158347; fort and mosque described in O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879"
+  },
+  "population": [
+    {
+      "year": 1872,
+      "value": 22306,
+      "confidence": "documented",
+      "source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879",
+      "note": "1872 census. Hajipur town (municipality) only.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1881,
+      "value": 25078,
+      "confidence": "documented",
+      "source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879",
+      "note": "1881 census. Hajipur town (municipality) only.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1891,
+      "value": 21487,
+      "confidence": "documented",
+      "source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879",
+      "note": "1891 census. Hajipur town (municipality) only.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1901,
+      "value": 21398,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4 (Class I): towns and urban agglomerations with variation since 1901, https://censusindia.gov.in/nada/index.php/catalog/42876; also O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879",
+      "note": "1901 census. Hajipur town (municipality) only.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1911,
+      "value": 19223,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4 (Class I): towns and urban agglomerations with variation since 1901, https://censusindia.gov.in/nada/index.php/catalog/42876",
+      "note": "1911 census. Hajipur town (municipality) only.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1921,
+      "value": 16760,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4 (Class I): towns and urban agglomerations with variation since 1901, https://censusindia.gov.in/nada/index.php/catalog/42876",
+      "note": "1921 census. Hajipur town (municipality) only.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1931,
+      "value": 19299,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4 (Class I): towns and urban agglomerations with variation since 1901, https://censusindia.gov.in/nada/index.php/catalog/42876",
+      "note": "1931 census. Hajipur town (municipality) only.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1941,
+      "value": 21963,
+      "confidence": "documented",
+      "source": "Census of India 2011, Table A-4 (Class I): towns and urban agglomerations with variation since 1901, https://censusindia.gov.in/nada/index.php/catalog/42876",
+      "note": "1941 census. Hajipur town (municipality) only.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1975,
+      "value": 745962,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 942414,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 1163861,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 1751554,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 2396126,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 3363805,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 4618123,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 6367922,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 7761198,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 9070088,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 9941510,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 10165216,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1350,
+      "title": "Founded by Haji Ilyas",
+      "detail": "Haji Ilyas (Shamsuddin Ilyas Shah), king of Bengal from 1345 to 1358, founded the town and strengthened it with a large fort on the bank of the Gandak. The exact year is not recorded; 1350 stands for his reign.",
+      "source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1572,
+      "title": "Seized by Afghan rebels and retaken",
+      "detail": "Afghan rebels seized the town, then the seat of the Bengal governors of Bihar, and were driven out by Akbar's general Muzaffar Khan.",
+      "source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879",
+      "confidence": "documented"
+    },
+    {
+      "year": 1574,
+      "title": "Akbar's army storms Hajipur fort",
+      "detail": "During Akbar's campaign against Daud Khan a force of 3,000 men took the fort by storm. Bihar became a Mughal province governed from Patna, and Hajipur lost its former importance.",
+      "source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879",
+      "confidence": "documented"
+    },
+    {
+      "year": 1587,
+      "title": "Jama Masjid built inside the old fort",
+      "detail": "An inscription over the stone gateway records that the three-domed stone mosque within the fort was built in 1587 by Maksus Shah.",
+      "source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879",
+      "confidence": "documented"
+    },
+    {
+      "year": 1764,
+      "title": "Passes under British rule",
+      "detail": "After the battle of Buxar the district, with the rest of Bihar, came under the East India Company.",
+      "source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), p. 22, https://archive.org/details/in.ernet.dli.2015.206879",
+      "confidence": "documented"
+    },
+    {
+      "year": 1869,
+      "title": "Hajipur becomes a municipality",
+      "detail": "The town was constituted a municipality in 1869, covering about 10 square miles.",
+      "source": "O'Malley, Bengal District Gazetteers: Muzaffarpur (1907), 'Hajipur town', pp. 144-147, https://archive.org/details/in.ernet.dli.2015.206879; Imperial Gazetteer of India (1908), vol. 13, 'Hajipur Town', p. 7, https://archive.org/details/imperialgazettee13grea",
+      "confidence": "documented"
+    },
+    {
+      "year": 1972,
+      "title": "Headquarters of the new Vaishali district",
+      "detail": "Vaishali district was separated from Muzaffarpur district on 12 October 1972 with Hajipur as its headquarters.",
+      "source": "Vaishali district administration, About District, https://vaishali.nic.in/?p=1532",
+      "confidence": "documented"
+    },
+    {
+      "year": 1982,
+      "title": "Mahatma Gandhi Setu opens",
+      "detail": "The road bridge over the Ganges between Patna and Hajipur, built between 1972 and 1982 and about 5.75 km long, gave the town a direct link to the state capital.",
+      "source": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_Setu",
+      "confidence": "documented"
+    },
+    {
+      "year": 2002,
+      "title": "East Central Railway headquarters",
+      "detail": "The East Central Railway zone, with its headquarters at Hajipur, became operational on 1 October 2002.",
+      "source": "https://en.wikipedia.org/wiki/Hajipur_Junction_railway_station",
+      "confidence": "documented"
+    },
+    {
+      "year": 2017,
+      "title": "Digha-Sonpur road bridge opens",
+      "detail": "The road deck of the 4,556 m rail-and-road bridge across the Ganges between Patna and Sonpur, just west of Hajipur, was inaugurated on 11 June 2017; trains had used it since February 2016.",
+      "source": "https://en.wikipedia.org/wiki/Digha%E2%80%93Sonpur_Bridge",
+      "confidence": "documented"
+    },
+    {
+      "year": 2025,
+      "title": "UN counts a 9.9 million 'Hajipur' urban area",
+      "detail": "The UN's World Urbanization Prospects 2025 applied a new density-based definition of a city and reported 9,941,510 people over 3,092 km2 under the name Hajipur. This is the dense rural belt of north Bihar, not the town.",
+      "source": "UN DESA, World Urbanization Prospects 2025 (100 largest cities, degree-of-urbanisation definition), https://population.un.org/wup/",
+      "confidence": "estimated"
+    }
+  ],
+  "landmarks": [],
+  "footprint_epochs": "footprints/hajipur/",
+  "notes": "Why Hajipur is on the list: the UN's 2025 urban-extent definition joins contiguous 1 km cells with more than 1,500 people per km2. The closely settled countryside of north Bihar meets that threshold over about 3,100 km2, so the UN reports a single 'city' of 9.9 million people and names it after Hajipur. That is an artefact of the definition and not a conventional metropolis. This file describes the town of Hajipur itself (Vaishali district, on the Gandak just above its confluence with the Ganges, opposite Patna), whose census population was 147,688 in 2011. The pre-1950 population points are for the town only and are not comparable with the UN series that is merged in from 1950. Start date: the 1907 district gazetteer says the town was founded by Haji Ilyas, king of Bengal 1345-58, with a fort whose ramparts were then still visible; no exact year is recorded, so 1350 is a stand-in for his reign and is marked estimated (the 1908 Imperial Gazetteer says only 'about 500 years ago'). Buddhist tradition identifies the site with the village of Ukkacala visited by the Buddha, and local legend takes the Ramchaura temple back to the Ramayana; neither is used. Population: there is no figure before the 1872 census; the town stayed between 16,760 and 25,078 people from 1872 to 1941. Wikipedia prints 19,233 for 1911 where the census table has 19,223. Landmarks: none could be recorded, so this file fails the validator's minimum of five. No source opened in this session gives a height for any structure in or beside the town: the stone Jama Masjid (1587), the Nepali temple built for Jang Bahadur in the mid-19th century, Ramchaura Mandir, Hajipur Junction station, the Gandak rail bridge, Mahatma Gandhi Setu (1982; span lengths are published, pier or deck height is not), the Digha-Sonpur bridge and the part-opened Kacchi Dargah-Bidupur bridge. The district website gives the Jama Masjid's plan (84.5 ft long and 33.5 ft wide) but not its height. The date the railway reached Hajipur could not be sourced reliably either."
+}

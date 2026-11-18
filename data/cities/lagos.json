@@ -1,0 +1,442 @@
+{
+  "slug": "lagos",
+  "name": "Lagos",
+  "country": "Nigeria",
+  "start_year": 1472,
+  "start_label": "Awori Yoruba settlement on Lagos Island (Oko/Eko), in place when Portuguese traders reached the lagoon c. 1472",
+  "start_source": "Kristin Mann (2007), Slavery and the Birth of an African City: Lagos, 1760-1900, pp. 24-26, via https://en.wikipedia.org/wiki/History_of_Lagos",
+  "start_confidence": "estimated",
+  "historic_core": {
+    "name": "Iga Idunganran (palace of the Oba of Lagos, Isale Eko, Lagos Island)",
+    "lat": 6.4654,
+    "lon": 3.39,
+    "source": "https://en.wikipedia.org/wiki/Iga_Idunganran"
+  },
+  "population": [
+    {
+      "year": 1789,
+      "value": 5000,
+      "confidence": "estimated",
+      "source": "Akinyoade, Appiah & Asa (2017), 'Census-taking in Nigeria: the good, the technical, and the politics of numbers', African Population Studies 31(1 supp.), Table 1, https://aps.journals.ac.za/pub/article/view/997/746",
+      "note": "Pre-colonial estimate for the town of Lagos listed in the paper's Table 1; not a count.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1815,
+      "value": 11000,
+      "confidence": "estimated",
+      "source": "Akinyoade, Appiah & Asa (2017), African Population Studies 31(1 supp.), Table 1, https://aps.journals.ac.za/pub/article/view/997/746",
+      "note": "Pre-colonial estimate for the town of Lagos; not a count.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1855,
+      "value": 20000,
+      "confidence": "estimated",
+      "source": "Akinyoade, Appiah & Asa (2017), African Population Studies 31(1 supp.), Table 1, https://aps.journals.ac.za/pub/article/view/997/746",
+      "note": "Estimate from the consular period; not a count.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1861,
+      "value": 30000,
+      "confidence": "estimated",
+      "source": "Akinyoade, Appiah & Asa (2017), African Population Studies 31(1 supp.), Table 1, https://aps.journals.ac.za/pub/article/view/997/746",
+      "note": "Estimate at the British annexation; higher than the first census of 1866, which suggests it was a rough guess.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1866,
+      "value": 25083,
+      "confidence": "documented",
+      "source": "Ayodeji Olukoju (2003), Infrastructure Development and Urban Facilities in Lagos, 1861-2000, chapter 1, IFRA-Nigeria, https://books.openedition.org/ifra/828",
+      "note": "First colonial census. Town on Lagos Island only (under two square miles). Colonial counts were house-to-house estimates and are thought to undercount.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1871,
+      "value": 28518,
+      "confidence": "documented",
+      "source": "Tunde Agbola (1997), The Architecture of Fear, chapter 3, IFRA-Nigeria, https://books.openedition.org/ifra/498 (figures after Mabogunje 1968, Urbanisation in Nigeria)",
+      "note": "Lagos Island, about 4 square km.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1881,
+      "value": 37452,
+      "confidence": "documented",
+      "source": "Ayodeji Olukoju (2003), Infrastructure Development and Urban Facilities in Lagos, 1861-2000, chapter 1, IFRA-Nigeria, https://books.openedition.org/ifra/828",
+      "note": "Census; town on Lagos Island.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1891,
+      "value": 33000,
+      "confidence": "documented",
+      "source": "Akinyoade, Appiah & Asa (2017), African Population Studies 31(1 supp.), Table 1, https://aps.journals.ac.za/pub/article/view/997/746",
+      "note": "1891 census result as printed in the paper, rounded to the nearest thousand. The fall from 1881 is in the source and is usually put down to the quality of the counts.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1901,
+      "value": 41487,
+      "confidence": "documented",
+      "source": "Ayodeji Olukoju (2003), Infrastructure Development and Urban Facilities in Lagos, 1861-2000, chapter 1, IFRA-Nigeria, https://books.openedition.org/ifra/828",
+      "note": "Census; town on Lagos Island. Sources disagree on this count: Akinyoade et al. (2017) round it to 42,000 and Fourchard (2011, CODESRIA, 'Lagos' in Capital Cities in Africa) gives 38,387.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1911,
+      "value": 73766,
+      "confidence": "documented",
+      "source": "Ayodeji Olukoju (2003), Infrastructure Development and Urban Facilities in Lagos, 1861-2000, chapter 1, IFRA-Nigeria, https://books.openedition.org/ifra/828",
+      "note": "Census. The boundary had been extended to 18 square miles (Lagos Island, Ebute Metta and Apapa), so part of the jump from 1901 is a change of area.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1921,
+      "value": 98303,
+      "confidence": "documented",
+      "source": "Ayodeji Olukoju (2003), Infrastructure Development and Urban Facilities in Lagos, 1861-2000, chapter 1, IFRA-Nigeria, https://books.openedition.org/ifra/828 (citing Sada 1969 and National Archives Ibadan, Comcol 1 739)",
+      "note": "Census, Lagos township.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1931,
+      "value": 126474,
+      "confidence": "documented",
+      "source": "Ayodeji Olukoju (2003), Infrastructure Development and Urban Facilities in Lagos, 1861-2000, chapter 1, IFRA-Nigeria, https://books.openedition.org/ifra/828 (citing Sada 1969 and National Archives Ibadan, Comcol 1 739, 'Census 1931')",
+      "note": "Census, Lagos township (24.24 square miles). Agbola (1997) prints 126,108 for the same census.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 325218,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Lagos\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 468460,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Lagos\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 762418,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Lagos\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 1135439,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Lagos\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 1413528,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Lagos\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 2612450,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Low.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 3414699,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Low.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 4486575,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 5762980,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 6887200,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 7908961,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 9007119,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 10133104,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 11091934,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 12012080,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 12791699,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 12956639,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1472,
+      "title": "Portuguese traders reach the lagoon",
+      "detail": "Portuguese ships began trading in the lagoon around 1472. Awori Yoruba fishing and farming communities already lived on the islands, under the Olofin of Iddo.",
+      "source": "Kristin Mann (2007), Slavery and the Birth of an African City: Lagos, 1760-1900, pp. 24-26, via https://en.wikipedia.org/wiki/History_of_Lagos",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1600,
+      "title": "Benin makes Lagos Island a military post (Eko)",
+      "detail": "Around 1600 the Kingdom of Benin took control and Lagos Island became a fortified Benin camp. Ashipa was appointed ruler and founded the dynasty of the Obas of Lagos, who paid tribute to Benin until 1830.",
+      "source": "Mann (2007), pp. 27-29, and S. A. Akintoye (2014), A History of the Yoruba People, p. 235, via https://en.wikipedia.org/wiki/History_of_Lagos",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1760,
+      "title": "Lagos opens to the Atlantic slave trade",
+      "detail": "Oba Akinsemoyin, who took the throne in the 1760s, opened the town to European slave traders. The trade grew fast in the 1780s and made Lagos a leading slave port of the Bight of Benin.",
+      "source": "Mann (2007), pp. 36-41, via https://en.wikipedia.org/wiki/History_of_Lagos",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1851,
+      "title": "British bombardment of Lagos",
+      "detail": "A Royal Navy squadron attacked the town, removed Oba Kosoko and restored Akitoye, who signed a treaty abolishing the slave trade on 1 January 1852. A British consulate followed.",
+      "source": "Robert S. Smith (1979), The Lagos Consulate 1851-1861, via https://en.wikipedia.org/wiki/Timeline_of_Lagos",
+      "confidence": "documented"
+    },
+    {
+      "year": 1861,
+      "title": "Lagos ceded to Britain",
+      "detail": "Oba Dosunmu signed the Lagos Treaty of Cession on 6 August 1861 under threat of bombardment. Lagos was declared a British colony on 5 March 1862.",
+      "source": "Smith (1979), The Lagos Consulate 1851-1861, p. 121, via https://en.wikipedia.org/wiki/History_of_Lagos",
+      "confidence": "documented"
+    },
+    {
+      "year": 1898,
+      "title": "Electric lighting switched on",
+      "detail": "Electricity supply began on 19 September 1898 with 60 kW of generation, lighting the Marina from Government House to the north side of the island.",
+      "source": "Ayodeji Olukoju (2003), Infrastructure Development and Urban Facilities in Lagos, 1861-2000, chapter 2, via https://en.wikipedia.org/wiki/History_of_Lagos",
+      "confidence": "documented"
+    },
+    {
+      "year": 1901,
+      "title": "Railway to Ibadan and Carter Bridge open",
+      "detail": "The Lagos Government Railway to Ibadan, begun in 1896, opened on 4 March 1901. In the same year Carter Bridge gave Lagos Island its first fixed link to the mainland.",
+      "source": "https://railwaywondersoftheworld.com/nigeria.html (railway) and R. Oyelaran-Oyeyinka, Governance and Bureaucracy: Leadership in Nigeria's Public Service (Carter Bridge), both via https://en.wikipedia.org/wiki/History_of_Lagos",
+      "confidence": "documented"
+    },
+    {
+      "year": 1914,
+      "title": "Capital of a unified Nigeria",
+      "detail": "Northern and Southern Nigeria were merged on 1 January 1914 into the Colony and Protectorate of Nigeria, with Lagos as its capital.",
+      "source": "Statesman's Year-Book (1921), 'British Empire: West Africa: Nigeria', via https://en.wikipedia.org/wiki/Timeline_of_Lagos",
+      "confidence": "documented"
+    },
+    {
+      "year": 1924,
+      "title": "Bubonic plague and clearance of the island",
+      "detail": "Plague broke out in 1924 and lasted until 1931, with 1,947 recorded cases. Swamps were drained and crowded quarters on Lagos Island were cleared, with residents resettled on the mainland.",
+      "source": "O. A. Faleye (2019), Gesnerus, and Olukoju (2003), https://books.openedition.org/ifra/828, via https://en.wikipedia.org/wiki/History_of_Lagos",
+      "confidence": "documented"
+    },
+    {
+      "year": 1960,
+      "title": "Independence proclaimed at the racecourse",
+      "detail": "Nigerian independence was proclaimed in 1960 at the Lagos racecourse, now Tafawa Balewa Square. Lagos stayed the federal capital.",
+      "source": "https://en.wikipedia.org/wiki/Lagos",
+      "confidence": "documented"
+    },
+    {
+      "year": 1967,
+      "title": "Lagos State created",
+      "detail": "The new state joined the old municipality to the mainland districts that the city had already grown into, such as Mushin, Ikeja and Agege.",
+      "source": "UN-HABITAT (2004), State of the World's Cities 2004/2005, via https://en.wikipedia.org/wiki/Timeline_of_Lagos",
+      "confidence": "documented"
+    },
+    {
+      "year": 1977,
+      "title": "FESTAC 77 held in Lagos",
+      "detail": "The Second World Black and African Festival of Arts and Culture was held in 1977. The National Theatre at Iganmu, finished in 1976, and the Festac Town housing estate were built for it.",
+      "source": "Toyin Falola & Ann Genova (2009), Historical Dictionary of Nigeria, via https://en.wikipedia.org/wiki/Timeline_of_Lagos",
+      "confidence": "documented"
+    },
+    {
+      "year": 1990,
+      "title": "Third Mainland Bridge opens",
+      "detail": "The 11.8 km bridge across the lagoon, the longest of the three links between Lagos Island and the mainland, opened in 1990.",
+      "source": "https://en.wikipedia.org/wiki/Third_Mainland_Bridge",
+      "confidence": "documented"
+    },
+    {
+      "year": 1991,
+      "title": "Federal capital moves to Abuja",
+      "detail": "The seat of the federal government officially moved from Lagos to Abuja on 12 December 1991. Lagos remained the country's commercial centre.",
+      "source": "Falola & Genova (2009), Historical Dictionary of Nigeria, 'Chronology', via https://en.wikipedia.org/wiki/Lagos",
+      "confidence": "documented"
+    },
+    {
+      "year": 2008,
+      "title": "Bus rapid transit begins",
+      "detail": "The Lagos Bus Rapid Transit system was inaugurated in 2008, with dedicated bus lanes on Ikorodu Road.",
+      "source": "https://en.wikipedia.org/wiki/Lagos",
+      "confidence": "documented"
+    },
+    {
+      "year": 2023,
+      "title": "Blue Line urban rail opens",
+      "detail": "The Lagos light rail system began operating in 2023 with the Blue Line between Mile 2 and Marina. The Red Line followed in 2024.",
+      "source": "https://en.wikipedia.org/wiki/Lagos",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Independence House",
+      "year": 1961,
+      "height_m": 103,
+      "lat": 6.4469,
+      "lon": 3.3989,
+      "kind": "skyscraper",
+      "source": "SkyscraperPage building 38507, via https://en.wikipedia.org/wiki/Independence_House (CTBUH does not list a completion year)",
+      "confidence": "documented"
+    },
+    {
+      "name": "National Theatre (Wole Soyinka Centre), Iganmu",
+      "year": 1976,
+      "height_m": 31,
+      "lat": 6.4764,
+      "lon": 3.3694,
+      "kind": "other",
+      "source": "https://www.icirnigeria.org/heres-what-to-know-about-national-theatre-renamed-wole-soyinka-centre/",
+      "confidence": "documented",
+      "note": "The source says the building 'rises to a height of over 31 metres'."
+    },
+    {
+      "name": "NECOM House",
+      "year": 1979,
+      "height_m": 160.3,
+      "lat": 6.4462,
+      "lon": 3.3976,
+      "kind": "skyscraper",
+      "source": "https://www.skyscrapercenter.com/building/necom-house/8935",
+      "confidence": "documented"
+    },
+    {
+      "name": "Union Bank Building",
+      "year": 1991,
+      "height_m": 124,
+      "lat": 6.4524,
+      "lon": 3.3879,
+      "kind": "skyscraper",
+      "source": "https://www.skyscrapercenter.com/building/union-bank-building/38903",
+      "confidence": "documented"
+    },
+    {
+      "name": "Eko Tower II (Eko Hotels and Suites)",
+      "year": 2016,
+      "height_m": 118.3,
+      "lat": 6.4261,
+      "lon": 3.43,
+      "kind": "skyscraper",
+      "source": "https://www.skyscrapercenter.com/building/eko-tower-ii/39562",
+      "confidence": "documented",
+      "note": "Coordinates are those of the Eko Hotels and Suites complex."
+    },
+    {
+      "name": "Eko Champagne Pearl Tower (Eko Atlantic)",
+      "year": 2017,
+      "height_m": 103,
+      "lat": 6.4098,
+      "lon": 3.412,
+      "kind": "skyscraper",
+      "source": "https://www.skyscrapercenter.com/building/eko-champagne-pearl-tower/40872",
+      "confidence": "estimated",
+      "note": "CTBUH marks the 103 m height as estimated from the floor count (30 floors). Wikipedia, citing Emporis, gives 134 m."
+    }
+  ],
+  "footprint_epochs": "footprints/lagos/",
+  "notes": "Start date: there is no documented founding. Awori Yoruba tradition (the Olofin and his sons) is undated; historians place Awori settlement on the islands by the 15th century and Portuguese contact with the lagoon around 1472, and the Benin military camp (Eko) around 1600. 1472 is used as the earliest externally anchored date and marked 'estimated'; the date is contested and some accounts say Lagos was founded in the 16th century. Population: nothing before 1789, and the four figures for 1789-1861 are rough estimates listed without discussion in Akinyoade et al. (2017). Colonial censuses run from 1866; the 1866-1901 counts cover the town on Lagos Island only, 1911 onward the enlarged township (18 square miles in 1911, 24.24 in 1931), so the series is not like-for-like. Published tables disagree by a few hundred on several censuses (1901: 41,487 / 41,847 / 38,387; 1921: 98,303 / 99,690; 1931: 126,474 / 126,108); Olukoju (2003) is followed, and Fourchard notes that all these counts were house-to-house estimates that undercount. The 1891 figure was found only rounded. No 1940s count was found (the next census was 1950). Landmarks: only six had a sourced height. Left out for lack of a sourced height: Iga Idunganran palace, Shitta-Bey Mosque (1892), Cathedral Church of Christ (1946), Holy Cross Cathedral (1939), Lagos Central Mosque (1988), Tafawa Balewa Square, National Stadium, Carter Bridge and Third Mainland Bridge. The Lekki-Ikoyi Link Bridge (2013) was left out because sources give its pylon as 50 m, 90 m or 91 m. Civic Centre Tower was left out because CTBUH (75 m, estimated) and other sources (90 m) disagree. Landmark coordinates are from Wikipedia."
+}

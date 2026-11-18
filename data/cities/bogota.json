@@ -1,0 +1,484 @@
+{
+  "slug": "bogota",
+  "name": "Bogotá",
+  "country": "Colombia",
+  "start_year": 1538,
+  "start_label": "Santa Fe founded by Gonzalo Jiménez de Quesada",
+  "start_source": "Alcaldía de Bogotá, 'Historia de Bogotá: recorrido por la historia de la ciudad', https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/historia-de-bogota-recorrido-por-la-historia-de-la-ciudad-de-bogota (no founding act survives; 6 August 1538 is the accepted date); https://es.wikipedia.org/wiki/Historia_de_Bogot%C3%A1 (juridical founding 27 April 1539)",
+  "start_confidence": "documented",
+  "historic_core": {
+    "name": "Plaza de Bolívar (the Plaza Mayor of the 1539 juridical founding)",
+    "lat": 4.5981,
+    "lon": -74.0761,
+    "source": "https://en.wikipedia.org/wiki/Plaza_de_Bol%C3%ADvar"
+  },
+  "population": [
+    {
+      "year": 1569,
+      "value": 12000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv)",
+      "note": "Chandler's estimate. Marley (2005), as quoted in Wikipedia's timeline, gives only 3,000 for 1616, so early colonial figures disagree widely, probably over whether the indigenous population is counted.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1680,
+      "value": 15000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1776,
+      "value": 19479,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), 'Spatializing 6,000 years of global urbanization from 3700 BC to AD 2000', Scientific Data 3:160034 (file chandlerV2.csv)",
+      "note": "Wikipedia's population table gives 16,233 for 1775.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1801,
+      "value": 21394,
+      "confidence": "documented",
+      "source": "Marley (2005), Historic Cities of the Americas, via https://en.wikipedia.org/wiki/Timeline_of_Bogot%C3%A1; also Historia de Bogotá - Siglo XX, p. 29, via https://es.wikipedia.org/wiki/Historia_de_Bogot%C3%A1",
+      "note": "Census of 1801. Chandler gives 21,464 for 1800.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1870,
+      "value": 40883,
+      "confidence": "documented",
+      "source": "National census of 1870 as given in the population table of https://en.wikipedia.org/wiki/Bogot%C3%A1 (footnote cites DANE)",
+      "note": "Rey Hernández (2010), quoting Mejía Pavony, prints 40,833.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1881,
+      "value": 84723,
+      "confidence": "documented",
+      "source": "Rey Hernández (2010), 'Bogotá 1890-1910: población y transformaciones urbanas', Territorios 23, pp. 13-32, https://revistas.urosario.edu.co/index.php/territorios/article/download/1400/1276/5198; also Alcaldía de Bogotá, 'Historia de Bogotá: recorrido por la historia de la ciudad', https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/historia-de-bogota-recorrido-por-la-historia-de-la-ciudad-de-bogota",
+      "note": "Count taken from a city guide; Mejía Pavony, quoted by Rey Hernández, considers it somewhat inflated.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1884,
+      "value": 95813,
+      "confidence": "documented",
+      "source": "Rey Hernández (2010), 'Bogotá 1890-1910: población y transformaciones urbanas', Territorios 23, pp. 13-32, https://revistas.urosario.edu.co/index.php/territorios/article/download/1400/1276/5198",
+      "note": "Figure from Mejía Pavony (2000), Los años del cambio, as quoted by Rey Hernández.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1898,
+      "value": 78000,
+      "confidence": "documented",
+      "source": "Rey Hernández (2010), 'Bogotá 1890-1910: población y transformaciones urbanas', Territorios 23, pp. 13-32, https://revistas.urosario.edu.co/index.php/territorios/article/download/1400/1276/5198",
+      "note": "Government count of 1898 reported by Vergara y Velasco; contemporary guesses ran as high as 130,000.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1907,
+      "value": 86328,
+      "confidence": "documented",
+      "source": "Rey Hernández (2010), 'Bogotá 1890-1910: población y transformaciones urbanas', Territorios 23, pp. 13-32, https://revistas.urosario.edu.co/index.php/territorios/article/download/1400/1276/5198",
+      "note": "Municipal 'censo por papeletas' of 1907; the article notes its method tends to undercount.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1912,
+      "value": 121257,
+      "confidence": "documented",
+      "source": "Rey Hernández (2010), 'Bogotá 1890-1910: población y transformaciones urbanas', Territorios 23, pp. 13-32, https://revistas.urosario.edu.co/index.php/territorios/article/download/1400/1276/5198",
+      "note": "National census of 1912. Mejía Pavony assigns 116,951.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1918,
+      "value": 143994,
+      "confidence": "documented",
+      "source": "National census of 1918 as given in the population table of https://en.wikipedia.org/wiki/Bogot%C3%A1 (footnote cites DANE)",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1928,
+      "value": 235421,
+      "confidence": "documented",
+      "source": "Marley (2005), Historic Cities of the Americas, via https://en.wikipedia.org/wiki/Timeline_of_Bogot%C3%A1",
+      "note": "National census of 1928. Wikipedia's population table gives 235,702.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1938,
+      "value": 325650,
+      "confidence": "documented",
+      "source": "National census of 1938 as given in the population table of https://en.wikipedia.org/wiki/Bogot%C3%A1 (footnote cites DANE)",
+      "note": "Sources disagree for this census: the city government's history page gives 333,312 and Marley (2005) 336,996.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 630315,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Bogotá\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 894187,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Bogotá\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 1268645,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Bogotá\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 1779758,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Bogotá\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 2383425,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Bogotá\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 3389750,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 3844780,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 4360229,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 4922725,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 5579035,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 6340840,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 7125041,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 7987913,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 8934193,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 9935155,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 10624315,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 10738472,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1538,
+      "title": "Quesada founds Santa Fe",
+      "detail": "No founding act survives, but 6 August 1538 is the accepted date: by tradition the first mass was said that day in a thatched church beside the indigenous village of Teusaquillo.",
+      "source": "Alcaldía de Bogotá, 'Historia de Bogotá: recorrido por la historia de la ciudad', https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/historia-de-bogota-recorrido-por-la-historia-de-la-ciudad-de-bogota",
+      "confidence": "documented"
+    },
+    {
+      "year": 1539,
+      "title": "Juridical founding on the Plaza Mayor",
+      "detail": "On 27 April 1539 Quesada, with Nicolás Federmann and Sebastián de Belalcázar, formally founded the city on what is now the Plaza de Bolívar.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_Bogot%C3%A1",
+      "confidence": "documented"
+    },
+    {
+      "year": 1550,
+      "title": "Real Audiencia established",
+      "detail": "On 7 April 1550 the Real Audiencia was installed, giving the city the rank of capital of the New Kingdom of Granada.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_Bogot%C3%A1",
+      "confidence": "documented"
+    },
+    {
+      "year": 1717,
+      "title": "Capital of the Viceroyalty of New Granada",
+      "detail": "After 1717 Santafé was the capital of the newly created Viceroyalty of New Granada.",
+      "source": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+      "confidence": "documented"
+    },
+    {
+      "year": 1785,
+      "title": "Earthquake damages the city",
+      "detail": "The earthquake of 1785 destroyed or seriously damaged religious buildings including the cathedral and the churches of Santo Domingo and San Francisco.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_Bogot%C3%A1",
+      "confidence": "documented"
+    },
+    {
+      "year": 1810,
+      "title": "Junta de Santa Fe",
+      "detail": "On 20 July 1810 the Junta de Santa Fe was established, the event commemorated as Colombia's declaration of independence.",
+      "source": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+      "confidence": "documented"
+    },
+    {
+      "year": 1819,
+      "title": "Capital of Gran Colombia, renamed Bogotá",
+      "detail": "Simón Bolívar entered the city on 10 August 1819, and the Fundamental Law of 17 December 1819 named the capital of the new country Bogotá, dropping 'Santafé'.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_Bogot%C3%A1",
+      "confidence": "documented"
+    },
+    {
+      "year": 1884,
+      "title": "Mule tramway to Chapinero",
+      "detail": "A mule-drawn tram began running from the Plaza de Bolívar to Chapinero in 1884; electric trams followed in 1910.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_Bogot%C3%A1",
+      "confidence": "documented"
+    },
+    {
+      "year": 1889,
+      "title": "Sabana railway begins operating",
+      "detail": "The Ferrocarril de la Sabana opened its first line, from San Victorino to Facatativá.",
+      "source": "https://en.wikipedia.org/wiki/Timeline_of_Bogot%C3%A1; https://es.wikipedia.org/wiki/Historia_de_Bogot%C3%A1",
+      "confidence": "documented"
+    },
+    {
+      "year": 1948,
+      "title": "El Bogotazo",
+      "detail": "The assassination of Liberal leader Jorge Eliécer Gaitán on 9 April 1948 set off riots that left the city centre virtually destroyed.",
+      "source": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+      "confidence": "documented"
+    },
+    {
+      "year": 1954,
+      "title": "Special District created; six towns annexed",
+      "detail": "Legislative Decree 3640 of 17 December 1954 created the Distrito Especial, annexing the municipalities of Usme, Bosa, Fontibón, Engativá, Suba and Usaquén.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_Bogot%C3%A1; Alcaldía de Bogotá, 'Historia de Bogotá: recorrido por la historia de la ciudad', https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/historia-de-bogota-recorrido-por-la-historia-de-la-ciudad-de-bogota",
+      "confidence": "documented"
+    },
+    {
+      "year": 1991,
+      "title": "Capital District",
+      "detail": "Under the 1991 Constitution the Special District became the Capital District, divided into twenty localities.",
+      "source": "https://es.wikipedia.org/wiki/Historia_de_Bogot%C3%A1",
+      "confidence": "documented"
+    },
+    {
+      "year": 2000,
+      "title": "TransMilenio opens",
+      "detail": "The first phase of the TransMilenio bus rapid transit system opened in 2000.",
+      "source": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Primatial Cathedral of Bogotá",
+      "year": 1823,
+      "height_m": 52,
+      "lat": 4.598,
+      "lon": -74.0752,
+      "kind": "church",
+      "source": "https://en.wikipedia.org/wiki/Primatial_Cathedral_of_Bogot%C3%A1 (maximum height 52 m; present building 1807-1823)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Hotel Tequendama",
+      "year": 1953,
+      "height_m": 53.45,
+      "lat": 4.6128,
+      "lon": -74.0728,
+      "kind": "other",
+      "source": "https://es.wikipedia.org/wiki/Hotel_Tequendama (53.45 m; inaugurated 17 May 1953)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Edificio Avianca",
+      "year": 1969,
+      "height_m": 161,
+      "lat": 4.6026,
+      "lon": -74.0724,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/edificio-avianca/3273",
+      "confidence": "documented"
+    },
+    {
+      "name": "Edificio Seguros Tequendama",
+      "year": 1970,
+      "height_m": 121.92,
+      "lat": 4.6125,
+      "lon": -74.0695,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/edificio-seguros-tequendama/11187",
+      "confidence": "documented"
+    },
+    {
+      "name": "Edificio Colseguros",
+      "year": 1971,
+      "height_m": 140,
+      "lat": 4.6038,
+      "lon": -74.0723,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/edificio-colseguros/4333",
+      "confidence": "documented"
+    },
+    {
+      "name": "Centro de Comercio Internacional",
+      "year": 1974,
+      "height_m": 192,
+      "lat": 4.6157,
+      "lon": -74.0713,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/centro-de-comercio-internacional/1971",
+      "confidence": "documented"
+    },
+    {
+      "name": "Torre Colpatria",
+      "year": 1979,
+      "height_m": 196,
+      "lat": 4.611,
+      "lon": -74.0702,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/torre-colpatria/1918",
+      "confidence": "documented"
+    },
+    {
+      "name": "Ciudadela San Martín Torre Norte",
+      "year": 1983,
+      "height_m": 171,
+      "lat": 4.619,
+      "lon": -74.0675,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/ciudadela-san-martin-torre-norte/2682",
+      "confidence": "documented"
+    },
+    {
+      "name": "Museo Parque Central",
+      "year": 2017,
+      "height_m": 185,
+      "lat": 4.6166,
+      "lon": -74.0709,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/museo-parque-central/18148",
+      "confidence": "documented"
+    },
+    {
+      "name": "North Point V (Torre Krystal)",
+      "year": 2017,
+      "height_m": 184,
+      "lat": 4.7314,
+      "lon": -74.0234,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/north-point-v/33704",
+      "confidence": "documented"
+    },
+    {
+      "name": "BD Bacatá Torre Sur",
+      "year": 2018,
+      "height_m": 216,
+      "lat": 4.6049,
+      "lon": -74.0702,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/bd-bacata-torre-sur/9026",
+      "confidence": "documented"
+    },
+    {
+      "name": "Atrio North Tower",
+      "year": 2019,
+      "height_m": 201.6,
+      "lat": 4.6163,
+      "lon": -74.0718,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/building/atrio-north-tower/18880",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/bogota/",
+  "notes": "Start date: the Spanish city of Santa Fe is used, with the accepted founding date of 6 August 1538. This is traditional rather than strictly documentary: the city government states that no founding act exists, and the formal 'juridical' founding took place on 27 April 1539 on the future Plaza Mayor. Earlier indigenous settlement is not counted as the city itself: Bacatá, seat of the Muisca zipa, was the centre of a dispersed farming population (the city government's history notes the Muisca built no large towns), and the Spaniards settled beside a small village called Teusaquillo. Chandler's dataset lists 20,000 for 'Bacata' in 1500 and 1538 and Wikipedia's table 160,000 for 1500; these describe the Muisca territory, not the city, and are left out. Population: the series is thin and inconsistent before 1870. The 1569, 1680 and 1776 points are Chandler estimates; Marley's 3,000 for 1616 conflicts with them and is not plotted. For 1832 the city government page gives 36,465 and Wikipedia's table 28,341; with no way to resolve the difference in this session, 1832 is left out, as is Chandler's 53,393 for 1848. Late 19th-century counts are irregular (84,723 in 1881, 95,813 in 1884, then 78,000 in 1898 after which the Thousand Days' War followed), so the series is not monotonic. The DANE library pages that hold the census volumes could not be opened (connection refused), so the 1870, 1918 and 1938 census values are taken from English Wikipedia's population table, whose footnote cites DANE; the 1938 figure in particular varies between sources (325,650, 333,312, 336,996). All figures refer to the municipality or urban perimeter of the time, before the 1954 annexations. Landmarks: skyscraper heights and years are from CTBUH. Bogotá's colonial and republican monuments are badly under-represented because no sourced heights were found for the Capitolio Nacional, the churches of San Francisco, San Ignacio, Lourdes and El Carmen, the Monserrate sanctuary or the Observatorio Astronómico; the cathedral height (52 m) is from the English Wikipedia infobox without a further citation. Towers still under construction (Atrio South Tower, 268 m, CTBUH completion 2028) are excluded. The first metro line is expected in 2028 and is not yet a milestone."
+}

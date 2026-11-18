@@ -1,0 +1,558 @@
+{
+  "slug": "nagoya",
+  "name": "Nagoya",
+  "country": "Japan",
+  "start_year": 1610,
+  "start_label": "Tokugawa Ieyasu begins Nagoya Castle and its castle town",
+  "start_source": "https://en.wikipedia.org/wiki/Nagoya_Castle (decision November 1609, work begun January 1610); https://ja.wikipedia.org/wiki/清洲越し",
+  "start_confidence": "documented",
+  "historic_core": {
+    "name": "Nagoya Castle",
+    "lat": 35.1856,
+    "lon": 136.8986,
+    "source": "https://en.wikipedia.org/wiki/Nagoya_Castle (35°11'08\"N 136°53'55\"E)"
+  },
+  "population": [
+    {
+      "year": 1650,
+      "value": 68000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), https://doi.org/10.1038/sdata.2016.34",
+      "note": "Chandler's estimate for the castle town of Nagoya.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1700,
+      "value": 65000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), https://doi.org/10.1038/sdata.2016.34",
+      "note": "Chandler's estimate for the castle town of Nagoya.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1750,
+      "value": 90000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), https://doi.org/10.1038/sdata.2016.34",
+      "note": "Chandler's estimate for the castle town of Nagoya.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1800,
+      "value": 92000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), https://doi.org/10.1038/sdata.2016.34",
+      "note": "Chandler's estimate for the castle town of Nagoya.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1850,
+      "value": 93000,
+      "confidence": "estimated",
+      "source": "Chandler (1987), Four Thousand Years of Urban Growth, as digitised in Reba, Reitsma & Seto (2016), https://doi.org/10.1038/sdata.2016.34",
+      "note": "Chandler's estimate for the castle town of Nagoya.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1873,
+      "value": 125193,
+      "confidence": "documented",
+      "source": "Nihon Chishi Teiyō (日本地誌提要, Home Ministry, 1875-79), registered population at 1 January 1873, via https://ja.wikipedia.org/wiki/国勢調査以前の日本の人口統計",
+      "note": "Registered population of the urban area of Nagoya. The first government count of the town.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1879,
+      "value": 111783,
+      "confidence": "documented",
+      "source": "National population table for 1 January 1879 (日本全国郡区分人口表), via https://ja.wikipedia.org/wiki/国勢調査以前の日本の人口統計",
+      "note": "Registered population of Nagoya-ku, the urban district created in 1878. Lower than the 1873 figure because the two official sources drew the urban area differently, not because the town shrank.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1889,
+      "value": 162767,
+      "confidence": "documented",
+      "source": "Home Ministry, 日本帝国民籍戸口表, resident population at 31 December 1889, via https://ja.wikipedia.org/wiki/国勢調査以前の日本の人口統計",
+      "note": "Nagoya City in the year it was incorporated (13.44 km2). Register-based resident population.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1898,
+      "value": 244145,
+      "confidence": "documented",
+      "source": "Cabinet Statistics Bureau, 日本帝国人口統計, resident population at 31 December 1898, via https://ja.wikipedia.org/wiki/国勢調査以前の日本の人口統計",
+      "note": "Nagoya City. Register-based resident counts of this period tend to overstate the true population.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1908,
+      "value": 295897,
+      "confidence": "documented",
+      "source": "Police-survey resident population at 31 December 1908 in 日本帝国人口静態統計, via https://ja.wikipedia.org/wiki/国勢調査以前の日本の人口統計",
+      "note": "Nagoya City. The police survey is used in preference to the register-based figure for the same date (378,231), which is regarded as an overcount.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1913,
+      "value": 351120,
+      "confidence": "documented",
+      "source": "Police-survey resident population at 31 December 1913 in 日本帝国人口静態統計, via https://ja.wikipedia.org/wiki/国勢調査以前の日本の人口統計",
+      "note": "Nagoya City. Police survey; the register-based figure for the same date is 452,043.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1920,
+      "value": 429997,
+      "confidence": "documented",
+      "source": "First national census, 1 October 1920, via https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位",
+      "note": "Nagoya City (38.90 km2).",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1925,
+      "value": 768558,
+      "confidence": "documented",
+      "source": "National census, 1 October 1925, via https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位",
+      "note": "Nagoya City after the 1921 merger of surrounding towns and villages (149.95 km2).",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1930,
+      "value": 907404,
+      "confidence": "documented",
+      "source": "National census, 1 October 1930, via https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位",
+      "note": "Nagoya City.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1935,
+      "value": 1082816,
+      "confidence": "documented",
+      "source": "National census, 1 October 1935, via https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位",
+      "note": "Nagoya City; the first census above one million.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1940,
+      "value": 1328084,
+      "confidence": "documented",
+      "source": "National census, 1 October 1940, via https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位",
+      "note": "Nagoya City (158.79 km2).",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1945,
+      "value": 597941,
+      "confidence": "documented",
+      "source": "Population survey of 1 November 1945, via https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位",
+      "note": "Nagoya City after the 1945 air raids and evacuation.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1947,
+      "value": 853085,
+      "confidence": "documented",
+      "source": "Extraordinary national census, 1 October 1947, via https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位",
+      "note": "Nagoya City.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 2236878,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Chukyo M.M.A. (Nagoya)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 3100066,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Chukyo M.M.A. (Nagoya)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 4296736,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Chukyo M.M.A. (Nagoya)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 5954267,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Chukyo M.M.A. (Nagoya)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 6603381,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Chukyo M.M.A. (Nagoya)\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 5365962,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 5790847,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 5907119,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 6199565,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 6570014,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 6506286,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 6686843,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 6826195,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 7037742,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 7282018,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 7146160,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 7116860,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1610,
+      "title": "Work begins on Nagoya Castle",
+      "detail": "Tokugawa Ieyasu orders some twenty daimyo to build a new castle on the Atsuta plateau as the capital of Owari Province, replacing flood-prone Kiyosu. The stone base of the main keep is finished by August.",
+      "source": "https://en.wikipedia.org/wiki/Nagoya_Castle ; https://ja.wikipedia.org/wiki/清洲越し",
+      "confidence": "documented"
+    },
+    {
+      "year": 1612,
+      "title": "Keep completed; Kiyosu moves to Nagoya",
+      "detail": "The main keep is completed in December 1612 and a grid of streets is laid out south of the castle. Between 1612 and 1616 almost all of Kiyosu's roughly 2,700 townhouses, with 110 temples and three shrines, are moved to the new town.",
+      "source": "https://ja.wikipedia.org/wiki/清洲越し ; https://en.wikipedia.org/wiki/Nagoya_Castle",
+      "confidence": "documented"
+    },
+    {
+      "year": 1660,
+      "title": "Manji fire and the widening of Hirokōji",
+      "detail": "A great fire burns nearly 3,000 houses. Afterwards the broad street of Hirokōji is opened at the southern edge of the grid.",
+      "source": "https://ja.wikipedia.org/wiki/名古屋市",
+      "confidence": "documented"
+    },
+    {
+      "year": 1730,
+      "title": "Tokugawa Muneharu promotes Nagoya as a commercial city",
+      "detail": "The seventh lord of Owari takes office and encourages trade and entertainment in the castle town until he is confined by the shogunate in 1739.",
+      "source": "https://ja.wikipedia.org/wiki/名古屋市",
+      "confidence": "documented"
+    },
+    {
+      "year": 1871,
+      "title": "Nagoya becomes a prefectural capital",
+      "detail": "With the abolition of the feudal domains, Nagoya Domain becomes Nagoya Prefecture, renamed Aichi the following year. The prefectural office is placed inside the castle.",
+      "source": "https://ja.wikipedia.org/wiki/名古屋市",
+      "confidence": "documented"
+    },
+    {
+      "year": 1886,
+      "title": "Railway station opens",
+      "detail": "The government railway, now the Tōkaidō Main Line, opens its station at Nagoya on 1 May 1886.",
+      "source": "https://ja.wikipedia.org/wiki/名古屋市",
+      "confidence": "documented"
+    },
+    {
+      "year": 1889,
+      "title": "City of Nagoya incorporated",
+      "detail": "Nagoya becomes a city on 1 October 1889, covering 13.44 square kilometres around today's Naka and Higashi wards with about 157,000 people.",
+      "source": "https://ja.wikipedia.org/wiki/名古屋市",
+      "confidence": "documented"
+    },
+    {
+      "year": 1891,
+      "title": "Nōbi earthquake",
+      "detail": "The Mino-Owari earthquake of 28 October 1891 causes heavy damage in the city and to Nagoya Castle.",
+      "source": "https://ja.wikipedia.org/wiki/名古屋市 ; https://en.wikipedia.org/wiki/Nagoya_Castle",
+      "confidence": "documented"
+    },
+    {
+      "year": 1898,
+      "title": "Electric trams begin running",
+      "detail": "Street tramway service starts on 6 May 1898. The network lasts until 1974.",
+      "source": "https://ja.wikipedia.org/wiki/名古屋市",
+      "confidence": "documented"
+    },
+    {
+      "year": 1921,
+      "title": "Merger quadruples the city's area",
+      "detail": "Surrounding towns and villages are merged into Nagoya in 1921. The city grows from 38.9 square kilometres at the 1920 census to 149.95 at the 1925 census, when it becomes Japan's third-largest city.",
+      "source": "https://ja.wikipedia.org/wiki/名古屋市 ; https://ja.wikipedia.org/wiki/都道府県庁所在地と政令指定都市の人口順位",
+      "confidence": "documented"
+    },
+    {
+      "year": 1935,
+      "title": "Population passes one million",
+      "detail": "The census of 1 October 1935 counts 1,082,816 residents, the first above one million. Aircraft and machinery works make Nagoya a leading industrial city.",
+      "source": "https://ja.wikipedia.org/wiki/名古屋市 ; https://en.wikipedia.org/wiki/Nagoya#History",
+      "confidence": "documented"
+    },
+    {
+      "year": 1945,
+      "title": "Air raids burn the city and the castle",
+      "detail": "Firebombing from March 1945 burns almost a quarter of the city, and Nagoya Castle's keep is destroyed on 14 May. The population falls from 1.33 million in 1940 to under 600,000.",
+      "source": "https://en.wikipedia.org/wiki/Nagoya#History ; https://ja.wikipedia.org/wiki/名古屋市",
+      "confidence": "documented"
+    },
+    {
+      "year": 1957,
+      "title": "Subway opens",
+      "detail": "The first section of the Nagoya Municipal Subway, now the Higashiyama Line, opens between Nagoya Station and Sakaemachi on 15 November 1957.",
+      "source": "https://ja.wikipedia.org/wiki/名古屋市",
+      "confidence": "documented"
+    },
+    {
+      "year": 1959,
+      "title": "Ise Bay Typhoon; castle keep rebuilt",
+      "detail": "Typhoon Vera strikes on 26 September 1959 and its storm surge floods the southern part of the city. In the same year the castle keep is rebuilt in concrete.",
+      "source": "https://ja.wikipedia.org/wiki/名古屋市 ; https://en.wikipedia.org/wiki/Typhoon_Vera",
+      "confidence": "documented"
+    },
+    {
+      "year": 1964,
+      "title": "Tōkaidō Shinkansen reaches Nagoya",
+      "detail": "The high-speed line between Tokyo and Osaka opens on 1 October 1964 with a station at Nagoya.",
+      "source": "https://ja.wikipedia.org/wiki/名古屋市",
+      "confidence": "documented"
+    },
+    {
+      "year": 2005,
+      "title": "Expo 2005",
+      "detail": "The World Expo is held from 25 March to 25 September 2005 in Nagakute and Seto, just east of the city.",
+      "source": "https://en.wikipedia.org/wiki/Nagoya",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Nagoya Castle main keep (original)",
+      "year": 1612,
+      "height_m": 55.6,
+      "lat": 35.1856,
+      "lon": 136.8986,
+      "kind": "fort",
+      "demolished_year": 1945,
+      "source": "https://ja.wikipedia.org/wiki/名古屋城 (stone base 19.5 m plus building 36.1 m, 55.6 m in total); completed December 1612 and burned in the air raid of 14 May 1945 per https://en.wikipedia.org/wiki/Nagoya_Castle",
+      "confidence": "documented"
+    },
+    {
+      "name": "Nagoya TV Tower (Chubu Electric Mirai Tower)",
+      "year": 1954,
+      "height_m": 180,
+      "lat": 35.1724,
+      "lon": 136.9083,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Chubu_Electric_Power_Mirai_Tower (completed 1954, the oldest TV tower in Japan; 180 metres high)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Nagoya Castle main keep (reconstruction)",
+      "year": 1959,
+      "height_m": 55.6,
+      "lat": 35.1856,
+      "lon": 136.8986,
+      "kind": "fort",
+      "source": "https://ja.wikipedia.org/wiki/名古屋城 (rebuilt 1959 in steel-reinforced concrete as an exterior reproduction of the keep, whose height is given as 55.6 m including the 19.5 m stone base)",
+      "confidence": "estimated"
+    },
+    {
+      "name": "Higashiyama Sky Tower",
+      "year": 1989,
+      "height_m": 134,
+      "lat": 35.1568,
+      "lon": 136.9785,
+      "kind": "tower",
+      "source": "https://en.wikipedia.org/wiki/Higashiyama_Sky_Tower (completed 11 July 1989; architectural height 134 m; cites https://www.japantowers.jp/en/higashiyama_sky_tower/)",
+      "confidence": "documented"
+    },
+    {
+      "name": "JR Central Office Tower",
+      "year": 2000,
+      "height_m": 245,
+      "lat": 35.1711,
+      "lon": 136.8826,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/nagoya (JR Central Office Tower, building id 930)",
+      "confidence": "documented"
+    },
+    {
+      "name": "JR Central Hotel Tower",
+      "year": 2000,
+      "height_m": 226,
+      "lat": 35.1703,
+      "lon": 136.8829,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/nagoya (JR Central Hotel Tower, building id 1163)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Midland Square",
+      "year": 2007,
+      "height_m": 247,
+      "lat": 35.1706,
+      "lon": 136.8851,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/nagoya (Midland Square, building id 906)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Nagoya Lucent Tower",
+      "year": 2007,
+      "height_m": 180,
+      "lat": 35.1749,
+      "lon": 136.8813,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/nagoya (Nagoya Lucent Tower, building id 2330)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Mode Gakuen Spiral Towers",
+      "year": 2008,
+      "height_m": 170,
+      "lat": 35.1681,
+      "lon": 136.8857,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/nagoya (Mode Gakuen Spiral Towers, building id 2761)",
+      "confidence": "documented"
+    },
+    {
+      "name": "JP Tower Nagoya",
+      "year": 2015,
+      "height_m": 195.74,
+      "lat": 35.1731,
+      "lon": 136.8824,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/nagoya (JP Tower, building id 18533)",
+      "confidence": "documented"
+    },
+    {
+      "name": "Dai Nagoya Building",
+      "year": 2015,
+      "height_m": 174.7,
+      "lat": 35.1721,
+      "lon": 136.8846,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/nagoya (Dai Nagoya Building, building id 26613)",
+      "confidence": "documented"
+    },
+    {
+      "name": "JR Gate Tower",
+      "year": 2016,
+      "height_m": 211.1,
+      "lat": 35.1724,
+      "lon": 136.8827,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/nagoya (JR Gate Tower, building id 15221)",
+      "confidence": "documented"
+    },
+    {
+      "name": "The Landmark Nagoya Sakae",
+      "year": 2026,
+      "height_m": 211.7,
+      "lat": 35.1694,
+      "lon": 136.9073,
+      "kind": "skyscraper",
+      "source": "CTBUH Skyscraper Center, https://www.skyscrapercenter.com/city/nagoya (The Landmark Nagoya Sakae, building id 47035; listed as completed 2026)",
+      "confidence": "documented"
+    }
+  ],
+  "footprint_epochs": "footprints/nagoya/",
+  "notes": "Start date: 1610 is when construction of Nagoya Castle and its planned town began; the city counts its founding from that year, and the town was populated by moving Kiyosu wholesale in 1612-16. Two older things stood on the ground of today's city and are not treated as its founding: an earlier small castle at Nagoya (built by the Imagawa in 1521-28, held by the Oda, abandoned about 1582), and Atsuta Shrine, a separate shrine and Tōkaidō post town to the south whose traditional founding around AD 100 is legend. Population before 1873 is thin: the only figures found are Chandler's estimates at 50-year steps (65,000 to 93,000), which may leave out the samurai households; the first government count in 1873 is a third higher than his 1850 figure, so the Edo-period points are probably low. No figure was found for 1610-1649. The 1873 and 1879 figures use differently drawn urban areas. From 1889 the figures are for the city as bounded at each date; the jump between 1920 and 1925 is the 1921 merger. Register-based counts before 1920 overstate the population, so police-survey counts were used for 1908 and 1913. The UN series from 1950 covers the whole Chūkyō urban agglomeration, several times the municipal figure, so expect a step at 1950. Landmarks: pre-modern coverage is limited to the castle keep, the only old structure with a sourced height. The height given for the 1959 concrete keep is that of the original it reproduces, marked estimated. Left out for lack of a sourced height: Atsuta Shrine, Ōsu Kannon (moved to Nagoya in 1612), Nagoya City Hall (1933), the Aichi Prefectural Office and the Nagoya Dome."
+}

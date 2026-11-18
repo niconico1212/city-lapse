@@ -1,0 +1,394 @@
+{
+  "slug": "kinshasa",
+  "name": "Kinshasa",
+  "country": "DR Congo",
+  "start_year": 1881,
+  "start_label": "Léopoldville station founded by Henry Morton Stanley beside the Teke villages of Ntamo (Kintambo) and Nshasa",
+  "start_source": "Kapagama & Waterhouse (2009), Portrait of Kinshasa: A City on (the) Edge, Crisis States Working Paper 53, p. 2, https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf",
+  "start_confidence": "documented",
+  "historic_core": {
+    "name": "Mont Ngaliema (Leopold Hill) above Ngaliema Bay, site of Stanley's 1881 station",
+    "lat": -4.328,
+    "lon": 15.2482,
+    "source": "OpenStreetMap (Nominatim search 'Mont Ngaliema Kinshasa'), https://www.openstreetmap.org/; site identification from https://en.wikipedia.org/wiki/History_of_Kinshasa"
+  },
+  "population": [
+    {
+      "year": 1909,
+      "value": 4685,
+      "confidence": "documented",
+      "source": "Banque du Congo Belge 1909-1959 (Brussels: Editions L. Cuypers, 1959), p. 79, via https://fr.wikipedia.org/wiki/Kinshasa",
+      "note": "235 Europeans and 4,450 Congolese counted at Léopoldville.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1920,
+      "value": 20000,
+      "confidence": "estimated",
+      "source": "Marc Pain (1984), Kinshasa: la ville et la cité, ORSTOM, pp. 15-20, via https://en.wikipedia.org/wiki/History_of_Kinshasa",
+      "note": "African population only, rounded.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1925,
+      "value": 24058,
+      "confidence": "documented",
+      "source": "Kapagama & Waterhouse (2009), Crisis States Working Paper 53, Table 1 (from Congo Belge, 1957), https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf",
+      "note": "Colonial administrative count: 18,676 men and 5,382 women. The source does not say whether Europeans are included.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1930,
+      "value": 32594,
+      "confidence": "documented",
+      "source": "Kapagama & Waterhouse (2009), Crisis States Working Paper 53, Table 1 (from Congo Belge, 1957), https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf",
+      "note": "Colonial administrative count. Pain (1984) gives 48,088 including 2,766 Europeans for 1929, so the two sources use different definitions.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1935,
+      "value": 21518,
+      "confidence": "documented",
+      "source": "Kapagama & Waterhouse (2009), Crisis States Working Paper 53, Table 1 (from Congo Belge, 1957), https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf",
+      "note": "Colonial administrative count. The fall from 1930 is real in the source and is linked to the Great Depression, when workers were sent back to their villages.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1940,
+      "value": 34976,
+      "confidence": "documented",
+      "source": "Kapagama & Waterhouse (2009), Crisis States Working Paper 53, Table 1 (from Congo Belge, 1957), https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf",
+      "note": "Colonial administrative count. The 1941 ordinance that gave Léopoldville city status put its population at 53,000 over 5,000 hectares.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1945,
+      "value": 70780,
+      "confidence": "documented",
+      "source": "Kapagama & Waterhouse (2009), Crisis States Working Paper 53, Table 1 (from Congo Belge, 1957), https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf",
+      "note": "Colonial administrative count: 46,858 men and 23,922 women.",
+      "definition": "historical city (area as described by the source)"
+    },
+    {
+      "year": 1950,
+      "value": 201905,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Kinshasa\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1955,
+      "value": 292398,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Kinshasa\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1960,
+      "value": 442853,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Kinshasa\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1965,
+      "value": 717018,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Kinshasa\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1970,
+      "value": 1069714,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2018), World Urbanization Prospects: The 2018 Revision, File 12: Population of Urban Agglomerations with 300,000 Inhabitants or More in 2018, by country, 1950-2035. https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+      "definition": "urban agglomeration \"Kinshasa\" (UN WUP 2018)",
+      "series": "UN-WUP-2018"
+    },
+    {
+      "year": 1975,
+      "value": 1035622,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1980,
+      "value": 1551098,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1985,
+      "value": 2247115,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1990,
+      "value": 3056017,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: High.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 1995,
+      "value": 4253749,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2000,
+      "value": 5328174,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2005,
+      "value": 5646713,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2010,
+      "value": 6279925,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2015,
+      "value": 7960568,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2020,
+      "value": 10453545,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2025,
+      "value": 10943641,
+      "confidence": "estimated",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "UN plausibility rating for this estimate: Moderate.",
+      "series": "UN-WUP-2025"
+    },
+    {
+      "year": 2026,
+      "value": 11078527,
+      "confidence": "reconstructed",
+      "source": "UN DESA Population Division (2025), World Urbanization Prospects: The 2025 Revision, File 19 (POP/DB/WUP/Rev.2025/F19). https://population.un.org/wup/assets/Download/Cities/WUP2025-F19-DEGURBA-100_Largest_Cities_in_2025_by_time.xlsx",
+      "definition": "urban extent (UN WUP 2025, Degree of Urbanisation city)",
+      "note": "Linear interpolation between the UN's 2025 estimate and 2030 projection.",
+      "series": "UN-WUP-2025"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1881,
+      "title": "Stanley founds Léopoldville station",
+      "detail": "Henry Morton Stanley set up a station on a hill above Ngaliema Bay for the International Association of the Congo and named it after King Leopold II. It stood beside existing Teke trading villages, including Ntamo and Nshasa.",
+      "source": "Kapagama & Waterhouse (2009), Crisis States Working Paper 53, p. 2, https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf",
+      "confidence": "documented"
+    },
+    {
+      "year": 1898,
+      "title": "Railway from Matadi reaches Léopoldville",
+      "detail": "The portage railway around the Livingstone Falls linked the river port to the sea port of Matadi. Goods no longer had to be carried by porters, and the settlement began to grow quickly.",
+      "source": "Kapagama & Waterhouse (2009), Crisis States Working Paper 53, p. 3, https://assets.publishing.service.gov.uk/media/57a08b46e5274a31e0000a8a/WP53.2.pdf",
+      "confidence": "documented"
+    },
+    {
+      "year": 1910,
+      "title": "Geometric town plan and first major expansion",
+      "detail": "Around 1910 Léopoldville was laid out on a geometric plan and gained new buildings such as the Banque du Congo Belge and the Hotel A.B.C.",
+      "source": "Marc Pain (1984), Kinshasa: la ville et la cité, ORSTOM, pp. 15-20, via https://en.wikipedia.org/wiki/History_of_Kinshasa",
+      "confidence": "estimated"
+    },
+    {
+      "year": 1923,
+      "title": "Named capital of the Belgian Congo",
+      "detail": "A royal decree of 1 July 1923 moved the colonial capital from Boma to Léopoldville. The new administrative quarter of Kalina (now Gombe) was built between Léopoldville-West and Kinshasa.",
+      "source": "Valérie Piette (2011), 'La Belgique au Congo ou la volonté d'imposer sa ville? L'exemple de Léopoldville', via https://en.wikipedia.org/wiki/Kinshasa",
+      "confidence": "documented"
+    },
+    {
+      "year": 1929,
+      "title": "Government completes its move from Boma",
+      "detail": "The transfer of the capital was finalised on 31 October 1929, and all the governor-general's services were installed in Kalina by the first half of 1930.",
+      "source": "Valérie Piette (2011), 'La Belgique au Congo ou la volonté d'imposer sa ville? L'exemple de Léopoldville', via https://en.wikipedia.org/wiki/Kinshasa",
+      "confidence": "documented"
+    },
+    {
+      "year": 1933,
+      "title": "'Neutral zone' separates European and African quarters",
+      "detail": "The Léopoldville Urban Committee set up a buffer strip between the European town and the African cité. It was meant to be 800 metres wide but was laid out at 250 to 300 metres.",
+      "source": "https://en.wikipedia.org/wiki/Kinshasa",
+      "confidence": "documented"
+    },
+    {
+      "year": 1941,
+      "title": "Léopoldville gains city status",
+      "detail": "Legislative Ordinance 293/AIMO of 25 June 1941 made Léopoldville a city with an Urban Committee, covering 5,000 hectares and 53,000 people.",
+      "source": "https://en.wikipedia.org/wiki/Kinshasa and https://fr.wikipedia.org/wiki/Kinshasa",
+      "confidence": "documented"
+    },
+    {
+      "year": 1954,
+      "title": "Lovanium University opens",
+      "detail": "The colony's first university opened in 1954, while new housing estates at Lemba, Matete and N'djili were built for workers of the Limete industrial zone.",
+      "source": "https://en.wikipedia.org/wiki/Kinshasa",
+      "confidence": "documented"
+    },
+    {
+      "year": 1959,
+      "title": "Léopoldville riots",
+      "detail": "Anti-colonial riots led by the ABAKO party broke out in Léopoldville in 1959. Independence followed the next year.",
+      "source": "BBC News, 'Democratic Republic of Congo Profile: Timeline', https://www.bbc.co.uk/news/world-africa-13286306, via https://en.wikipedia.org/wiki/Timeline_of_Kinshasa",
+      "confidence": "documented"
+    },
+    {
+      "year": 1960,
+      "title": "Capital of the independent Congo",
+      "detail": "The Republic of the Congo became independent on 30 June 1960 with Léopoldville as its capital.",
+      "source": "https://en.wikipedia.org/wiki/Kinshasa",
+      "confidence": "documented"
+    },
+    {
+      "year": 1966,
+      "title": "Léopoldville renamed Kinshasa",
+      "detail": "The Mobutu government announced on 2 May 1966 that major cities would take African names from 30 June. The capital took the name of the old village of Kinshasa.",
+      "source": "Didier Gondola (2002), The History of Congo, 'Timeline of Historical Events', via https://en.wikipedia.org/wiki/Kinshasa",
+      "confidence": "documented"
+    },
+    {
+      "year": 1979,
+      "title": "Palais du Peuple inaugurated",
+      "detail": "The Chinese-built parliament building, 225 m long and 135 m wide, was begun in 1975 and inaugurated by Mobutu on 19 May 1979.",
+      "source": "https://fr.wikipedia.org/wiki/Palais_du_Peuple_(Kinshasa)",
+      "confidence": "documented"
+    },
+    {
+      "year": 1991,
+      "title": "Looting by unpaid soldiers",
+      "detail": "In September 1991 unpaid soldiers rioted and looted in the city. It was the low point of a long decline in which foreign businesses left and roads and services decayed.",
+      "source": "New York Times, 24 September 1991, https://www.nytimes.com/1991/09/24/world/thousands-of-troops-on-rampage-of-looting-and-violence-in-zaire.html, via https://en.wikipedia.org/wiki/Timeline_of_Kinshasa",
+      "confidence": "documented"
+    },
+    {
+      "year": 1994,
+      "title": "Stade des Martyrs opens",
+      "detail": "The 80,000-seat national stadium, built with Chinese aid from 1988 and first called Stade Kamanyola, opened on 14 September 1994.",
+      "source": "https://en.wikipedia.org/wiki/Martyrs_Stadium",
+      "confidence": "documented"
+    },
+    {
+      "year": 1997,
+      "title": "Kabila's forces take the capital",
+      "detail": "In May 1997, at the end of the First Congo War, Laurent-Désiré Kabila's rebel forces took control of Kinshasa after Mobutu fled into exile.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Kinshasa",
+      "confidence": "documented"
+    },
+    {
+      "year": 2023,
+      "title": "Kinshasa Financial Center inaugurated",
+      "detail": "The Turkish-built complex of ministry towers in Gombe, begun in 2022, was inaugurated on 19 December 2023.",
+      "source": "https://en.wikipedia.org/wiki/Kinshasa_Financial_Center",
+      "confidence": "documented"
+    }
+  ],
+  "landmarks": [
+    {
+      "name": "Tour de l'Échangeur de Limete (Limete Tower)",
+      "year": 1974,
+      "height_m": 210,
+      "lat": -4.3744,
+      "lon": 15.3454,
+      "kind": "tower",
+      "source": "African State Architecture project, SOAS University of London, https://africanstatearchitecture.co.uk/post/echangeur; dates from https://kinocongo.com/en/blog/tourisme/l-echangeur-de-limete-21",
+      "confidence": "estimated",
+      "note": "Sources give 210 m. The four concrete columns were raised between 1970 and 1974, when work stopped; the planned upper levels were never finished, so the height is not a surveyed figure."
+    },
+    {
+      "name": "RTNC Congo Building (Cité de la Voix du Peuple)",
+      "year": 1975,
+      "height_m": 103,
+      "lat": -4.3297,
+      "lon": 15.2986,
+      "kind": "skyscraper",
+      "source": "https://www.skyscrapercenter.com/building/rtnc-congo-building/9659",
+      "confidence": "documented",
+      "note": "CTBUH gives 103 m and 22 floors. Wikipedia's infobox gives a roof height of 259 ft (79 m). Coordinates from OpenStreetMap."
+    },
+    {
+      "name": "Kinshasa Financial Center, Ministry of Finance tower",
+      "year": 2023,
+      "height_m": 107,
+      "lat": -4.3092,
+      "lon": 15.2803,
+      "kind": "skyscraper",
+      "source": "https://zoom-eco.net/a-la-une/rdc-felix-tshisekedi-inspecte-les-travaux-de-construction-du-centre-financier-de-kinshasa/",
+      "confidence": "documented",
+      "note": "20 floors. Height as announced during construction; CTBUH does not list the building. Coordinates are for the complex."
+    },
+    {
+      "name": "Kinshasa Financial Center, Ministry of Budget tower",
+      "year": 2023,
+      "height_m": 90,
+      "lat": -4.3094,
+      "lon": 15.2806,
+      "kind": "skyscraper",
+      "source": "https://zoom-eco.net/a-la-une/rdc-felix-tshisekedi-inspecte-les-travaux-de-construction-du-centre-financier-de-kinshasa/",
+      "confidence": "documented",
+      "note": "16 floors. Height as announced during construction. Coordinates are approximate, within the complex."
+    },
+    {
+      "name": "Kinshasa Financial Center, Finance Centre building",
+      "year": 2023,
+      "height_m": 78,
+      "lat": -4.309,
+      "lon": 15.28,
+      "kind": "skyscraper",
+      "source": "https://zoom-eco.net/a-la-une/rdc-felix-tshisekedi-inspecte-les-travaux-de-construction-du-centre-financier-de-kinshasa/",
+      "confidence": "documented",
+      "note": "16 floors. Height as announced during construction. Coordinates are approximate, within the complex."
+    }
+  ],
+  "footprint_epochs": "footprints/kinshasa/",
+  "notes": "Start date: 1881 is the founding of Stanley's Léopoldville station and is the date local historians use. The site was not empty: the Teke (Tio) trading villages of Ntamo (Kintambo) and Nshasa stood on the Pool before 1881 (Vansina 1973), and an unsourced Wikipedia passage gives Nshasa about 5,000 and Ntamo under 3,000 people; Trapido (2016) says the pre-colonial 'proto-city' may have held up to 30,000. None of these is a count, so no point is given for 1881 and the series starts in 1909. Population before 1950 is thin and uneven: seven points, all colonial administrative counts or rounded estimates. Kapagama & Waterhouse state that nobody knows the population before 1908. The 1925-1945 figures come from one table (Congo Belge, 1957) which does not say whether Europeans are included; Pain (1984) gives 48,088 for 1929 and the 1941 city-status ordinance gives 53,000, both well above the table, so definitions clearly differ. The drop in 1935 is in the source and is not smoothed. Capital transfer is dated 1923 (decree) and 1929 (move completed); some sources give 1926. Landmarks are very thin: only the Limete Tower, the RTNC building and the 2023 Financial Center had sourced heights, and three of the five entries are buildings of that one complex. The Limete Tower height (210 m) is widely quoted but the tower was left unfinished in 1974, so it is marked 'estimated'. Left out for lack of a sourced height: Gécamines (ex-Sozacom) building (1977), Fleuve Congo Hotel (ex-CCIC), Palais du Peuple (1979), Palais de la Nation (1960), Stade des Martyrs (1994), Stade Tata Raphaël (1952), Notre-Dame du Congo Cathedral, Sainte-Anne Cathedral, Hotel Memling (1937), Immeuble du Gouvernement (2015). CTBUH lists only the RTNC building for Kinshasa."
+}

@@ -100,3 +100,93 @@ as a separate ES module resolved from `import.meta.url`, which needs extra
 bundler handling in a Next.js static export. v5 is the last line with the
 self-contained bundle. Revisit when deck.gl's MapLibre integration documents
 v6.
+
+## Added during phases 3 to 5
+
+**D13. Three cities keep the UN's 2018 series past 1975.** For Luanda, Kuala Lumpur and Dar es
+Salaam the 2025 revision's back-cast is unusable in the early years: Luanda has no value before
+1995 and then 306,000 (the 2018 revision says 2.1 M); Kuala Lumpur's 1975 value is 26 % of the
+2018 revision's; Dar es Salaam's is 52 %, and the UN itself rates several of these "Low"
+plausibility. An urban extent cannot plausibly hold a fraction of the people of the agglomeration
+inside it. Rule, applied by script to every city: if WUP 2025 has no 1975 value, or it is below
+60 % of WUP 2018's 1975 value, WUP 2018 is kept until the first five-year step at which WUP 2025
+reaches it (Luanda 2015, Kuala Lumpur 1990, Dar es Salaam 2015). The affected points carry a note
+quoting the 2025 revision's figure. All other cities switch at 1975 as in D4.
+
+**D14. Contested start dates follow the researcher's documented choice.** The spec asks for the
+earliest documented founding or earliest known settlement. Where a traditional or archaeologically
+attested early date exists on today's city territory (Seoul 18 BCE, Beijing 1045 BCE, Delhi
+c. 300 BCE, Manila 900, Shenzhen 331), it is used and marked `estimated`, with the conventional
+later date and the reasoning in the city's notes. Legend without a datable settlement (Delhi's
+Indraprastha, Tokyo's Sensō-ji tradition) is not used.
+
+**D15. Fewer than five landmarks is allowed.** A landmark with no sourced height is left out
+rather than guessed. Hajipur ends up with none, and several African cities with five to seven.
+Cities with fewer than three landmarks or fewer than three pre-1950 population points are flagged
+`partial` in the picker and the About panel.
+
+**D16. Research agents did not use Reba, Reitsma & Seto directly from SEDAC** (it needs a login).
+Chandler and Modelski figures were taken from a public copy of the Reba dataset and from the
+secondary sources cited on each point.
+
+## Footprints and buildings (phases 4 and 5)
+
+**D17. GHSL at 100 m, by tile.** GHS-BUILT-S R2023A (epochs 1975-2025) and GHS-BUILT-H R2023A
+(ANBH, 2018) were downloaded as 100 m Mollweide tiles: 38 tiles, 456 files, all successful, so no
+resolution fallback was needed. The 2030 epoch is not used. A cell is built-up at 5 % built
+surface (500 m2).
+
+**D18. City extent = the GHS-UCDB R2024A urban centre containing the city centre.** This is the
+same object the UN ranking measures, and its area matches the UN's land area closely for almost
+every city.
+
+**D19. Guangzhou and Shenzhen share one GHSL urban centre** (43 M people, 6,454 km2), but the UN
+lists them separately. The polygon is split by weighted distance to the two centres so that each
+city's share of the area equals its share of the UN's published land areas (4,542 and 1,459 km2).
+The boundary is ours, not an administrative one.
+
+**D20. Pre-1975 reconstruction parameters.** Density is assumed to decline 1.5 % a year from 1890
+to 1975 and to be flat before 1890 (Angel et al. 2010), capped at 500 people per built-up hectare.
+Ranking is by least-cost distance from the historic core with satellite seeds; see
+`docs/DATA_LOG.md`. No historical maps were used as anchors: nothing machine-readable and dated
+exists across 50 cities, and hand-georeferencing maps was out of scope for this build. This is the
+largest single caveat in the project and the app labels the whole pre-1975 footprint
+`reconstructed`.
+
+**D21. The footprint never shrinks.** Buildings have a year built; the reconstruction has no
+notion of abandonment. Population collapses (London after 410, Tokyo 1945, Tenochtitlan 1521) are
+shown by the population counter and milestone captions only.
+
+**D22. Level of detail instead of one building per cell.** A megacity has 300-400 thousand
+built-up cells, above the 50-150k budget. Units are chosen greedily by built volume weighted
+toward the core: 400 m blocks split into 200 m blocks, then 100 m cells, then four lots per cell,
+until about 90k units. Every unit's footprint area equals the GHSL built surface it stands for.
+
+**D23. Landmark shapes are schematic** (two or three nested boxes by kind). Height, position and
+year are the sourced values. Generic buildings on a landmark's site are cleared in its year.
+
+**D24. Building file format.** `public/data/<slug>.bin`: header `CLB1`, uint32 count, then
+struct-of-arrays columns x, y (int16, local metres / xy_scale), y0, y1 (int16 years; 32767 = still
+standing), h (uint16, decimetres), w, d (uint8, x 2 m), rot (uint8, 180/256 degrees), flags
+(uint8, bit 0 = landmark), g (uint8, ground patch side x 2 m). About 1.3 MB per city.
+
+## App (phase 6)
+
+**D25. The timeline is warped.** Each era gets a fixed share of screen time (before 1800: 5-12 s,
+1800-1900: 9 s, 1900-1950: 9 s, 1950-1975: 8 s, 1975-2026: 16 s at 1x), with the long pre-1800
+stretch compressed toward its start. The scrubber uses the same warp and labels real years.
+
+**D26. Auto camera.** It follows the spreading footprint until 1975 (never pulling back beyond a
+14 km radius), then eases in on the tallest part of the city so the skyline's rise is visible.
+Any gesture hands the camera to the viewer; a button resumes it.
+
+**D27. True vertical scale by default, with an optional 2x / 4x exaggeration** in the legend,
+labelled as such. At metropolitan scale real building heights are a few pixels; the toggle is a
+display aid and changes no data.
+
+**D28. Colour encodes the era a building was put up in** (warm = old, cool = recent); landmarks
+are gold. New construction glows briefly while playing.
+
+**D29. Present-day geography on the base map.** OpenStreetMap coastlines, rivers and main roads
+are shown for every year, faintly. Land reclamation and river engineering are therefore
+anachronistic for early years; the About panel says so.
